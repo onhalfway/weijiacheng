@@ -1,4 +1,3 @@
 # 魏佳程
 
-- Repository for Wei Jiacheng.
-- 初一18班
+- Repository for 初一18班.
