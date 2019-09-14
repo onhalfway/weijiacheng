@@ -9,6 +9,7 @@ nav:
     - 英语: toc/english
 #theme: readthedocs
 # C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\
+# mkdocs build --help
 # mkdocs build --clean
 # mkdocs gh-deploy --clean -v
 #repo_url: https://github.com/onhalfway/weijiacheng
