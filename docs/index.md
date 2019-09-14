@@ -1,19 +1,27 @@
-# Welcome to MkDocs
+# 前言
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+欢迎访问魏佳程分享站点！
 
-欢迎访问魏佳程分享站点！[weijiacheng]()
+我希望能够将口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。避免多人孤军奋战的重复劳动。
 
-## Commands
+我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+# 许可
 
-## Project layout
+版权归属于其各自的作者。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+资料仅供参考，请自己判断其适用性。
+
+# 贡献
+
+欢迎贡献！
+
+欢迎贡献！
+
+欢迎贡献！
+
+——因为很重要所以说了三遍
+
+# 联系方式
+
+18班：Jeff Wei

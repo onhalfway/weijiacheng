@@ -1,10 +1,6 @@
-# 索引
-
-- [索引](#%e7%b4%a2%e5%bc%95)
-  - [二十四节气](#%e4%ba%8c%e5%8d%81%e5%9b%9b%e8%8a%82%e6%b0%94)
-  - [Twenty-four solar terms](#twenty-four-solar-terms)
+# 二十四节气
   
-## 二十四节气
+## 关于二十四节气
 
 There are twenty-four **solar term**s in the **lunar calendar** that indicate the passage of the seasons and their changes.
 

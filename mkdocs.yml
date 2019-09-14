@@ -1,7 +1,14 @@
-site_name: 魏佳程分享站点
+repo_name: /weijiacheng
+#site_name: My Website
+site_name: Jeff Wei分享站点
 nav:
-#    - Home: index.md
-    - Content: toc.md
-    - About: about.md
+#    - Home: index.html
+    - 站点地图: toc
+    - 作业: toc/homework
+    - 语文: toc/chinese
+    - 英语: toc/english
 #theme: readthedocs
+# C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\
+# mkdocs build --clean
+# mkdocs gh-deploy --clean -v
 #repo_url: https://github.com/onhalfway/weijiacheng
