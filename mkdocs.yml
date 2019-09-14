@@ -1,0 +1,6 @@
+site_name: 魏佳程分享站点
+nav:
+    - Home: index.md
+    - About: about.md
+#theme: readthedocs
+#repo_url: https://github.com/onhalfway/weijiacheng
