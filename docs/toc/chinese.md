@@ -6,6 +6,6 @@
 
 ### 作文
 
-* [赔了夫人又折兵](../wjch/black-cat-police)
-* [一叶知秋](../wjch/autumn-leaf)
-* [开学第一课观后感](../wjch/the-first-class)
+* [赔了夫人又折兵](../wjch/zh/black-cat-police)
+* [一叶知秋](../wjch/zh/autumn-leaf)
+* [开学第一课观后感](../wjch/zh/the-first-class)
