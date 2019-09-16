@@ -8,9 +8,17 @@
 
 ## 语文
 
+* [语文学习方法](chinese/how-to)
+
 ### 诗词
 
+* [北宋著名文学家：苏轼](chinese/song-dynasty-shushi)
+* [北宋著名词人：柳永](chinese/song-dynasty-liuyong)
 * [秋天的诗句](chinese/autumn-poem)
+
+### 语文日积月累
+
+* [四字词语](chinese/zh-words)
 
 ### 我的作文
 
@@ -24,7 +32,8 @@
 
 * [二十四节气 Twenty-four Solar Terms](english\twenty-four-solar-term)
 
-### 我的日积月累
+### 英语日积月累
 
+* [EIM- English In Mind](wjch/en/eim)
 * [皇帝的新装 The Emperor’s New Clothes](wjch\en\New-Clothes)
 * [丑小鸭 The Ugly Duckling](wjch/en/the-ugly-duckling)

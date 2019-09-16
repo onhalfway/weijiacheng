@@ -4,7 +4,8 @@
 
 * [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
 
-### 我的日积月累
+### 英语日积月累
 
+* [EIM- English In Mind](../wjch/en/eim)
 * [皇帝的新装 The Emperor’s New Clothes](../wjch/en/New-Clothes)
 * [丑小鸭 The Ugly Duckling](../wjch/en/the-ugly-duckling)

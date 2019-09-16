@@ -1,5 +1,7 @@
 # 丑小鸭 The Ugly Duckling
 
+**翻译：京师刘律师 annaliuchina@139.com**
+
 In a sunny spot in the country stood an old mansion surrounded by a deep moat. Great dock leaves grew from the walls of the house right down to the water’s edge; some of them were so tall that a small child could stand upright under them. In amongst the leaves it was as secluded as in the depths of a forest; and there a duck was sitting on here nest. Her little ducklings were just about to be hatched, but she was nearly tired of sitting; it had lasted such a long time. Moreover, she had very few visitors, as the other ducks liked swimming about in the moat better than waddling up to sit under the dock leaves and gossip with her.
 
 乡间是非常美丽的，太阳光正照着一幢老式的宅第，它周围流着一条很深的壕沟（或小溪）。从墙角那儿一直到水里，全盖满了牛蒡的大叶子。最大的叶子长得非常高，小孩子甚至可以直着腰站在下面。像在最浓密的森林里一样，这儿也是很荒凉的。这儿有一只母鸭坐在窠里，她得把她的几只小鸭仔都孵出来了。不过这时她已经几乎要累坏了。很少有客人来看她，因为别的鸭子都愿意在溪流里游来游去，而不愿意跑到牛蒡下面来和她聊天。
