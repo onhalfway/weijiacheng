@@ -6,6 +6,7 @@
 
 ### 英语日积月累
 
+* [Surfing the Internet](../wjch/en/resource)
 * [EIM- English In Mind](../wjch/en/eim)
 * [皇帝的新装 The Emperor’s New Clothes](../wjch/en/New-Clothes)
 * [丑小鸭 The Ugly Duckling](../wjch/en/the-ugly-duckling)

@@ -1,12 +1,12 @@
 # 站点地图
 
-## 作业
+## [作业](homework)
 
 * [2019-09-13 中秋节](homework/20190913)
 
-## 数学
+## [数学](math)
 
-## 语文
+## [语文](chinese)
 
 * [语文学习方法](chinese/how-to)
 
@@ -19,6 +19,7 @@
 ### 语文日积月累
 
 * [四字词语](chinese/zh-words)
+* [人物描写](chinese/describe-people)
 
 ### 我的作文
 
@@ -26,7 +27,7 @@
 * [一叶知秋](wjch/zh/autumn-leaf)
 * [开学第一课观后感](wjch/zh/the-first-class)
 
-## 英语
+## [英语](english)
 
 ### 英语共享资源
 
@@ -34,6 +35,21 @@
 
 ### 英语日积月累
 
+* [Surfing the Internet](wjch/en/resource)
 * [EIM- English In Mind](wjch/en/eim)
 * [皇帝的新装 The Emperor’s New Clothes](wjch\en\New-Clothes)
 * [丑小鸭 The Ugly Duckling](wjch/en/the-ugly-duckling)
+
+## [编程](programming)
+
+### Java Language Programming
+
+### HTML
+
+### JavaScript
+
+### CSS
+
+### Python Script Language
+
+## [收藏夹](favorites)

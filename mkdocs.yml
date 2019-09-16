@@ -7,6 +7,8 @@ nav:
     - 作业: toc/homework
     - 语文: toc/chinese
     - 英语: toc/english
+    - 编程: toc/programming
+    - 收藏: toc/favorites
 #theme: readthedocs
 # C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\
 # mkdocs build --help

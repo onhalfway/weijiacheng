@@ -136,17 +136,29 @@ And then he turned around in front of the mirror just one more time, so it shoul
 
 于是他又在镜子面前把身子转动了一下，因为他要使大家觉得他在认真地观看他的美丽的新装。
 
-The gentlemen-in-waiting, who were to carry the train, fumbled down on the floor with their hands just as if they were picking up the train. They walked and held their arms high in the air. They dared not let it appear as if they couldn't see a thing.
+The gentlemen-in-waiting, who were to carry the train, **fumbled** (摸索) down on the floor with their hands just as if they were **picking up** the train. They walked and held their arms high in the air. They **dared** (敢于) not let it **appear** (出现、显得) as if they couldn't see a thing.
 
-And then the emperor walked in the procession under the beautiful canopy. And all the people in the street and at the windows said, "Heavens, how wonderful the emperor's new clothes are! What a lovely train he has on the robe! What a marvelous fit!" No one wanted it to appear that he couldn't see anything, for then of course he would have been unfit for his position or very stupid. None of the emperor's clothes has ever been such a success.
+那些托后裙的内臣都把手在地上东摸西摸，好像他们正在拾起衣裙似的。他们开步走，手中托着空气。他们不敢让人瞧出他们实在什么东西也没看见。
+
+And then the emperor walked in the procession under the beautiful canopy. And all the people in the street and at the windows said, "Heavens, how wonderful the emperor's new clothes are! What a lovely train he has on the robe! What a **marvelous** (/'mɑrvələs/adj. 了不起的；非凡的；令人惊异的；不平常的) fit!" No one wanted it to appear that he couldn't see anything, **for then of course** he would have been unfit for his position or very stupid. None of the emperor's clothes has ever been such a success.
+
+这样，皇帝就在那个富丽的华盖下游行起来了。站在街上和窗子里的人都说：“乖乖!皇上的新装真是漂亮!他上衣下面的后裙是多么美丽!这件衣服真合他的身材!”谁也不愿意让人知道自己什么也看不见，因为这样就会显出自己不称职，或是太愚蠢。皇帝所有的衣服从来没有获得过这样的称赞。
 
 "But he doesn't have anything on!" said a little child.
 
-"Heavens, listen to the innocent's voice!" said the father, and then the child's words were whispered from one to another.
+“可是他什么衣服也没穿呀!”一个小孩子最后叫了出来。
+
+"Heavens, listen to the **innocent**'s (n.天真的人；adj.无知的) voice!" said the father, and then the child's words were **whispered** (v.窃窃私语、低声地说) from one to another.
+
+“上帝哟，你听这个天真的声音!”爸爸说。于是大家把这孩子讲的话私下里低声地传播开来。
 
 "He doesn't have anything on! That's what a little child is saying - he doesn't have anything on!"
 
-"He doesn't have anything on!" the whole populace shouted at last. And the emperor shuddered, for it seemed to him that they were right. But then he thought, "Now I must go through with the procession." And he carried himself more proudly than ever, and the gentlemen-in-waiting carried the train that wasn't there at all.
+“他并没穿什么衣服!有一个小孩子说他并没穿什么衣服呀!”
+
+"He doesn't have anything on!" the whole **populace** (大众、平民) shouted **at last**. And the emperor **shuddered** (战栗、发抖), for it seemed to him that they were right. But then he thought, "Now I must **go through** with the procession." And he carried himself **more proudly than ever**, and the gentlemen-in-waiting carried the train that wasn't there **at all** (<否定句>根本).
+
+“他实在没穿什么衣服呀!”最后所有的百姓都说。皇帝有点儿发抖，因为他觉得百姓们所讲的话似乎是真的。不过他心里却这样想：“我必须把这游行大典举行完毕。”因此他摆出一副更骄傲的神气。他的内臣们跟在他后面走，手中托着一条并不存在的后裙。
 
 ## Version 2 English
 
