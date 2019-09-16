@@ -7,4 +7,4 @@
 ### 我的日积月累
 
 * [皇帝的新装 The Emperor’s New Clothes](../wjch/en/New-Clothes)
-* [丑小鸭 The Ugly Duckling](../en/wjch/the-ugly-duckling)
+* [丑小鸭 The Ugly Duckling](../wjch/en/the-ugly-duckling)
