@@ -1,7 +1,6 @@
 # 前言
 
-[欢迎访问Jeff Wei分享站点！](https://onhalfway.github.io/weijiacheng) https://onhalfway.github.io/weijiacheng
-
+[欢迎访问Jeff Wei分享站点！](https://onhalfway.github.io/weijiacheng)
 
 我希望能够将口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。避免多人孤军奋战的重复劳动。
 
@@ -27,4 +26,4 @@
 
 微信公众号：小魏娜妈团队
 
-![微信公众号：小魏娜妈团队](/weijiacheng/img/wechat-qr-code.jpg)
+!["小魏娜妈团队"微信公众号二维码](/weijiacheng/img/wechat-qr-code.jpg)
