@@ -4,7 +4,7 @@ site_name: Jeff Wei分享站点
 nav:
 #    - Home: index.html
     - 站点地图: toc
-    - 作业: toc/homework
+    - 首页: toc/home
     - 语文: toc/chinese
     - 英语: toc/english
     - 编程: toc/programming

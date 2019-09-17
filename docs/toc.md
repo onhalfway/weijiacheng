@@ -1,10 +1,18 @@
 # 站点地图
 
-## [作业](homework)
+---
 
+## [首页](home)
+
+* [信息](home#_2)
+* [课程表](home#2019)
 * [2019-09-13 中秋节](homework/20190913)
 
+---
+
 ## [数学](math)
+
+---
 
 ## [语文](chinese)
 
@@ -27,6 +35,8 @@
 * [一叶知秋](wjch/zh/autumn-leaf)
 * [开学第一课观后感](wjch/zh/the-first-class)
 
+---
+
 ## [英语](english)
 
 ### 英语共享资源
@@ -40,6 +50,8 @@
 * [皇帝的新装 The Emperor’s New Clothes](wjch\en\New-Clothes)
 * [丑小鸭 The Ugly Duckling](wjch/en/the-ugly-duckling)
 
+---
+
 ## [编程](programming)
 
 ### Java Language Programming
@@ -51,5 +63,7 @@
 ### CSS
 
 ### Python Script Language
+
+---
 
 ## [收藏夹](favorites)
