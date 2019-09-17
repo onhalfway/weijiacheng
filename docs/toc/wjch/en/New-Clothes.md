@@ -2,7 +2,15 @@
 
 **皇帝的新装，是丹麦著名童话作家安徒生(Hans Christian Andersen)的代表作之一。这个有趣的童话为我们描绘了这样一个故事：一位奢侈的国王每天只顾着穿衣服，不管其他任何事，后竟然还受骗，什么都没穿去游行！没有人去揭穿谎言，甚至还夸耀，后一个孩子天真的一句话才结束了这场闹剧。**
 
-## Version 1 from copy
+翻译：小魏娜妈
+
+## 声明
+
+**本文出于协助孩子学习童话丑小鸭，整理翻译成中文，仅供孩子们学习讨论用，不得用于其它商业用途，转载请注明出处，微信公众号：小魏娜妈团队。**
+
+![微信公众号：小魏娜妈团队](/weijiacheng/img/wechat-qr-code.jpg)
+
+## 正文
 
 Many years ago there lived an emperor who **was so exceedingly 极度地 fond of** (喜欢) beautiful new clothes that he spent all his money just on **dressing up 打扮**. He **paid no attention to** (不关心) his soldiers, **nor** (也不) did he care about plays or taking drives in the woods **except for** (要不是由于，除非) the sole purpose of **showing off** (炫耀) his new clothes. He had a **robe** (/rəʊb/礼袍) for every hour of the day, and just as it is said of a king that he is "**in council**" (/'kaʊns(ə)l; -sɪl/n. 会议；理事会), 就像有人说国王“在开会”, so they always said here:"The emperor is in the **clothes closet** (橱柜 / locker room 更衣室!)"
 
