@@ -4,11 +4,19 @@
 
 翻译：小魏娜妈
 
+---
+
 ## 声明
 
 **本文出于协助孩子学习童话丑小鸭，整理翻译成中文，仅供孩子们学习讨论用，不得用于其它商业用途，转载请注明出处，微信公众号：小魏娜妈团队。**
 
 ![微信公众号：小魏娜妈团队](/weijiacheng/img/wechat-qr-code.jpg)
+
+---
+
+## Plot line 情节线索
+
+---
 
 ## 正文
 
@@ -168,6 +176,8 @@ And then the emperor walked in the procession under the beautiful canopy. And al
 
 “他实在没穿什么衣服呀!”最后所有的百姓都说。皇帝有点儿发抖，因为他觉得百姓们所讲的话似乎是真的。不过他心里却这样想：“我必须把这游行大典举行完毕。”因此他摆出一副更骄傲的神气。他的内臣们跟在他后面走，手中托着一条并不存在的后裙。
 
+---
+
 ## Version 2 English
 
 Many years ago, there was an emperor to wear pretty, do not hesitate to put all the money. He did not care about his army, nor did he like to go to the theatre, and he did not like to go to the park by coach, unless it was to show off his new clothes. He has to change his clothes every hour of the day. People mentioned him, always said: "the emperor in the locker room. "
@@ -194,6 +204,8 @@ The emperor wanted to see it in person. He selected a group of special delineati
 "You do not see this cloth is gorgeous?" the two honest officials said, "Your Majesty please see: what a beautiful pattern! How beautiful the color!" they pointed to the overhead loom, they believe that others will see the cloth.
 "What is this?" thought the emperor, "what I didn't see! This frightful to the ear. Am I a fool? Do I not be qualified to be an emperor? This is the most terrible thing." "Oh, how beautiful!" said the emperor, "I am satisfied with twelve!"
 So he nodded his head and said he was satisfied. He looked at the loom carefully, and he didn't want to say anything. Follow him all his attendants also looked and looked, but they didn't see more than others
+
+---
 
 ## Version 2 Chinese
 
@@ -268,6 +280,8 @@ So he nodded his head and said he was satisfied. He looked at the loom carefully
 “他并没穿什么衣服!有一个小孩子说他并没穿什么衣服呀!”
 
 “他实在没穿什么衣服呀!”最后所有的百姓都说。皇帝有点儿发抖，因为他觉得百姓们所讲的话似乎是真的。不过他心里却这样想：“我必须把这游行大典举行完毕。”因此他摆出一副更骄傲的神气。他的内臣们跟在他后面走，手中托着一条并不存在的后裙。
+
+---
 
 ## Version 3 from Internet
 
