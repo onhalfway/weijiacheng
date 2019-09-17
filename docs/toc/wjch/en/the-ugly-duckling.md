@@ -1,5 +1,7 @@
 # 丑小鸭 The Ugly Duckling
 
+> **Don't judge somebody sheerly by its appearance!**
+
 作者：丹麦童话作家安徒生
 
 翻译：小魏娜妈
