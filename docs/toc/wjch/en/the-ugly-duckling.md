@@ -1,6 +1,18 @@
 # 丑小鸭 The Ugly Duckling
 
-**翻译：京师刘律师 annaliuchina@139.com**
+作者：安徒生
+
+翻译：小魏娜妈
+
+## 声明
+
+**本文小编出于自我兴趣爱好将丹麦安徒生童话丑小鸭整理翻译成中文仅供孩子们免费学习讨论用，不得用于其它商业用途，转载请注明出处微信公众号：小魏娜妈团队。**
+
+![微信公众号：小魏娜妈团队](/weijiacheng/img/wechat-qr-code.jpg)
+
+## 正文
+
+![The Ugly Duckling](/weijiacheng/img/ugly-duckling.jpg)
 
 In a sunny spot in the country stood an old mansion surrounded by a deep moat. Great dock leaves grew from the walls of the house right down to the water’s edge; some of them were so tall that a small child could stand upright under them. In amongst the leaves it was as secluded as in the depths of a forest; and there a duck was sitting on here nest. Her little ducklings were just about to be hatched, but she was nearly tired of sitting; it had lasted such a long time. Moreover, she had very few visitors, as the other ducks liked swimming about in the moat better than waddling up to sit under the dock leaves and gossip with her.
 
@@ -288,3 +300,110 @@ He felt quite shy, and hid his head under his wing; he did not know what to thin
 - 外表的美与丑只是人生很小的一部分。
 - 我觉得虽然这篇文章的丑小鸭没有信心，但它还是很坚强的，它知道自己长的很丑，它知道朋友们不喜欢它，但是它没有想：“既然我自己长的那样的丑，既然朋友们都不喜欢我，我活在这个世界上还有什么用啊!”要是我是文章中的丑小鸭，那些小鸭子、小狗、小猫再嘲笑我，我会对它们说“：虽然我长的难看，但是我心底善良，坚强，总会有人喜欢我的。”
 - 我们要向文章中的丑小鸭学习，不管别人说什么，你都要坚强，不要轻言放弃，我们也要懂得一个道理“一个人的美丑不在外表，美丽的真谛在于拥有一颗纯洁的心灵。
+
+## 词汇详解
+
+PS：Part of new glossary as follows:
+
+1. mansion宅第；公馆；英[ˈmænʃn]
+2. surrounded环绕；surround的过去分词和过去式；英[səˈraʊndɪd]
+3. moat 壕沟；护城河；英[məʊt]
+4. dock leaves 牛蒡叶
+5. stand upright 直着腰站着，站直
+6. amongst在……之中；英[əˈmʌŋst]
+7. secluded荒凉的；僻静的;隐居的；英[sɪˈkluːdɪd]
+8. hatched孵出，hatch的过去分词和过去式，英[hætʃt]
+9. waddling(鸭子似地)蹒跚行走，英[ˈwɒdlɪŋ]
+10. gossip八卦；闲聊；英[ˈɡɒsɪp]
+11. crack. 破裂；裂开；英[kræk]
+12. chicks雏鸟;(尤指)雏鸡，小鸡;少女;英[tʃɪks]
+13. poking out伸出来
+14. Quack拟声词，(鸭子的)呱呱声，嘎嘎声；英[kwæk]
+15. to be sure 确定
+16. certainly确定地，肯定的；英[ˈsɜːtnli]
+17. egg shell.蛋壳
+18. stretche拉长;拽宽;撑大;英[stretʃ]
+19. parson教区牧师；英[ˈpɑːsn]
+20. suppose猜想；推断；料想；英[səˈpəʊz]
+21. declare宣称；表明；声称；英[dɪˈkleə(r)]
+22. settled不大可能变动的;稳定的;舒适自在的;解决；英[ˈsetld]
+23. pay sb a visit.拜访某人
+24. rascal坏蛋，坏东西；英[ˈrɑːskl]
+25. turkey吐绶鸡;火鸡;火鸡肉;英[ˈtɜːki]
+26. creatures生物；动物；creature的复数；英[ˈkriːtʃəz]
+27. the Midsummer Fair仲夏集市
+28. Cheep拟声词，唧唧叫;吱吱叫；英[tʃiːp]
+29. tumbled out跌倒，摔倒，滚落，翻滚下来或向外面爬。
+30. monstrous骇人的;巨大的;丑陋的；英[ˈmɒnstrəs]
+31. gloriously fine非常好
+32. shone，shine 的过去分词，闪耀；发光；照耀；英[ʃɒn]
+33. Splash拍打着水游；英[splæʃ]
+34. Sprang 挑起；spring的过去分词；英[spræŋ]
+35. plumped使变大;使更软;使更圆；p；lump的过去分词和过去式英[plʌmpt]
+36. dashed急奔;急驰;猛冲；dash的过去分词和过去式；英[dæʃt]
+37. came up 游上来
+38. floated浮动;漂流；float的过去分词和过去式；英[ˈfləʊtɪd]
+39. duckyard养鸡场
+40. keep close to靠近；紧贴着
+41. tread upon 踩
+42. beware of 意识到，当心
+43. fearful可怕的;吓人的;恐惧的;英[ˈfɪəfl]
+44. uproar吵闹;喧嚣；英[ˈʌprɔː(r)]
+45. broods(一次孵或生的)一窝鸟，一窝动物；brood的第三人称单数和复数；英[bruːdz]
+46. fighting for争夺
+47. captured俘虏;俘获;捕获;capture的过去分词和过去式；英[ˈkæptʃəd]
+48. licked her bill 舔嘴
+49. eel鳝鱼；鳗;英[iːl]
+50. grandest最有声望的；壮丽的;堂皇的；grand的最高级；英[ˈgrændɪst]
+51. Spanish blood 西班牙的血统
+52. Veins静脉英[veɪnz]
+53. accounts for 占；居
+54. rag 布条；抹布;破布;英[ræɡ]
+55. wonderfully很好地;异乎寻常地;令人惊奇地；英[ˈwʌndəfəli]
+56. extraordinary不一般的;非凡的;卓越的;英[ɪk ˈstrɔːdnri]
+57. well brought up有教养的
+58. tribe部落;一类(人);(动物或植物的)群，族；英[traɪb]
+59. bit啄；咬;叮;蜇;bite的过去式；英[bɪt]
+60. Very likely not很可能；没准儿
+61. the bitter被咬过；被啄过的
+62. whacked猛打;重击;狠揍;whack的过去分词和过去式；英[wækt]
+63. thorough彻底的;完全的;深入的；英[ˈθʌrə]
+64. drake公鸭；英[dreɪk]
+65. was bitten被挨打
+66. pushed about被排挤
+67. made fun of 被讥笑
+68. spurs马刺;靴刺;spur的第三人称单数和复数；英[spɜːz]
+69. emperor皇帝；英[ˈempərə(r)]
+70. puffed使喷出，急促喘息;气喘吁吁puff的过去分词和过去式；英[pʌft]
+71. in despair 绝望
+72. butt屁股；武器或工具）较粗的一端，柄在此指笑柄，被嘲笑对象；英[bʌt]
+73. get hold of 抓住
+74. pecked啄;鹐;匆匆地轻吻；peck的过去分词和过去式；英[pekt]
+75. fed, 喂；饲养；feed的过去式；英[fed]
+76. kicked sb aside.踢开某人
+77. ran off 逃走，跑开
+78. hedge 篱笆；树篱；英[hedʒ]
+79. in a fright.惊慌地
+80. marsh沼泽地；湿地；英[mɑːʃ]
+81. miserable沮丧的；痛苦的;非常难受的;可怜的;英[ˈmɪzrəbl]
+82. flew up飞走
+83. inquired询问；查问；inquire的过去分词和过去式；英[ɪnˈkwaɪəd]
+84. greeted问好；和(某人)打招呼；迎接;greet的过去分词和过去式；英[ˈɡriːtɪd]
+85. frightfully ugly丑陋无比
+86. permission允许；准许;许可;英[pəˈmɪʃn]
+87. rushes迅速移动;急促;快速运输；rush的第三人称单数；英[ˈrʌʃɪz]
+88. marsh water沼泽水
+89. goose 鹅;它的复数形式为geese；英[ɡuːs]
+90. ganders公鹅；gander的复数；英[ˈgændəz]
+91. pert顽皮的；无礼的;冒失的;轻佻的;英[pɜːt]
+92. comrade同志，伙伴；朋友；同事；英[ˈkɒmreɪd]
+93. fancy喜欢；想要;想做；爱好；英[ˈfænsi]
+94. bird of passage候鸟；过客；英[ˌbɜːd əv ˈpæsɪdʒ]
+95. make your fortune 碰运气
+96. turned blood red. 把某某染得鲜红
+97. Bang拟声词突然的巨响;(对身体部位的)猛撞，猛敲；英[bæŋ]
+98. Peppered(在食物上)撒胡椒粉；（小物体）密集地击打，连续击打；pepper的过去分词和过去式；英[ˈpepəd]
+99. lay hidden潜伏
+100. overhung悬垂;悬挂;突出于某物之上；overhang的过去分词和过去式；英[ˌəʊvəˈhʌŋ]
+101. swept over掠过；席卷
+102. rushes and reeds灯芯草和芦苇
