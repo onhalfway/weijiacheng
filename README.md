@@ -1,6 +1,6 @@
 # 前言
 
-[欢迎访问Jeff Wei分享站点！](https://onhalfway.github.io/weijiacheng), 网址 https://onhalfway.github.io/weijiacheng
+[欢迎访问Jeff Wei分享站点！](https://onhalfway.github.io/weijiacheng) https://onhalfway.github.io/weijiacheng
 
 我希望能够将口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。避免多人孤军奋战的重复劳动。
 
