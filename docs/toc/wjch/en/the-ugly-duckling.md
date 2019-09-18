@@ -16,7 +16,7 @@
 
 ---
 
-## Plot line 情节线索
+## Plotline 主要情节
 
 * Beginning
   * Characters: the ugly duckling
