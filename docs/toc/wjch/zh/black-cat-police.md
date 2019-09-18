@@ -8,6 +8,20 @@ categories: wjch
 
 # 赔了夫人又折兵
 
+作者：小魏
+
+---
+
+## 声明
+
+**不得用于其它商业用途，转载请注明出处，微信公众号：小魏娜妈团队。**
+
+![微信公众号：小魏娜妈团队](/weijiacheng/img/wechat-qr-code.jpg)
+
+---
+
+## 正文
+
 &emsp;&emsp;夜晚，四周一片静悄悄的，月亮和星星也在空中静静地俯视着大地。
 
 &emsp;&emsp;在星空下，小村旁，有几十个大粮仓，整整齐齐的排列着，黑猫警长在值夜班，表情很严肃，好像什么都逃不过他的眼睛。
@@ -23,6 +37,3 @@ categories: wjch
 &emsp;&emsp;“完了，我的鱼呀！”灰老鼠见此也不敢声张，只好垂头丧气地走了，真是”赔了夫人又折兵呀”！
 
 ![black-cat.jpg](/weijiacheng/img/black-cat.jpg)
-
-- [《一叶知秋》](/wjch/2017/11/19/Juren-ZuoWen-autumn-leaf.html)
-- [ ] How to indent text in paragraph with style format.

@@ -16,6 +16,17 @@
 
 ## Plot line 情节线索
 
+* Beginning
+  * Characters: the **emperor**
+  * Background: The emperor was so exceedingly **fond** of beautiful new clothes.
+  * Problem: Two **charlatans** weave the "most exquisite cloth imaginable".
+* Rising actions
+  * The emperor, the old minister, official, most of the people in the city don't appear that they **couldn't** see the clothes.
+* Climax
+  * A little child said "but he doesn't have anything on!"
+* End
+  * I learned we should be honest.
+
 ---
 
 ## 正文

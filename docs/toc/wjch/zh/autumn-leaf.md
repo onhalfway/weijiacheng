@@ -8,6 +8,20 @@ categories: wjch
 
 # 一叶知秋
 
+作者：小魏
+
+---
+
+## 声明
+
+**不得用于其它商业用途，转载请注明出处，微信公众号：小魏娜妈团队。**
+
+![微信公众号：小魏娜妈团队](/weijiacheng/img/wechat-qr-code.jpg)
+
+---
+
+## 正文
+
 &emsp;&emsp;“山僧不解数甲子，一叶落知天下秋”。炎热的夏天走了，凉爽的秋天来了。知了停止了鸣叫，大地又披上了一件五彩缤纷的新外衣。
 `老师批语：引用诗句升华文章，不错`
 
@@ -22,5 +36,3 @@ categories: wjch
 
 ![leaf.jpg](/weijiacheng/img/leaf.jpg)
 
-- [《赔了夫人又折兵》](/wjch/2016/11/19/Juren-ZuoWen-peilefuren.html)
-- [ ] How to indent text in paragraph with style format.
