@@ -14,3 +14,8 @@
 * [EIM- English In Mind](../wjch/en/eim)
 * [皇帝的新装 The Emperor’s New Clothes](../wjch/en/New-Clothes)
 * [丑小鸭 The Ugly Duckling](../wjch/en/the-ugly-duckling)
+
+### Transcript and Information
+
+* [The Ugly Duckling Lesson Transcript](../english/ugly-duckling-transcript)
+* [The Ugly Duckling Information](../english/ugly-duckling-info)

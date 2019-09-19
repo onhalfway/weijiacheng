@@ -10,6 +10,12 @@
 
 * [字体转换](http://www.diyiziti.com/Builder/104)
 
+## Study
+
+* [study.com](https://study.com/)
+  * need payment
+* [bookreports.info](https://www.bookreports.info/)
+
 ## 英文新闻网站
 
 * [xyza News For Kids](https://www.xyzanews.com/)
