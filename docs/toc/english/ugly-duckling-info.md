@@ -1,4 +1,4 @@
-## [The Ugly Duckling Information](https://www.bookreports.info/the-ugly-duckling-summary/)
+# [The Ugly Duckling Information](https://www.bookreports.info/the-ugly-duckling-summary/)
 
 **Author**: Hans Christian Andersen
 
