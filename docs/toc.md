@@ -42,7 +42,7 @@
 
 ### 晨读
 
-* [晨读](english/morning-with-reading)
+* [Morning With Reading](english/morning-with-reading)
 
 ### 英语共享资源
 
@@ -59,6 +59,7 @@
 
 * [The Ugly Duckling Lesson Transcript](english/ugly-duckling-transcript)
 * [The Ugly Duckling Information](english/ugly-duckling-info)
+* [The Ugly Duckling Wikipedia](https://en.wikipedia.org/wiki/The_Ugly_Duckling)
 
 ---
 
