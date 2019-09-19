@@ -18,7 +18,7 @@ The plot is set near a house surrounded by meadow and lakes. There is a small ho
 
 ## Book Summary
 
-Finally, the beautiful summer has arrived and the reader can see the woods and the lakes inside the woods. On a sunny meadow, we have a house that can remind us of a fortress. Between the water and the walls is some burdock and in between the burdock is a duck’s nest.
+Finally, the beautiful summer has arrived and the reader can see the woods and the lakes inside the woods. On a sunny meadow, we have a house that can remind us of a fortress. Between the water and the walls is some **burdock** and in between the burdock is a duck’s nest.
 
 The goose hid her nest from curious people and she sat and sat on her eggs. It was a long and boring job but it was worth it when she heard her ducks coming out of their eggs. At the beginning, they thought that it was a huge world but soon the mother goose explained to them that the view in front of them wasn’t the whole world.
 

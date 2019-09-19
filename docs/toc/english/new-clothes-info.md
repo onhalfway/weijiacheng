@@ -2,7 +2,7 @@
 
 **Author**: Hans Christian Andersen
 
-“The Emperor’s new clothes” is a fun story about human vanity and the fear of truth, wisdom, stupidity, naivety and incompetence. It reminds us of the never-ending human desire for power, material things and good position in the society.
+“The Emperor’s new clothes” is a fun story about human **vanity** (虚荣心) and the fear of truth, wisdom, **stupidity**, **naivety** (天真) and **incompetence** (不胜任). It reminds us of the never-ending human desire for power, material things and good position in the society.
 
 The main starter in the story is the Emperor’s weakest spot and that is clothes. The other starters of the plot are the **conmen** (conman /'kɔnmæn/老千, 骗子) who wanted to take advantage of the Emperor’s weak spot to earn money. The time is not specific but, as in all fairy tales, everything happens once upon a time in a castle.
 
