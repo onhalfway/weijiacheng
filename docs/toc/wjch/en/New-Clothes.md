@@ -31,6 +31,8 @@
 
 ## 正文
 
+![Emperor_Clothes](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Emperor_Clothes_01.jpg/375px-Emperor_Clothes_01.jpg)
+
 Many years ago there lived an emperor who **was so exceedingly 极度地 fond of** (喜欢) beautiful new clothes that he spent all his money just on **dressing up 打扮**. He **paid no attention to** (不关心) his soldiers, **nor** (也不) did he care about plays or taking drives in the woods **except for** (要不是由于，除非) the sole purpose of **showing off** (炫耀) his new clothes. He had a **robe** (/rəʊb/礼袍) for every hour of the day, and just as it is said of a king that he is "**in council**" (/'kaʊns(ə)l; -sɪl/n. 会议；理事会), 就像有人说国王“在开会”, so they always said here:"The emperor is in the **clothes closet** (橱柜 / locker room 更衣室!)"
 
 许多年前，有一个皇帝，为了穿得漂亮，不惜把所有的钱都花掉。他既不关心他的军队，也不喜欢去看戏，也不喜欢乘着马车去游公园——除非是为了去炫耀一下他的新衣服。他每一天每个小时都要换一套衣服，就像有人说国王“在开会”。人们提到他，总是说：“皇上在更衣室里。”

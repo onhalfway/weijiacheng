@@ -1,4 +1,4 @@
-# [Lesson Transcript of Ugly Duckling](https://study.com/academy/lesson/the-ugly-ducking-summary-characters-author.html)
+# [Lesson Transcript of The Ugly Duckling](https://study.com/academy/lesson/the-ugly-ducking-summary-characters-author.html)
 
 'The Ugly Duckling' is one of Danish storyteller Hans Christian Andersen's most famous fairytales. With a powerful message about self-image and acceptance, the story is valued for its ability to teach children the importance of kindness to others. This lesson gives you a brief plot summary and analysis, discusses the story's major characters, and finishes with a quiz to test your knowledge.
 

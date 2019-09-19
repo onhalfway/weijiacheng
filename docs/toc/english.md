@@ -19,3 +19,7 @@
 
 * [The Ugly Duckling Lesson Transcript](../english/ugly-duckling-transcript)
 * [The Ugly Duckling Information](../english/ugly-duckling-info)
+* [The Ugly Duckling Wikipedia](https://en.wikipedia.org/wiki/The_Ugly_Duckling)
+* [The Emperor’s New Clothes Lesson Transcript](..\english\new-clothes-transcript)
+* [The Emperor’s New Clothes Information](..\english\new-clothes-info)
+* [The Emperor’s New Clothes Wikipedia](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes)
