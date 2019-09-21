@@ -77,7 +77,7 @@ Both the charlatans asked him to please step closer and asked if it didn't have 
 
 “哎，您一点意见也没有吗?”一个正在织布的骗子说。
 
-"Oh, it's nice! Quite **charming** (/'tʃɑːmɪŋ/adj. 迷人的；可爱的)!" said the old minister, and **peered** (凝视) through his **spectacles** (/'spektək(ə)lz/n.眼镜（spectacle的复数）). "This pattern and these colors! Yes, I shall tell the emperor that **it pleases me highly!**"
+"Oh, it's nice! Quite **charming** (/'tʃɑːmɪŋ/adj. 迷人的；可爱的)!" said the old minister, and **peered** (凝视) through his **spectacles** (/'spektək(ə)lz/n.眼镜（spectacle景象、场面；~s复数眼镜）). "This pattern and these colors! Yes, I shall tell the emperor that **it pleases me highly!**"
 
 “哎呀，美极了!真是美极了!”老大臣一边说，一边从他的眼镜里仔细地看，“多么美的花纹!多么美的色彩!是的，我将要呈报皇上，我对这布料非常满意。”
 

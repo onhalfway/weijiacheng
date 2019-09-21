@@ -12,8 +12,7 @@
 
 ## Study
 
-* [study.com](https://study.com/)
-  * need payment
+* [study.com](https://study.com/), need payment
 * [bookreports.info](https://www.bookreports.info/)
 * [wikipedia](https://en.wikipedia.org/)
 
@@ -58,17 +57,16 @@
 ## ML/DL/AI
 
 * [DL](https://github.com/rasbt/deeplearning-models)
-* [](https://github.com/docshome/microservices)
-* [](https://github.com/meetbill/op_practice_book)
+* [microservices](https://github.com/docshome/microservices)
+* [operation](https://github.com/meetbill/op_practice_book)
 * [DL](https://github.com/Mikoto10032/DeepLearning)
-* [](https://github.com/datawhalechina)
+* [data](https://github.com/datawhalechina)
 * [CLI](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [Python](https://github.com/TheAlgorithms/Python)
 * [linux command](https://github.com/jaywcjlove/linux-command)
 * [AI](https://github.com/apachecn/AiLearning)
-* []()
 * [IAC](https://github.com/Artemmkin/infrastructure-as-code-tutorial)
-* [](https://github.com/turkenh/ansible-interactive-tutorial)
+* [ansible](https://github.com/turkenh/ansible-interactive-tutorial)
 * [Python](https://github.com/oracle/python-cx_Oracle)
 * [Block Chain](https://github.com/HyperLedgerChain)
-* [](https://github.com/oracle/vagrant-boxes)
+* [vagrant](https://github.com/oracle/vagrant-boxes)

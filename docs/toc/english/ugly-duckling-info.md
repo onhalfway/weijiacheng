@@ -2,13 +2,17 @@
 
 **Author**: Hans Christian Andersen
 
-“The Ugly Duckling” is a story about the troubles and sufferings of a young swan that got hatched from an egg in a duck’s nest. He was marked as different and there all of his troubles started. He was humiliated in many ways and abused which ended up with him not trusting himself. He thought that he was worthless and he left the ducks.
+“The Ugly Duckling” is a story about the **troubles** and **sufferings** of a young swan that got **hatched** from an egg in a duck’s nest. He was marked as different and there all of his troubles started. He was **humiliated** in many ways and **abused** which **ended up with** him not trusting himself. He thought that he was **worthless** and he left the ducks.
 
-There is an obvious link between the people relations and this story. People don’t often look at others inner virtues because they base their opinion on somebody’s looks. Everything that is different is wrong and it is hard to function in a world where nobody understands those who are different in some way.
+There is an **obvious link** between the people relations and this story. People don’t often look at others **inner virtues** because they base their **opinion** on somebody’s looks. Everything that is different is wrong and it is hard to function in a world where nobody understands those who are different in some way.
 
-Anderson showed the rejection from others in different ways. Here he shows it off through the behavior of the ducks towards the swan.
+人们之间的关系和这个故事有着明显的联系。人们不常看别人的内在美德，因为他们的观点是以别人的外表为基础的。所有不同的东西都是错误的，在一个没有人理解那些在某种程度上不同的人的世界里，很难发挥作用。
 
-The plot is set near a house surrounded by meadow and lakes. There is a small house with a grandma, chickens and a cat living in it and there we get introduced into the duckling’s childhood. All of it last roughly a year. The story contains some autobiographical elements.
+Anderson showed the **rejection** from others in different ways. Here he shows it off through the behavior of the ducks towards the swan.
+
+安德森以不同的方式展示了别人的拒绝。在这里，他通过鸭子对天鹅的行为来展示它。
+
+The plot is set near a house **surrounded** by **meadow** and lakes. There is a small house with a grandma, chickens and a cat living in it and there we **get introduced into** the duckling’s **childhood**. All of it last **roughly** a year. The story contains some **autobiographical** elements.
 
 **Genre**: fairytale
 
@@ -18,13 +22,15 @@ The plot is set near a house surrounded by meadow and lakes. There is a small ho
 
 ## Book Summary
 
-Finally, the beautiful summer has arrived and the reader can see the woods and the lakes inside the woods. On a sunny meadow, we have a house that can remind us of a fortress. Between the water and the walls is some **burdock** and in between the burdock is a duck’s nest.
+Finally, the beautiful summer has arrived and the reader can see the woods and the lakes inside the woods. On a sunny meadow, we have a house that can remind us of a **fortress**. Between the water and the walls is some **burdock** and in between the burdock is a duck’s nest.
 
 The goose hid her nest from curious people and she sat and sat on her eggs. It was a long and boring job but it was worth it when she heard her ducks coming out of their eggs. At the beginning, they thought that it was a huge world but soon the mother goose explained to them that the view in front of them wasn’t the whole world.
 
-All of the ducks hatched but one egg stayed still and it was the biggest one. At that moment, an old goose appeared and told the mother goose that the biggest egg was a turkey egg and that she should leave it because little turkeys only cause trouble. Mothers are well known for they love and dedication so she decided to wait for the last egg to open up.
+All of the ducks **hatched** but one egg stayed still and it was the biggest one. At that moment, an old goose appeared and told the mother goose that the biggest egg was a **turkey** egg and that she should leave it because little turkeys only cause trouble. Mothers are well known for they love and **dedication** so she decided to wait for the last egg to open up.
 
-Mother goose was surprised that the duck in the egg was young but very ugly. Despite that, the duck entered the water and started swimming. That made mother goose happy because she knew that turkeys couldn’t swim. Mother goose took her ducklings to the older goose because they had to bow down to her to get their highest honor which is a red patch tied around the leg. It was a sign that the ducks did not want to lose their new member and it made them stand out between the animals and the plants.
+Mother goose was surprised that the duck in the egg was young but very ugly. Despite that, the duck entered the water and started swimming. That made mother goose happy because she knew that turkeys couldn’t swim. Mother goose took her ducklings to the older goose because they had to **bow down** to her to get their highest honor which is a red patch tied around the leg. It was a sign that the ducks did not want to lose their new member and it made them stand out between the animals and the plants.
+
+鹅妈妈很惊讶，蛋里的鸭子很年轻，但是很丑。尽管如此，鸭子还是下水开始游泳。鹅妈妈很高兴，因为她知道火鸡不会游泳。鹅妈妈带着她的小鸭子们去找老鹅，因为它们必须向她鞠躬，以获得它们的最高荣誉——腿上系着一块红色的补丁。这是一个迹象，鸭子不想失去他们的新成员，这使他们站在动物和植物之间。
 
 While the little ducklings were approaching the old goose many of them started to complain about the ugly duckling. One duck even bit him but the mother goose protected him. Soon other started to pick on him and not only the ducks but also the chickens and the turkeys. The duckling did not have it easy and as the days passed by it got harder. They even started calling him a freak.
 

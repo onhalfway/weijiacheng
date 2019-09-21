@@ -24,6 +24,7 @@
 * [北宋著名文学家：苏轼](chinese/song-dynasty-shushi)
 * [北宋著名词人：柳永](chinese/song-dynasty-liuyong)
 * [秋天的诗句](chinese/autumn-poem)
+* [四季赞歌系列【一】](chinese/four-seasons)
 
 ### 语文日积月累
 
