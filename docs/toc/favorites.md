@@ -28,7 +28,7 @@
 
 * [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
 * [哈工大计算机课程](https://github.com/wxwmd/HIT-Computer-Courses)
-* [Bilibili 公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)
+* [Bilibili公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)
 * [贵校课程资料民间整理](https://lib-pku.github.io/)
 * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
 * [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
@@ -41,6 +41,7 @@
 * [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
 * [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
 * [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
+* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
 ## Learn to Code
 
@@ -52,6 +53,7 @@
 * [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 * [project-based-learning](https://github.com/tuvtran/project-based-learning)
 * [hello-world](https://github.com/leachim6/hello-world)
+* [bash](https://github.com/dylanaraps/pure-bash-bible)
 
 ## ML/DL/AI
 
@@ -70,4 +72,3 @@
 * [Python](https://github.com/oracle/python-cx_Oracle)
 * [Block Chain](https://github.com/HyperLedgerChain)
 * [](https://github.com/oracle/vagrant-boxes)
-
