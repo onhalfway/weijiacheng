@@ -28,13 +28,17 @@ The goose hid her nest from curious people and she sat and sat on her eggs. It w
 
 All of the ducks **hatched** but one egg stayed still and it was the biggest one. At that moment, an old goose appeared and told the mother goose that the biggest egg was a **turkey** egg and that she should leave it because little turkeys only cause trouble. Mothers are well known for they love and **dedication** so she decided to wait for the last egg to open up.
 
-Mother goose was surprised that the duck in the egg was young but very ugly. Despite that, the duck entered the water and started swimming. That made mother goose happy because she knew that turkeys couldn’t swim. Mother goose took her ducklings to the older goose because they had to **bow down** to her to get their highest honor which is a red patch tied around the leg. It was a sign that the ducks did not want to lose their new member and it made them stand out between the animals and the plants.
+Mother goose was surprised that the duck in the egg was young but very ugly. Despite that, the duck entered the water and started swimming. That made mother goose happy because she knew that turkeys couldn’t swim. Mother goose took her ducklings to the older goose because they had to **bow down** to her to get their highest honor which is a red patch tied around the leg. It was a sign that the ducks did not want to lose their new member and it made them **stand out** (突出；站出来) between the animals and the plants.
 
 鹅妈妈很惊讶，蛋里的鸭子很年轻，但是很丑。尽管如此，鸭子还是下水开始游泳。鹅妈妈很高兴，因为她知道火鸡不会游泳。鹅妈妈带着她的小鸭子们去找老鹅，因为它们必须向她鞠躬，以获得它们的最高荣誉——腿上系着一块红色的补丁。这是一个迹象，鸭子不想失去他们的新成员，这使他们站在动物和植物之间。
 
-While the little ducklings were approaching the old goose many of them started to complain about the ugly duckling. One duck even bit him but the mother goose protected him. Soon other started to pick on him and not only the ducks but also the chickens and the turkeys. The duckling did not have it easy and as the days passed by it got harder. They even started calling him a freak.
+While the little ducklings were **approaching** () the old goose many of them started to **complain about** the ugly duckling. One duck even bit him but the mother goose protected him. Soon other started to **pick on** him and **not only** the ducks **but also** the chickens and the turkeys. The duckling did not have it easy and as the days passed by it got harder. They even started calling him a **freak** (怪人).
 
-The ugly duckling finally stepped up and decided to run away from the humiliation and the sufferings. Soon he realized that loneliness wasn’t easy either. He got hungry, thirsty and soon he confronted some hunters and their dogs. He spent some time at an old ladies house but they were also expecting for the duck eggs to hatch so he was called unnecessary there. That made him run away again.
+当小鸭子们走近老鹅时，他们中的许多人开始抱怨丑小鸭。一只鸭子甚至咬了它，但是母鹅保护着它。不久，其他人开始欺负他，不仅是鸭子，还有鸡和火鸡。小鸭过得并不容易，日子一天天过去，他的日子过得越来越艰难。他们甚至开始叫他怪胎。
+
+The ugly duckling finally **stepped up** and decided to **run away** from the **humiliation** (丢脸，耻辱；蒙羞；谦卑) and the sufferings. Soon he realized that loneliness wasn’t easy either. He got hungry, thirsty and soon he confronted some hunters and their dogs. He spent some time at an old ladies house but they were also expecting for the duck eggs to hatch so he was called unnecessary there. That made him run away again.
+
+丑小鸭终于站了起来，决定逃离羞辱和痛苦。
 
 A year passed by and the duckling turned into a wonderful swan. He was the most beautiful between the swans. He finally experienced happiness after all those troubles.
 

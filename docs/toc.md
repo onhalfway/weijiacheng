@@ -19,6 +19,10 @@
 
 * [语文学习方法](chinese/how-to)
 
+### 史记
+
+#### [天干地支 chinese-era](chinese/chinese-era)
+
 ### 诗词
 
 * [北宋著名文学家：苏轼](chinese/song-dynasty-shushi)
