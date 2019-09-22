@@ -29,6 +29,7 @@
 * [北宋著名词人：柳永](chinese/song-dynasty-liuyong)
 * [秋天的诗句](chinese/autumn-poem)
 * [四季赞歌系列【一】](chinese/four-seasons)
+* [爱国诗歌](chinese/patriotic-program)
 
 ### 语文日积月累
 

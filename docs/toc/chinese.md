@@ -8,6 +8,7 @@
 * [北宋著名词人：柳永](song-dynasty-liuyong)
 * [秋天的诗句](autumn-poem)
 * [四季赞歌系列【一】](four-seasons)
+* [爱国诗歌](patriotic-program)
 
 ## 史记
 
