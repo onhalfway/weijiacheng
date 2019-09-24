@@ -46,6 +46,8 @@
 
 ## [英语](english)
 
+### [Word List](english/word-list)
+
 ### 晨读
 
 * [Morning With Reading](english/morning-with-reading)

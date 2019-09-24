@@ -10,8 +10,14 @@
 
 * [字体转换](http://www.diyiziti.com/Builder/104)
 
+## 文史
+
+* [初中历史](https://www.toutiao.com/i6739708954483360267)
+* [经常读错的汉字](https://www.toutiao.com/a6740144777309717000)
+
 ## Study
 
+* [Headway Student's Site](https://elt.oup.com/student/headway/?cc=cn&selLanguage=zh)
 * [study.com](https://study.com/), need payment
 * [bookreports.info](https://www.bookreports.info/)
 * [wikipedia](https://en.wikipedia.org/)
