@@ -65,6 +65,11 @@
 * [fun and practical web development tutorials](https://scotch.io/)
 * [Intro to Node.js - Real Time Web with Node.js](http://campus.codeschool.com/courses/real-time-web-with-node-js/level/1/video/1)
 * [codeschool](https://www.pluralsight.com/codeschool)
+* [topsites](http://www.topsitestagslist.com/site/w3schools.com/)
+* [w3schools](https://www.w3schools.com/)
+* [w3school](https://www.w3school.com.cn)
+* [w3cschool](https://www.w3cschool.cn/)
+* [菜鸟教程](https://www.runoob.com/w3cnote/java-swing-demo-intro.html)
 * [互联网 Java](https://github.com/doocs/advanced-java)
 * [JavaScript snippets](https://github.com/30-seconds/30-seconds-of-code)
 * [freeCodeCamp](https://www.freeCodeCamp.org)
@@ -74,6 +79,8 @@
 * [project-based-learning](https://github.com/tuvtran/project-based-learning)
 * [hello-world](https://github.com/leachim6/hello-world)
 * [bash](https://github.com/dylanaraps/pure-bash-bible)
+* [architect-awesome](https://github.com/xingshaocheng)
+* [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
 
 ## ML/DL/AI
 
