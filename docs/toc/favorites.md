@@ -8,17 +8,27 @@
 
 ## 工具
 
+* [百度短网址](http://dwz.cn/)
 * [字体转换](http://www.diyiziti.com/Builder/104)
+* [Free Online Picture Resizer](http://picresize.com/)
+* [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
+* [Free Icon Font - Pixel-Perfect Line Vector Icons](https://mobiriseicons.com/free-icons/?utm_source=font-awesome&utm_medium=buysellads&utm_campaign=footer-sponsorship_220x65_fixed)
+* [Get Started with Font Awesome](http://fontawesome.io/get-started/)
+* [Fresco Logic](https://support.frescologic.com/portal/home)
 
 ## 文史
 
 * [初中历史](https://www.toutiao.com/i6739708954483360267)
 * [经常读错的汉字](https://www.toutiao.com/a6740144777309717000)
 
+## How to & FAQ
+
+* [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
+
 ## Study
 
 * [Headway Student's Site](https://elt.oup.com/student/headway/?cc=cn&selLanguage=zh)
-* [study.com](https://study.com/), need payment
+* [study.com](https://study.com/) *--paid*
 * [bookreports.info](https://www.bookreports.info/)
 * [wikipedia](https://en.wikipedia.org/)
 
@@ -50,6 +60,11 @@
 
 ## Learn to Code
 
+* [MIT Scratch](https://scratch.mit.edu/)
+* [Anybody can learn | Code.org](https://code.org/)
+* [fun and practical web development tutorials](https://scotch.io/)
+* [Intro to Node.js - Real Time Web with Node.js](http://campus.codeschool.com/courses/real-time-web-with-node-js/level/1/video/1)
+* [codeschool](https://www.pluralsight.com/codeschool)
 * [互联网 Java](https://github.com/doocs/advanced-java)
 * [JavaScript snippets](https://github.com/30-seconds/30-seconds-of-code)
 * [freeCodeCamp](https://www.freeCodeCamp.org)
