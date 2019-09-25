@@ -150,3 +150,9 @@
 10. Notting Hill 诺丁山(伦教西区一个很时尚的地方，以狂欢，著称)
 11. Covent Garden 考文特花园(伦敦中心区的广场，周围遍布商店和餐馆)
 12. National Gallery 国家美术馆
+
+## terms
+
+1. eavesdropping 窃听   <-> encryption transmission 加密传输
+2. tampering 篡改       <-> verification mechanism 校验机制
+3. pretending 冒充      <-> identity certificate 身份证书

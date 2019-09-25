@@ -8,6 +8,17 @@
 
 ## 工具
 
+* [mind map](https://www.mindmeister.com/)
+* [Cmder | Console Emulator on Windows](https://cmder.net/)
+  * [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
+* [Unix-like environment](https://www.cygwin.com/)
+* [SciTE editor](https://www.scintilla.org/SciTE.html)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [IDE - Eclipse](https://www.eclipse.org/)
+* [IDE - IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [MobaXterm](https://mobaxterm.mobatek.net/)
+* [calibre ebook reader](https://calibre-ebook.com/download_portable)
 * [百度短网址](http://dwz.cn/)
 * [字体转换](http://www.diyiziti.com/Builder/104)
 * [Free Online Picture Resizer](http://picresize.com/)
@@ -15,11 +26,47 @@
 * [Free Icon Font - Pixel-Perfect Line Vector Icons](https://mobiriseicons.com/free-icons/?utm_source=font-awesome&utm_medium=buysellads&utm_campaign=footer-sponsorship_220x65_fixed)
 * [Get Started with Font Awesome](http://fontawesome.io/get-started/)
 * [Fresco Logic](https://support.frescologic.com/portal/home)
+* [An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
+* [websites](https://www.toutiao.com/a6739667228154675726)
+  * [网易见外](https://jianwai.netease.com/index/3)
+  * [多吉搜索](https://www.dogedoge.com/)
+  * [云端超级应用空间](https://uzer.me/)
+  * [原版软件信息收录站点](https://msdn.itellyou.cn/)
+  * [FireFox Send](https://send.firefox.com/)
+  * [设计师搜图导航](https://www.91sotu.com/)
+  * [Chrome浏览器&插件](http://chromecj.com/)
+  * [SVG素材资源](https://undraw.co/illustrations)
+  * [YASAI-设计工具,星射线的在线图片设计工具](https://wangyasai.github.io/designtools.html)
+  * [在线视频剪辑](https://beecut.cn/online-video-editor)
+  * [稿定PS](https://ps.gaoding.com/#/?hmsr=zc-cc)
+  * [在线免费思维导图](https://gitmind.cn/)
+  * [轻闪PDF](https://lightpdf.cn/)
+  * [图表生成器](https://chartify.io)
+  * [在线制作PPT](https://www.beautiful.ai/)
+  * [无损智能放大图片](https://bigjpg.com/)
+  * [U钙网-在线免费制作logo](http://www.uugai.com/)
+  * [程序员工具箱](https://www.toolfk.com/)
+  * [字由fonts](http://www.hellofont.cn/)
+  * [全国电视直播](http://bddn.cn/zb.htm)
+  * [仿知网-免费论文下载](https://www.cn-ki.net/)
+  * [电影猫](http://www.mvcat.com/)
+  * [视频鱼](http://www.shipinyu.cn/)
+  * [优质视频资源](https://mixkit.co/)
+  * [咪咕音乐](http://music.migu.cn/v3)
+  * [国外版慕课-世界名校的网络公开课](https://www.coursera.org/browse)
+  * [电子书搜索](https://www.zqbook.top/)
+  * [天空之城-航拍和摄影](https://www.skypixel.com/)
+  * [PPT模板](https://www.pptstore.net/)
+* [中国大学MOOC(慕课)_](https://www.icourse163.org/)
+* [爱慕课](http://www.imoocs.org)
+* [慕课网](https://www.imooc.com/)
 
 ## 文史
 
-* [初中历史](https://www.toutiao.com/i6739708954483360267)
 * [经常读错的汉字](https://www.toutiao.com/a6740144777309717000)
+* [笔顺](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6739726881119011331&app_name=news_article)
+* [天干地支 chinese-era](chinese-era)
+* [初中历史](https://www.toutiao.com/i6739708954483360267)
 
 ## How to & FAQ
 
@@ -75,12 +122,16 @@
 * [freeCodeCamp](https://www.freeCodeCamp.org)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+* [Python](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
+* [Python](https://github.com/microsoft/c9-python-getting-started)
 * [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 * [project-based-learning](https://github.com/tuvtran/project-based-learning)
 * [hello-world](https://github.com/leachim6/hello-world)
 * [bash](https://github.com/dylanaraps/pure-bash-bible)
 * [architect-awesome](https://github.com/xingshaocheng)
 * [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
 ## ML/DL/AI
 
@@ -98,3 +149,23 @@
 * [Python](https://github.com/oracle/python-cx_Oracle)
 * [Block Chain](https://github.com/HyperLedgerChain)
 * [vagrant](https://github.com/oracle/vagrant-boxes)
+
+## SCM
+
+* [Git for windows](https://gitforwindows.org/)
+* [Github repository.](https://github.com/)
+* [Github Developer](https://developer.github.com/)
+* [Github Desktop](https://desktop.github.com/)
+* [Github Pages](https://pages.github.com/)
+* [Github Blog](https://blog.github.com/)
+* [Github Community](https://github.community/)
+* [Github Status](https://status.github.com/)
+* [Github Resources](https://resources.github.com/)
+* [Github Atom](https://atom.io/)
+* [Github Training](https://services.github.com/)
+* [Github Learning Lab](https://lab.github.com/)
+* [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
+
+## Security
+
+* [通信安全](https://www.toutiao.com/i6739784763801862659/)

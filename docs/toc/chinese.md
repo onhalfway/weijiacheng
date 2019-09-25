@@ -10,10 +10,12 @@
 * [四季赞歌系列【一】](four-seasons)
 * [爱国诗歌](patriotic-program)
 
-## 史记
+## 文记
 
-* [天干地支 chinese-era](chinese-era)
 * [经常读错的汉字](https://www.toutiao.com/a6740144777309717000)
+* [笔顺](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6739726881119011331&app_name=news_article)
+* [天干地支 chinese-era](chinese-era)
+* [初中历史](https://www.toutiao.com/i6739708954483360267)
 
 ## 语文日积月累
 
