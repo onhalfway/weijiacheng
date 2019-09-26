@@ -14,7 +14,7 @@
 * [Unix-like environment](https://www.cygwin.com/)
 * [SciTE editor](https://www.scintilla.org/SciTE.html)
 * [Sublime Text](https://www.sublimetext.com/)
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio (VS) Code](https://code.visualstudio.com/)
 * [IDE - Eclipse](https://www.eclipse.org/)
 * [IDE - IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [MobaXterm](https://mobaxterm.mobatek.net/)
@@ -154,6 +154,8 @@
 
 * [Git for windows](https://gitforwindows.org/)
 * [Github repository.](https://github.com/)
+* [Github Gist](https://gist.github.com)
+  * [Github Gist for VS Code](https://gist.github.com/onhalfway/8cdb261b6b93bf232db97f749aed1eca)
 * [Github Developer](https://developer.github.com/)
 * [Github Desktop](https://desktop.github.com/)
 * [Github Pages](https://pages.github.com/)
@@ -169,3 +171,15 @@
 ## Security
 
 * [通信安全](https://www.toutiao.com/i6739784763801862659/)
+
+## Olympic Competition
+
+* [NOI - National Olympiad in Informatics in Provinces](http://www.noi.cn/)
+* [IOI官方网站 - International Olympiad in Informatics](https://ioinformatics.org/)
+* [中国计算机学会官网](http://www.ccf.org.cn/)
+* [NOIP贴吧](https://tieba.baidu.com/f?kw=noip)
+* [北大在线测评](http://www.poj.org/)
+* [OpenJudge开放的在线程序评测平台](http://openjudge.cn/)
+* [北京大学在线评测系统](http://poj.openjudge.cn/)
+* [奥赛网](http://www.chinaaosai.com)
+* [奥梦编程](https://all-dream.com/)
