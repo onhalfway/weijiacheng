@@ -9,8 +9,12 @@
 ## 工具
 
 * [mind map](https://www.mindmeister.com/)
+* [mind map](https://gitmind.cn/)
+* [markdown-stack edit](https://stackedit.io/app#)
+* [downloader](https://www.freedownloadmanager.org/)
+* [downloader](https://www.internetdownloadmanager.com/)
 * [Cmder | Console Emulator on Windows](https://cmder.net/)
-  * [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
+* [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 * [Unix-like environment](https://www.cygwin.com/)
 * [SciTE editor](https://www.scintilla.org/SciTE.html)
 * [Sublime Text](https://www.sublimetext.com/)
