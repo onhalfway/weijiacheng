@@ -183,3 +183,7 @@
 * [北京大学在线评测系统](http://poj.openjudge.cn/)
 * [奥赛网](http://www.chinaaosai.com)
 * [奥梦编程](https://all-dream.com/)
+
+## Social Practice
+
+* [北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)

@@ -40,3 +40,35 @@ The year is planned around spring, so the first term begins with spring.
 | 冬至 | the Winter Solstice      | (22th solar term)Dec.21,22 or 23 |
 | 小寒 | Lesser Cold              | (23th solar term)Jan.5,6 or 7    |
 | 大寒 | Greater Cold             | (24th solar term)Jan.20 or 2     |
+
+## 节日 Festival
+
+### [中国传统节日](https://baike.so.com/doc/1694490-1791685.html)
+
+| 节日名称       | English Name         | 节日时间         |
+| -------------- | -------------------- | ---------------- |
+| 春节           | Spring Festival      | 正月初一         |
+| 元宵节(上元节) | Lantern Festival     | 正月十五         |
+| 土地诞(龙抬头) |                      | 二月初二         |
+| 上巳节         |                      | 三月初三         |
+| 寒食节         |                      | 清明节前一天     |
+| 清明节         | Tomb-Sweeping Day    | 阳历4月5日前后   |
+| 端午节         | Dragon Boat Festival | 五月初五         |
+| 七夕节         |                      | 七月初七         |
+| 七月半(中元节) | Gost Festival        | 七月十四/十五    |
+| 中秋节         | Mid-Autumn Festival  | 八月十五         |
+| 重阳节         |                      | 九月初九         |
+| 寒衣节         |                      | 十月初一         |
+| 下元节         |                      | 十月十五         |
+| 冬至节         |                      | 阳历12月22日前后 |
+| 腊八节         |                      | 腊月初八         |
+| 祭灶节         |                      | 腊月廿三或廿四   |
+| 岁除(除夕)     |                      | 腊月廿九或三十   |
+
+### 其他节日
+
+| 节日名称 | English Name   | 节日时间                   |
+| -------- | -------------- | -------------------------- |
+| 元旦     | New Year's Day | 1月1日 1st January         |
+| 劳动节   | Labor Day      | 5月1日 1st May             |
+| 国庆节   | National Day   | 10月1日 1st to 3rd October |
