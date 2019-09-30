@@ -351,7 +351,7 @@ PS：Part of new glossary as follows:
 15. to be sure 确定
 16. certainly确定地，肯定的；英[ˈsɜːtnli]
 17. egg shell.蛋壳
-18. stretche拉长;拽宽;撑大;英[stretʃ]
+18. stretch拉长;拽宽;撑大;英[stretʃ]
 19. parson教区牧师；英[ˈpɑːsn]
 20. suppose猜想；推断；料想；英[səˈpəʊz]
 21. declare宣称；表明；声称；英[dɪˈkleə(r)]

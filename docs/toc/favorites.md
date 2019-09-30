@@ -153,9 +153,10 @@
 ## SCM
 
 * [Git for windows](https://gitforwindows.org/)
+* [Git Bash](https://git-scm.com/) See http://git-scm.com/ for further details about Git including ports to other operating systems. Git for Windows is hosted at https://gitforwindows.org/.
 * [Github repository.](https://github.com/)
 * [Github Gist](https://gist.github.com)
-  * [Github Gist for VS Code](https://gist.github.com/onhalfway/8cdb261b6b93bf232db97f749aed1eca)
+* [Github Gist for VS Code](https://gist.github.com/onhalfway/8cdb261b6b93bf232db97f749aed1eca)
 * [Github Developer](https://developer.github.com/)
 * [Github Desktop](https://desktop.github.com/)
 * [Github Pages](https://pages.github.com/)
