@@ -13,12 +13,15 @@
 * [markdown-stack edit](https://stackedit.io/app#)
 * [downloader](https://www.freedownloadmanager.org/)
 * [downloader](https://www.internetdownloadmanager.com/)
+* [downloader](https://www.bittorrent.com)
+* [downloader](https://www.bitcomet.com)
 * [Cmder | Console Emulator on Windows](https://cmder.net/)
 * [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 * [Unix-like environment](https://www.cygwin.com/)
-* [SciTE editor](https://www.scintilla.org/SciTE.html)
-* [Sublime Text](https://www.sublimetext.com/)
-* [Visual Studio (VS) Code](https://code.visualstudio.com/)
+* [Editor - SciTE](https://www.scintilla.org/SciTE.html)
+* [Editor - Sublime Text](https://www.sublimetext.com/)
+* [IDE - Github Atom](https://atom.io/)
+* [IDE - Visual Studio (VS) Code](https://code.visualstudio.com/)
 * [IDE - Eclipse](https://www.eclipse.org/)
 * [IDE - IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [MobaXterm](https://mobaxterm.mobatek.net/)
@@ -92,6 +95,9 @@
 
 ## School
 
+* [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+* [w3schools原版国内镜像 - W3Schools Online Web Tutorials](https://www.quanzhanketang.com/)
+* [w3school 在线教程](https://www.w3school.com.cn/)
 * [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
 * [哈工大计算机课程](https://github.com/wxwmd/HIT-Computer-Courses)
 * [Bilibili公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)
@@ -140,7 +146,7 @@
 ## ML/DL/AI
 
 * [DL](https://github.com/rasbt/deeplearning-models)
-* [microservices](https://github.com/docshome/microservices)
+* [Microservices](https://github.com/docshome/microservices)
 * [operation](https://github.com/meetbill/op_practice_book)
 * [DL](https://github.com/Mikoto10032/DeepLearning)
 * [data](https://github.com/datawhalechina)
@@ -149,7 +155,7 @@
 * [linux command](https://github.com/jaywcjlove/linux-command)
 * [AI](https://github.com/apachecn/AiLearning)
 * [IAC](https://github.com/Artemmkin/infrastructure-as-code-tutorial)
-* [ansible](https://github.com/turkenh/ansible-interactive-tutorial)
+* [Ansible](https://github.com/turkenh/ansible-interactive-tutorial)
 * [Python](https://github.com/oracle/python-cx_Oracle)
 * [Block Chain](https://github.com/HyperLedgerChain)
 * [vagrant](https://github.com/oracle/vagrant-boxes)

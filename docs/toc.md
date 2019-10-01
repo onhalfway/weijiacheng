@@ -60,8 +60,10 @@
 
 * [Surfing the Internet](wjch/en/resource)
 * [EIM- English In Mind](wjch/en/eim)
-* [皇帝的新装 The Emperor’s New Clothes](wjch\en\New-Clothes)
-* [丑小鸭 The Ugly Duckling](wjch/en/the-ugly-duckling)
+* [Andersen's Fairy Tales](wjch/en/Andersen/Contents)
+* [皇帝的新装 The Emperor’s New Clothes](wjch\en\Andersen\The-New-Clothes)
+* [丑小鸭 The Ugly Duckling](wjch/en/Andersen/The-Ugly-Duckling)
+* [The Teapot 茶壶](wjch/en/Andersen/The-Teapot)
 
 ### Transcript and Information
 
