@@ -1,5 +1,6 @@
 # The Teapot
 
+- [ ] TODO: translation checking
 - teapot /ˈtiːpɑːt/ n. 茶壶
 - pot n. 壶；盆；罐
 
