@@ -30,7 +30,12 @@
 4，“我和国旗合个影”活动→开学交数码照片→按班级年级大屏展示（场景自选有意义的地点或景点）
 5.（选做）五分钟内国庆主题微视频制作→见家长信附件（初三未涉及）
 
-- [向国旗敬礼，为祖国庆生（附寄语通道）](https://mp.weixin.qq.com/s?__biz=MzA3MDEzOTkzNw==&mid=2653475235&idx=1&sn=823b5366265593c86fb6eedcb748b9f7&chksm=851d18edb26a91fb1b3b73dbb23b7d49b532d469f98e2c128b1f2176f927a83234197fbddce0&mpshare=1&scene=1&srcid=&sharer_sharetime=1569811030910&sharer_shareid=e3452fe4a2aa9057acf716c221f92496&key=b2048e1e8c8a90c02cdf4da30dbf3e0ac98cf2387996dba931c51afa6d83021f77225b37b14011707dfcf30f24551178a8059432edf7c7cdf006ae822bad7aa7dea7e3a02d412279b2c4d0051eef1a98&ascene=1&uin=MTA2MzQyMzc4Mg%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=BdtyNEKSuWT0EpwXUCBVRjegHquI0ucbVu4fG%2B%2BswtjajrGW1AgJ7sZsrSjU27wn)
+* [向国旗敬礼，为祖国庆生（附寄语通道）](https://mp.weixin.qq.com/s?__biz=MzA3MDEzOTkzNw==&mid=2653475235&idx=1&sn=823b5366265593c86fb6eedcb748b9f7&chksm=851d18edb26a91fb1b3b73dbb23b7d49b532d469f98e2c128b1f2176f927a83234197fbddce0&mpshare=1&scene=1&srcid=&sharer_sharetime=1569811030910&sharer_shareid=e3452fe4a2aa9057acf716c221f92496&key=b2048e1e8c8a90c02cdf4da30dbf3e0ac98cf2387996dba931c51afa6d83021f77225b37b14011707dfcf30f24551178a8059432edf7c7cdf006ae822bad7aa7dea7e3a02d412279b2c4d0051eef1a98&ascene=1&uin=MTA2MzQyMzc4Mg%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=BdtyNEKSuWT0EpwXUCBVRjegHquI0ucbVu4fG%2B%2BswtjajrGW1AgJ7sZsrSjU27wn)
+
+* 各位家长，国庆节快乐。转发德育处通知，补充一项学生作业：
+在祖国生日当天，我校参与了现场活动，请每名同学在聆听习总书记讲话、观看阅兵仪式后及游行后（没看全的有重播，其中有我校很多镜头），写一段感想，表达对祖国的真挚感情，文字可长可短，附在观看930烈士纪念日观后感后。会安排期中后统一上传平台。
+谢谢！免回
+普天同庆！节日快乐！
 
 ## 2019/9/13 – 2019/09/14 中秋作业
 

@@ -6,7 +6,7 @@
 
 * [信息](home#_2)
 * [课程表](home#2019)
-* [作业](home/20190913)
+* [作业](home/homework)
 * [网上家长学校](home/parents)
 
 ---
