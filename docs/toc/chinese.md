@@ -2,6 +2,10 @@
 
 * [语文学习方法](how-to)
 
+## 笔记
+
+* [贴纸](notes-sticker)
+
 ## 诗词
 
 * [北宋著名文学家：苏轼](song-dynasty-shushi)
@@ -10,7 +14,7 @@
 * [四季赞歌系列【一】](four-seasons)
 * [爱国诗歌](patriotic-program)
 
-## 文记
+## 文史
 
 * [经常读错的汉字](https://www.toutiao.com/a6740144777309717000)
 * [笔顺](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6739726881119011331&app_name=news_article)

@@ -44,26 +44,26 @@ The **moral** (/'mɔrəl/ n. 道德；寓意), or message, of this tale is that 
 
 What are the Emperor's new clothes made out of in 'The Emperor's New Clothes'?
 
-- [ ] Expensive Silk
-- [ ] Cheap cotton
-- [ ] Nothing
-- [ ] Magic
+- Expensive Silk
+- Cheap cotton
+- Nothing
+- Magic
 
 ### Worksheet
 
 Who calls the Emperor out on what he is wearing in 'The Emperor's New Clothes'?
 
-- [ ] A child
-- [ ] His trusted adviser
-- [ ] His wife
-- [ ] No one ever does
+- A child
+- His trusted adviser
+- His wife
+- No one ever does
 
 What is a moral of 'The Emperor's New Clothes'?
 
-- [ ] Speak up for the truth
-- [ ] Children should be seen and not heard
-- [ ] Never trust a stranger
-- [ ] Misery loves company
+- Speak up for the truth
+- Children should be seen and not heard
+- Never trust a stranger
+- Misery loves company
 
 ### About This Quiz & Worksheet
 
