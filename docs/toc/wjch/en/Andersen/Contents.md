@@ -51,3 +51,15 @@
 47. [The Gate Key](../The-Gate-Key)
 
 [Afterword](../Afterword)
+
+---
+
+## References
+
+Hans Christian Andersen Center
+
+- [The Complete Andersen](https://andersen.sdu.dk/vaerk/hersholt/index_e.html)
+
+As the title conveys, The Complete Andersen is a rather extensive collection of Andersen's tales - and this is the most comprehensive edition of Andersen's fairy tales in English (American) on the internet.
+
+- [Hans_Christian_Andersen_bibliography](https://en.wikipedia.org/wiki/Hans_Christian_Andersen_bibliography)

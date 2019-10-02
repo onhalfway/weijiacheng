@@ -1,14 +1,16 @@
 # The Teapot
 
+Hans Christian Andersen
+
 - [ ] TODO: translation checking
 - teapot /ˈtiːpɑːt/ n. 茶壶
 - pot n. 壶；盆；罐
-
-Hans Christian Andersen
+- [wikipedia](https://en.wikipedia.org/wiki/The_Teapot)
+- [](https://andersen.sdu.dk/vaerk/hersholt/TheTeapot_e.html)
 
 ## 正文
 
-There was a proud teapot--**proud of** its **porcelain**, proud of its long **spout**, proud of its broad **handle**. It had something in front and something behind, the spout in front and the **handle** behind, and it **talked about** that. But it didn't talk about its **lid**; that was **cracked** and had been **riveted**. It had a **flaw**, and one is not **fond of** talking about one's flaws--the others are sure to do that. Cups, **cream pitcher**, and sugar bowl, the whole tea service, would be sure to remember more the **frailty** of the lid, and to talk about it, than about the good handle and the excellent spout. And the teapot was **aware of** this.
+There was a proud teapot--**proud of** its **porcelain**, proud of its long **spout**, proud of its broad **handle**. It had something in front and something behind, the spout in front and the **handle** behind, and it **talked about** that. But it didn't talk about its **lid**; that was **cracked** and had been **riveted**. It had a **flaw**, and one is not **fond of** talking about one's flaws--the others are sure to do that. Cups, **cream pitcher**, and sugar bowl, the whole **tea service**, would be sure to remember more the **frailty** of the lid, and to talk about it, than about the good handle and the excellent spout. And the teapot was **aware of** this.
 
 - proud of  为…而感到骄傲
 - porcelain /ˈpɔrsələn/ n. 瓷；瓷器 adj. 瓷制的；精美的
@@ -23,6 +25,7 @@ There was a proud teapot--**proud of** its **porcelain**, proud of its long **sp
 - cream /kriːm/ n. 奶油，乳脂；精华；面霜；乳酪
 - pitcher /ˈpɪtʃər/ n. 投手；大水罐
 - cream pitcher 奶油罐
+- tea service 茶具
 - frailty /ˈfreɪlti/ n. 虚弱；弱点；意志薄弱
 - aware of 意识到，知道
 
@@ -59,7 +62,7 @@ There was a proud teapot--**proud of** its **porcelain**, proud of its long **sp
 
 “我认识他们!”它自言自语道。“我也很清楚自己的缺点，我承认这一点。这是我的谦逊，我的谦逊。我们都有缺点，但也有天赋。杯子有把手，糖碗有盖子。当然，这两样我都得到了，但有一件事是他们永远不会得到的:我得到了一个喷水口。这使我成了茶几上的女王。糖罐和奶油罐被授予了“美味少女”的特权。但我是分配者，女主人。我把祝福传播给饥渴的人们。在我的内心，中国的叶子是在沸腾的，无味的水里准备的。
 
-All this the teapot said in ths **intrepid** **youth**. It stood on the **ready-laid** table. It was **lifted** by the most **delicate** hand. But the most delicate hand was **clumsy**: the teapot **fell**, the spout **broke off**, and the handle broke off. The lid is not **worth** **mentioning**--enough has been said about that. The teapot lay in a **swoon** on the floor, the boiling water **running out of** it. It had received a **hard blow**. And the hardest blow of all was that they **laughed at** it, and not at the clumsy hand.
+All this the teapot said in its **intrepid** **youth**. It stood on the **ready-laid** table. It was **lifted** by the most **delicate** hand. But the most delicate hand was **clumsy**: the teapot **fell**, the spout **broke off**, and the handle broke off. The lid is not **worth** **mentioning**--enough has been said about that. The teapot lay in a **swoon** on the floor, the boiling water **running out of** it. It had received a **hard blow**. And the hardest blow of all was that they **laughed at** it, and not at the clumsy hand.
 
 - intrepid /ɪnˈtrepɪd/ adj. 无畏的；勇敢的；勇猛的
 - youth  /juːθ/ n. 青年；青春；年轻；青少年时期
@@ -81,7 +84,7 @@ All this the teapot said in ths **intrepid** **youth**. It stood on the **ready-
 
 这一切都是茶壶在他年轻无畏的时候说的。它立在已经摆好的桌子上。最灵巧的手把它举起来了。但最纤巧的手却笨手笨脚:茶壶掉了下来，壶嘴断了，壶柄也断了。壶盖不值一提——这已经说得够多了。茶壶昏倒在地板上，开水从茶壶里流出来。它受到了沉重的打击。最沉重的打击是他们嘲笑它，而不是嘲笑那只笨拙的手。
 
-"That memory I will never **lose**," said the teapot when it later **related** the **course** of its life to itself. "I was called an **invalid** and **put over** in a corner, and **on the following day** I was **given away** to a woman who came **begging for** **drippings**. I **sank** down into **destitution**, stood **speechless**, both **inside and out**. But as I stood there my better life began. You are one thing and turn into quite another. **Dirt** was put inside me. To a teapot this is the same as being **buried**, but a flower **bulb** was put in the dirt. Who put it there, who gave it I do not now. It was given a **compensation** for the Chinese leaves and the boiling water a compensation for the **broken-off** handle and spout. And the bulb lay in the dirt, the bulb lay inside me. It became my heart, my **living** heart. I had never had one like that before. **There was life in me**, there was **vigor** and **vitality**; the **pulse** **beat**, the bulb **sprouted**. It was **bursting** with **thoughts** and **emotions**. It **bloomed**. I saw it, I **bore** it, I **forgot myself in** its **loveliness**. How **blessed** it is to forget oneself in others! It did not thank me. It did not think of me: it was **admired** and **praised**. I was so happy because of that: how happy it must have been then. One day I heard someone say that it **deserved** a better pot. I was broken in two. It hurt **terribly**, but the flower was put in a better pot--and I was **thrown** out in the yard, to **lie** there like an old **fragment**. But I have a memory that I cannot **lose**."
+"That memory I will never **lose**," said the teapot when it later **related** the **course** of its life to itself. "I was called an **invalid** and **put over** in a corner, and **on the following day** I was **given away** to a woman who came **begging for** **drippings**. I **sank** down into **destitution**, stood **speechless**, both **inside and out**. But as I stood there my better life began. You are one thing and **turn into** quite another. **Dirt** was put inside me. To a teapot this is the same as being **buried**, but a flower **bulb** was put in the dirt. Who put it there, who gave it I do not now. It was given a **compensation** for the Chinese leaves and the boiling water a compensation for the **broken-off** handle and spout. And the bulb lay in the dirt, the bulb lay inside me. It became my heart, my **living** heart. I had never had one like that before. **There was life in me**, there was **vigor** and **vitality**; the **pulse** **beat**, the bulb **sprouted**. It was **bursting** with **thoughts** and **emotions**. It **bloomed**. I saw it, I **bore** it, I **forgot myself in** its **loveliness**. How **blessed** it is to forget oneself in others! It did not thank me. It did not think of me: it was **admired** and **praised**. I was so happy because of that: how happy it must have been then. One day I heard someone say that it **deserved** a better pot. I was broken in two. It hurt **terribly**, but the flower was put in a better pot--and I was **thrown** out in the yard, to **lie** there like an old **fragment**. But I have a memory that I cannot **lose**."
 
 - lose /luːz/ vt. 浪费；使沉溺于；使迷路；遗失；错过 vi. 失败；受损失
 - related /rɪˈleɪtɪd/ v. 叙述（relate过去式） adj. 有关系的，有关联的；讲述的，叙述的
@@ -94,6 +97,8 @@ All this the teapot said in ths **intrepid** **youth**. It stood on the **ready-
 - sank 沉陷（sink的过去式）
 - destitution /ˌdestɪˈtuːʃn/ n. 穷困；缺乏
 - speechless /ˈspiːtʃləs/ adj. 说不出话的；哑的；非言语所能表达的
+- inside and out 从内到外地；彻底地
+- turn into v. 变成；进入
 - dirt n. 污垢，泥土；灰尘，尘土；下流话
 - buried v. 埋葬（bury /ˈberi/ 的过去式和过去分词）
 - bulb /bʌlb/ n. 电灯泡；鳞茎；球状物 vi. 生球茎；膨胀成球状。flower bulb 鳞茎花卉，球根花卉（花蕾）When spring comes, even the hardest flower bulb may flowlish.
@@ -105,6 +110,7 @@ All this the teapot said in ths **intrepid** **youth**. It stood on the **ready-
 - pulse /pʌls/ n. [电子] 脉冲；脉搏 vt. 使跳动 vi. 跳动，脉跳
 - beat v. 拍打；有节奏地舒张与收缩 n. 拍子；敲击；有规律的一连串敲打；
 - sprouted v. 发芽；突然大量出现；（使）涌现出；长出（某物）；（某物）长出（sprout 的过去式及过去分词）
+- bursting adj. 充满的；渴望的 v. 爆炸；猛冲；涨满；充满感情；突然爆发（感情）；猛然打开；决堤；突然开始活跃（burst 的现在分词）
 - thoughts  /'θɔts/ n. 思想；想法（thought的复数）；思维
 - emotions n. [心理] 情绪；[心理] 情感（emotion的复数形式）
 - bloomed v. 盛开（bloom的过去分词）

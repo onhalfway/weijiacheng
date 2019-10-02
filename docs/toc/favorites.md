@@ -64,7 +64,7 @@
   * [电子书搜索](https://www.zqbook.top/)
   * [天空之城-航拍和摄影](https://www.skypixel.com/)
   * [PPT模板](https://www.pptstore.net/)
-* [中国大学MOOC(慕课)_](https://www.icourse163.org/)
+* [中国大学MOOC(慕课)](https://www.icourse163.org/)
 * [爱慕课](http://www.imoocs.org)
 * [慕课网](https://www.imooc.com/)
 
@@ -74,6 +74,11 @@
 * [笔顺](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6739726881119011331&app_name=news_article)
 * [天干地支 chinese-era](chinese-era)
 * [初中历史](https://www.toutiao.com/i6739708954483360267)
+
+## 政治视角
+
+* [CCTV - China Central Television](http://tv.cctv.com/)
+* [CCTV - 《向伟大复兴前进》 20191001 12:45](http://tv.cctv.com/2019/10/01/VIDEeXIOBCI7j4hKaqnUZEJY191001.shtml)
 
 ## How to & FAQ
 
@@ -85,6 +90,7 @@
 * [study.com](https://study.com/) *--paid*
 * [bookreports.info](https://www.bookreports.info/)
 * [wikipedia](https://en.wikipedia.org/)
+* [Works from the Hans Christian Andersen Center](https://andersen.sdu.dk)
 
 ## 英文新闻网站
 
