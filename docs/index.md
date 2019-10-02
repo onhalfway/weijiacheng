@@ -4,6 +4,8 @@
 
 **The journey of a thousand miles begins with a single step! (Lao Tzu)**
 
+**No pain, no gain. 不劳则无获**
+
 ## 前言
 
 我希望能够将口口相传的资料和经验，变为易于和大家共同完善、积累的共享资料。避免多人孤军奋战的重复劳动。

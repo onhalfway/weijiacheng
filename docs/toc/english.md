@@ -12,6 +12,7 @@
 
 ## 英语日积月累
 
+* [Spoken English](../wjch/en/spoken)
 * [Surfing the Internet](../wjch/en/resource)
 * [EIM- English In Mind](../wjch/en/eim)
 * [Andersen's Fairy Tales](../wjch/en/Andersen/Contents)
