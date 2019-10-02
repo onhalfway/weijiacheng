@@ -18,6 +18,9 @@
 * [皇帝的新装 The Emperor’s New Clothes](../wjch/en/Andersen/The-New-Clothes)
 * [丑小鸭 The Ugly Duckling](../wjch/en/Andersen/The-Ugly-Duckling)
 * [The Teapot 茶壶](../wjch/en/Andersen/The-Teapot)
+* [The Flying Trunk](../wjch/en/Andersen/The-Flying-Trunk)
+* [Back Cover](../wjch/en/Andersen/Back-Cover)
+* [Thumbelina](../wjch/en/Andersen/Thumbelina)
 
 ### Transcript and Information
 

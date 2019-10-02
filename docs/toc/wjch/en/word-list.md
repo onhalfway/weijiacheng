@@ -156,3 +156,5 @@
 1. eavesdropping 窃听   <-> encryption transmission 加密传输
 2. tampering 篡改       <-> verification mechanism 校验机制
 3. pretending 冒充      <-> identity certificate 身份证书
+4. coords n. 坐标；
+5. co-ordinate /kəʊˈɔːdɪneɪt/ n. 坐标（系）v. 使……协调

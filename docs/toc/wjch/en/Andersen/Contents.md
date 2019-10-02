@@ -1,5 +1,7 @@
 # Contents of Andersen's Fairy Tales
 
+*as is = copy from the book named Andersen's Fairy Tales in Chaoyang Foreign Language School*
+
 [Introduction](../Introduction)
 
 1. [The Tinderbox](../The-Tinderbox)
@@ -52,6 +54,8 @@
 
 [Afterword](../Afterword)
 
+[Back Cover](../Back-Cover)
+
 ---
 
 ## References
@@ -63,3 +67,7 @@ Hans Christian Andersen Center
 As the title conveys, The Complete Andersen is a rather extensive collection of Andersen's tales - and this is the most comprehensive edition of Andersen's fairy tales in English (American) on the internet.
 
 - [Hans_Christian_Andersen_bibliography](https://en.wikipedia.org/wiki/Hans_Christian_Andersen_bibliography)
+
+## Other works
+
+- [Thumbelina](../wjch/en/Andersen/Thumbelina)
