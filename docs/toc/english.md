@@ -15,12 +15,15 @@
 * [Spoken English](../wjch/en/spoken)
 * [Surfing the Internet](../wjch/en/resource)
 * [EIM- English In Mind](../wjch/en/eim)
-* [Andersen's Fairy Tales](../wjch/en/Andersen/Contents)
 * [皇帝的新装 The Emperor’s New Clothes](../wjch/en/Andersen/The-New-Clothes)
 * [丑小鸭 The Ugly Duckling](../wjch/en/Andersen/The-Ugly-Duckling)
 * [The Teapot 茶壶](../wjch/en/Andersen/The-Teapot)
 * [The Flying Trunk](../wjch/en/Andersen/The-Flying-Trunk)
+* [The Little Match Girl](../wjch/en/Andersen/The-Little-Match-Girl)
+* [The Little Mermaid](../wjch/en/Andersen/The-Little-Mermaid)
+* [The Jumpers](../wjch/en/Andersen/The-Jumpers)
 * [Back Cover](../wjch/en/Andersen/Back-Cover)
+* [Andersen's Fairy Tales](../wjch/en/Andersen/Contents)
 * [Thumbelina](../wjch/en/Andersen/Thumbelina)
 
 ### Transcript and Information

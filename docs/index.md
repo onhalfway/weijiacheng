@@ -4,7 +4,9 @@
 
 **The journey of a thousand miles begins with a single step! (Lao Tzu)**
 
-**No pain, no gain. 不劳则无获**
+**不劳则无获**
+
+**No pain, no gain.**
 
 ## 前言
 
