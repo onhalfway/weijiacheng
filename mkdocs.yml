@@ -3,12 +3,12 @@ repo_name: /weijiacheng
 site_name: Jeff Wei分享站点
 nav:
 #    - Home: index.html
-    - 站点地图: toc
-    - 首页: toc/home
-    - 语文: toc/chinese
-    - 英语: toc/english
-    - 编程: toc/programming
-    - 收藏: toc/favorites
+    - 站点地图: contents
+    - 首页: contents/home
+    - 语文: contents/chinese
+    - 英语: contents/english
+    - 编程: contents/programming
+    - 收藏: contents/favorites
 #theme: readthedocs
 # C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\
 # mkdocs build --help
