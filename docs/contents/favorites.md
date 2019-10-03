@@ -12,6 +12,8 @@
 
 ## 工具
 
+- [Firefox send - File Sharing](https://send.firefox.com/)
+- [Notes by Firefox](about:addons)
 - [mind map](https://www.mindmeister.com/)
 - [mind map](https://gitmind.cn/)
 - [markdown-stack edit](https://stackedit.io/app#)
@@ -155,6 +157,7 @@
 - [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+- [YAML](https://yaml.org/)
 
 ## ML/DL/AI
 
@@ -192,6 +195,11 @@
 - [Github Learning Lab](https://lab.github.com/)
 - [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 
+## Github 
+
+- [FreeNetwork](https://github.com/xiaoming2028/FreeNetwork)
+- [](https://github.com/ToyoDAdoubi/doubi)
+
 ## Security
 
 - [通信安全](https://www.toutiao.com/i6739784763801862659/)
@@ -211,3 +219,4 @@
 ## Social Practice
 
 - [北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
+- [首都教育系统师生点燃国庆庆祝活动亮点](https://item.btime.com/231n6m9ddpnpmfsq3cpfg8fuig2)
