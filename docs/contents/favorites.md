@@ -195,10 +195,10 @@
 - [Github Learning Lab](https://lab.github.com/)
 - [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 
-## Github 
+## Github Repository
 
 - [FreeNetwork](https://github.com/xiaoming2028/FreeNetwork)
-- [](https://github.com/ToyoDAdoubi/doubi)
+- [SSR](https://github.com/ToyoDAdoubi/doubi)
 
 ## Security
 
