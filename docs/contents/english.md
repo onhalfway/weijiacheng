@@ -6,6 +6,10 @@
 
 * [Morning With Reading](morning-with-reading)
 
+## 影音
+
+* [ev002_Charlotte’s-Web](ev002_Charlotte’s-Web)
+
 ## 英语共享资源
 
 * [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
