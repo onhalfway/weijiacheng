@@ -9,3 +9,5 @@
 ## CSS
 
 ## Python Script Language
+
+- [Python Notes](Python)
