@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>Getting Started Workshop for Autonomous Data Warehouse (ADW) - Jeff Wei分享站点</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../../.."><img height="25px" src="/weijiacheng/img/bee.png">  Jeff Wei分享站点</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">站点地图</a>
+                            </li>
+                            <li >
+                                <a href="../../home">首页</a>
+                            </li>
+                            <li >
+                                <a href="../../chinese">语文</a>
+                            </li>
+                            <li >
+                                <a href="../../english">英语</a>
+                            </li>
+                            <li >
+                                <a href="../../programming">编程</a>
+                            </li>
+                            <li >
+                                <a href="../../favorites">收藏</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#getting-started-workshop-for-autonomous-data-warehouse-adw">Getting Started Workshop for Autonomous Data Warehouse (ADW)</a></li>
+            <li><a href="#table-of-contents">Table of Contents</a></li>
+            <li><a href="#before-you-begin-this-workshop">Before You Begin This Workshop</a></li>
+            <li><a href="#lab-1-getting-started-and-provisioning-a-new-autonomous-data-warehouse">Lab 1 - Getting Started and Provisioning a New Autonomous Data Warehouse</a></li>
+            <li><a href="#lab-2-working-with-data-warehouse-services-and-the-free-sample-data-sets">Lab 2 - Working with Data Warehouse Services and the Free Sample Data Sets</a></li>
+            <li><a href="#lab-3-loading-data-into-your-new-autonomous-data-warehouse">Lab 3 - Loading Data into Your New Autonomous Data Warehouse</a></li>
+            <li><a href="#lab-4-querying-external-data">Lab 4 - Querying External Data</a></li>
+            <li><a href="#lab-5-creating-rich-data-visualizations">Lab 5 - Creating Rich Data Visualizations</a></li>
+            <li><a href="#additional-bonus-labs-for-data-warehouse-developers-cloud-dbas-and-data-scientists">Additional Bonus Labs for Data Warehouse Developers, Cloud DBAs and Data Scientists</a></li>
+            <li><a href="#bonus-lab-6-managing-and-monitoring-autonomous-data-warehouse-using-the-cloud-service-console">BONUS Lab 6 - Managing and Monitoring Autonomous Data Warehouse using the Cloud Service Console</a></li>
+            <li><a href="#bonus-lab-7-scaling-and-query-performance-in-autonomous-data-warehouse">BONUS Lab 7 - Scaling and Query Performance in Autonomous Data Warehouse</a></li>
+            <li><a href="#bonus-lab-8-oracle-machine-learning-sql-notebooks">BONUS Lab 8 - Oracle Machine Learning SQL Notebooks</a></li>
+            <li><a href="#bonus-lab-9-simple-introduction-to-machine-learning-algorithms-dbms_predictive_analytics">BONUS Lab 9 - Simple Introduction to Machine Learning Algorithms (DBMS_PREDICTIVE_ANALYTICS)</a></li>
+            <li><a href="#bonus-lab-10-using-data-integration-tools-with-autonomous-data-warehouse">BONUS Lab 10 - Using Data Integration Tools with Autonomous Data Warehouse</a></li>
+            <li><a href="#all-done">All Done</a></li>
+            <li><a href="#learn-more-about-autonomous-data-warehouse">Learn More About Autonomous Data Warehouse</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="getting-started-workshop-for-autonomous-data-warehouse-adw">Getting Started Workshop for Autonomous Data Warehouse (ADW)</h1>
+<ul>
+<li><a href="https://www.oracle.com/goto/adw/tutorial">Oracle's official Learning Library</a></li>
+<li><a href="https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE_ID:5925,251">Learning Path: Getting Started Workshop for Autonomous Data Warehouse</a></li>
+<li><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc">Autonomous Data Warehouse Test Drive Workshop</a></li>
+</ul>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="#getting-started-workshop-for-autonomous-data-warehouse-adw">Getting Started Workshop for Autonomous Data Warehouse (ADW)</a></li>
+<li><a href="#table-of-contents">Table of Contents</a></li>
+<li><a href="#before-you-begin-this-workshop">Before You Begin This Workshop</a></li>
+<li><a href="#lab-1---getting-started-and-provisioning-a-new-autonomous-data-warehouse">Lab 1 - Getting Started and Provisioning a New Autonomous Data Warehouse</a></li>
+<li><a href="#lab-2---working-with-data-warehouse-services-and-the-free-sample-data-sets">Lab 2 - Working with Data Warehouse Services and the Free Sample Data Sets</a></li>
+<li><a href="#lab-3---loading-data-into-your-new-autonomous-data-warehouse">Lab 3 - Loading Data into Your New Autonomous Data Warehouse</a></li>
+<li><a href="#lab-4---querying-external-data">Lab 4 - Querying External Data</a></li>
+<li><a href="#lab-5---creating-rich-data-visualizations">Lab 5 - Creating Rich Data Visualizations</a></li>
+<li><a href="#additional-bonus-labs-for-data-warehouse-developers-cloud-dbas-and-data-scientists">Additional Bonus Labs for Data Warehouse Developers, Cloud DBAs and Data Scientists</a></li>
+<li><a href="#bonus-lab-6---managing-and-monitoring-autonomous-data-warehouse-using-the-cloud-service-console">BONUS Lab 6 - Managing and Monitoring Autonomous Data Warehouse using the Cloud Service Console</a></li>
+<li><a href="#bonus-lab-7---scaling-and-query-performance-in-autonomous-data-warehouse">BONUS Lab 7 - Scaling and Query Performance in Autonomous Data Warehouse</a></li>
+<li><a href="#bonus-lab-8---oracle-machine-learning-sql-notebooks">BONUS Lab 8 - Oracle Machine Learning SQL Notebooks</a></li>
+<li><a href="#bonus-lab-9---simple-introduction-to-machine-learning-algorithms-dbmspredictiveanalytics">BONUS Lab 9 - Simple Introduction to Machine Learning Algorithms (DBMS_PREDICTIVE_ANALYTICS)</a></li>
+<li><a href="#bonus-lab-10---using-data-integration-tools-with-autonomous-data-warehouse">BONUS Lab 10 - Using Data Integration Tools with Autonomous Data Warehouse</a></li>
+<li><a href="#all-done">All Done</a></li>
+<li><a href="#learn-more-about-autonomous-data-warehouse">Learn More About Autonomous Data Warehouse</a></li>
+</ul>
+<h2 id="before-you-begin-this-workshop">Before You Begin This Workshop</h2>
+<p>Please read the following section as it will help you get ready to run this workshop.</p>
+<ol>
+<li>
+<p>Introduction to Autonomous Data Warehouse</p>
+<p>What is an Autonomous Data Warehouse?</p>
+<p>Oracle Autonomous Data Warehouse is built around the market leading Oracle database and comes with fully automated data warehouse specific features that deliver outstanding query performance.  This environment is delivered as a fully managed cloud service running on optimized high-end Oracle hardware systems.  You don’t need to spend time thinking about how you should store your data, when or how to back it up or how to tune your queries.</p>
+<p>We take care of everything for you.</p>
+</li>
+<li>
+<p>Click here to <a href="https://www.youtube.com/watch?v=tZMZODoi2xw">watch our short video</a> that explains key features in Oracle's Autonomous Data Warehouse.</p>
+</li>
+<li>
+<p>Autonomous Data Warehouse allows you to select the exact combination of storage and CPUs to fit your project and your budget. You will experience the process of selecting CPUs and deciding the exact storage size during this workshop.</p>
+<p>We keep all of your data safe and secure.  It’s always backed up and always encrypted in Oracle’s cloud.  Using our client tools you load all kinds of different types of data from worksheets on your computer, webstore log files to data files stored in Oracle’s cloud-based object store and load that data into your Autonomous Data Warehouse cloud.</p>
+<p>Oracle’s Autonomous Data Warehouse is the perfect quick-start service for fast data loading and sophisticated data reporting and analysis.  Oracle manages everything for you so you can focus on your data.</p>
+<p>Read on to begin your Getting Started journey with Oracle Autonomous Data Warehouse.</p>
+</li>
+<li>
+<p>How to Get Your Free Cloud Trial Account</p>
+</li>
+</ol>
+<p>To sign into the Oracle Cloud, copy and paste this URL into a browser window: https://cloud.oracle.com/tryit or https://www.oracle.com/cloud/free/</p>
+<ol>
+<li>
+<p>Logging in to Oracle Cloud, Selecting a Data Center for your Workshop</p>
+</li>
+<li>
+<p>Lab Pre-requisites – Required Software</p>
+<p>This workshop needs two desktop tools to be installed on your computer to do the exercises in this lab.</p>
+<p>(1). SQL Developer</p>
+<p>To download and install SQL Developer please follow this link, http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html and select the operating system for your computer. This page also has instructions on how to install SQL Developer on Windows, Mac OSX and Linux.</p>
+<p>If you already have SQL Developer installed on your computer then please check the version. The minimum version that is required to connect to an Oracle Autonomous Data Warehouse Cloud is SQL Developer 17.4.</p>
+<p>(2). Data Visualization Desktop</p>
+<p>To download and install Data Visualization Desktop please follow this link, https://www.oracle.com/technetwork/middleware/oracle-data-visualization/downloads/oracle-data-visualization-desktop-2938957.html and select the operating system for your computer. This page also has instructions on how to install DVD on Windows and Mac OSX.</p>
+<p>If you already have Data Visualization Desktop installed on your computer then please check the version. The minimum version that is required to connect to an Oracle Autonomous Data Warehouse Cloud is 12c 12.2.5.0.0.</p>
+</li>
+<li>
+<p>Getting Help During This Workshop</p>
+<p><a href="https://cloudcustomerconnect.oracle.com/resources/32a53f8587/summary">Cloud Customer Connect Forum</a> for Autonomous Data Warehouse</p>
+<p>If you have a question during this workshop then use the Autonomous Data Warehouse Forum to post questions, connect with experts, and share your thoughts and ideas about Oracle Autonomous Data Warehouse.</p>
+<p>Are you are completely new to the Cloud Customer Connect forums? Visit our forum  <a href="https://cloudcustomerconnect.oracle.com/pages/1f00b02b84">Getting Started</a> page to learn how to best leverage community resources.</p>
+</li>
+</ol>
+<h2 id="lab-1-getting-started-and-provisioning-a-new-autonomous-data-warehouse">Lab 1 - Getting Started and Provisioning a New Autonomous Data Warehouse</h2>
+<p>duration 15 Min</p>
+<p>This lab walks you through the steps of logging into Oracle Cloud, accessing the Oracle Autonomous Data Warehouse console and provisioning your first Autonomous Data Warehouse. The last part of this lab will explore how to connect to your new data warehouse using Oracle SQL Developer.</p>
+<pre><code>Key Objectives:
+1. Sign-in to the Oracle Cloud
+2. Provision a new autonomous data warehouse
+3. Download the client credentials wallet file
+4. Connect from Oracle SQL Developer to your new autonomous data warehouse
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24961">Click here to run Lab 1</a></p>
+<p>Click <a href="https://www.youtube.com/watch?v=mY1wOBqKEaw&amp;feature=youtu.be">here</a> to watch a video demonstration of provisioning a new autonomous data warehouse and connect using SQL Developer.</p>
+<p>Useful Links</p>
+<p>Now you have completed this lab here are some useful links that provide more information about getting started and provisioning a new Autonomous Data Warehouse:</p>
+<ol>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/getting-started.html#GUID-00645C09-4E76-44C6-8BBE-B433D501AADB">Getting Started with Autonomous Data Warehouse</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/getting-started.html#GUID-5780368D-6D40-475C-8DEB-DBA14BA675C3">Typical Workflow for Using Autonomous Data Warehouse</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/start-stop-grow.html#GUID-01A11B85-D5F7-49FB-95E6-BA77ACC33009">Starting and Stopping Autonomous Data Warehouse</a></li>
+</ol>
+<h2 id="lab-2-working-with-data-warehouse-services-and-the-free-sample-data-sets">Lab 2 - Working with Data Warehouse Services and the Free Sample Data Sets</h2>
+<p>duration 15 Min</p>
+<p>In this lab you will explore the free sample data sets that are included within your new autonomous data warehouse. As part of this lab you will experiment with the selecting different levels of database services that come with your Autonomous Data Warehouse.</p>
+<pre><code>Objectives:
+    Learn about the different service levels that are part of autonomous data warehouse (HIGH, MEDIUM, LOW)
+    Learn about the free Star Schema Benchmark (SSB) and Sales History (SH) sample data sets
+    See how the different levels of database service affect performance and concurrency
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24985">Click here to run Lab 2</a></p>
+<p>Click <a href="https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:22791">here</a> to watch a video demonstration of running queries against the sample data sets that are part of your Autonomous Data Warehouse.</p>
+<p>Useful Links</p>
+<p>Now you have completed this lab here are some useful links that provide more information about working with service levels and the free sample data sets.</p>
+<ol>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/sample-queries.html#GUID-431A16E8-4C4D-4786-BE5C-30029AC1EFD8">Sample Star Schema Benchmark (SSB) Queries and Analytic Views</a></li>
+<li><a href="https://docs.oracle.com/en/database/oracle/oracle-database/18/comsc/schema-diagrams.html#GUID-D268A4DE-BA8D-428E-B47F-80519DC6EE6E">Schema diagram for sales history schema (SH)</a>, see Figure 3-3.</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/connect-sql-dev.html#GUID-FB611317-2999-4C8C-8A3B-B3B3D3C5B417">Connecting with Oracle SQL Developer (earlier than Version 18.2)</a></li>
+</ol>
+<h2 id="lab-3-loading-data-into-your-new-autonomous-data-warehouse">Lab 3 - Loading Data into Your New Autonomous Data Warehouse</h2>
+<p>duration 10 Min</p>
+<p>In this lab, you will be uploading files to Oracle Object Storage, creating new sample tables, loading data into those sample tables from files on the OCI Object Storage, and troubleshooting errors relating to your data load jobs.</p>
+<pre><code>Key Objectives:
+    Learn how to upload files to Oracle Object Storage
+    Learn how to load data from an object store
+    Learn how to use the SQL Developer Data Import Wizard to load your data
+    Learn how to troubleshoot your data loads
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24986">Click here to run Lab 3</a></p>
+<p>Click <a href="https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:22792">here</a> to watch a video demonstration of loading data into your Autonomous Data Warehouse</p>
+<p>Useful Links</p>
+<p>Now you have completed this lab here are some useful links that provide more information about loading data into your new Autonomous Data Warehouse.</p>
+<ol>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/dbmscloud-reference.html#GUID-52C9974C-D95E-4E41-AFBD-0FC4065C029A">Overview of DBMS_CLOUD package used to load, query, and save data.</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/load-data.html#GUID-30DB1EEA-DB45-49EA-9E97-DF49A9968E24">Importing existing Oracle Database schemas into Autonomous Data Warehouse Using Oracle Data Pump.</a></li>
+</ol>
+<h2 id="lab-4-querying-external-data">Lab 4 - Querying External Data</h2>
+<p>duration 0 Min</p>
+<p>In this lab, you will be querying files directly on Oracle Object Storage without loading them to your autonomous data warehouse.</p>
+<pre><code>Key Objectives:
+    Learn how to define external tables against Object Store data sets
+    Learn how to query external tables
+    Learn how to create data warehouse user
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24984">Click here to run Lab 4</a></p>
+<p>Useful Links</p>
+<p>Now you have completed this lab here are some useful links that provide more information about how to query external data using your new Autonomous Data Warehouse.</p>
+<ol>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/dbmscloud-reference.html#GUID-2AFBEFA4-992E-4F53-96DB-F560084C7DA9">Overview of the CREATE_EXTERNAL_TABLE procedure</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/dbmscloud-reference.html#GUID-5D3E1614-ADF2-4DB5-B2B2-D5613F10E4FA">DBMS_CLOUD Package File URI Formats.</a></li>
+</ol>
+<h2 id="lab-5-creating-rich-data-visualizations">Lab 5 - Creating Rich Data Visualizations</h2>
+<p>duration 15 Min</p>
+<p>This lab will walk you through the process of connecting your Autonomous Data Warehouse to Data Visualization Desktop and then use DVD and build sophisticated data visualizations to help your business teams get deeper insights about their data.</p>
+<pre><code>Key Objectives:
+    Set Up Local Environment
+    Create New Data Visualization Desktop Connection
+    Prepare Data Set and Create Visualization
+
+Note that you will need to have installed the Oracle Data Visualization Desktop application to do this lab. There are instructions at the start of this lab that contain links to the software download page for  Data Visualization Desktop.
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24991">Click here to run Lab 5</a></p>
+<p>Useful Links</p>
+<pre><code>Now you have completed this lab here are some useful links that provide more information about how to visualize data from your Autonomous Data Warehouse.
+</code></pre>
+<ol>
+<li><a href="https://docs.oracle.com/en/middleware/bi/data-visualization-desktop/index.html">Getting Started Guide for Oracle Data Visualization Desktop</a></li>
+<li><a href="https://docs.oracle.com/en/middleware/bi/data-visualization-desktop/bidvd/share-visualizations-canvases-or-stories.html#GUID-19E377EE-873F-4103-88E5-87839543833D">Sharing data visualizations, canvases, or stories</a></li>
+</ol>
+<h2 id="additional-bonus-labs-for-data-warehouse-developers-cloud-dbas-and-data-scientists">Additional Bonus Labs for Data Warehouse Developers, Cloud DBAs and Data Scientists</h2>
+<p>duration 0 Min</p>
+<p>These additional labs are aimed at Cloud architects, Data Warehouse Developers, Cloud DBAs and Data Scientists and cover the following topics.</p>
+<p>More Information</p>
+<pre><code>The bonus labs cover the following topics that will help you expand your knowledge by introducing some more advanced topics for Autonomous Data Warehouse"
+
+1) Managing and monitoring Autonomous Data Warehouse using the Cloud Console
+2) Using Oracle Machine Learning SQL Notebooks
+3) Introduction to machine learning with DBMS_PREDICTIVE_ANALYTICS
+4) Using data integration tools with Autonomous Data Warehouse
+</code></pre>
+<p>Getting Help During These Bonus Labs</p>
+<p><a href="https://cloudcustomerconnect.oracle.com/resources/32a53f8587/summary">Cloud Customer Connect Forum</a> for Autonomous Data Warehouse</p>
+<p>Don't forget....if you have a question during this bonus labs then use the Autonomous Data Warehouse Forum on CloudCustomerConnect to post questions, connect with experts, and share your thoughts and ideas about Oracle Autonomous Data Warehouse.</p>
+<p>Of course, if you are completely new to the Cloud Customer Connect forums then refer to the Getting Started page to learn how to best leverage community resources.</p>
+<h2 id="bonus-lab-6-managing-and-monitoring-autonomous-data-warehouse-using-the-cloud-service-console">BONUS Lab 6 - Managing and Monitoring Autonomous Data Warehouse using the Cloud Service Console</h2>
+<p>duration 10 Min</p>
+<p>For this lab you will watch a video demo that shows the capabilities available via the Cloud Console and Autonomous Data Warehouse Service Console.</p>
+<p>Target Audience</p>
+<pre><code>The target audience for this bonus lab is: Cloud DBAs, SQL Developers
+</code></pre>
+<p>Objectives</p>
+<pre><code>Key Objectives:
+    Learn how to start/stop your Autonomous Data Warehouse instance
+    Learn how to recover your Autonomous Data Warehouse database - if needed
+    Learn how to use the service console to monitor the performance of your Autonomous Data Warehouse
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24987">Click here to run Lab 6</a></p>
+<p>Click <a href="https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24194">here</a> to watch a video demonstration that shows you how to monitor performance of your Autonomous Data Warehouse and perform basic administrative tasks.</p>
+<p>Useful Links</p>
+<p>Now you have completed this lab here are some useful links that provide more information about the Autonomous Data Warehouse Service Console.</p>
+<ol>
+<li>Using the <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/manage-service.html#GUID-ED34ED88-BC9F-4C1A-B05A-C8E876B1B248">Overview and Activity tabs</a> to get real-time and historical information about the utilization of the service</li>
+<li>More information about the graphs on the  <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/manage-service.html#GUID-3620E2F4-69BA-43FD-A73E-598EE2AD8526">Console Overview</a> page.</li>
+<li>More information about the graphs on the <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/manage-service.html#GUID-4A1E8FCA-FAF1-43F5-93E0-559C0145D6C3">Console Activity</a> page</li>
+</ol>
+<h2 id="bonus-lab-7-scaling-and-query-performance-in-autonomous-data-warehouse">BONUS Lab 7 - Scaling and Query Performance in Autonomous Data Warehouse</h2>
+<p>duration 5 Min</p>
+<p>In this lab you will scale up your Oracle Autonomous Data Warehouse instance by adding more CPUs with on interruption to your service. You will watch a recorded demo that shows the performance and concurrency impacts of scaling your service online.</p>
+<p>Target Audience</p>
+<pre><code>The target audience for this bonus lab is: Cloud DBAs, SQL Developers
+
+Key Objectives:
+    Learn how to scale up and scale down the number of CPUs and amount of storage used by your Autonomous Data Warehouse
+    Understand how scaling affects both concurrency and performance with your Autonomous Data Warehouse
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24988">Click here to run Lab 7</a></p>
+<p>Useful Links</p>
+<pre><code>Now you have completed this lab here are some useful links that provide more information how to scale your Autonomous Data Warehouse and monitor the performance of your queries.
+</code></pre>
+<ol>
+<li>how to <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/manage-service.html#GUID-80E464A7-8ED4-45BB-A7D6-E201DD4107B7">manage concurrency and priorities</a></li>
+<li>how to <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/manage-service.html#GUID-4861BA7F-F9FA-4909-8DC0-4F46AFF80706">manage run–away SQL statements</a></li>
+<li>Learn about <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/manage-service.html#GUID-69906542-4DF6-4759-ABC1-1817D77BDB02">managing Optimizer Statistics and using hints in your queries</a></li>
+</ol>
+<h2 id="bonus-lab-8-oracle-machine-learning-sql-notebooks">BONUS Lab 8 - Oracle Machine Learning SQL Notebooks</h2>
+<p>duration 10 Min</p>
+<p>During this lab you will be using the new Oracle Machine Learning SQL notebook application that is part of your Autonomous Data Warehouse. This browser-based application provides a web interface to run SQL queries and scripts, which can be grouped together within a notebook. Notebooks can be used to build single reports, collections of reports, and dashboards. Oracle Machine Learning provides a simple way to share workbooks with other OML users.</p>
+<p>Target Audience</p>
+<pre><code>The target audience for this bonus lab is: Data Scientists, Cloud DBAs, SQL Developers
+</code></pre>
+<p>Key Objectives:</p>
+<pre><code>Learn how to create new Oracle Machine Learning notebook user accounts
+Learn how to run a SQL statement within a SQL Notebook
+Learn how to share notebooks
+Learn how to create and run SQL scripts
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24989">Click here to run Lab 8</a></p>
+<p>Useful Links</p>
+<pre><code>Now you have completed this lab here are some useful links that provide more information about Oracle Machine Learning SQL Notebook
+
+
+Detailed documentation on how to get started with Oracle Machine Learning for creating SQL and data mining notebooks where you can perform data analytics, data discovery and data visualizations is available here.
+
+You can store your notebooks as templates, share notebooks, and provide sample templates to other users:
+</code></pre>
+<ol>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/using-library-collaborate-users.html#GUID-7FCC9EAC-5FFB-47DA-A50D-318574F50915">Using the Personal Templates</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/using-library-collaborate-users.html#GUID-DCE18C20-5AF3-4537-B621-0037D111C852">Using the Shared Templates</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/using-library-collaborate-users.html#GUID-09AD4419-B0DE-4F3B-9FEB-0ABA3AFD6E7A">Using the Example Templates</a></li>
+</ol>
+<h2 id="bonus-lab-9-simple-introduction-to-machine-learning-algorithms-dbms_predictive_analytics">BONUS Lab 9 - Simple Introduction to Machine Learning Algorithms (DBMS_PREDICTIVE_ANALYTICS)</h2>
+<p>duration 10 Min
+During this lab you will be using the Oracle Machine Learning SQL notebook application to explore how you can use the in-database DBMS_PREDICTIVE_ANALYTICS functionality. DBMS_PREDICTIVE_ANALYTICS provides a set of easy-to-use procedures that simplify the machine learning process.</p>
+<p>Target Audience</p>
+<pre><code>The target audience for this bonus lab is: Data Scientists, Cloud DBAs, SQL Developers, Cloud Architects
+</code></pre>
+<p>Objectives</p>
+<pre><code>Key Objectives:
+    Learn how to import notebooks into Oracle Machine Learning
+    Learn how to use the in-database DBMS_PREDICTIVE_ANALYTICS analytics
+    Learn how to use Oracle Machine Learning Examples gallery to explore use cases for other machine learning algorithms
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24990">Click here to run Lab 9</a></p>
+<h2 id="bonus-lab-10-using-data-integration-tools-with-autonomous-data-warehouse">BONUS Lab 10 - Using Data Integration Tools with Autonomous Data Warehouse</h2>
+<p>duration 60 Min</p>
+<p>In this lab, you will configure and use Oracle Data Integration Platform Cloud (DIPC) with Autonomous Data Warehouse. This lab follow a typical enterprise data warehouse reference implementation with ETL/ELT batch processing, real time data replication, and data quality review. You will load data from a flat file and a database table using Oracle Data Integrator (ODI) to your Autonomous Data Warehouse. You will replicate data from a database table to Autonomous Data Warehouse using Oracle Golden Gate (OGG). You will review data quality in your Autonomous Data Warehouse using Oracle Enterprise Data Quality (EDQ).</p>
+<p>Target Audience</p>
+<pre><code>The target audience for this bonus lab is: Data Warehouse Developers, Cloud DBAs, Cloud Architects
+
+Key Objectives:
+    Learn how to load data using Oracle Data Integrator (ODI)
+    Learn how to replicate data to your Autonomous Data Warehouse with Oracle GoldenGate (OGG)
+    Learn how to review data quality by using Oracle Enterprise Data Quality (EDQ)
+</code></pre>
+<p><a href="http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24992">Click here to run Lab 10</a></p>
+<h2 id="all-done">All Done</h2>
+<p>duration 0 Min</p>
+<p>Congratulations you have completed the Getting Started Workshop for Autonomous Data Warehouse!</p>
+<h2 id="learn-more-about-autonomous-data-warehouse">Learn More About Autonomous Data Warehouse</h2>
+<p>duration 0 Min</p>
+<p>This section provides links to additional recommended reading materials and other useful resources.</p>
+<p>Recommended Reading</p>
+<ol>
+<li><a href="http://www.oracle.com/technetwork/database/bi-datawarehousing/adwc-ebook-4081945.pdf">Data Warehousing Made Easy (eBook)</a></li>
+</ol>
+<p>Additional Resources</p>
+<ol>
+<li>Additional Resources:  https://cloud.oracle.com/en_US/datawarehouse/additional-resources</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/index.html">Oracle Autonomous Data Warehouse Cloud Documentation</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/getting-started-oracle-machine-learning1.html">Oracle Machine Learning Documentation</a></li>
+<li>Join the Autonomous Data Warehouse <a href="https://cloudcustomerconnect.oracle.com/resources/32a53f8587/summary">forum</a>.</li>
+</ol></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="/weijiacheng/img/bee.png"></a> website, Powered by Jeff Wei.</p>
+        </footer>
+        <script>
+            var base_url = "../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../js/base.js" defer></script>
+        <script src="../../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
