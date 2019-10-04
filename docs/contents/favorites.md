@@ -147,8 +147,8 @@
 - [freeCodeCamp](https://www.freeCodeCamp.org)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-- [Python](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
-- [Python](https://github.com/microsoft/c9-python-getting-started)
+- [Python-Microsoft](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
+- [Python-Github-Microsoft](https://github.com/microsoft/c9-python-getting-started)
 - [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [hello-world](https://github.com/leachim6/hello-world)
@@ -220,3 +220,7 @@
 
 - [北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
 - [首都教育系统师生点燃国庆庆祝活动亮点](https://item.btime.com/231n6m9ddpnpmfsq3cpfg8fuig2)
+
+## Work
+
+- [Oralce Database Blog](https://mikedietrichde.com/)

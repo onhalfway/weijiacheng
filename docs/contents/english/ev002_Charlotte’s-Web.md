@@ -11,5 +11,4 @@
 - Converse? 交谈？
 - I think your word was "chat". 用你的话说就叫“聊天”。
 - Oh. Great! All right.喔。好的！太好了。
-- Good night! Good night! Good night.
-- Good night.
+- Good night! Good night! Good night. Good night.
