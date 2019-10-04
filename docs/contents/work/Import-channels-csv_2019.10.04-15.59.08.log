@@ -1,0 +1,92 @@
+**Step Start**:  Create destination table
+CREATE TABLE CHANNELS_CLOUD ( CHANNEL_ID NUMBER(38),
+  CHANNEL_DESC VARCHAR2(128),
+  CHANNEL_CLASS VARCHAR2(128),
+  CHANNEL_CLASS_ID NUMBER(38),
+  CHANNEL_TOTAL VARCHAR2(128),
+  CHANNEL_TOTAL_ID NUMBER(38))
+Execution Successful
+**Step End**:  Create destination table
+
+**Step Start**:  Copy Data
+declare  PROCEDURE copy_data (operation_id OUT NOCOPY NUMBER, err_msg OUT NOCOPY VARCHAR2) IS  BEGIN 
+C##CLOUD$SERVICE.dbms_cloud.copy_data(
+table_name => 'CHANNELS_CLOUD',
+credential_name => 'OBJ_STORE_CRED',
+file_uri_list => 'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/channels.csv',
+operation_id => operation_id,
+schema_name => 'ADMIN',
+format => json_object('delimiter' value ',', 'recorddelimiter' value ''';''', 'skipheaders' value '1', 'quote' value '\"', 'rejectlimit' value '0', 'trimspaces' value 'rtrim', 'ignoreblanklines' value 'false', 'ignoremissingcolumns' value 'true')); 
+EXCEPTION WHEN OTHERS THEN    FOR err_depth IN 1..UTL_CALL_STACK.ERROR_DEPTH LOOP       err_msg := err_msg || UTL_CALL_STACK.ERROR_MSG (err_depth) || ' ';    END LOOP; end; BEGIN 
+   copy_data(OPERATION_ID => ?, ERR_MSG => ?);
+end; 
+
+Returned: OPERATION_ID => 2
+Execution Successful
+**Step End**:  Copy Data
+
+**Step Start**:  Get Log
+select record from COPY$2_LOG
+ 
+ 
+ LOG file opened at 10/04/19 15:59:11
+ 
+Total Number of Files=1
+ 
+Data File: https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/channels.csv
+ 
+Log File: COPY$2_4618.log
+ 
+ 
+ 
+ LOG file opened at 10/04/19 15:59:11
+ 
+Bad File: COPY$2_80176.bad
+ 
+Field Definitions for table COPY$PRKDQJQ1V4APMWMYYJLT
+  Record format DELIMITED, delimited by ;
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+ 
+  Fields in Data Source: 
+ 
+    CHANNEL_ID                      CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from right
+    CHANNEL_DESC                    CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from right
+    CHANNEL_CLASS                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from right
+    CHANNEL_CLASS_ID                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from right
+    CHANNEL_TOTAL                   CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from right
+    CHANNEL_TOTAL_ID                CHAR (255)
+      Terminated by ","
+      Enclosed by """ and """
+      Trim whitespace from right
+Execution Successful
+**Step End**:  Get Log
+
+**Step Start**:  Log Bad Summary
+COPY$2_BAD contains 0 row(s).
+Execution Successful
+**Step End**:  Log Bad Summary
+
+**Step Start**:  Check Data in Table CHANNELS_CLOUD 
+Table contains data
+Execution Successful
+**Step End**:  Check Data in Table CHANNELS_CLOUD 
+
+ 
+External table for log file is COPY$2_LOG
+External table for bad file is COPY$2_BAD

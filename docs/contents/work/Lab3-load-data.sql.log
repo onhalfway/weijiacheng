@@ -1,0 +1,200 @@
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'CHANNELS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/chan_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'CHANNELS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/chan_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'COUNTRIES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/coun_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'COUNTRIES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/coun_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'CUSTOMERS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/cust1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'CUSTOMERS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/cust1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'SUPPLEMENTARY_DEMOGRAPHICS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/dem1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'SUPPLEMENTARY_DEMOGRAPHICS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/dem1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'SALES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/dmsal_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'SALES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/dmsal_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'PRODUCTS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/prod1v3.dat',
+    format => json_object('delimiter' value '|', 'quote' value '^', 'ignoremissingcolumns' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS', 'blankasnull' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'PRODUCTS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/prod1v3.dat',
+    format => json_object('delimiter' value '|', 'quote' value '^', 'ignoremissingcolumns' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS', 'blankasnull' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'PROMOTIONS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/prom1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS', 'blankasnull' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'PROMOTIONS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/prom1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS', 'blankasnull' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'SALES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/sale1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD', 'blankasnull' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'SALES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/sale1v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD', 'blankasnull' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'TIMES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/time_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS', 'blankasnull' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'TIMES',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/time_v3.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'removequotes' value 'true', 'dateformat' value 'YYYY-MM-DD-HH24-MI-SS', 'blankasnull' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+
+old:begin
+ dbms_cloud.copy_data(
+    table_name =>'COSTS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'&base_URL/costs.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'dateformat' value 'YYYY-MM-DD', 'blankasnull' value 'true')
+ );
+end;
+
+new:begin
+ dbms_cloud.copy_data(
+    table_name =>'COSTS',
+    credential_name =>'OBJ_STORE_CRED',
+    file_uri_list =>'https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/costs.dat',
+    format => json_object('ignoremissingcolumns' value 'true', 'dateformat' value 'YYYY-MM-DD', 'blankasnull' value 'true')
+ );
+end;
+
+PL/SQL procedure successfully completed.
+

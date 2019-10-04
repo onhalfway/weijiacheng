@@ -2,7 +2,8 @@
 
 - [Oracle's official Learning Library](https://www.oracle.com/goto/adw/tutorial)
 - [Learning Path: Getting Started Workshop for Autonomous Data Warehouse](https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE_ID:5925,251)
-- [Autonomous Data Warehouse Test Drive Workshop](https://oracle.github.io/learning-library/workshops/journey4-adwc)
+- [Autonomous Data Warehouse Test Drive Workshop](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=README.md)
+  - [](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md)
 
 ## Table of Contents
 
@@ -73,7 +74,7 @@ Please read the following section as it will help you get ready to run this work
 
     If you have a question during this workshop then use the Autonomous Data Warehouse Forum to post questions, connect with experts, and share your thoughts and ideas about Oracle Autonomous Data Warehouse.
 
-    Are you are completely new to the Cloud Customer Connect forums? Visit our forum  [Getting Started](https://cloudcustomerconnect.oracle.com/pages/1f00b02b84) page to learn how to best leverage community resources.
+    Are you are completely new to the Cloud Customer Connect forums? Visit our forum [Getting Started](https://cloudcustomerconnect.oracle.com/pages/1f00b02b84) page to learn how to best leverage community resources.
 
 ## Lab 1 - Getting Started and Provisioning a New Autonomous Data Warehouse
 
@@ -176,13 +177,13 @@ This lab will walk you through the process of connecting your Autonomous Data Wa
         Create New Data Visualization Desktop Connection
         Prepare Data Set and Create Visualization
 
-    Note that you will need to have installed the Oracle Data Visualization Desktop application to do this lab. There are instructions at the start of this lab that contain links to the software download page for  Data Visualization Desktop.
+Note that you will need to have installed the Oracle Data Visualization Desktop application to do this lab. There are instructions at the start of this lab that contain links to the software download page for  Data Visualization Desktop.
 
 [Click here to run Lab 5](http://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:24991)
 
 Useful Links
 
-    Now you have completed this lab here are some useful links that provide more information about how to visualize data from your Autonomous Data Warehouse.
+Now you have completed this lab here are some useful links that provide more information about how to visualize data from your Autonomous Data Warehouse.
 
 1. [Getting Started Guide for Oracle Data Visualization Desktop](https://docs.oracle.com/en/middleware/bi/data-visualization-desktop/index.html)
 2. [Sharing data visualizations, canvases, or stories](https://docs.oracle.com/en/middleware/bi/data-visualization-desktop/bidvd/share-visualizations-canvases-or-stories.html#GUID-19E377EE-873F-4103-88E5-87839543833D)
