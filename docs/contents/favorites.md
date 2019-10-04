@@ -224,3 +224,7 @@
 ## Work
 
 - [Oralce Database Blog](https://mikedietrichde.com/)
+
+## Law
+
+- [legaltranz](http://www.legaltranz.com/archives/4403)
