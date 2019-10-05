@@ -1,4 +1,4 @@
-# ADW Practice
+# [ADW Practice](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=README.md)
 
 - Created: 2019/10/04
 - Region: Seoul
@@ -7,7 +7,9 @@
 - Password: Mi.....
 - CPU Core: 2
 
-## DB Connection
+## [Lab1](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md)
+
+DB Connection
 
 - Download Client Credentials (Wallet)
 - Connection Strings
@@ -18,7 +20,9 @@
 | DBSeoul_MEDIUM | adb.ap-seoul-1.oraclecloud.com:1522/vzzqkvynnozckjp_dbseoul_medium.adwc.oraclecloud.com |
 | DBSeoul_LOW    | adb.ap-seoul-1.oraclecloud.com:1522/vzzqkvynnozckjp_dbseoul_low.adwc.oraclecloud.com    |
 
-## Lab 2 queries on sample data sets provided out of the box with ADW.
+## [Lab 2](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide2.md) 
+
+queries on sample data sets provided out of the box with ADW.
 
 You will run a basic query on the SSB data set which is a 1TB data set with one fact table with around 6 billion rows, and several dimension tables.
 
@@ -33,7 +37,7 @@ and lo_discount between 4 and 6
 and lo_quantity between 26 and 35;
 ```
 
-## Lab 3
+## [Lab 3](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide3.md)
 
 Configure OSS Classic in SQL Developer Connection
 Service Base URL: https://[Service Name]-[Identity Domain].storage.oraclecloud.com
@@ -48,7 +52,7 @@ https://objectstorage.<region_name>.oraclecloud.com/n/<tenant_name>/b/<bucket_na
 
 Base URL: https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o
 
-URL Path (URI): https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/channels.csv
+file URL Path (URI): https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/channels.csv
 
 OSS-admin-group-policy:
 Allow group Object-Upload-Group to manage object-family in compartment fawgroup
@@ -56,3 +60,5 @@ Allow group Object-Upload-Group to manage object-family in compartment fawgroup
 ossadmin Auth Token: n>kL9fi<-gZpGArNw(B2
 
 ## [Lab4](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide4.md)
+
+## [Lab5](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide5.md)
