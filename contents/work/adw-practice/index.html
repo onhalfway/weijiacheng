@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>ADW Practice - Jeff Wei分享站点</title>
+        <title>[ADW Practice](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=README.md) - Jeff Wei分享站点</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -81,14 +81,16 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#adw-practice">ADW Practice</a></li>
-            <li><a href="#db-connection">DB Connection</a></li>
-            <li><a href="#lab-2-queries-on-sample-data-sets-provided-out-of-the-box-with-adw">Lab 2 queries on sample data sets provided out of the box with ADW.</a></li>
+            <li><a href="#lab1">Lab1</a></li>
+            <li><a href="#lab-2">Lab 2</a></li>
             <li><a href="#lab-3">Lab 3</a></li>
+            <li><a href="#lab4">Lab4</a></li>
+            <li><a href="#lab5">Lab5</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="adw-practice">ADW Practice</h1>
+<h1 id="adw-practice"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=README.md">ADW Practice</a></h1>
 <ul>
 <li>Created: 2019/10/04</li>
 <li>Region: Seoul</li>
@@ -97,7 +99,8 @@
 <li>Password: Mi.....</li>
 <li>CPU Core: 2</li>
 </ul>
-<h2 id="db-connection">DB Connection</h2>
+<h2 id="lab1"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md">Lab1</a></h2>
+<p>DB Connection</p>
 <ul>
 <li>Download Client Credentials (Wallet)</li>
 <li>Connection Strings</li>
@@ -124,7 +127,8 @@
 </tr>
 </tbody>
 </table>
-<h2 id="lab-2-queries-on-sample-data-sets-provided-out-of-the-box-with-adw">Lab 2 queries on sample data sets provided out of the box with ADW.</h2>
+<h2 id="lab-2"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide2.md">Lab 2</a></h2>
+<p>queries on sample data sets provided out of the box with ADW.</p>
 <p>You will run a basic query on the SSB data set which is a 1TB data set with one fact table with around 6 billion rows, and several dimension tables.</p>
 <pre><code class="SQL">select c_city,c_region,count(*) from ssb.customer c_high group by c_region, c_city order by count(*);
 
@@ -136,14 +140,27 @@ and lo_discount between 4 and 6
 and lo_quantity between 26 and 35;
 </code></pre>
 
-<h2 id="lab-3">Lab 3</h2>
+<h2 id="lab-3"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide3.md">Lab 3</a></h2>
 <p>Configure OSS Classic in SQL Developer Connection
 Service Base URL: https://[Service Name]-[Identity Domain].storage.oraclecloud.com</p>
-<p>OSS on OCI
-https://objectstorage.<region_name>.oraclecloud.com/n/<tenant_name>/b/<bucket_name>/o/<filename></p>
+<ul>
+<li><a href="https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud&amp;id=CSWHU-GUID-07900054-CB65-490A-AF3C-39EF45505802">Loading Data from Files in the Cloud</a></li>
+<li>Note:Some tools like SQL*Plus and SQL Developer use the ampersand character (&amp;) as a special character. If you have the ampersand character in your password use the SET DEFINE OFF command in those tools as shown in the example to disable the special character and get the credential created properly.</li>
+<li>
+<p><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/dbms-cloud.html#GUID-742FC365-AA09-48A8-922C-1987795CF36A">CREATE_CREDENTIAL Procedure</a></p>
+</li>
+<li>
+<p><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/file-uri-formats.html#GUID-5D3E1614-ADF2-4DB5-B2B2-D5613F10E4FA">OCI OSS URI</a></p>
+</li>
+</ul>
+<p>https://objectstorage.<region_name>.oraclecloud.com/n/<tenant_name>/b/<bucket_name>/o/<filename></p>
+<p>Base URL: https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o</p>
+<p>file URL Path (URI): https://objectstorage.ap-seoul-1.oraclecloud.com/n/faworaclecloud02/b/ADWCLab/o/channels.csv</p>
 <p>OSS-admin-group-policy:
 Allow group Object-Upload-Group to manage object-family in compartment fawgroup</p>
-<p>ossadmin Auth Token: K6&amp;F::AfsrTO&gt;mw3pxJl</p></div>
+<p>ossadmin Auth Token: n&gt;kL9fi&lt;-gZpGArNw(B2</p>
+<h2 id="lab4"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide4.md">Lab4</a></h2>
+<h2 id="lab5"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide5.md">Lab5</a></h2></div>
         </div>
 
         <footer class="col-md-12">
