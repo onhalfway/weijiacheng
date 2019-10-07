@@ -81,11 +81,17 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#adw-practice">ADW Practice</a></li>
-            <li><a href="#lab1">Lab1</a></li>
-            <li><a href="#lab-2">Lab 2</a></li>
-            <li><a href="#lab-3">Lab 3</a></li>
-            <li><a href="#lab4">Lab4</a></li>
-            <li><a href="#lab5">Lab5</a></li>
+            <li><a href="#lab1-scaling-and-performance-in-autonomous-data-warehouse">Lab1: Scaling and Performance in Autonomous Data Warehouse</a></li>
+            <li><a href="#lab-2-getting-started-and-provisioning-a-new-autonomous-data-warehouse">Lab 2: Getting Started and Provisioning a New Autonomous Data Warehouse</a></li>
+            <li><a href="#lab-3-working-with-data-warehouse-services-and-the-free-sample-data-sets">Lab 3: Working with Data Warehouse Services and the Free Sample Data Sets</a></li>
+            <li><a href="#lab4-querying-external-data">Lab4: Querying External Data</a></li>
+            <li><a href="#lab5-querying-external-data">Lab5: Querying External Data</a></li>
+            <li><a href="#lab6-managing-and-monitoring-autonomous-data-warehouse-using-the-cloud-service-console">Lab6: Managing and Monitoring Autonomous Data Warehouse using the Cloud Service Console</a></li>
+            <li><a href="#lab7-managing-and-monitoring-autonomous-data-warehouse-using-the-cloud-service-console">Lab7: Managing and Monitoring Autonomous Data Warehouse using the Cloud Service Console</a></li>
+            <li><a href="#lab8-using-oracle-machine-learning-sql-notebooks">Lab8: Using Oracle Machine Learning SQL Notebooks</a></li>
+            <li><a href="#lab9-using-oracle-machine-learning-sql-notebooks">Lab9: Using Oracle Machine Learning SQL Notebooks</a></li>
+            <li><a href="#lab10-using-data-integration-tools-with-autonomous-data-warehouse">Lab10: Using Data Integration Tools with Autonomous Data Warehouse</a></li>
+            <li><a href="#learn-more-about-autonomous-data-warehouse">Learn More About Autonomous Data Warehouse...</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
@@ -99,7 +105,7 @@
 <li>Password: Mi.....</li>
 <li>CPU Core: 2</li>
 </ul>
-<h2 id="lab1"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md">Lab1</a></h2>
+<h2 id="lab1-scaling-and-performance-in-autonomous-data-warehouse"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide1.md">Lab1: Scaling and Performance in Autonomous Data Warehouse</a></h2>
 <p>DB Connection</p>
 <ul>
 <li>Download Client Credentials (Wallet)</li>
@@ -127,7 +133,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="lab-2"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide2.md">Lab 2</a></h2>
+<h2 id="lab-2-getting-started-and-provisioning-a-new-autonomous-data-warehouse"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide2.md">Lab 2: Getting Started and Provisioning a New Autonomous Data Warehouse</a></h2>
 <p>queries on sample data sets provided out of the box with ADW.</p>
 <p>You will run a basic query on the SSB data set which is a 1TB data set with one fact table with around 6 billion rows, and several dimension tables.</p>
 <pre><code class="SQL">select c_city,c_region,count(*) from ssb.customer c_high group by c_region, c_city order by count(*);
@@ -140,7 +146,7 @@ and lo_discount between 4 and 6
 and lo_quantity between 26 and 35;
 </code></pre>
 
-<h2 id="lab-3"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide3.md">Lab 3</a></h2>
+<h2 id="lab-3-working-with-data-warehouse-services-and-the-free-sample-data-sets"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide3.md">Lab 3: Working with Data Warehouse Services and the Free Sample Data Sets</a></h2>
 <p>Configure OSS Classic in SQL Developer Connection
 Service Base URL: https://[Service Name]-[Identity Domain].storage.oraclecloud.com</p>
 <ul>
@@ -159,8 +165,36 @@ Service Base URL: https://[Service Name]-[Identity Domain].storage.oraclecloud.c
 <p>OSS-admin-group-policy:
 Allow group Object-Upload-Group to manage object-family in compartment fawgroup</p>
 <p>ossadmin Auth Token: n&gt;kL9fi&lt;-gZpGArNw(B2</p>
-<h2 id="lab4"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide4.md">Lab4</a></h2>
-<h2 id="lab5"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide5.md">Lab5</a></h2></div>
+<h2 id="lab4-querying-external-data"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide4.md">Lab4: Querying External Data</a></h2>
+<h2 id="lab5-querying-external-data"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide5.md">Lab5: Querying External Data</a></h2>
+<h2 id="lab6-managing-and-monitoring-autonomous-data-warehouse-using-the-cloud-service-console"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide6.md">Lab6: Managing and Monitoring Autonomous Data Warehouse using the Cloud Service Console</a></h2>
+<h2 id="lab7-managing-and-monitoring-autonomous-data-warehouse-using-the-cloud-service-console"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide7.md">Lab7: Managing and Monitoring Autonomous Data Warehouse using the Cloud Service Console</a></h2>
+<h2 id="lab8-using-oracle-machine-learning-sql-notebooks"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide8.md">Lab8: Using Oracle Machine Learning SQL Notebooks</a></h2>
+<ul>
+<li><a href="https://livesql.oracle.com/apex/livesql/file/tutorial_EWB8G5JBSHAGM9FB2GL4V5CAQ.html">Sessionization with MATCH_RECOGNIZE and JSON</a>, on the free Oracle <a href="http://livesql.oracle.com/">livesql.oracle.com</a> site.</li>
+</ul>
+<h2 id="lab9-using-oracle-machine-learning-sql-notebooks"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide9.md">Lab9: Using Oracle Machine Learning SQL Notebooks</a></h2>
+<ul>
+<li><a href="https://docs.oracle.com/cd/E18283_01/appdev.112/e16760/d_datmin.htm">Machine Learning notebook using DBMS_DATA_MINING PL/SQL package</a></li>
+<li><a href="https://docs.oracle.com/en/database/oracle/oracle-database/18/dmapi/introduction-to-oracle-data-mining.html">Review the Oracle Database Data Mining documentation</a></li>
+</ul>
+<h2 id="lab10-using-data-integration-tools-with-autonomous-data-warehouse"><a href="https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=LabGuide10.md">Lab10: Using Data Integration Tools with Autonomous Data Warehouse</a></h2>
+<p>TODO</p>
+<ul>
+<li><a href="https://docs.oracle.com/en/cloud/paas/data-integration-platform-cloud/using/getting-started-data-integration-platform-cloud.html#GUID-72E6BAA9-260B-4098-90A8-D42B95FC9010">Getting Started with Oracle Data Integration Platform Cloud.</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/data-integration-platform-cloud/tutorial-create-dipc-instance-oci-classic/">Follow these instructions to provision the DIPC and DBCS services</a></li>
+<li>DIPC Governance Edition to include ODI, OGG, and EDQ in the deployment.</li>
+<li>the default CDB name of ORCL and the default PDB name of PDB1.</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/data-integration-platform-cloud/using/accessing-virtual-machine-secure-shell.html">connect to your DIPC service using your SSH key</a></li>
+</ul>
+<h2 id="learn-more-about-autonomous-data-warehouse">Learn More About Autonomous Data Warehouse...</h2>
+<p>Use these links to get more information about Oracle Autonomous Data Warehouse</p>
+<ol>
+<li><a href="https://www.oracle.com/database/data-warehouse/index.html">Oracle Autonomous Data Warehouse website</a></li>
+<li><a href="http://www.oracle.com/us/products/database/autonomous-dw-cloud-ipaper-3938921.pdf">Oracle Autonomous Data Warehouse ipaper</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/index.html">Oracle Autonomous Data Warehouse Documentation</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorials.html">Additional Autonomous Data Warehouse Tutorials</a></li>
+</ol></div>
         </div>
 
         <footer class="col-md-12">
