@@ -81,12 +81,57 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#dbcs-dba-oci">DBCS DBA OCI</a></li>
+            <li><a href="#api-key-pair">API Key Pair</a></li>
+            <li><a href="#lab-100-introduction">Lab 100 Introduction</a></li>
+            <li><a href="#lab-200-database-migration">Lab 200 Database Migration</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
 <h1 id="dbcs-dba-oci"><a href="https://oracle.github.io/learning-library/workshops/dbcs-dba-oci/">DBCS DBA OCI</a></h1>
-<p><a href="https://launch.oracle.com/?dbcs_dba">DBCS for DBA's Workshop</a></p></div>
+<ul>
+<li><a href="https://github.com/oracle/learning-library/tree/master/workshops/dbcs-dba-oci">Github Repository</a></li>
+<li><a href="https://launch.oracle.com/?dbcs_dba">DBCS for DBA's Workshop</a></li>
+</ul>
+<h2 id="api-key-pair">API Key Pair</h2>
+<p>Generate the api private and public keys (PEM format) for the api user. Also change permissions of the private key.</p>
+<pre><code class="shellscript">openssl genrsa -out d:/tf/keys/oci_api_key.pem 2048
+chmod go-rwx d:/tf/keys/oci_api_key.pem
+openssl rsa -pubout -in d:/tf/keys/oci_api_key.pem -out d:/tf/keys/oci_api_key_public.pem
+</code></pre>
+
+<h2 id="lab-100-introduction">Lab 100 Introduction</h2>
+<ul>
+<li><a href="http://www.oracle.com/technetwork/database/availability/oracle-cloud-backup-2162729.html">Oracle Backup Module</a></li>
+<li><a href="https://get.adobe.com/flashplayer/">Adobe Yum Repository</a></li>
+<li><a href="https://public-yum.oracle.com/public-yum-ol6.repo">Public yum ol6 repository</a></li>
+</ul>
+<p>ssh -o StrictHostKeyChecking=no -i /tmp/ws/privateKey opc@<Alpha01A-DBCS IP></p>
+<h3 id="set-up-cdb-connection-in-sql-developer">Set up CDB Connection in SQL Developer</h3>
+<p>u01/app/oracle/product/12.2.0.1/dbhome_1/sqldeveloper/sqldeveloper/bin/sqldeveloper</p>
+<p>Add a Local Port Forward via SSH connection in view panel of SQL Developer</p>
+<h3 id="access-enterprise-manager-db-express">Access Enterprise Manager DB Express</h3>
+<p>We will use tunneling to access the Enterprise M Express Console on DBCS, which is running EM Express on port 5500. We will tunnel using 5555 (an arbitrary open port). Open a terminal window and enter the following. Note - do NOT close the window after the tunnel is opened. Note you are entering BOTH the private and public IPs.</p>
+<p>ssh -o StrictHostKeyChecking=no -i /tmp/ws/privateKey -L 5555:<Private IP of Alpha01A-DBCS>:5500 opc@<Alpha01A-DBCS IP></p>
+<p>http://localhost:5555/em</p>
+<p>You may encounter a bug whereby the browser fails to fully open the web page. This is due to an adobe-flash bug with certain browsers. To resolve this go (while the browser is locked opening the page) to tools (top menu in the browser) and select tools &gt; Web Developer &gt; Debugger. You may need to first right click on the top of the page and select menu to view the menu.</p>
+<h2 id="lab-200-database-migration">Lab 200 Database Migration</h2>
+<ul>
+<li><a href="http://www.oracle.com/technetwork/database/database-appliance/documentation/oda-migration-strategies-1676870.pdf">Migration Strategies Document</a></li>
+</ul>
+<h3 id="use-cases">use cases</h3>
+<ul>
+<li>To use SQL Developer and command line tools to clone and move a pluggable database from your on-premises database (your Virtual Machine) to your cloud database.</li>
+<li>To use standard Oracle Data Pump tools to export a schema from the on-premises database, and then import that data to your cloud database in a new schema.</li>
+<li>To use RMAN to move a tablespace to the cloud.</li>
+</ul>
+<h3 id="objectives">Objectives</h3>
+<ol>
+<li>Hot clone a pluggable database from on-premise to the Cloud.</li>
+<li>Migrate a schema using Oracle Data Pump.</li>
+<li>Migrate data using a Transportable Tablespace.</li>
+<li>Copy data using Database Links.</li>
+</ol></div>
         </div>
 
         <footer class="col-md-12">
