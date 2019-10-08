@@ -5,7 +5,10 @@ Hans Christian Andersen
 - [ ] TODO: translation checking
 - teapot /ˈtiːpɑːt/ n. 茶壶
 - pot n. 壶；盆；罐
-- [wikipedia](https://en.wikipedia.org/wiki/The_Teapot)
+
+## [Plot summary](https://en.wikipedia.org/wiki/The_Teapot)
+
+A porcelain teapot rules the tea table. She is very proud of her handle and spout, but not quite so proud of her lid (which is cracked). She is very proud of holding the tea leaves and of being the one to pour forth her contents for thirsty humankind. One day, the teapot is dropped and the handle and spout are broken. She is given to a beggar woman who fills her with soil and plants a flowering bulb within her. The teapot then feels a happiness she has never known. At the last, the teapot is broken in two, the bulb removed to a bigger pot, and the teapot thrown away. She cherishes her memories.
 
 ## 正文 as is
 

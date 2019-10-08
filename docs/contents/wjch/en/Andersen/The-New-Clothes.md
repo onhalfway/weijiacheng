@@ -27,6 +27,10 @@
 - End
   - I learned we should be honest.
 
+## [Plot](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes)
+
+A vain emperor who cares too much about wearing and displaying clothes hires two weavers who claim to make the most beautiful clothes and elaborate patterns. The weavers are con-men who convince the emperor they are using a fine fabric invisible to anyone who is either unfit for his position or "hopelessly stupid". The con lies in that the weavers are actually only pretending to manufacture the clothes. Thus, no one, not even the emperor nor his ministers can see the alleged "clothes", but they all pretend that they can for fear of appearing unfit for their positions. Finally, the weavers report that the suit is finished and they mime dressing the emperor who then marches in procession before his subjects. The townsfolk uncomfortably go along with the pretense, not wanting to appear unfit for their positions or stupid. Finally, a child in the crowd blurts out that the emperor is wearing nothing at all and the cry is then taken up by others. The emperor realizes the assertion is true but continues the procession. 
+
 ---
 
 ## 正文 as is

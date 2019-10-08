@@ -83,8 +83,11 @@
 
 ## 政治视角
 
-- [CCTV - China Central Television](http://tv.cctv.com/)
-- [CCTV - 《向伟大复兴前进》 20191001 12:45](http://tv.cctv.com/2019/10/01/VIDEeXIOBCI7j4hKaqnUZEJY191001.shtml)
+- [CCTV-China Central Television](http://tv.cctv.com/)
+- [20190930烈士纪念日观](http://tv.cctv.com/2019/09/30/VIDEaGVTTLzX4ZRMRM5fGAIL190930.shtml)
+- [庆祝中华人民共和国成立70周年特别报道《向伟大复兴前进》20191001](http://tv.cctv.com/2019/09/25/VIDAqXJN0K4rDq7EEdiBrmTv190925.shtml)
+- [我们走在大路上](http://tv.cctv.com/2019/09/12/VIDAdDjCVSdc6tIexImN35RV190912.shtml)
+
 
 ## How to & FAQ
 
