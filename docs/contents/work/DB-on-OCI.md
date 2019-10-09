@@ -53,3 +53,5 @@ You may encounter a bug whereby the browser fails to fully open the web page. Th
 2. Migrate a schema using Oracle Data Pump.
 3. Migrate data using a Transportable Tablespace.
 4. Copy data using Database Links.
+
+Note that DBCS on OCI is using Automatic Storage Management (ASM).

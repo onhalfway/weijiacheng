@@ -222,6 +222,7 @@
 ## Social Practice
 
 - [北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
+- [](https://r.xiumi.us/board/v5/4qwRy/170511844)
 - [首都教育系统师生点燃国庆庆祝活动亮点](https://item.btime.com/231n6m9ddpnpmfsq3cpfg8fuig2)
 
 ## Work
