@@ -88,7 +88,6 @@
 - [庆祝中华人民共和国成立70周年特别报道《向伟大复兴前进》20191001](http://tv.cctv.com/2019/09/25/VIDAqXJN0K4rDq7EEdiBrmTv190925.shtml)
 - [我们走在大路上](http://tv.cctv.com/2019/09/12/VIDAdDjCVSdc6tIexImN35RV190912.shtml)
 
-
 ## How to & FAQ
 
 - [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
@@ -232,3 +231,4 @@
 ## Law
 
 - [legaltranz](http://www.legaltranz.com/archives/4403)
+- [wechat tools](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6701843156163363340&app_name=news_article)
