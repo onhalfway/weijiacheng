@@ -10,7 +10,7 @@
 
 - [书籍各部分名称](http://xh.5156edu.com/page/z9059m3355j20367.html)
 - [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
-- [数学符号](https://www.toutiao.com/a6747200402938167816)
+- [数学符号](../contents/math.md)
 
 ## 工具
 
