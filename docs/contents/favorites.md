@@ -6,9 +6,11 @@
   - 用户名为学生教育ID。用户密码为下发的初始密码：123456
   - 客服电话：18701540437   82817642
 
-## FAQ
+## How to & FAQ
 
 - [书籍各部分名称](http://xh.5156edu.com/page/z9059m3355j20367.html)
+- [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
+- [数学符号](https://www.toutiao.com/a6747200402938167816)
 
 ## 工具
 
@@ -31,6 +33,7 @@
 - [IDE - Eclipse](https://www.eclipse.org/)
 - [IDE - IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
+- [NetSarang](C:\Users\kehwei\AppData\Local\Temp\Patches\xshell.exe)
 - [calibre ebook reader](https://calibre-ebook.com/download_portable)
 - [百度短网址](http://dwz.cn/)
 - [字体转换](http://www.diyiziti.com/Builder/104)
@@ -80,6 +83,7 @@
 - [笔顺](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6739726881119011331&app_name=news_article)
 - [天干地支 chinese-era](chinese-era)
 - [初中历史](https://www.toutiao.com/i6739708954483360267)
+- [宋词320首](../chinese/Song-Poems)
 
 ## 政治视角
 
@@ -87,10 +91,6 @@
 - [20190930烈士纪念日观](http://tv.cctv.com/2019/09/30/VIDEaGVTTLzX4ZRMRM5fGAIL190930.shtml)
 - [庆祝中华人民共和国成立70周年特别报道《向伟大复兴前进》20191001](http://tv.cctv.com/2019/09/25/VIDAqXJN0K4rDq7EEdiBrmTv190925.shtml)
 - [我们走在大路上](http://tv.cctv.com/2019/09/12/VIDAdDjCVSdc6tIexImN35RV190912.shtml)
-
-## How to & FAQ
-
-- [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
 
 ## Study
 
@@ -176,6 +176,8 @@
 - [CLI](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [Python](https://github.com/TheAlgorithms/Python)
 - [linux command](https://github.com/jaywcjlove/linux-command)
+- [Linux Command](https://git.io/linux)
+- [Linux tools](https://www.toutiao.com/a6748381172096565768/)
 - [AI](https://github.com/apachecn/AiLearning)
 - [IAC](https://github.com/Artemmkin/infrastructure-as-code-tutorial)
 - [Ansible](https://github.com/turkenh/ansible-interactive-tutorial)
@@ -206,6 +208,10 @@
 
 - [FreeNetwork](https://github.com/xiaoming2028/FreeNetwork)
 - [SSR](https://github.com/ToyoDAdoubi/doubi)
+
+## DevOps
+
+- [Maven](https://www.toutiao.com/a6747200402938167816)
 
 ## Security
 

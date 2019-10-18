@@ -5,6 +5,7 @@ nav:
 #    - Home: index.html
     - 站点地图: contents
     - 首页: contents/home
+    - 数学: contents/math
     - 语文: contents/chinese
     - 英语: contents/english
     - 编程: contents/programming
