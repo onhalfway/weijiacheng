@@ -2,7 +2,7 @@
 
 ## Math Symbols
 
-| Symbols | English Name                               | Chinese Name                         |
+| Symbols | In English                                 | In Chinese                           |
 | ------- | ------------------------------------------ | ------------------------------------ |
 | +       | plus                                       | 加号；正号                           |
 | -       | minus                                      | 减号；负号                           |
