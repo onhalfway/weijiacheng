@@ -91,6 +91,7 @@
 - [20190930烈士纪念日观](http://tv.cctv.com/2019/09/30/VIDEaGVTTLzX4ZRMRM5fGAIL190930.shtml)
 - [庆祝中华人民共和国成立70周年特别报道《向伟大复兴前进》20191001](http://tv.cctv.com/2019/09/25/VIDAqXJN0K4rDq7EEdiBrmTv190925.shtml)
 - [我们走在大路上](http://tv.cctv.com/2019/09/12/VIDAdDjCVSdc6tIexImN35RV190912.shtml)
+- [学案-我们走在大路上](../home/history)
 
 ## Study
 
@@ -139,6 +140,8 @@
 
 ## Learn to Code
 
+- [TIOBE - The Software Quality Company](https://www.tiobe.com/tiobe-index/)
+- [The RedMonk Programming Language Rankings](https://redmonk.com/)
 - [MIT Scratch](https://scratch.mit.edu/)
 - [Anybody can learn | Code.org](https://code.org/)
 - [fun and practical web development tutorials](https://scotch.io/)
@@ -165,6 +168,14 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 - [YAML](https://yaml.org/)
+- [python爬虫防止IP被封](https://www.toutiao.com/a6749401774450278920)
+- [Python书籍](https://www.toutiao.com/a6749346603494015495)
+  - O'Reilly: High Performance Python
+  - Pearson: Core Python
+  - Python Playground
+  - PACKT: Python Machine Learning Blueprints
+  - WILEY: Machine Learning in Python
+  - PACKT: Python Data Science Cookbook
 
 ## ML/DL/AI
 
@@ -184,6 +195,15 @@
 - [Python](https://github.com/oracle/python-cx_Oracle)
 - [Block Chain](https://github.com/HyperLedgerChain)
 - [vagrant](https://github.com/oracle/vagrant-boxes)
+- [斯坦福课程CS230：Andrew Ng深度学习](https://www.bilibili.com/video/av47055599)
+- [秋季CS230视频列表](https://www.bilibili.com/video/av47055599)
+- [春季CS230课程大纲](http://cs230.stanford.edu/syllabus/)
+- [CS230配套小抄](https://stanford.edu/~shervine/teaching/cs-230.html)
+- [小抄的GitHub项目](https://github.com/afshinea/stanford-cs-230-deep-learning)
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning)
+- [AI免费公开课](https://www.toutiao.com/a6749387051038147086)
+- [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
+- [World-class learning](https://www.coursera.org/)
 
 ## SCM
 
@@ -238,8 +258,55 @@
 ## Work
 
 - [Oralce Database Blog](https://mikedietrichde.com/)
+- [jobs - indeed.com](https://www.indeed.com/)
+- [indeed.com](https://cn.indeed.com)
 
-## Law
+## 法律 Law
 
 - [legaltranz](http://www.legaltranz.com/archives/4403)
 - [wechat tools](https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/article.html?item_id=6701843156163363340&app_name=news_article)
+
+## 影视 Movie
+
+- [茶杯狐](https://www.cupfox.com/)
+- [磁力猫](https://www.clilimao.me)
+- [电影首发站](http://wwww.dysfz.vip)
+- [电影天堂](http://www.dytt8.net)
+- [美剧天堂](http://www.meijutt.com)
+- [动漫花园](https://share.dmhy.org)
+- [嘀哩嘀哩](http://www.dilidili.wang)
+
+### 音乐 Music
+
+- [listen1](http://listen1.github.io/listen1/)
+- [环球钢琴网](https://hqgq.com/song)
+
+### 图片 Picture
+
+- [花瓣网](http://huaban.com)
+- [别样网](https://www.ssyer.com/home)
+- [插画家园](http://www.13cg.com)
+- [Unsplash](https://unsplash.com)
+- [Pixabay](https://pixabay.com)
+- [Magdeleine](https://magdeleine.co)
+- [pexels](https://www.pexels.com)
+- [VisualHunt](https://visualhunt.com)
+
+## 学术
+
+- [虫部落](http://www.chongbuluo.com)
+- [安逸导航](https://anyi.life)
+- [论文搜索](http://www.ucdrs.superlib.net)
+- [技术元](http://51otech.com)
+- [沃客导航](http://dh.workersky.cn)
+
+## 磁力链接&种子
+
+- [阿狸磁力链接搜索](https://alicili.co)
+- [洋葱搜索](https://www.onionsearch.net)
+
+## 网盘搜索
+
+- [网盘搜索](http://www.3134.cc)
+- [胖次搜索](http://www.panc.cc)
+- [西林街](http://www.xilinjie.com)
