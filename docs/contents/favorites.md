@@ -1,5 +1,32 @@
 # 收藏夹
 
+- [收藏夹](#%e6%94%b6%e8%97%8f%e5%a4%b9)
+  - [中考](#%e4%b8%ad%e8%80%83)
+  - [通知](#%e9%80%9a%e7%9f%a5)
+  - [How to & FAQ](#how-to--faq)
+  - [工具](#%e5%b7%a5%e5%85%b7)
+  - [文史](#%e6%96%87%e5%8f%b2)
+  - [政治视角](#%e6%94%bf%e6%b2%bb%e8%a7%86%e8%a7%92)
+  - [Study](#study)
+  - [英文新闻网站](#%e8%8b%b1%e6%96%87%e6%96%b0%e9%97%bb%e7%bd%91%e7%ab%99)
+  - [School](#school)
+  - [Learn to Code](#learn-to-code)
+  - [ML/DL/AI](#mldlai)
+  - [SCM](#scm)
+  - [Github Repository](#github-repository)
+  - [DevOps](#devops)
+  - [Security](#security)
+  - [Olympic Competition](#olympic-competition)
+  - [Social Practice](#social-practice)
+  - [Work](#work)
+  - [法律 Law](#%e6%b3%95%e5%be%8b-law)
+  - [影视 Movie](#%e5%bd%b1%e8%a7%86-movie)
+    - [音乐 Music](#%e9%9f%b3%e4%b9%90-music)
+    - [图片 Picture](#%e5%9b%be%e7%89%87-picture)
+  - [学术](#%e5%ad%a6%e6%9c%af)
+  - [磁力链接&种子](#%e7%a3%81%e5%8a%9b%e9%93%be%e6%8e%a5%e7%a7%8d%e5%ad%90)
+  - [网盘搜索](#%e7%bd%91%e7%9b%98%e6%90%9c%e7%b4%a2)
+
 ## 中考
 
 - [2021北京中考改革方案解读](https://mp.weixin.qq.com/s?__biz=MjM5OTEzNTkxMw==&mid=2657995852&idx=1&sn=c37ad440abcff04b8cc05c5302aa2daf&chksm=bd59738a8a2efa9cf6d51c0dbd5afe4e975ab976843847d3e6bda9afc7de01cf7d2198baa68b&mpshare=1&scene=1&srcid=1019Dje77VCBNHCscFJpJPzV&sharer_sharetime=1571536246666&sharer_shareid=e3452fe4a2aa9057acf716c221f92496&key=cd599c7e68335d37af4c3f4af9d8639afe8962c2f5919d8605f68716cf097e11acc10cb19d2671cb711c952d17e16109536364500172db0a1c93d7838523d164cf6baf7fcf0554f8e1b47ee9d5ed61f4&ascene=1&uin=MTA2MzQyMzc4Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=JsybqgQDuUmGX4p0GI8BT2KKZN%2BJDnfrT%2F8yEs%2F%2B%2FMRIX6S5TLPm%2BZsQzCJB1jGI)
@@ -265,6 +292,10 @@
 - [Oralce Database Blog](https://mikedietrichde.com/)
 - [jobs - indeed.com](https://www.indeed.com/)
 - [indeed.com](https://cn.indeed.com)
+- [OOW 2019 Session Catalog](https://events.rainfocus.com/widget/oracle/oow19/catalogow19?)
+- [GoldenGate OOW 2019 Sessions](http://database.us.oracle.com/pls/htmldb/f?p=781:2:207811970609313:::2:P2_ID:43721586308052390936481510980055600709)
+- [ODI & EDQ Session](https://static.rainfocus.com/oracle/oow19/sess/1565132954491001KOHM/PF/PRO6543-ODI-EDQ-Roadmap_15689034477700018QRh.pdf)
+- [Data & AI Services OpenWorld 2019 Page](https://confluence.oci.oraclecorp.com/display/DAIS/OpenWorld+2019)
 
 ## 法律 Law
 
