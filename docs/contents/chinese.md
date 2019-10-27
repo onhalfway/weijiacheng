@@ -2,6 +2,10 @@
 
 - [语文学习方法](how-to)
 
+## 课文
+
+- [清代蒲松龄](pusongling)
+
 ## 笔记
 
 - [贴纸](notes-sticker)
