@@ -1,6 +1,8 @@
 # Caption of Charlotte’s Web 夏洛的网
 
-## [Duration 19' ~ 20'](ev002_Charlotte’s-Web.m4a)
+## [Duration 19' ~ 20'](https://github.com/onhalfway/weijiacheng/raw/master/grade7/03%E8%8B%B1%E8%AF%AD/ev002_Charlotte%E2%80%99s-Web.m4a)
+
+<audio src="https://github.com/onhalfway/weijiacheng/raw/master/grade7/03%E8%8B%B1%E8%AF%AD/ev002_Charlotte%E2%80%99s-Web.m4a" controls="controls"></audio>
 
 - Good night.Good night. Good night!
 - Good night.
