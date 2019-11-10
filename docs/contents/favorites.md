@@ -4,7 +4,7 @@
   - [中考](#%e4%b8%ad%e8%80%83)
   - [通知](#%e9%80%9a%e7%9f%a5)
   - [How to & FAQ](#how-to--faq)
-  - [工具](#%e5%b7%a5%e5%85%b7)
+  - [Tools工具](#tools%e5%b7%a5%e5%85%b7)
   - [文史](#%e6%96%87%e5%8f%b2)
   - [政治视角](#%e6%94%bf%e6%b2%bb%e8%a7%86%e8%a7%92)
   - [Study](#study)
@@ -21,6 +21,7 @@
   - [Work](#work)
   - [法律 Law](#%e6%b3%95%e5%be%8b-law)
   - [影视 Movie](#%e5%bd%b1%e8%a7%86-movie)
+    - [切尔诺贝利.Chernobyl](#%e5%88%87%e5%b0%94%e8%af%ba%e8%b4%9d%e5%88%a9chernobyl)
     - [音乐 Music](#%e9%9f%b3%e4%b9%90-music)
     - [图片 Picture](#%e5%9b%be%e7%89%87-picture)
   - [学术](#%e5%ad%a6%e6%9c%af)
@@ -44,8 +45,14 @@
 - [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
 - [数学符号](../contents/math.md)
 
-## 工具
+## Tools工具
 
+- [zoom us](https://zoom.us/)
+- [zoom cn](https://www.zoom.cn/download/gettingstarted/)
+- [zoom zh](https://www.zoom.cn/download/)
+- [zoom zh](https://ruanshi1.8686c.com/prod/4.5.5699.1027/zoom.apk)
+- [zoom en](https://www.zoom.cn/english/)
+- [zoom en](http://www.zoomus.cn/client/latest/zoom.apk)
 - [Firefox send - File Sharing](https://send.firefox.com/)
 - [Notes by Firefox](about:addons)
 - [mind map](https://www.mindmeister.com/)
@@ -296,6 +303,37 @@
 - [GoldenGate OOW 2019 Sessions](http://database.us.oracle.com/pls/htmldb/f?p=781:2:207811970609313:::2:P2_ID:43721586308052390936481510980055600709)
 - [ODI & EDQ Session](https://static.rainfocus.com/oracle/oow19/sess/1565132954491001KOHM/PF/PRO6543-ODI-EDQ-Roadmap_15689034477700018QRh.pdf)
 - [Data & AI Services OpenWorld 2019 Page](https://confluence.oci.oraclecorp.com/display/DAIS/OpenWorld+2019)
+- [DBCS](https://oracle.github.io/learning-library/workshops/dbcs-dba-oci/)
+- [无人值守一键安装Oracle APEX](https://mp.weixin.qq.com/s?__biz=MzU1NjY2NTIwOQ==&mid=2247483834&idx=1&sn=b5448410311c76d9a7942cd1132df198&key=36c87b07dfd5a2a03a6cd9e28c9b19352d8d7e08869e709b3212d47278f62af49fad4e3a785d6c3bdb1e7002539e844692eb2fbb5427eeb054a687c22b632b7a757257d925c078ef4434fe9ac9dfe0db&ascene=1&uin=MTA2MzQyMzc4Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=3Vtpe9d86LlyiXrAPBsbp2d9OIo8JinktPLkBTCegD8dl2w9u2U7zNYkBXVyo3it)
+- [OAC大屏](https://apex.oraclecorp.com/pls/apex/f?p=2018:130:19412553139087::NO:130:P130_ASSET_ID:92A59D9EFB60D205E0530E37548CCB5E)
+- [日校 第154讲：使用 Oracle APEX 快速开发企业应⽤, xiaoge.hu, 20190429, 已上传至Slack]()
+- [云日校 第172讲：SEHub Visual Studio Lab 介绍&ADW+OAC+Apex+Spatial POC 分享]()
+- [Oracle自治数据库和Oracle APEX](https://mp.weixin.qq.com/s?__biz=MzI3OTM3MDkyNg==&mid=2247488734&idx=1&sn=2088a74d40f955284e4d95fc8e44c3dc&chksm=eb49991fdc3e100983d739b75a5443e894855ee3977205d65a4fc5a6f01514c252a25cfb6c55&mpshare=1&scene=1&srcid=&sharer_sharetime=1570840413822&sharer_shareid=ddd5350621e869f775001ab5ca637864&key=f5935be8e3f9b86a8032be0afe1bd27de71828ecbfbe1029f630fbf63cc6706af285363750711b65f98c9f173854b3a8d3d07e588b72c1aec5760dae8185761e4e248639f0f1f8965d08964603d54a44&ascene=1&uin=MTA2MzQyMzc4Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=3Vtpe9d86LlyiXrAPBsbp2d9OIo8JinktPLkBTCegD8dl2w9u2U7zNYkBXVyo3it)
+  - [Oracle Store](https://shop.oracle.com)
+  - [Oracle Learning Library](https://www.oracle.com/oll)
+  - [Oracle Live SQL](https://LiveSQL.oracle.com)
+  - [Oracle Dev Gym](https://devgym.oracle.com )
+  - [Oracle Ask Tom](https://asktom.oracle.com)
+  - [Database Features](https://apex.oracle.com/database-features)
+  - [success-stories](https://apex.oracle.com/zh-cn/solutions/success-stories/)
+  - [官方课程](https://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-curriculum-4490003.html)
+  - [APEX 主页](https://apex.oracle.com/zh-cn/)
+  - [自治数据库 + APEX](	https://apex.oracle.com/zh-cn/platform/autonomous/)
+  - [APEX教程](https://apex.oracle.com/zh-cn/learn/tutorials/)
+  - [APEX社区](https://apex.oracle.com/zh-cn/community/)
+  - [APEX有用的链接](http://apex.oracle.com/shortcuts)
+  - [APEX learn](https://apex.oracle.com/en/learn/)
+  - [APEX Universal Theme](https://apex.oracle.com/ut)
+  - [APEX-HOL](https://www.oracle.com/technetwork/developer-tools/apex/application-express/apexexisting-tables-atp-hol-5586154.pdf)
+  - [APEX_Enablement_Training](https://oradocs-corp.documents.us2.oraclecloud.com/documents/fileview/DFCB95F1A661FE88051F767EF6C3FF17C1177A968060/_APEX_Enablement_Training_Cathy_2019-11-08.pptx)
+  - [access code:  apexgood](https://oradocs-corp.documents.us2.oraclecloud.com/documents/link/LF4480FE7B04F8509A04EEA2F6C3FF17C1177A968060/folder/FF01CAFAFB7FE57B26284771F6C3FF17C1177A968060/_APEX_Region_Training)
+  - [Creating a Data Load Wizard for Your Application](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/schema/50/Data_Load_Wizard/Data_Load_wizard.html)
+  - [Github OracleAPEX-Curriculum](https://github.com/ckoratam/OracleAPEX-Curriculum/tree/master/labs)
+  - [Github OracleAPEX-Curriculum](https://github.com/ckoratam/OracleAPEX-Curriculum)
+  - [workshops](https://github.com/ckoratam/OracleAPEX)
+  - [Developing Database Web Applications Hands-On-Labs Guide](https://oracle.github.io/learning-library/workshops/apex-en/?page=README.md)
+- [Create and Configure a Pluggable Database (PDB) in Oracle Database ](https://oracle-base.com/articles/12c/multitenant-create-and-configure-pluggable-database-12cr1#manual-create-pdb)
+- [浅谈数据仓库建设中的数据建模方法](https://www.ibm.com/developerworks/cn/data/library/techarticles/dm-0803zhousb/)
 
 ## 法律 Law
 
@@ -311,6 +349,14 @@
 - [美剧天堂](http://www.meijutt.com)
 - [动漫花园](https://share.dmhy.org)
 - [嘀哩嘀哩](http://www.dilidili.wang)
+
+### [切尔诺贝利.Chernobyl](https://www.meijutt.com/content/meiju24451.html)
+
+- [切尔诺贝利.Chernobyl.S01E01.中英字幕](ed2k://|file|%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9.Chernobyl.S01E01.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.v2.mp4|709293954|55cc599a61357c91dc34dfdd375b4175|h=tcussb4hvltlk5nqob55pnwlw3er35sv|/)
+- [切尔诺贝利.Chernobyl.S01E02.中英字幕](ed2k://|file|%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9.Chernobyl.S01E02.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.mp4|781662878|a3af1910df8b2883779fca7bbc1febad|h=gdyeawj4gvgz4klxzklpnl5aiu63ycdw|/)
+- [切尔诺贝利.Chernobyl.S01E03.中英字幕](ed2k://|file|%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9.Chernobyl.S01E03.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.mp4|771024904|9ba46749f3b01910f8c576f354481ffc|h=6il4b4lxba4223sbu5vnlzlk53jujemf|/)
+- [切尔诺贝利.Chernobyl.S01E04.中英字幕](ed2k://|file|%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9.Chernobyl.S01E04.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.mp4|813986068|a70bc106eed8a624e4f4376d94de0b12|h=eazerlmfdmtpqi7qahpc4bqosv6fqfns|/)
+- [切尔诺贝利.Chernobyl.S01E05.中英字幕](ed2k://|file|%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9.Chernobyl.S01E05.End.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.mp4|851030584|1a9c162cd04f30a8db8b8e7f0ead0499|h=47r3cozj4efkrsg3vlwizqyg33ryarlm|/)
 
 ### 音乐 Music
 
