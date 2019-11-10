@@ -48,6 +48,8 @@
 ## Tools工具
 
 - [zoom us](https://zoom.us/)
+- [zoom test](https://zoom.us/test)
+- [zoom test](https://zoom.us/j/859211847)
 - [zoom cn](https://www.zoom.cn/download/gettingstarted/)
 - [zoom zh](https://www.zoom.cn/download/)
 - [zoom zh](https://ruanshi1.8686c.com/prod/4.5.5699.1027/zoom.apk)
