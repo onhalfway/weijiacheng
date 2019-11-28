@@ -64,6 +64,7 @@
 - [downloader](https://www.internetdownloadmanager.com/)
 - [downloader](https://www.bittorrent.com)
 - [downloader](https://www.bitcomet.com)
+- [DownThemAll-Firefox add-on/Chrome extension]()
 - [Cmder | Console Emulator on Windows](https://cmder.net/)
 - [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 - [Unix-like environment](https://www.cygwin.com/)
@@ -292,7 +293,7 @@
 
 ## Social Practice
 
-- [北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
+- [volunteer-110105105148907-志愿者-北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
 - [](https://r.xiumi.us/board/v5/4qwRy/170511844)
 - [首都教育系统师生点燃国庆庆祝活动亮点](https://item.btime.com/231n6m9ddpnpmfsq3cpfg8fuig2)
 
