@@ -1,5 +1,7 @@
 # [mkdocs](https://www.mkdocs.org/#getting-started)
 
+open terminal `Ctrl + \``
+
 `mkdocs serve`
 
 `mkdocs build --help`

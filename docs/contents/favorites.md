@@ -27,6 +27,7 @@
   - [学术](#%e5%ad%a6%e6%9c%af)
   - [磁力链接&种子](#%e7%a3%81%e5%8a%9b%e9%93%be%e6%8e%a5%e7%a7%8d%e5%ad%90)
   - [网盘搜索](#%e7%bd%91%e7%9b%98%e6%90%9c%e7%b4%a2)
+  - [Driver](#driver)
 
 ## 中考
 
@@ -36,8 +37,9 @@
 ## 通知
 
 - [附件二：家长学习课程操作指南（新版）-20190828.docx](http://jzhxx.bjchyedu.cn)
-  - 用户名为学生教育ID。用户密码为下发的初始密码：123456
+  - 用户名为学生教育ID。用户密码为下发的初始密码：1-6
   - 客服电话：18701540437   82817642
+  - [2-class](https://www.2-class.com/)
 
 ## How to & FAQ
 
@@ -274,6 +276,7 @@
 ## DevOps
 
 - [Maven](https://www.toutiao.com/a6747200402938167816)
+- [SSH Proxy](work/SSH-Proxy.md)
 
 ## Security
 
@@ -376,6 +379,8 @@
 - [Magdeleine](https://magdeleine.co)
 - [pexels](https://www.pexels.com)
 - [VisualHunt](https://visualhunt.com)
+- [QRCode](https://www.qrcode-monkey.com/)
+- [Convert WebP to JPG](https://ezgif.com/webp-to-jpg)
 
 ## 学术
 
@@ -395,3 +400,8 @@
 - [网盘搜索](http://www.3134.cc)
 - [胖次搜索](http://www.panc.cc)
 - [西林街](http://www.xilinjie.com)
+
+## Driver
+
+- [HP Laser Jet M1005 MFP](h30318.www3.hp.com/pub/softlib/software12/COL51478/ma-124621-1/LJM1005_Full_Solution.exe)
+- 

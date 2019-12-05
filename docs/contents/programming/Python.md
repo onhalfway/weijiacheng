@@ -39,6 +39,8 @@
   - `mkdocs build --help`
   - `mkdocs build --clean`
 
+- [mkdocs-material](https://cyent.github.io/markdown-with-mkdocs-material/)
+
 - [Deploying your docs](https://www.mkdocs.org/user-guide/deploying-your-docs/)
   - For Github Project Pages
     - `cd cd my-project`

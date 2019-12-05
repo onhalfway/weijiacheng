@@ -12,3 +12,9 @@ nav:
     - 收藏: contents/favorites
 #theme: readthedocs
 #repo_url: https://github.com/onhalfway/weijiacheng
+
+extra:
+    search:
+        language: 'jp'
+# theme:
+#     language: 'zh'
