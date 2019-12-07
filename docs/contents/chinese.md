@@ -1,6 +1,7 @@
 # 语文
 
 - [语文学习方法](how-to)
+- [chinese notes](chinese-notes)
 
 ## 课文
 

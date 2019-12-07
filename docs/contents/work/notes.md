@@ -2,6 +2,7 @@
 
 - [TOC of Notes](#toc-of-notes)
   - [十大ISP服务商分为](#%e5%8d%81%e5%a4%a7isp%e6%9c%8d%e5%8a%a1%e5%95%86%e5%88%86%e4%b8%ba)
+  - [MacOS](#macos)
   - [tools](#tools)
   - [常见 DNS 记录的类型](#%e5%b8%b8%e8%a7%81-dns-%e8%ae%b0%e5%bd%95%e7%9a%84%e7%b1%bb%e5%9e%8b)
 
@@ -18,9 +19,20 @@
 - 中国国际经济贸易互联网（CIETNET）
 - 中国长城互联网（CGWNET）
 
+## MacOS
+
+MacOS->VS Code->Terminal
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+localhost:mypython kehuawei$
+
 ## tools
 
+- [what is my ip](https://www.whatismyip.com/)
+- [search ip](https://ipleak.com/)
 - [GeoIP](https://ip.cn/)
+- [baidu ip](http://www.ip138.com/)
 - [Deli Vault](http://www.nbdeli.com/service/down_search_list.php?id=13916)
 - [Deli Vault](deli-4055.pdf)
 - [Deli Vault](http://www.nbdeli.com/images/goods_file0/2019/09/15681863106151.pdf)
