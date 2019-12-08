@@ -85,8 +85,8 @@
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#mysql">MySQL</a></li>
             <li><a href="#install">install</a></li>
-        <li class="main "><a href="#re-initialize-mysql">re-initialize MySQL</a></li>
-        <li class="main "><a href="#todo-timestamp">TODO: TIMESTAMP</a></li>
+            <li><a href="#re-initialize-mysql">re-initialize MySQL</a></li>
+            <li><a href="#todo-timestamp">TODO: TIMESTAMP</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
@@ -96,6 +96,7 @@
 <li><a href="#mysql">MySQL</a></li>
 <li><a href="#install">install</a></li>
 <li><a href="#re-initialize-mysql">re-initialize MySQL</a></li>
+<li><a href="#todo-timestamp">TODO: TIMESTAMP</a></li>
 </ul>
 <h2 id="install">install</h2>
 <ul>
@@ -105,7 +106,8 @@
 <li><a href="https://dev.mysql.com/doc/refman/5.7/en/option-files.html">Option Files</a></li>
 <li>CMD run as Administrator</li>
 </ul>
-<pre><code class="cmd">c:\mysql-advanced-5.7.28-winx64&gt;type my.ini
+<pre><code class="cmd">
+c:\mysql-advanced-5.7.28-winx64&gt;type my.ini
 [client]
 # set default character set
 default-character-set=utf8
@@ -384,10 +386,11 @@ mysql&gt; show tables;
 1 row in set (0.00 sec)
 
 mysql&gt; exit
+
 </code></pre>
 
-<h1 id="re-initialize-mysql">re-initialize MySQL</h1>
-<p>```cmd run as administrator
+<h2 id="re-initialize-mysql">re-initialize MySQL</h2>
+<pre><code class="cmd">
 mysqladmin -uroot -p shutdown
 delete ${mysql-basedir}/data
 update my.ini
@@ -399,15 +402,9 @@ c:\mysql-advanced-5.7.28-winx64&gt;mysqld --defaults-file=C:\mysql-advanced-5.7.
 2019-12-07T14:51:23.218633Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 096f7d71-1901-11ea-8c29-02001700b379.
 2019-12-07T14:51:23.227709Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
 2019-12-07T14:51:24.693644Z 0 [Warning] CA certificate ca.pem is self signed.
-2019-12-07T14:51:25.311478Z 1 [Note] A temporary password is generated for root@localhost: 21,1goofymkZ</p>
-<h1 id="todo-timestamp">TODO: TIMESTAMP</h1>
-<p>date(yyyy-mm-dd)
-datetime(yyyy-mm-dd hh:mm:ss)
-timestamp(yyyymmddhhmmss)
-time(hh:mm:ss)</p>
-<p>append below into my.ini
-explicit_defaults_for_timestamp = 1</p>
-<p>c:\mysql-advanced-5.7.28-winx64&gt;bin/mysqld install
+2019-12-07T14:51:25.311478Z 1 [Note] A temporary password is generated for root@localhost: 21,1goofymkZ
+
+c:\mysql-advanced-5.7.28-winx64&gt;bin/mysqld install
 net start mysql
 mysql -uroot -p
 mysql&gt; ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
@@ -424,65 +421,115 @@ mysql&gt; show variables like '%character%';
 | character_set_system     | utf8                                            |
 | character_sets_dir       | C:\mysql-advanced-5.7.28-winx64\share\charsets\ |
 +--------------------------+-------------------------------------------------+
-8 rows in set (0.00 sec)</p>
-<p>mysql&gt; show global variables like '%timestamp%';
+8 rows in set (0.00 sec)
+
+mysql&gt; show global variables like '%timestamp%';
 +---------------------------------+-------+
 | Variable_name                   | Value |
 +---------------------------------+-------+
 | explicit_defaults_for_timestamp | OFF   |
 | log_timestamps                  | UTC   |
 +---------------------------------+-------+
-2 rows in set (0.00 sec)</p>
-<p>mysql&gt; set global explicit_defaults-for_timestamp=1;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-for_timestamp=1' at line 1</p>
-<p>mysql&gt; set global explicit_defaults_for_timestamp=1;
-Query OK, 0 rows affected (0.00 sec)</p>
-<p>mysql&gt; show global variables like '%timestamp%';
+2 rows in set (0.00 sec)
+
+mysql&gt; set global explicit_defaults-for_timestamp=1;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-for_timestamp=1' at line 1
+
+mysql&gt; set global explicit_defaults_for_timestamp=1;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql&gt; show global variables like '%timestamp%';
 +---------------------------------+-------+
 | Variable_name                   | Value |
 +---------------------------------+-------+
 | explicit_defaults_for_timestamp | ON    |
 | log_timestamps                  | UTC   |
 +---------------------------------+-------+
-2 rows in set (0.00 sec)</p>
-<p>mysql&gt;
+2 rows in set (0.00 sec)
+
+mysql&gt;
 mysql&gt; show databases;
 mysql&gt; create database mydb default character set=utf8;
-mysql&gt; use mydb;</p>
-<p>CREATE TABLE IF NOT EXISTS <code>user</code>(
-   <code>id</code> INT UNSIGNED AUTO_INCREMENT,
-   <code>username</code> VARCHAR(100) NOT NULL,
-   <code>password</code> VARCHAR(40) NOT NULL,
-   <code>nickname</code> VARCHAR(40) NOT NULL,
-   <code>submission_date</code> DATE,
-   PRIMARY KEY ( <code>id</code> )
-)ENGINE=InnoDB DEFAULT CHARSET=utf8;</p>
-<p>CREATE TABLE IF NOT EXISTS <code>blog</code>(
-   <code>id</code> INT UNSIGNED AUTO_INCREMENT,
-   <code>founder</code> VARCHAR(100) NOT NULL,
-   <code>title</code> VARCHAR(40) NOT NULL,
-   <code>label</code> VARCHAR(40) NOT NULL,
-   <code>submission_date</code> DATE,
-   PRIMARY KEY ( <code>id</code> )
-)ENGINE=InnoDB DEFAULT CHARSET=utf8;</p>
-<p>mysql&gt; show tables;
+mysql&gt; use mydb;
+
+
+CREATE TABLE IF NOT EXISTS `user`(
+   `id` INT UNSIGNED AUTO_INCREMENT,
+   `username` VARCHAR(100) NOT NULL,
+   `password` VARCHAR(40) NOT NULL,
+   `nickname` VARCHAR(40) NOT NULL,
+   `submission_date` DATE,
+   PRIMARY KEY ( `id` )
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE IF NOT EXISTS `blog`(
+   `id` INT UNSIGNED AUTO_INCREMENT,
+   `founder` VARCHAR(100) NOT NULL,
+   `title` VARCHAR(40) NOT NULL,
+   `label` VARCHAR(40) NOT NULL,
+   `submission_date` DATE,
+   PRIMARY KEY ( `id` )
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+mysql&gt; show tables;
 +----------------+
 | Tables_in_mydb |
 +----------------+
 | blog           |
 | user           |
 +----------------+
-2 rows in set (0.00 sec)</p>
-<p>mysql&gt;</p>
-<p>c:\mysql-advanced-5.7.28-winx64\bin&gt;sc start|stop|delete mysql
+2 rows in set (0.00 sec)
+
+mysql&gt;
+
+c:\mysql-advanced-5.7.28-winx64\bin&gt;sc start|stop|delete mysql
 c:\mysql-advanced-5.7.28-winx64\bin&gt;net start|stop mysql
-c:\mysql-advanced-5.7.28-winx64&gt;mysqld --console</p>
-<p>mysqladmin -u root shutdown
+c:\mysql-advanced-5.7.28-winx64&gt;mysqld --console
+
+mysqladmin -u root shutdown
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'root-password';
 CREATE USER 'root'@'127.0.0.1' IDENTIFIED BY 'root-password';
-CREATE USER 'root'@'::1' IDENTIFIED BY 'root-password';</p>
-<p>mysqladmin -u root password "new_password";
-```</p></div>
+CREATE USER 'root'@'::1' IDENTIFIED BY 'root-password';
+
+mysqladmin -u root password &quot;new_password&quot;;
+</code></pre>
+
+<h2 id="todo-timestamp">TODO: TIMESTAMP</h2>
+<pre><code class="cmd">date(yyyy-mm-dd)
+datetime(yyyy-mm-dd hh:mm:ss)
+timestamp(yyyymmddhhmmss)
+time(hh:mm:ss)
+
+append below into my.ini
+explicit_defaults_for_timestamp = 1
+
+
+mysql&gt; show global variables like '%timestamp%';
++---------------------------------+-------+
+| Variable_name                   | Value |
++---------------------------------+-------+
+| explicit_defaults_for_timestamp | OFF   |
+| log_timestamps                  | UTC   |
++---------------------------------+-------+
+2 rows in set (0.00 sec)
+
+mysql&gt; set global explicit_defaults-for_timestamp=1;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-for_timestamp=1' at line 1
+
+mysql&gt; set global explicit_defaults_for_timestamp=1;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql&gt; show global variables like '%timestamp%';
++---------------------------------+-------+
+| Variable_name                   | Value |
++---------------------------------+-------+
+| explicit_defaults_for_timestamp | ON    |
+| log_timestamps                  | UTC   |
++---------------------------------+-------+
+2 rows in set (0.00 sec)
+
+mysql&gt;
+</code></pre></div>
         </div>
 
         <footer class="col-md-12">
