@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>MySQL - Jeff Wei分享站点</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../../.."><img height="25px" src="/weijiacheng/img/bee.png">  Jeff Wei分享站点</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">站点地图</a>
+                            </li>
+                            <li >
+                                <a href="../../home">首页</a>
+                            </li>
+                            <li >
+                                <a href="../../math">数学</a>
+                            </li>
+                            <li >
+                                <a href="../../chinese">语文</a>
+                            </li>
+                            <li >
+                                <a href="../../english">英语</a>
+                            </li>
+                            <li >
+                                <a href="../../programming">编程</a>
+                            </li>
+                            <li >
+                                <a href="../../favorites">收藏</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#mysql">MySQL</a></li>
+            <li><a href="#install">install</a></li>
+        <li class="main "><a href="#re-initialize-mysql">re-initialize MySQL</a></li>
+        <li class="main "><a href="#todo-timestamp">TODO: TIMESTAMP</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="mysql">MySQL</h1>
+<ul>
+<li><a href="#mysql">MySQL</a></li>
+<li><a href="#install">install</a></li>
+<li><a href="#re-initialize-mysql">re-initialize MySQL</a></li>
+</ul>
+<h2 id="install">install</h2>
+<ul>
+<li><a href="https://edelivery.oracle.com/osdc/faces/Home.jspx">download mysql from Oracle Software Delivery Cloud</a></li>
+<li>V984050-01.zip MySQL Database 5.7.28 ZIP for Windows x86 (64bit)</li>
+<li><a href="https://www.runoob.com/mysql/mysql-tutorial.html">mysql tutorial</a></li>
+<li><a href="https://dev.mysql.com/doc/refman/5.7/en/option-files.html">Option Files</a></li>
+<li>CMD run as Administrator</li>
+</ul>
+<pre><code class="cmd">c:\mysql-advanced-5.7.28-winx64&gt;type my.ini
+[client]
+# set default character set
+default-character-set=utf8
+
+[mysqld]
+port = 3306
+character-set-server=utf8
+max_connections=20
+default-storage-engine=INNODB
+# set basedir to your installation path
+basedir=C:/mysql-advanced-5.7.28-winx64
+# set datadir to the location of your data directory
+datadir=C:/mysql-advanced-5.7.28-winx64/data
+
+c:\mysql-advanced-5.7.28-winx64&gt;
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqladmin -uroot -p
+mysqladmin  Ver 8.42 Distrib 5.7.28, for Win64 on x86_64
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Administration program for the mysqld daemon.
+Usage: mysqladmin [OPTIONS] command command....
+
+Default options are read from the following files in the given order:
+C:\Windows\my.ini C:\Windows\my.cnf C:\my.ini C:\my.cnf C:\mysql-advanced-5.7.28-winx64\my.ini C:\mysql-advanced-5.7.28-winx64\my.cnf
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqladmin -uroot -p status
+Enter password: ****
+mysqladmin: connect to server at 'localhost' failed
+error: 'Can't connect to MySQL server on 'localhost' (10061)'
+Check that mysqld is running on localhost and that the port is 3306.
+You can check this by doing 'telnet localhost 3306'
+
+c:\mysql-advanced-5.7.28-winx64&gt;
+
+c:\mysql-advanced-5.7.28-winx64\bin&gt;mysqld --defaults-file=C:\mysql-advanced-5.7.28-winx64\my.ini --initialize --console
+2019-12-07T13:03:30.953850Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-12-07T13:03:31.452986Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2019-12-07T13:03:31.560614Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2019-12-07T13:03:31.656473Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: f8157336-18f1-11ea-8ce9-02001700b379.
+2019-12-07T13:03:31.665266Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2019-12-07T13:03:33.948596Z 0 [Warning] CA certificate ca.pem is self signed.
+2019-12-07T13:03:34.941072Z 1 [Note] A temporary password is generated for root@localhost: MXe&amp;CimJg2gD
+
+c:\mysql-advanced-5.7.28-winx64\bin&gt;
+c:\mysql-advanced-5.7.28-winx64&gt;mysqld install
+Service successfully installed.
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqlshow
+mysqlshow: Can't connect to MySQL server on 'localhost' (10061)
+
+c:\mysql-advanced-5.7.28-winx64&gt;net start mysql
+The MySQL service is starting.
+The MySQL service was started successfully.
+
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqlshow
+mysqlshow: Access denied for user 'ODBC'@'localhost' (using password: NO)
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqladmin version
+mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'ODBC'@'localhost' (using password: NO)'
+
+c:\mysql-advanced-5.7.28-winx64&gt;
+c:\mysql-advanced-5.7.28-winx64&gt;mysql -u root -p
+Enter password: ************
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqladmin -u root -p version
+Enter password: ************
+mysqladmin: connect to server at 'localhost' failed
+error: 'Your password has expired. To log in you must change it using a client that supports expired passwords.'
+
+c:\mysql-advanced-5.7.28-winx64&gt;ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
+'ALTER' is not recognized as an internal or external command,
+operable program or batch file.
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysql -u root -p
+Enter password: ************
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 6
+Server version: 5.7.28-enterprise-commercial-advanced
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql&gt; ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
+Query OK, 0 rows affected (0.00 sec)
+
+mysql&gt; exit
+Bye
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysql -u root -p
+Enter password: ****
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 7
+Server version: 5.7.28-enterprise-commercial-advanced MySQL Enterprise Server - Advanced Edition (Commercial)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql&gt; exit
+Bye
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqladmin -u root -p version
+Enter password: ****
+mysqladmin  Ver 8.42 Distrib 5.7.28, for Win64 on x86_64
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Server version          5.7.28-enterprise-commercial-advanced
+Protocol version        10
+Connection              localhost via TCP/IP
+TCP port                3306
+Uptime:                 10 min 53 sec
+
+Threads: 1  Questions: 10  Slow queries: 0  Opens: 106  Flush tables: 1  Open tables: 99  Queries per second avg: 0.015
+
+c:\mysql-advanced-5.7.28-winx64&gt;
+c:\mysql-advanced-5.7.28-winx64&gt;mysqlshow version
+mysqlshow: Access denied for user 'ODBC'@'localhost' (using password: NO)
+
+c:\mysql-advanced-5.7.28-winx64&gt;
+c:\mysql-advanced-5.7.28-winx64&gt;mysqlshow -u root
+mysqlshow: Access denied for user 'root'@'localhost' (using password: NO)
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqlshow -u root -p
+Enter password: ****
++--------------------+
+|     Databases      |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysqlshow -u root -p mysql
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysql -u root -p -e &quot;SELECT User, Host, plugin FROM mysql.user&quot; mysql
+Enter password: ****
++---------------+-----------+-----------------------+
+| User          | Host      | plugin                |
++---------------+-----------+-----------------------+
+| root          | localhost | mysql_native_password |
+| mysql.session | localhost | mysql_native_password |
+| mysql.sys     | localhost | mysql_native_password |
++---------------+-----------+-----------------------+
+
+c:\mysql-advanced-5.7.28-winx64&gt;
+c:\mysql-advanced-5.7.28-winx64&gt;mysql -u root -p
+Enter password: ****
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 17
+Server version: 5.7.28-enterprise-commercial-advanced MySQL Enterprise Server - Advanced Edition (Commercial)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql&gt; SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+4 rows in set (0.00 sec)
+
+mysql&gt;
+mysql&gt; SELECT User, Host, plugin FROM mysql.user;
++---------------+-----------+-----------------------+
+| User          | Host      | plugin                |
++---------------+-----------+-----------------------+
+| root          | localhost | mysql_native_password |
+| mysql.session | localhost | mysql_native_password |
+| mysql.sys     | localhost | mysql_native_password |
++---------------+-----------+-----------------------+
+3 rows in set (0.00 sec)
+
+mysql&gt;exit
+c:\mysql-advanced-5.7.28-winx64&gt;mysqladmin -uroot -p shutdown
+Enter password: ****
+
+c:\mysql-advanced-5.7.28-winx64&gt;
+c:\mysql-advanced-5.7.28-winx64&gt;net start mysql
+The MySQL service is starting.
+The MySQL service was started successfully.
+
+
+c:\mysql-advanced-5.7.28-winx64&gt;mysql -uroot -p
+
+mysql&gt; create database mydb default character set=utf8;
+mysql&gt; create DATABASE mydb;
+Query OK, 1 row affected (0.00 sec)
+
+mysql&gt; show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mydb               |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.00 sec)
+
+mysql&gt;
+mysql&gt; show variables like '%character%';
++--------------------------+-------------------------------------------------+
+| Variable_name            | Value                                           |
++--------------------------+-------------------------------------------------+
+| character_set_client     | gbk                                             |
+| character_set_connection | gbk                                             |
+| character_set_database   | latin1                                          |
+| character_set_filesystem | binary                                          |
+| character_set_results    | gbk                                             |
+| character_set_server     | latin1                                          |
+| character_set_system     | utf8                                            |
+| character_sets_dir       | C:\mysql-advanced-5.7.28-winx64\share\charsets\ |
++--------------------------+-------------------------------------------------+
+8 rows in set (0.00 sec)
+
+mysql&gt;
+mysql&gt; CREATE TABLE IF NOT EXISTS `user`(
+    -&gt;    `id` INT UNSIGNED AUTO_INCREMENT,
+    -&gt;    `username` VARCHAR(100) NOT NULL,
+    -&gt;    `password` VARCHAR(40) NOT NULL,
+    -&gt;    `nickname` VARCHAR(40) NOT NULL,
+    -&gt;    `submission_date` DATE,
+    -&gt;    PRIMARY KEY ( `id` )
+    -&gt; )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+ERROR 1046 (3D000): No database selected
+mysql&gt; use mydb;
+Database changed
+mysql&gt; CREATE TABLE IF NOT EXISTS `user`(
+    -&gt;    `id` INT UNSIGNED AUTO_INCREMENT,
+    -&gt;    `username` VARCHAR(100) NOT NULL,
+    -&gt;    `password` VARCHAR(40) NOT NULL,
+    -&gt;    `nickname` VARCHAR(40) NOT NULL,
+    -&gt;    `submission_date` DATE,
+    -&gt;    PRIMARY KEY ( `id` )
+    -&gt; )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+Query OK, 0 rows affected (0.06 sec)
+
+mysql&gt; show tables;
++----------------+
+| Tables_in_mydb |
++----------------+
+| user           |
++----------------+
+1 row in set (0.00 sec)
+
+mysql&gt; exit
+</code></pre>
+
+<h1 id="re-initialize-mysql">re-initialize MySQL</h1>
+<p>```cmd run as administrator
+mysqladmin -uroot -p shutdown
+delete ${mysql-basedir}/data
+update my.ini
+mysqld --defaults-file=C:\mysql-advanced-5.7.28-winx64\my.ini --initialize --console
+c:\mysql-advanced-5.7.28-winx64&gt;mysqld --defaults-file=C:\mysql-advanced-5.7.28-winx64\my.ini --initialize --console
+2019-12-07T14:51:22.516039Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-12-07T14:51:23.004421Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2019-12-07T14:51:23.121320Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2019-12-07T14:51:23.218633Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 096f7d71-1901-11ea-8c29-02001700b379.
+2019-12-07T14:51:23.227709Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2019-12-07T14:51:24.693644Z 0 [Warning] CA certificate ca.pem is self signed.
+2019-12-07T14:51:25.311478Z 1 [Note] A temporary password is generated for root@localhost: 21,1goofymkZ</p>
+<h1 id="todo-timestamp">TODO: TIMESTAMP</h1>
+<p>date(yyyy-mm-dd)
+datetime(yyyy-mm-dd hh:mm:ss)
+timestamp(yyyymmddhhmmss)
+time(hh:mm:ss)</p>
+<p>append below into my.ini
+explicit_defaults_for_timestamp = 1</p>
+<p>c:\mysql-advanced-5.7.28-winx64&gt;bin/mysqld install
+net start mysql
+mysql -uroot -p
+mysql&gt; ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
+mysql&gt; show variables like '%character%';
++--------------------------+-------------------------------------------------+
+| Variable_name            | Value                                           |
++--------------------------+-------------------------------------------------+
+| character_set_client     | utf8                                            |
+| character_set_connection | utf8                                            |
+| character_set_database   | utf8                                            |
+| character_set_filesystem | binary                                          |
+| character_set_results    | utf8                                            |
+| character_set_server     | utf8                                            |
+| character_set_system     | utf8                                            |
+| character_sets_dir       | C:\mysql-advanced-5.7.28-winx64\share\charsets\ |
++--------------------------+-------------------------------------------------+
+8 rows in set (0.00 sec)</p>
+<p>mysql&gt; show global variables like '%timestamp%';
++---------------------------------+-------+
+| Variable_name                   | Value |
++---------------------------------+-------+
+| explicit_defaults_for_timestamp | OFF   |
+| log_timestamps                  | UTC   |
++---------------------------------+-------+
+2 rows in set (0.00 sec)</p>
+<p>mysql&gt; set global explicit_defaults-for_timestamp=1;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-for_timestamp=1' at line 1</p>
+<p>mysql&gt; set global explicit_defaults_for_timestamp=1;
+Query OK, 0 rows affected (0.00 sec)</p>
+<p>mysql&gt; show global variables like '%timestamp%';
++---------------------------------+-------+
+| Variable_name                   | Value |
++---------------------------------+-------+
+| explicit_defaults_for_timestamp | ON    |
+| log_timestamps                  | UTC   |
++---------------------------------+-------+
+2 rows in set (0.00 sec)</p>
+<p>mysql&gt;
+mysql&gt; show databases;
+mysql&gt; create database mydb default character set=utf8;
+mysql&gt; use mydb;</p>
+<p>CREATE TABLE IF NOT EXISTS <code>user</code>(
+   <code>id</code> INT UNSIGNED AUTO_INCREMENT,
+   <code>username</code> VARCHAR(100) NOT NULL,
+   <code>password</code> VARCHAR(40) NOT NULL,
+   <code>nickname</code> VARCHAR(40) NOT NULL,
+   <code>submission_date</code> DATE,
+   PRIMARY KEY ( <code>id</code> )
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;</p>
+<p>CREATE TABLE IF NOT EXISTS <code>blog</code>(
+   <code>id</code> INT UNSIGNED AUTO_INCREMENT,
+   <code>founder</code> VARCHAR(100) NOT NULL,
+   <code>title</code> VARCHAR(40) NOT NULL,
+   <code>label</code> VARCHAR(40) NOT NULL,
+   <code>submission_date</code> DATE,
+   PRIMARY KEY ( <code>id</code> )
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;</p>
+<p>mysql&gt; show tables;
++----------------+
+| Tables_in_mydb |
++----------------+
+| blog           |
+| user           |
++----------------+
+2 rows in set (0.00 sec)</p>
+<p>mysql&gt;</p>
+<p>c:\mysql-advanced-5.7.28-winx64\bin&gt;sc start|stop|delete mysql
+c:\mysql-advanced-5.7.28-winx64\bin&gt;net start|stop mysql
+c:\mysql-advanced-5.7.28-winx64&gt;mysqld --console</p>
+<p>mysqladmin -u root shutdown
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'root-password';
+CREATE USER 'root'@'127.0.0.1' IDENTIFIED BY 'root-password';
+CREATE USER 'root'@'::1' IDENTIFIED BY 'root-password';</p>
+<p>mysqladmin -u root password "new_password";
+```</p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="/weijiacheng/img/bee.png"></a> website, Powered by Jeff Wei.</p>
+        </footer>
+        <script>
+            var base_url = "../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../js/base.js" defer></script>
+        <script src="../../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

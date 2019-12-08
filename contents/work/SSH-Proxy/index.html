@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>用 SSH 搭建一个简单代理服务器 - Jeff Wei分享站点</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../../.."><img height="25px" src="/weijiacheng/img/bee.png">  Jeff Wei分享站点</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">站点地图</a>
+                            </li>
+                            <li >
+                                <a href="../../home">首页</a>
+                            </li>
+                            <li >
+                                <a href="../../math">数学</a>
+                            </li>
+                            <li >
+                                <a href="../../chinese">语文</a>
+                            </li>
+                            <li >
+                                <a href="../../english">英语</a>
+                            </li>
+                            <li >
+                                <a href="../../programming">编程</a>
+                            </li>
+                            <li >
+                                <a href="../../favorites">收藏</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#ssh">用 SSH 搭建一个简单代理服务器</a></li>
+            <li><a href="#_1">概述</a></li>
+            <li><a href="#ssh_1">SSH端口转发</a></li>
+            <li><a href="#_6">端口转发实践</a></li>
+            <li><a href="#_10">结束语</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="ssh">用 SSH 搭建一个简单代理服务器</h1>
+<p>TOC</p>
+<ul>
+<li><a href="#%e7%94%a8-ssh-%e6%90%ad%e5%bb%ba%e4%b8%80%e4%b8%aa%e7%ae%80%e5%8d%95%e4%bb%a3%e7%90%86%e6%9c%8d%e5%8a%a1%e5%99%a8">用 SSH 搭建一个简单代理服务器</a></li>
+<li><a href="#%e6%a6%82%e8%bf%b0">概述</a></li>
+<li><a href="#ssh%e7%ab%af%e5%8f%a3%e8%bd%ac%e5%8f%91">SSH端口转发</a><ul>
+<li><a href="#%e7%ab%af%e5%8f%a3%e8%bd%ac%e5%8f%91%e5%88%86%e7%b1%bb">端口转发分类</a></li>
+<li><a href="#%e6%9c%ac%e5%9c%b0%e7%ab%af%e5%8f%a3%e8%bd%ac%e5%8f%91">本地端口转发</a></li>
+<li><a href="#%e8%bf%9c%e7%a8%8b%e7%ab%af%e5%8f%a3%e8%bd%ac%e5%8f%91">远程端口转发</a></li>
+<li><a href="#%e5%8a%a8%e6%80%81%e7%ab%af%e5%8f%a3%e8%bd%ac%e5%8f%91">动态端口转发</a></li>
+</ul>
+</li>
+<li><a href="#%e7%ab%af%e5%8f%a3%e8%bd%ac%e5%8f%91%e5%ae%9e%e8%b7%b5">端口转发实践</a><ul>
+<li><a href="#%e9%98%b2%e7%81%ab%e5%a2%99%e7%a9%bf%e9%80%8f">防火墙穿透</a></li>
+<li><a href="#%e7%ae%80%e5%8d%95%e7%9a%84%e4%bb%a3%e7%90%86%e6%9c%8d%e5%8a%a1%e5%99%a8">简单的代理服务器</a></li>
+<li><a href="#todo">TODO</a></li>
+<li><a href="#%e5%86%85%e7%bd%91%e7%a9%bf%e9%80%8f">内网穿透</a></li>
+</ul>
+</li>
+<li><a href="#%e7%bb%93%e6%9d%9f%e8%af%ad">结束语</a></li>
+</ul>
+<h2 id="_1">概述</h2>
+<p>问题：</p>
+<ol>
+<li>所在网路因防火墙限制，导致一些协议、端口不能使用。</li>
+<li>想用 VPN ，但配置太麻烦。</li>
+<li>不通过 VPN ，想从公司访问家庭网络，或在家访问公司网络等。</li>
+</ol>
+<p>如果你有遇到过上面的这些情况，本文会给你提供一种简单的解决方法。</p>
+<h2 id="ssh_1">SSH端口转发</h2>
+<p>SSH 端口转发是 SSH 提供的一种机制，通过 Server 和 Client 之间的加密连接中继其它端口的流量。因为连接是加密的，所以对于传输使用未加密协议（如IMAP、VNC或IRC）的信息非常有用。</p>
+<h3 id="_2">端口转发分类</h3>
+<p>SSH 端口转发一般分为两类：</p>
+<ol>
+<li>本地端口转发</li>
+<li>远程端口转发</li>
+</ol>
+<h3 id="_3">本地端口转发</h3>
+<p>本地端口转发的作用是把 Client 的某个端口的流量通过 SSH 连接转发到 Server ，如图1所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-1.webp" /></p>
+<p>图1 本地端口转发</p>
+<p>命令格式如下：</p>
+<pre><code class="bash">ssh -L &lt;local port&gt;:&lt;remote host&gt;:&lt;remote port&gt; &lt;SSH hostname&gt;
+</code></pre>
+
+<p>假设 Client 地址是 192.168.111.2，Server 地址是 192.168.111.3。在Client 端执行如下命令：</p>
+<pre><code class="shellscript">root@client $ ssh -L 2222:localhost:22 192.168.111.3
+</code></pre>
+
+<p>通过上面的命令连接上 Server 后，即实现了本地端口转发。只要在 Client 上连接本地的 2222 端口等同于连接 Server 的 22 端口，如下两条命令是等价的，均是连接 Server 的 22 端口：</p>
+<pre><code class="shellscript">root@client $ ssh 127.0.0.1 -p 2222
+root@client $ ssh 192.168.111.3 -p 22
+</code></pre>
+
+<p>但是这儿有个问题，就是 Client 的 2222 端口是监听在 lo 接口上的，因此只有 Client 可以连接，为了让其他主机也可以连接 Client 的 2222 端口，上面的命令需要加一个 -g 参数。</p>
+<pre><code class="shellscript">root@client $ ssh -gL 2222:localhost:22 192.168.111.3
+</code></pre>
+
+<p>这样外部其他主机也可以连接 Client 的 2222 端口了。</p>
+<h3 id="_4">远程端口转发</h3>
+<p>与本地端口转发相对应的是远程端口转发，其作用是把 Server 的某个端口的流量通过 SSH 连接转发到 Client ，如图2所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-2.webp" /></p>
+<p>图2 远程端口转发</p>
+<p>命令格式如下：</p>
+<pre><code class="shellscript">ssh -R &lt;remote port&gt;:&lt;local host&gt;:&lt;local port&gt; &lt;SSH hostname&gt;
+</code></pre>
+
+<p>Client 上执行如下命令：</p>
+<pre><code class="shellscript">root@client $ ssh -R 2222:localhost:22 192.168.111.3
+</code></pre>
+
+<p>连接 Server 后，远程端口转发生效。此时在 Server 上连接本地的 2222 端口等同于连接 Client 的 22 端口，如下两条命令是等价的，均是连接 Client 的 22 端口：</p>
+<pre><code class="shellscript">root@server $ ssh 127.0.0.1 -p 2222
+root@server $ ssh 192.168.111.2 -p 22
+</code></pre>
+
+<p>与本地端口转发不同，远程端口转发不能通过设置 -g 选项使外部主机连接 Server 的 2222 端口。</p>
+<h3 id="_5">动态端口转发</h3>
+<p>另外除了本地端口转发和远程端口转发外，还有一个更方便的动态端口转发。与本地端口转发和远程端口转发把流量转发到某个固定主机的固定端口不同，动态端口转发是根据数据包的目的IP和目的端口实现动态转发的，工作机制类似于代理，如图3所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-3.webp" /></p>
+<p>图3 动态端口转发</p>
+<p>命令格式如下：</p>
+<pre><code class="shellscript">ssh -D &lt;local port&gt; &lt;SSH hostname&gt;
+</code></pre>
+
+<p>Client 上执行如下命令：</p>
+<pre><code class="shellscript">root@client $ ssh -D 1080 192.168.111.3
+</code></pre>
+
+<p>为了让外部机器也可以连接，需要添加-g 参数：</p>
+<pre><code class="shellscript">root@client $ ssh -gD 1080 192.168.111.3
+</code></pre>
+
+<p>如此，发往 Client 1080 端口的数据包将通过 SSH 连接发往 Server ，并在 Server 上重新发起请求。</p>
+<h2 id="_6">端口转发实践</h2>
+<p>经过上面对 SSH 端口转发的介绍，了解了其基本用法。接下来我们着手解决文章开始列出的那几个问题。</p>
+<h3 id="_7">防火墙穿透</h3>
+<p>假设现在有 A、B、C 三台服务器，C 服务器提供 MySQL 服务，并且防火墙限制只信任来自 B 服务器的流量，其他任何主机均拒绝访问任何端口。有时为了测试需要临时从 A 访问，此时如果修改防火墙策略的话会有些麻烦，还需要测试完后恢复。如果用 SSH 本地端口转发的话，一条命令就解决了，当测试完成后断开此连接即可恢复，此情况如图4所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-4.webp" /></p>
+<p>图4 本地端口转发实例</p>
+<p>命令如下：</p>
+<pre><code class="shellscript">root@A ssh -gL 3306:192.168.111.4:3306 192.168.111.3 -p 22
+</code></pre>
+
+<p>现在即可通过连接 A 服务器的 3306 端口，访问 C 服务的MySQL 服务了。</p>
+<h3 id="_8">简单的代理服务器</h3>
+<p>在你用公共 WiFi 上网时，指不定有什么人在窥探你的数据包。为了保护自己的隐私，VPN 是一个很好的选择，但 VPN 配置有点麻烦，对于一些新手来说有点难度。此时通过 SSH 动态端口转发可以实现和 VPN 类似的效果。</p>
+<p>为了用此功能，你首先需要一台有公网 IP 的服务器及 SSH 登陆权限。</p>
+<p>接下来就是客户端的配置，此处以 Windows 为例（需要 SSH 连接工具 Putty ），配置如图5所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-5.webp" /></p>
+<p>图5 Putty 配置</p>
+<p>配置好点 open ，输入账号密码登陆即可。现在一个简单的代理服务已经运行起来了。接下来是浏览器的配置，这里以 Chrome 为例，配置如图6所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-6.webp" /></p>
+<p>图6 浏览器配置</p>
+<p>这里我用到了一个很好用的 Chrome 插件 “SwitchyOmega”，用于设置浏览器的代理。用其他代理插件或 Windows 自带的代理设置也是同样的配置：</p>
+<pre><code class="text">Proto: socks
+Server: 127.0.0.1
+Port: 1080
+</code></pre>
+
+<p>浏览器配置好后，在百度中搜索“IP”，即可看到我们的 IP 已经变成上面连接的那台服务器的地址了，如图7所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-7.webp" /></p>
+<p>图7 代理测试</p>
+<h4 id="todo">TODO</h4>
+<pre><code class="shellscript">$ curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
+</code></pre>
+
+<p>curl测试成功，Firefox可以通过Manual proxy configuration方式连接，Chrome可以通过插件 “Proxy SwitchyOmega”方式连接。但是Firefox和Chrome无法通过system proxy方式连接。</p>
+<h3 id="_9">内网穿透</h3>
+<p>随着 IPv4 地址的枯竭，对于家庭用户而言很难获得一个公网 IP 地址，就我自己家的宽带来说，每次拨号只能获得一个私有 IP 地址。此时如果想在公司访问家庭网络的话，很难实现。</p>
+<p>如果你有一台拥有公网 IP 的主机及 SSH 权限的话，上面的情况将迎刃而解。</p>
+<p>由于远程端口转发的限制，需要做两次端口转发：一次远程端口转发把公网的 2221（因为绑定在 lo 上，所以只能本机访问） 端口转发到家庭主机的 22 端口，一次本地端口转发把公网的 2222 端口转发到 2221 端口，如图8所示。</p>
+<p><img alt="本地端口转发" src="../../../img/ssh/figure-8.webp" /></p>
+<p>图8 内网穿透</p>
+<p>所需命令如下：</p>
+<p>家庭主机上执行：</p>
+<pre><code class="shellscript">root@home $ ssh -R 2221:localhost:22 35.194.*.*
+</code></pre>
+
+<p>公网主机上执行：</p>
+<pre><code class="shellscript">root@public $ ssh -gL 2222:localhost:2221 localhost
+</code></pre>
+
+<p>此时准备工作已经完成。在任何 Internet 联通的地方，只要连接公网服务器的 2222 端口，即可登陆到家庭网络的主机上。</p>
+<p>命令如下：</p>
+<pre><code class="shellscript">user@anywhere $ ssh -D 1080 35.194.*.* -p 2222
+</code></pre>
+
+<p>上面命令我们添加了动态端口转发参数。此时如果想访问家庭网络中其他主机上的资源的话，只要指定这个代理即可。</p>
+<h2 id="_10">结束语</h2>
+<p>至此，我们已经完成了<a href="http://m.sohu.com/a/272431090_609423">SSH 端口转发</a>的简要介绍，并通过几个实例展示了其在工作生活中的应用。</p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="/weijiacheng/img/bee.png"></a> website, Powered by Jeff Wei.</p>
+        </footer>
+        <script>
+            var base_url = "../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../js/base.js" defer></script>
+        <script src="../../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
