@@ -158,3 +158,127 @@
 3. pretending 冒充      <-> identity certificate 身份证书
 4. coords n. 坐标；
 5. co-ordinate /kəʊˈɔːdɪneɪt/ n. 坐标（系）v. 使……协调
+
+## U5 Super me! Word list
+
+P38-39
+
+1. comic hero 漫画英雄
+2. speed n. 速度
+3. at the speed of 以……的速度
+4. turn back time 让时光倒流
+5. see through 透视
+6. skateboard v. 滑板
+7. musical instrument 乐器
+8. go skateboarding
+9. go snowboarding 去滑板滑雪/雪地滑板
+10. ski v.双板滑雪
+11. go skiing 去滑雪
+12. speak a foreign language 说一门外语
+13. play the guitar 弹吉他
+14. play tennis v. 打网球
+15. can't ... at all
+16. can ... quite well
+17. can ... really well
+18. can ... brilliantly /ˈbrɪliəntli/ 辉煌地，才华横溢地，灿烂地，绚丽夺目
+19. was/wasn't
+20. were/weren't
+21. can/could
+22. was/were born
+23. when...was/were...(years old)
+
+p41
+
+1. prodigy(ies) 英 /ˈprɒdədʒi/  美 /ˈprɑːdədʒi/ n.奇才
+2. pianist 英 /ˈpɪənɪst/  美 /ˈpiːənɪst/  n. 钢琴家
+3. play the piano 弹钢琴
+4. play the cello 英 /ˈtʃeləʊ/  美 /ˈtʃeloʊ/ 拉大提琴
+5. play with sb. 与…一起玩
+6. make an album 制作唱片
+7. album n. 专辑
+8. professor n. 教授
+9. be good at drawing (doing)
+10. take turns 轮流，依次
+11. sing beautifully 优美地唱
+12. housewife n.家庭主妇
+13. California 加利福尼亚
+14. Romania 英 /ruˈmeɪniə/  美 /ruˈmeɪniə/ n. 罗马尼亚（欧洲巴尔干半岛东北部国家）
+
+p42-43
+
+1. talent n. 才能；天才；天资
+2. talented adj. 有才能的
+3. introduction n. 介绍
+4. article n. 文章，题目
+5. classical music 古典乐
+6. hard-working adj. 努力的
+7. hard work 艰辛的工作
+8. be similar 相似
+9. be close to 接近于，紧挨着
+10. independent adj. 独立的
+11. passionate adj. 热情的
+12. passion n 激情，热情
+13. sentimental adj. 伤感的
+14. have a good relationship 关系融洽
+15. success n. 成功
+16. successful(ly) adj.(adv.) 成功的
+17. succeed v. 成功
+18. violin n. 小提琴
+19. violinist n. 小提琴家
+20. musician n. 音乐家
+21. start doing sth. 开始做某事
+22. stop doing sth。 停止做某事
+23. say to sb. 和某人说
+24. be like 像，相像
+25. the same as 与…一样
+26. like prep. 像
+27. professionally adv. 专业地
+28. occasion(s) n. 时机，机会，场合
+29. live for 为…而生活
+30. afford v. 买得起，提供
+31. I can't afford it! 我买不起
+32. play concerts 开演唱会
+33. be proud of 自豪，以…为骄傲
+34. play musical instruments 演奏乐器
+35. see sb. do/see sb. doing 看见某人（正在）做某事
+
+p44
+
+1. motorway 高速公路
+2. railway station 火车站
+3. petrol station 加油站
+4. send a lot of text messages 发n多短信
+5. wear a suit and tie 穿西服打领带
+6. Don't be silly! 别犯傻
+7. speak to sb. 对…说
+8. reply （replies） n. 答复
+9. casual adj. 休闲的
+10. Mind your own business! 管好你自己！
+
+p45
+
+1. polite requests 礼貌用语
+2. Can I ... please? 你能？
+3. Could you ... please? 你能？
+4. express a request 表达要求
+5. express an ability 表达能力
+6. give me a hand 帮我一下
+7. do me a favour 帮帮忙
+8. try on these jeans 试穿牛仔裤
+9. give me a lift 让我搭车
+10. diet or regular 低糖的还是普通的
+
+p108
+
+1. formal adj. 正式的
+2. instruction n. 教练，指导者
+3. a tourist guide n. 导游
+4. apply for n. 申请
+5. indeed adv. 的确
+6. experience n. 经验
+7. similar adj. 相似的
+8. ancient adj. 古老的
+9. compare...with... 和…对比
+
+
+

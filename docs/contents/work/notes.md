@@ -34,7 +34,7 @@ localhost:mypython kehuawei$
 - [GeoIP](https://ip.cn/)
 - [baidu ip](http://www.ip138.com/)
 - [Deli Vault](http://www.nbdeli.com/service/down_search_list.php?id=13916)
-- [Deli Vault](deli-4055.pdf)
+- [Deli Vault](../my/deli-4055.pdf)
 - [Deli Vault](http://www.nbdeli.com/images/goods_file0/2019/09/15681863106151.pdf)
 
 ## [常见 DNS 记录的类型](https://www.imooc.com/article/26971?block_id=tuijian_wz)

@@ -2,7 +2,8 @@
 
 - [MySQL](#mysql)
   - [install](#install)
-- [re-initialize MySQL](#re-initialize-mysql)
+  - [re-initialize MySQL](#re-initialize-mysql)
+  - [TODO: TIMESTAMP](#todo-timestamp)
 
 ## install
 
@@ -13,6 +14,7 @@
 - CMD run as Administrator
 
 ```cmd
+
 c:\mysql-advanced-5.7.28-winx64>type my.ini
 [client]
 # set default character set
@@ -292,11 +294,13 @@ mysql> show tables;
 1 row in set (0.00 sec)
 
 mysql> exit
+
 ```
 
-# re-initialize MySQL
+## re-initialize MySQL
 
-```cmd run as administrator
+```cmd
+
 mysqladmin -uroot -p shutdown
 delete ${mysql-basedir}/data
 update my.ini
@@ -309,15 +313,6 @@ c:\mysql-advanced-5.7.28-winx64>mysqld --defaults-file=C:\mysql-advanced-5.7.28-
 2019-12-07T14:51:23.227709Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
 2019-12-07T14:51:24.693644Z 0 [Warning] CA certificate ca.pem is self signed.
 2019-12-07T14:51:25.311478Z 1 [Note] A temporary password is generated for root@localhost: 21,1goofymkZ
-
-# TODO: TIMESTAMP
-date(yyyy-mm-dd)
-datetime(yyyy-mm-dd hh:mm:ss)
-timestamp(yyyymmddhhmmss)
-time(hh:mm:ss)
-
-append below into my.ini
-explicit_defaults_for_timestamp = 1
 
 c:\mysql-advanced-5.7.28-winx64>bin/mysqld install
 net start mysql
@@ -367,6 +362,7 @@ mysql> show databases;
 mysql> create database mydb default character set=utf8;
 mysql> use mydb;
 
+
 CREATE TABLE IF NOT EXISTS `user`(
    `id` INT UNSIGNED AUTO_INCREMENT,
    `username` VARCHAR(100) NOT NULL,
@@ -396,7 +392,6 @@ mysql> show tables;
 
 mysql>
 
-
 c:\mysql-advanced-5.7.28-winx64\bin>sc start|stop|delete mysql
 c:\mysql-advanced-5.7.28-winx64\bin>net start|stop mysql
 c:\mysql-advanced-5.7.28-winx64>mysqld --console
@@ -407,4 +402,43 @@ CREATE USER 'root'@'127.0.0.1' IDENTIFIED BY 'root-password';
 CREATE USER 'root'@'::1' IDENTIFIED BY 'root-password';
 
 mysqladmin -u root password "new_password";
+```
+
+## TODO: TIMESTAMP
+
+```cmd
+date(yyyy-mm-dd)
+datetime(yyyy-mm-dd hh:mm:ss)
+timestamp(yyyymmddhhmmss)
+time(hh:mm:ss)
+
+append below into my.ini
+explicit_defaults_for_timestamp = 1
+
+
+mysql> show global variables like '%timestamp%';
++---------------------------------+-------+
+| Variable_name                   | Value |
++---------------------------------+-------+
+| explicit_defaults_for_timestamp | OFF   |
+| log_timestamps                  | UTC   |
++---------------------------------+-------+
+2 rows in set (0.00 sec)
+
+mysql> set global explicit_defaults-for_timestamp=1;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-for_timestamp=1' at line 1
+
+mysql> set global explicit_defaults_for_timestamp=1;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> show global variables like '%timestamp%';
++---------------------------------+-------+
+| Variable_name                   | Value |
++---------------------------------+-------+
+| explicit_defaults_for_timestamp | ON    |
+| log_timestamps                  | UTC   |
++---------------------------------+-------+
+2 rows in set (0.00 sec)
+
+mysql>
 ```
