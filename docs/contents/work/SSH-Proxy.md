@@ -184,7 +184,11 @@ Port: 1080
 #### TODO
 
 ```shellscript
+```shellscript
 $ curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
+$ curl --socks5-hostname 127.0.0.1:1080 www.google.com
+$ curl --socks5-hostname 127.0.0.1:1080 https://www.google.com
+```
 ```
 curl测试成功，Firefox可以通过Manual proxy configuration方式连接，Chrome可以通过插件 “Proxy SwitchyOmega”方式连接。但是Firefox和Chrome无法通过system proxy方式连接。
 

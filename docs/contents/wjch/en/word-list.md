@@ -171,6 +171,8 @@
 4. coords n. 坐标；
 5. co-ordinate /kəʊˈɔːdɪneɪt/ n. 坐标（系）v. 使……协调
 
+---
+
 ## U5 Super me! Word list
 
 P38-39
@@ -283,14 +285,113 @@ p45
 p108
 
 1. formal adj. 正式的
-2. instruction n. 教练，指导者
-3. a tourist guide n. 导游
-4. apply for n. 申请
-5. indeed adv. 的确
-6. experience n. 经验
-7. similar adj. 相似的
-8. ancient adj. 古老的
-9. compare...with... 和…对比
+2. instructor n. 教练，指导者
+3. instruction n. 指令，命令；指示；教导；用法说明
+4. a tourist guide n. 导游
+5. apply for n. 申请
+6. indeed adv. 的确
+7. experience n. 经验
+8. similar adj. 相似的
+9. ancient adj. 古老的
+10. compare...with... 和…对比
 
+---
 
+U5 Super me! Word list (2019/12/10)
 
+P38-39
+1. hero n. 英雄
+2. speed n. 速度
+3. at the speed of 以…的速度
+4. skateboard n./v. 滑冰板、用滑冰板滑行
+5. a (little) bit 有点
+6. brilliantly adv. 非常棒
+7. not at all 一点也不
+8. take turns 轮流，依次
+9. musical instruments 乐器
+
+P41
+1. prodigy(ies) n. 奇才 genius 天才
+2. pianist n. 钢琴家
+3. play the piano 弹钢琴
+4. play the cello 拉大提琴
+5. play with sb. 与…一起玩
+6. make an album 制作唱片
+7. professor n. 教授
+8. be good at drawing (doing) 擅长绘画
+9. round the world 周游世界
+
+P42-43
+1. talented adj. 有才能的
+2. be similar (to）相似
+3. be close to 和…亲近
+4. violin n. 小提琴
+5. violinist n. 小提琴家
+6. musician n. 音乐家
+7. start doing sth. 开始做某事
+8. stop doing sth. 停止正在做的某事
+9. be like 像，想像
+10. success n. 成功
+11. successful(ly) adj. (adv.) 成功的
+12. succeed v. 成功
+13. the same as 与…一样
+14. classical music 古典乐
+15. professionally adv. 专业地
+16. occasion(s) n. 时机，机会，场合
+17. live for 为…而生活
+18. afford v. 买得起，提供
+19. I can’t afford it! 我买不起！
+20. independent adj. 独立的
+21. make money 挣钱
+22. play concerts 开演唱会
+23. be proud of 自豪，以…为骄傲
+24. practice v. 练习
+25. play musical instruments 演奏乐器
+26. dry-cleaning 干洗
+27. country music 乡村音乐
+28. passion n. 热情
+29. passionate adj. 热情的
+30. have a passion for 对…的强烈爱好
+31. be passionate about 对某事有热情
+32. can’t help sth/doing sth 禁不住、忍不住做什么
+33. sentimental adj. 伤感的
+
+P44
+1. motorway 高速公路
+2. sunglasses n. 太阳镜
+3. car park 停车场
+4. railway station 火车站
+5. petrol station 加油站 gas station
+6. send a lot of text messages 发很多短信
+7. live on the second floor 在二楼
+8. wear a suit and tie 穿西服打领带
+9. Don’t be silly 别犯傻
+10. be married to sb. 与…结婚
+11. speak to sb. 对…说
+12. at work 上班
+13. reply (replies) n. 答复
+
+P45
+1. request(s) n. 请求、要求
+2. Can (Could) you … please? 你能…？
+3. express a request 表达要求
+4. express an ability 表达能力
+5. menu n. 菜单
+6. give me a hand 帮我一下
+7. do me a favour 帮帮忙
+8. try on 试穿
+9. give me a lift 让我搭车
+10. diet or regular 低糖的还是普通的
+11. vanilla n. 香草
+12. pay by credit card 刷信用卡付款
+
+P123-124
+1. planet n. 行星
+2. turn back time 时光倒流
+3. mind your own business 别多管闲事
+4. have a great view 有个很好的观点
+5. casual adj. 临时的、随便的
+6. full-time adj. 专职的、全职的
+7. playschool n. 游戏学校
+
+part-time adj. 兼职的；部分时间的
