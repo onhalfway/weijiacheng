@@ -30,15 +30,15 @@
 
 <audio src="../3B-recording/P26-26Traveling on the Trail.mp3" controls="controls"></audio> P26-26 Traveling on the Trail
 
-<audio src="../3B-recording/P28-29Section 1 (2) Moving West.mp3" controls="controls"></audio> P28-29 Section 1 (2) Moving West
+<audio src="../3B-recording/P28-29Section 1 (2) Moving West.mp3" controls="controls"></audio> P28-29 Section 1 Moving West
 
-<audio src="../3B-recording/P30-36Section 2 (2) The Journey.mp3" controls="controls"></audio> P30-36 Section 2 (2) The Journey
+<audio src="../3B-recording/P30-36Section 2 (2) The Journey.mp3" controls="controls"></audio> P30-36 Section 2 The Journey
 
-<audio src="../3B-recording/P37-38Section 3 (2) The Country Changes.mp3" controls="controls"></audio> P37-38 Section 3 (2) The Country Changes
+<audio src="../3B-recording/P37-38Section 3 (2) The Country Changes.mp3" controls="controls"></audio> P37-38 Section 3 The Country Changes
 
 <audio src="../3B-recording/P48-49Leaving the Dust.mp3" controls="controls"></audio> P48-49 Leaving the Dust
 
-<audio src="../3B-recording/P50-51Section 1 (3) From Exploration to Settlement.mp3" controls="controls"></audio> P50-51 Section 1 (3) From Exploration to Settlement
+<audio src="../3B-recording/P50-51Section 1 (3) From Exploration to Settlement.mp3" controls="controls"></audio> P50-51 Section 1 From Exploration to Settlement
 
 <audio src="../3B-recording/P52-58Section 2 (3) Traveling West.mp3" controls="controls"></audio> P52-58 Section 2 Traveling West
 
