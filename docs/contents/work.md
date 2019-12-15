@@ -1,4 +1,4 @@
 # Work
 
-- [Notes](notes)
+- [Work Notes](work-notes)
 - [Travel booking](Travel)
