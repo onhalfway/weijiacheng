@@ -67,6 +67,8 @@ proxy: 140.238.11.194:22;
 Under Windows 10 System Proxy is disabled and proxifier checker testing www.google.com:80 passed:
 Chrome V78 SwitchyOmega direct don't use proxifier as proxy, seems connect by itself.
 Firefox V71 SwitchyOmega direct/System Proxy do use proxifier as proxy and can access most website, but receive:
+
+```log
 firefox.exe *64 - www.google.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
 don't work: facebook:443; google:443
 work: baidu:443; youtube:443 partly (youtube access log)
@@ -81,9 +83,7 @@ firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 open through proxy 127.0.
 [12.10 09:32:04] firefox.exe *64 - r4---sn-n4v7knlk.googlevideo.com:443 close, 541 bytes sent, 3145 bytes (3.07 KB) received, lifetime <1 sec
 [12.10 09:32:07] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
 [12.10 09:32:11] firefox.exe *64 - ocsp.pki.goog:80 close, 1214 bytes (1.18 KB) sent, 2105 bytes (2.05 KB) received, lifetime 03:39
-
-
-
+```
 
 If asking as developer there are lot of ways to do this.
 
@@ -101,8 +101,7 @@ But from user perspective you can use:
 
     Using OpenVPN Tap Adapter to create a virtual TAP adapter along with Tun2Socks to redirect traffics to a socks proxy and routing table to send traffics to adapter. (Completely Open Source) http://code.google.com/p/badvpn/wiki/tun2socks
 
-
-```git bash
+```git-bash
 $ nslookup www.google.com
 $ curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
 $ curl --socks5-hostname 127.0.0.1:1080 www.google.com
@@ -287,7 +286,8 @@ C:\WINDOWS\system32>netsh wlan show profiles
 netsh wlan delete profile name="ProfileName"
 ```
 
-```powershell run as administrator
+```powershell
+powershell run aspowershell administrator
 net stop wlansvc
 Get-ItemProperty "HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings"
 Remove-Item "HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings"
