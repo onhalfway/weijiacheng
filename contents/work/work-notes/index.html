@@ -89,8 +89,6 @@
             <li><a href="#tools">tools</a></li>
             <li><a href="#dns">常见 DNS 记录的类型</a></li>
             <li><a href="#oracle-wifi-hotspot-ap-access-point">Oracle WiFi Hotspot AP Access Point</a></li>
-            <li><a href="#_1">承载网络设置</a></li>
-            <li><a href="#_2">承载网络状态</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
@@ -158,21 +156,23 @@ P427L-9Y552-5433E-8DSR3-58Z68 (MAC)</li>
 proxy: 140.238.11.194:22;</p>
 <p>Under Windows 10 System Proxy is disabled and proxifier checker testing www.google.com:80 passed:
 Chrome V78 SwitchyOmega direct don't use proxifier as proxy, seems connect by itself.
-Firefox V71 SwitchyOmega direct/System Proxy do use proxifier as proxy and can access most website, but receive:
-firefox.exe <em>64 - www.google.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
+Firefox V71 SwitchyOmega direct/System Proxy do use proxifier as proxy and can access most website, but receive:</p>
+<pre><code class="log">firefox.exe *64 - www.google.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
 don't work: facebook:443; google:443
 work: baidu:443; youtube:443 partly (youtube access log)
-firefox.exe </em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 open through proxy 127.0.0.1:1080 SOCKS5
-[12.10 09:29:07] firefox.exe <em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime &lt;1 sec
-[12.10 09:29:07] firefox.exe </em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime &lt;1 sec
-[12.10 09:29:08] firefox.exe <em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime 00:01
-[12.10 09:29:08] firefox.exe </em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime 00:01
-[12.10 09:31:59] firefox.exe <em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
-[12.10 09:31:59] firefox.exe </em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
-[12.10 09:32:04] firefox.exe <em>64 - r4---sn-n4v7knlk.googlevideo.com:443 open through proxy 127.0.0.1:1080 SOCKS5
-[12.10 09:32:04] firefox.exe </em>64 - r4---sn-n4v7knlk.googlevideo.com:443 close, 541 bytes sent, 3145 bytes (3.07 KB) received, lifetime &lt;1 sec
-[12.10 09:32:07] firefox.exe <em>64 - r6---sn-n4v7sn7y.googlevideo.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
-[12.10 09:32:11] firefox.exe </em>64 - ocsp.pki.goog:80 close, 1214 bytes (1.18 KB) sent, 2105 bytes (2.05 KB) received, lifetime 03:39</p>
+firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 open through proxy 127.0.0.1:1080 SOCKS5
+[12.10 09:29:07] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime &lt;1 sec
+[12.10 09:29:07] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime &lt;1 sec
+[12.10 09:29:08] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime 00:01
+[12.10 09:29:08] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 close, 541 bytes sent, 3512 bytes (3.42 KB) received, lifetime 00:01
+[12.10 09:31:59] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
+[12.10 09:31:59] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
+[12.10 09:32:04] firefox.exe *64 - r4---sn-n4v7knlk.googlevideo.com:443 open through proxy 127.0.0.1:1080 SOCKS5
+[12.10 09:32:04] firefox.exe *64 - r4---sn-n4v7knlk.googlevideo.com:443 close, 541 bytes sent, 3145 bytes (3.07 KB) received, lifetime &lt;1 sec
+[12.10 09:32:07] firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
+[12.10 09:32:11] firefox.exe *64 - ocsp.pki.goog:80 close, 1214 bytes (1.18 KB) sent, 2105 bytes (2.05 KB) received, lifetime 03:39
+</code></pre>
+
 <p>If asking as developer there are lot of ways to do this.</p>
 <pre><code>You can hook all winsocket functions in all applications and wrote your own app to route them through a socks proxy.
 
@@ -187,39 +187,47 @@ Applications which control winsocket using LSP like Proxifier (Commercial) http:
 
 Using OpenVPN Tap Adapter to create a virtual TAP adapter along with Tun2Socks to redirect traffics to a socks proxy and routing table to send traffics to adapter. (Completely Open Source) http://code.google.com/p/badvpn/wiki/tun2socks
 </code></pre>
-<p>```git bash
-$ nslookup www.google.com
+<pre><code class="git-bash">$ nslookup www.google.com
 $ curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
 $ curl --socks5-hostname 127.0.0.1:1080 www.google.com
-$ curl --socks5-hostname 127.0.0.1:1080 https://www.google.com</p>
-<pre><code>
-- [what is my ip](https://www.whatismyip.com/)
-- [search ip](https://ipleak.com/)
-- [GeoIP](https://ip.cn/)
-- [baidu ip](http://www.ip138.com/)
+$ curl --socks5-hostname 127.0.0.1:1080 https://www.google.com
+</code></pre>
 
-- System Settings -&gt; Network -&gt; Proxy -&gt; Script (PAC)-&gt; http://wpad/wpad.dat
-  - when using Cisco Anyconnect VPN, if using SwitchyOmega plugin with Chrome and Firefox browser, you should select System Proxy, Chrome work but Firefox only partly work for Oracle internal website (https://csaap.oracle.com/oalapp/web/clm/?root=customers, https://global-apex.oraclecorp.com/apex/f?p=123:1:4596323566310:::::) and others Internet doesn't work(https://mysites.oracle.com/home/, baidu.com,). should disable SwithcyOmega addon.
-- Windows 10 WiFi Hotspot AP
-- can connect AP, can connect AP with Android Mobile but can NOT connect to Internet
-- can connect remote IP, so DNS does NOT work
-- manually set up DNS to 114.114.114.114, 8.8.8.8, 8.8.4.4, 9.9.9.9 for WLAN or AP or Android client still doesn't work.
-- can NOT resolve domain name with nslookup command
-- finally find out is reason of McAfee Endpoint Security Firewall, it works after executing McAffee Quick Settings -&gt; Disable Endpoint Security Firewall.
-
-- TODO: [WiFi AP DNS](http://www.winwin7.com/JC/15958.html)
-- [Windows hostednetwork](https://zshttp.com/1504.html)
-  - CMD/PowerShell run as Administrator
-  - netsh wlan set hostednetwork mode=allow ssid=wayap key=WayAccessPoint
-    - netsh wlan set hostednetwork mode=allow
-    - netsh wlan set hostednetwork ssid=wayap key=WayAccessPoint
-  - netsh wlan start hostednetwork
-- [netsh wlan set hostednetwork 之后如何删除掉配置](https://www.cnblogs.com/shaivas/p/6489578.html)
-- 右键点击开始按钮&gt;运行(Win+R)&gt;ncpa.cpl可以快速打开网络连接设置界面
-- services.msc
-
-```cmd
-Microsoft Windows [版本 10.0.17763.864]
+<ul>
+<li><a href="https://www.whatismyip.com/">what is my ip</a></li>
+<li><a href="https://ipleak.com/">search ip</a></li>
+<li><a href="https://ip.cn/">GeoIP</a></li>
+<li>
+<p><a href="http://www.ip138.com/">baidu ip</a></p>
+</li>
+<li>
+<p>System Settings -&gt; Network -&gt; Proxy -&gt; Script (PAC)-&gt; http://wpad/wpad.dat</p>
+</li>
+<li>when using Cisco Anyconnect VPN, if using SwitchyOmega plugin with Chrome and Firefox browser, you should select System Proxy, Chrome work but Firefox only partly work for Oracle internal website (https://csaap.oracle.com/oalapp/web/clm/?root=customers, https://global-apex.oraclecorp.com/apex/f?p=123:1:4596323566310:::::) and others Internet doesn't work(https://mysites.oracle.com/home/, baidu.com,). should disable SwithcyOmega addon.</li>
+<li>Windows 10 WiFi Hotspot AP</li>
+<li>can connect AP, can connect AP with Android Mobile but can NOT connect to Internet</li>
+<li>can connect remote IP, so DNS does NOT work</li>
+<li>manually set up DNS to 114.114.114.114, 8.8.8.8, 8.8.4.4, 9.9.9.9 for WLAN or AP or Android client still doesn't work.</li>
+<li>can NOT resolve domain name with nslookup command</li>
+<li>
+<p>finally find out is reason of McAfee Endpoint Security Firewall, it works after executing McAffee Quick Settings -&gt; Disable Endpoint Security Firewall.</p>
+</li>
+<li>
+<p>TODO: <a href="http://www.winwin7.com/JC/15958.html">WiFi AP DNS</a></p>
+</li>
+<li><a href="https://zshttp.com/1504.html">Windows hostednetwork</a></li>
+<li>CMD/PowerShell run as Administrator</li>
+<li>netsh wlan set hostednetwork mode=allow ssid=wayap key=WayAccessPoint<ul>
+<li>netsh wlan set hostednetwork mode=allow</li>
+<li>netsh wlan set hostednetwork ssid=wayap key=WayAccessPoint</li>
+</ul>
+</li>
+<li>netsh wlan start hostednetwork</li>
+<li><a href="https://www.cnblogs.com/shaivas/p/6489578.html">netsh wlan set hostednetwork 之后如何删除掉配置</a></li>
+<li>右键点击开始按钮&gt;运行(Win+R)&gt;ncpa.cpl可以快速打开网络连接设置界面</li>
+<li>services.msc</li>
+</ul>
+<pre><code class="cmd">Microsoft Windows [版本 10.0.17763.864]
 (c) 2018 Microsoft Corporation。保留所有权利。
 
 C:\WINDOWS\system32&gt;netsh wlan set hostednetwork mode=allow ssid=wayap key=WayAccessPoint
@@ -371,16 +379,21 @@ C:\WINDOWS\system32&gt;netsh wlan show profiles
 netsh wlan delete profile name=&quot;ProfileName&quot;
 </code></pre>
 
-<p>```powershell run as administrator
+<pre><code class="powershell">powershell run aspowershell administrator
 net stop wlansvc
-Get-ItemProperty "HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings"
-Remove-Item "HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings"
-net start wlansvc</p>
-<p>PS C:\WINDOWS\system32&gt; net stop wlansvc
+Get-ItemProperty &quot;HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings&quot;
+Remove-Item &quot;HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings&quot;
+net start wlansvc
+
+
+PS C:\WINDOWS\system32&gt; net stop wlansvc
 WLAN AutoConfig 服务正在停止.
-WLAN AutoConfig 服务已成功停止。</p>
-<p>PS C:\WINDOWS\system32&gt; Get-ItemProperty "HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings"</p>
-<p>HostedNetworkSettings : {72, 0, 79, 0...}
+WLAN AutoConfig 服务已成功停止。
+
+PS C:\WINDOWS\system32&gt; Get-ItemProperty &quot;HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings&quot;
+
+
+HostedNetworkSettings : {72, 0, 79, 0...}
 EverUsed              : 0
 EncryptedSettings     : {1, 0, 0, 0...}
 PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\system\currentcontrolset\services\wlansv
@@ -389,22 +402,29 @@ PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\s
                         c\parameters
 PSChildName           : hostednetworksettings
 PSDrive               : HKLM
-PSProvider            : Microsoft.PowerShell.Core\Registry</p>
-<p>PS C:\WINDOWS\system32&gt; Remove-Item "HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings"
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+PS C:\WINDOWS\system32&gt; Remove-Item &quot;HKLM:\system\currentcontrolset\services\wlansvc\parameters\hostednetworksettings&quot;
 PS C:\WINDOWS\system32&gt; net start wlansvc
 WLAN AutoConfig 服务正在启动 .
-WLAN AutoConfig 服务已经启动成功。</p>
-<p>PS C:\WINDOWS\system32&gt;
-PS C:\WINDOWS\system32&gt; netsh wlan show hostednetwork</p>
-<h2 id="_1">承载网络设置</h2>
-<pre><code>模式                   : 已启用
-设置              : &lt;未配置&gt;
-</code></pre>
-<h2 id="_2">承载网络状态</h2>
-<pre><code>状态                 : 不可用
-</code></pre>
-<p>PS C:\WINDOWS\system32&gt;
-```</p></div>
+WLAN AutoConfig 服务已经启动成功。
+
+PS C:\WINDOWS\system32&gt;
+PS C:\WINDOWS\system32&gt; netsh wlan show hostednetwork
+
+承载网络设置
+-----------------------
+    模式                   : 已启用
+    设置              : &lt;未配置&gt;
+
+承载网络状态
+---------------------
+    状态                 : 不可用
+
+PS C:\WINDOWS\system32&gt;
+</code></pre></div>
         </div>
 
         <footer class="col-md-12">
