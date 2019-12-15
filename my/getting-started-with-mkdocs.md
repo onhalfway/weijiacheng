@@ -17,3 +17,12 @@ C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\
 ## Github Repository
 
 repo_url: https://github.com/onhalfway/weijiacheng
+
+## native HTML for media
+
+<video controls="controls">
+    <source src="../lib/movie.mp4" type="video/mp4" />
+    <source src="../lib/movie.ogg" type="video/ogg" />
+</video>
+
+<audio src="../lib/song.ogg" controls="controls"></audio>
