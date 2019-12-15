@@ -87,7 +87,7 @@
             <li><a href="#_1">概述</a></li>
             <li><a href="#ssh_1">SSH端口转发</a></li>
             <li><a href="#_6">端口转发实践</a></li>
-            <li><a href="#_10">结束语</a></li>
+            <li><a href="#_9">结束语</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
@@ -216,19 +216,32 @@ Port: 1080
 <p><img alt="本地端口转发" src="../../../img/ssh/figure-7.webp" /></p>
 <p>图7 代理测试</p>
 <h4 id="todo">TODO</h4>
-<pre><code class="shellscript">$ curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
+<pre><code class="shellscript">```shellscript
+$ curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
+$ curl --socks5-hostname 127.0.0.1:1080 www.google.com
+$ curl --socks5-hostname 127.0.0.1:1080 https://www.google.com
 </code></pre>
 
-<p>curl测试成功，Firefox可以通过Manual proxy configuration方式连接，Chrome可以通过插件 “Proxy SwitchyOmega”方式连接。但是Firefox和Chrome无法通过system proxy方式连接。</p>
-<h3 id="_9">内网穿透</h3>
-<p>随着 IPv4 地址的枯竭，对于家庭用户而言很难获得一个公网 IP 地址，就我自己家的宽带来说，每次拨号只能获得一个私有 IP 地址。此时如果想在公司访问家庭网络的话，很难实现。</p>
-<p>如果你有一台拥有公网 IP 的主机及 SSH 权限的话，上面的情况将迎刃而解。</p>
-<p>由于远程端口转发的限制，需要做两次端口转发：一次远程端口转发把公网的 2221（因为绑定在 lo 上，所以只能本机访问） 端口转发到家庭主机的 22 端口，一次本地端口转发把公网的 2222 端口转发到 2221 端口，如图8所示。</p>
-<p><img alt="本地端口转发" src="../../../img/ssh/figure-8.webp" /></p>
-<p>图8 内网穿透</p>
-<p>所需命令如下：</p>
-<p>家庭主机上执行：</p>
-<pre><code class="shellscript">root@home $ ssh -R 2221:localhost:22 35.194.*.*
+<pre><code>curl测试成功，Firefox可以通过Manual proxy configuration方式连接，Chrome可以通过插件 “Proxy SwitchyOmega”方式连接。但是Firefox和Chrome无法通过system proxy方式连接。
+
+### 内网穿透
+
+随着 IPv4 地址的枯竭，对于家庭用户而言很难获得一个公网 IP 地址，就我自己家的宽带来说，每次拨号只能获得一个私有 IP 地址。此时如果想在公司访问家庭网络的话，很难实现。
+
+如果你有一台拥有公网 IP 的主机及 SSH 权限的话，上面的情况将迎刃而解。
+
+由于远程端口转发的限制，需要做两次端口转发：一次远程端口转发把公网的 2221（因为绑定在 lo 上，所以只能本机访问） 端口转发到家庭主机的 22 端口，一次本地端口转发把公网的 2222 端口转发到 2221 端口，如图8所示。
+
+![本地端口转发](../../img/ssh/figure-8.webp)
+
+图8 内网穿透
+
+所需命令如下：
+
+家庭主机上执行：
+
+```shellscript
+root@home $ ssh -R 2221:localhost:22 35.194.*.*
 </code></pre>
 
 <p>公网主机上执行：</p>
@@ -241,7 +254,7 @@ Port: 1080
 </code></pre>
 
 <p>上面命令我们添加了动态端口转发参数。此时如果想访问家庭网络中其他主机上的资源的话，只要指定这个代理即可。</p>
-<h2 id="_10">结束语</h2>
+<h2 id="_9">结束语</h2>
 <p>至此，我们已经完成了<a href="http://m.sohu.com/a/272431090_609423">SSH 端口转发</a>的简要介绍，并通过几个实例展示了其在工作生活中的应用。</p></div>
         </div>
 
