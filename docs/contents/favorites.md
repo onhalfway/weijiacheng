@@ -3,7 +3,8 @@
 - [收藏夹](#%e6%94%b6%e8%97%8f%e5%a4%b9)
   - [中考](#%e4%b8%ad%e8%80%83)
   - [通知](#%e9%80%9a%e7%9f%a5)
-  - [How to & FAQ](#how-to--faq)
+  - [Social Practice](#social-practice)
+  - [How to &amp; FAQ](#how-to-amp-faq)
   - [Tools工具](#tools%e5%b7%a5%e5%85%b7)
   - [文史](#%e6%96%87%e5%8f%b2)
   - [政治视角](#%e6%94%bf%e6%b2%bb%e8%a7%86%e8%a7%92)
@@ -17,7 +18,6 @@
   - [DevOps](#devops)
   - [Security](#security)
   - [Olympic Competition](#olympic-competition)
-  - [Social Practice](#social-practice)
   - [Work](#work)
   - [法律 Law](#%e6%b3%95%e5%be%8b-law)
   - [影视 Movie](#%e5%bd%b1%e8%a7%86-movie)
@@ -25,7 +25,7 @@
     - [音乐 Music](#%e9%9f%b3%e4%b9%90-music)
     - [图片 Picture](#%e5%9b%be%e7%89%87-picture)
   - [学术](#%e5%ad%a6%e6%9c%af)
-  - [磁力链接&种子](#%e7%a3%81%e5%8a%9b%e9%93%be%e6%8e%a5%e7%a7%8d%e5%ad%90)
+  - [磁力链接&amp;种子](#%e7%a3%81%e5%8a%9b%e9%93%be%e6%8e%a5amp%e7%a7%8d%e5%ad%90)
   - [网盘搜索](#%e7%bd%91%e7%9b%98%e6%90%9c%e7%b4%a2)
   - [Driver](#driver)
 
@@ -39,7 +39,14 @@
 - [附件二：家长学习课程操作指南（新版）-20190828.docx](http://jzhxx.bjchyedu.cn)
   - 用户名为学生教育ID。用户密码为下发的初始密码：1-6
   - 客服电话：18701540437   82817642
-  - [2-class](https://www.2-class.com/)
+  - [2-class](https://www.2-class.com/): weijiacheng2918/49877224
+
+## Social Practice
+
+- [volunteer-110105105148907-志愿者-北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
+- [](https://r.xiumi.us/board/v5/4qwRy/170511844)
+- [首都教育系统师生点燃国庆庆祝活动亮点](https://item.btime.com/231n6m9ddpnpmfsq3cpfg8fuig2)
+- TODO [ 北京市初中实践活动管理服务平台 ](http://kfsj.bjedu.cn/): 教育ID/birthday，综合社会实践活动
 
 ## How to & FAQ
 
@@ -293,12 +300,6 @@
 - [北京大学在线评测系统](http://poj.openjudge.cn/)
 - [奥赛网](http://www.chinaaosai.com)
 - [奥梦编程](https://all-dream.com/)
-
-## Social Practice
-
-- [volunteer-110105105148907-志愿者-北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
-- [](https://r.xiumi.us/board/v5/4qwRy/170511844)
-- [首都教育系统师生点燃国庆庆祝活动亮点](https://item.btime.com/231n6m9ddpnpmfsq3cpfg8fuig2)
 
 ## Work
 
