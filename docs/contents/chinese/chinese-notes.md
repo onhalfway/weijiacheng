@@ -1,5 +1,7 @@
 # Chinese Notes
 
+- [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
+
 别后同明月，君应听子规。
 
 出自唐代王维的《送杨长史赴果州》
