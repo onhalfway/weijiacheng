@@ -1,6 +1,8 @@
 # Chinese Notes
 
-- [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
+- [最全中华古诗词数据库](http://shici.store/)
+- [最全中华古诗词数据库Github](https://github.com/chinese-poetry)
+- [最全中华古诗词数据库Github Repo](https://github.com/chinese-poetry/chinese-poetry)
 
 别后同明月，君应听子规。
 

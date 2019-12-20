@@ -39,14 +39,15 @@
 - [附件二：家长学习课程操作指南（新版）-20190828.docx](http://jzhxx.bjchyedu.cn)
   - 用户名为学生教育ID。用户密码为下发的初始密码：1-6
   - 客服电话：18701540437   82817642
-  - [2-class](https://www.2-class.com/): weijiacheng2918/49877224
+  - [2-class](https://www.2-class.com/): weijiacheng2918
 
 ## Social Practice
 
 - [volunteer-110105105148907-志愿者-北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
-- [](https://r.xiumi.us/board/v5/4qwRy/170511844)
+- [垃圾分类之有害垃圾篇](https://r.xiumi.us/board/v5/4qwRy/170511844)
 - [首都教育系统师生点燃国庆庆祝活动亮点](https://item.btime.com/231n6m9ddpnpmfsq3cpfg8fuig2)
-- TODO [ 北京市初中实践活动管理服务平台 ](http://kfsj.bjedu.cn/): 教育ID/birthday，综合社会实践活动
+- TODO [北京市初中实践活动管理服务平台](http://kfsj.bjedu.cn/): 教育ID/birthday，综合社会实践活动
+- [Social Practice](../home/social-practice)
 
 ## How to & FAQ
 
