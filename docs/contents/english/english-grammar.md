@@ -1,4 +1,10 @@
-# Englihs Grammar
+# English Grammar
+
+- [English Grammar](#english-grammar)
+  - [Personal Pronouns人称代名词](#personal-pronouns%e4%ba%ba%e7%a7%b0%e4%bb%a3%e5%90%8d%e8%af%8d)
+  - [发音](#%e5%8f%91%e9%9f%b3)
+
+## Personal Pronouns人称代名词
 
 <table>
     <thead>
@@ -106,3 +112,22 @@
 </tr>
 </tbody>
 </table>
+
+## 发音
+
+watched和looked的ed发音是相同的，都发t的音。
+
+加ed以后的发音有如下三种：
+
+1、以清辅音结尾，[p][t][k][f][s][h]等字母结尾的单词＋ed是发[ t ]音
+
+如：helped, washed, watched, marked, finished, stopped, skipped, cooked, worked等
+
+2、以浊辅音结尾，[g][v][z][r][m][n]等字母后和元音后＋ed读[d]
+
+如：cleaned, played, prepared等
+
+3、在[t][d]后读[id]
+
+如：painted, started, visited等
+
