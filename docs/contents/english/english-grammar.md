@@ -2,7 +2,7 @@
 
 - [English Grammar](#english-grammar)
   - [Personal Pronouns人称代名词](#personal-pronouns%e4%ba%ba%e7%a7%b0%e4%bb%a3%e5%90%8d%e8%af%8d)
-  - [发音](#%e5%8f%91%e9%9f%b3)
+  - [发音 pronunciation](#%e5%8f%91%e9%9f%b3-pronunciation)
 
 ## Personal Pronouns人称代名词
 
@@ -113,7 +113,9 @@
 </tbody>
 </table>
 
-## 发音
+## 发音 pronunciation
+
+![International Phonetic Alphabet Symbols](../International&#32;Phonetic&#32;Alphabet&#32;Symbols.png)
 
 watched和looked的ed发音是相同的，都发t的音。
 
@@ -130,4 +132,3 @@ watched和looked的ed发音是相同的，都发t的音。
 3、在[t][d]后读[id]
 
 如：painted, started, visited等
-
