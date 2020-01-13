@@ -30,6 +30,7 @@ localhost:mypython kehuawei$
 
 ## tools
 
+- [Find your IP address: search <what is my ip> on google.com](https://www.google.com/search?q=what+is+my+ip)
 - [what is my ip](https://www.whatismyip.com/)
 - [search ip](https://ipleak.com/)
 - [GeoIP](https://ip.cn/)

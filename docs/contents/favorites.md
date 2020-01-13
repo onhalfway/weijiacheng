@@ -236,6 +236,11 @@
 
 ## ML/DL/AI
 
+- [Coursera DL](https://www.coursera.org/specializations/deep-learning)
+- [IBM Deep Learning](https://www.edx.org/professional-certificate/ibm-deep-learning)
+- [Udacity School](https://cn.udacity.com/school-of-ai)
+- [MIT DL](https://github.com/lexfridman/mit-deep-learning)
+- [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
 - [DL](https://github.com/rasbt/deeplearning-models)
 - [Microservices](https://github.com/docshome/microservices)
 - [operation](https://github.com/meetbill/op_practice_book)
