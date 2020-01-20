@@ -12,7 +12,19 @@ open terminal `Ctrl + \``
 
 ## themes location
 
-C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\
+C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\bootstrap-custom.min.css
+
+C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\base.css
+- line 101
+pre code {
+    background: transparent;
+    border: none;
+    white-space: pre;
+    word-wrap: normal;
+    #font-family: monospace,serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
 
 ## Github Repository
 

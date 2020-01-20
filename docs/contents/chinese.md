@@ -3,6 +3,8 @@
 - [语文学习方法](how-to)
 - [chinese notes](chinese-notes)
 
+## [2020/02/16-七下](2020-02-16-grade-7-2)
+
 ## 课文
 
 - [清代蒲松龄](pusongling)
@@ -14,6 +16,7 @@
 ## 经典
 
 - [西游记梗概](xiyouji)
+- [海底两万里](https://www.luoxia.com/haidiliangwanli/)
 
 ## 诗词
 
@@ -23,6 +26,11 @@
 - [秋天的诗句](autumn-poem)
 - [四季赞歌系列【一】](four-seasons)
 - [爱国诗歌](patriotic-program)
+- [最全中华古诗词数据库](http://shici.store/)
+- [最全中华古诗词数据库Github](https://github.com/chinese-poetry)
+- [最全中华古诗词数据库Github Repo](https://github.com/chinese-poetry/chinese-poetry)
+- [古诗文网](https://www.gushiwen.org/)
+- [2020/01/20-七下必背诗词](2020-02-16-grade-7-2/#2020/01/18-七下必背诗词)
 
 ## 文史
 
