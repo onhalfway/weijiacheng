@@ -6,6 +6,10 @@
 
 ## [Headway](../../contents/lib/headway)
 
+- partial Headway learning resources in lib path
+- all Headway learning resources in baidu net disk
+- all Headway learning resources in Slim USB disk
+
 ## 晨读
 
 * [Morning With Reading](morning-with-reading)
