@@ -38,6 +38,7 @@
 * [Back Cover](../wjch/en/Andersen/Back-Cover)
 * [Andersen's Fairy Tales](../wjch/en/Andersen/Contents)
 * [Thumbelina](../wjch/en/Andersen/Thumbelina)
+* [A Fence or an Ambulance?](http://www.boyds.org/199703FenceOrAmbulance.aspx)
 
 ### Transcript and Information
 

@@ -4,7 +4,7 @@
   - [中考](#%e4%b8%ad%e8%80%83)
   - [通知](#%e9%80%9a%e7%9f%a5)
   - [Social Practice](#social-practice)
-  - [How to &amp; FAQ](#how-to-amp-faq)
+  - [How to & FAQ](#how-to--faq)
   - [Tools工具](#tools%e5%b7%a5%e5%85%b7)
   - [文史](#%e6%96%87%e5%8f%b2)
   - [政治视角](#%e6%94%bf%e6%b2%bb%e8%a7%86%e8%a7%92)
@@ -25,7 +25,7 @@
     - [音乐 Music](#%e9%9f%b3%e4%b9%90-music)
     - [图片 Picture](#%e5%9b%be%e7%89%87-picture)
   - [学术](#%e5%ad%a6%e6%9c%af)
-  - [磁力链接&amp;种子](#%e7%a3%81%e5%8a%9b%e9%93%be%e6%8e%a5amp%e7%a7%8d%e5%ad%90)
+  - [磁力链接&种子](#%e7%a3%81%e5%8a%9b%e9%93%be%e6%8e%a5%e7%a7%8d%e5%ad%90)
   - [网盘搜索](#%e7%bd%91%e7%9b%98%e6%90%9c%e7%b4%a2)
   - [Driver](#driver)
 
@@ -157,6 +157,10 @@
 - [bookreports.info](https://www.bookreports.info/)
 - [wikipedia](https://en.wikipedia.org/)
 - [Works from the Hans Christian Andersen Center](https://andersen.sdu.dk)
+- [ebook - All IT Book](http://www.allitebooks.org/)
+- [ebook - PDF](https://epdf.pub)
+- [Python进阶](https://mp.weixin.qq.com/s/KVsdLhEdxdSskDtkvTv2VQ)
+  - [Intermediate Python](http://book.pythontips.com/en/latest/)
 
 ## 英文新闻网站
 
