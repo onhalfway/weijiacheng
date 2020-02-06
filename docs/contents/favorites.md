@@ -28,6 +28,7 @@
   - [磁力链接&种子](#%e7%a3%81%e5%8a%9b%e9%93%be%e6%8e%a5%e7%a7%8d%e5%ad%90)
   - [网盘搜索](#%e7%bd%91%e7%9b%98%e6%90%9c%e7%b4%a2)
   - [Driver](#driver)
+  - [search](#search)
 
 ## 中考
 
@@ -161,6 +162,7 @@
 - [ebook - PDF](https://epdf.pub)
 - [Python进阶](https://mp.weixin.qq.com/s/KVsdLhEdxdSskDtkvTv2VQ)
   - [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Wiki How](https://www.wikihow.com/)
 
 ## 英文新闻网站
 
@@ -420,4 +422,7 @@
 ## Driver
 
 - [HP Laser Jet M1005 MFP](h30318.www3.hp.com/pub/softlib/software12/COL51478/ma-124621-1/LJM1005_Full_Solution.exe)
-- 
+
+## search
+
+- [Magi](https://magi.com/)
