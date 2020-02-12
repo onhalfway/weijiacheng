@@ -189,7 +189,7 @@ And then the emperor walked in the procession under the beautiful canopy. And al
 
 “他并没穿什么衣服!有一个小孩子说他并没穿什么衣服呀!”
 
-"He doesn't have anything on!" the whole **populace** (大众、平民; civilian, citizen, burgher) shouted **at last**. And the emperor **shuddered** (战栗、发抖), for it seemed to him that they were right. But then he thought, "Now I must **go through** with the procession." And he carried himself **more proudly than ever**, and the gentlemen-in-waiting carried the train that wasn't there **at all** (<否定句>根本).
+"He doesn't have anything on!" the whole **populace** (大众、平民; civilian /səˈvɪliən/ 平民, citizen市民, burgher公民) shouted **at last**. And the emperor **shuddered** (战栗、发抖), for it seemed to him that they were right. But then he thought, "Now I must **go through** with the procession." And he carried himself **more proudly than ever**, and the gentlemen-in-waiting carried the train that wasn't there **at all** (<否定句>根本).
 
 “他实在没穿什么衣服呀!”最后所有的百姓都说。皇帝有点儿发抖，因为他觉得百姓们所讲的话似乎是真的。不过他心里却这样想：“我必须把这游行大典举行完毕。”因此他摆出一副更骄傲的神气。他的内臣们跟在他后面走，手中托着一条并不存在的后裙。
 
