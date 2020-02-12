@@ -19,7 +19,7 @@
 13. [The Swineherd](../The-Swineherd)
 14. [The Nightingale](../The-Nightingale)
 15. [The Sweethearts (The Top and the Ball)](../The-Sweethearts)
-16. [The Ugly Duckling](../../16-The-Ugly-Duckling)
+16. [The Ugly Duckling](../16-The-Ugly-Duckling)
 17. [The Snow Queen (An Adventure in Seven Tales)](../The-Snow-Queen)
 18. [The Darning Needle](../The-Darning-Needle)
 19. [The Red Shoes](../The-Red-Shoes)
