@@ -7,8 +7,10 @@
 
 ## 正文 as is
 
-There were once five-and-twenty tin soldiers; they were all brothers, for they had been born of an old tin **spoon**. They **shouldered** their **arms**, they faced **straight ahead**, and their **uniforms**--red and blue--were ever so lovely. The very first thing they heard in this world, when the **lid** was **taken off** the box in which they were lying, were the words: "Tin soldiers!" It was shouted by a little boy, and he **clapped** his hands. They had been given to him for his birthday, and now he was **lining them up** on the table. Each soldier looked exactly like the other. Only one was slightly different: he had but one leg, for he was the last one to be **cast** and there hadn't been enough tin. And yet he stood just **as** **firmly** on his one leg **as** the others did on their two, and he is the very one who **turns out to be** **unique**.
+There were once five-and-twenty tin soldiers; they were all brothers, for they had been born of an old tin spoon. They shouldered their arms, they faced **straight ahead**, and their uniforms--red and blue--were **ever** so lovely. The very first thing they heard in this world, when the **lid** was **taken off** the box in which they were lying, were the words: "Tin soldiers!" It was shouted by a little boy, and he **clapped** his hands. They had been given to him for his birthday, and now he was **lining them up** on the table. Each soldier looked exactly like the other. Only one was **slightly** different: he had but one leg, for he was the last one to be **cast** and there hadn't been enough tin. And yet he stood just **as** **firmly** on his one leg **as** the others did on their two, and he is the very one who **turns out to be** **unique**.
 
+- ever 英  [ˈevə(r)] 美  [ˈevər]adv. 永远；曾经；究竟
+- slightly 英 [ˈslaɪtli] 美  [ˈslaɪtli]adv. 些微地，轻微地；纤细地，瘦小的
 - spoon /spuːn/ n. **匙，勺子**；一杓的量 vt. 用匙舀；使成匙状 vi. 轻轻向上击
 - shoulder /ˈʃəʊldə(r)/ n. 肩，肩膀；肩部 **vt. 肩负，承担** vi. 用肩推挤，用肩顶
 - arm /ɑːrm/ n. 手臂；**武器**；袖子；装备；部门 vi. 武装起来 vt. 武装；备战
@@ -25,65 +27,126 @@ There were once five-and-twenty tin soldiers; they were all brothers, for they h
 - turn out to be 结果是；原来是
 - unique  /juˈniːk/ adj. **独特的**，稀罕的；[数] 唯一的，独一无二的 n. 独一无二的人或物
 
-从前有二十五个锡兵，他们都是兄弟，因为他们是由同一把旧的锡汤匙铸出来的。他们肩上扛着枪，眼睛笔直看着前面，穿着漂亮的军服，一半是红的，一半是蓝的。他们在这个世界上听到的第一句话是“锡兵”，这是他们躺在一个盒子里，一个小男孩打开盒盖后高兴得拍着双手说出来的。他们被送给他作为生日礼物，他站在桌子旁边把他们一个一个站起来。这些兵全都一模一样，只除了一个，他只有一条腿；他被铸到最后一个，融化的锡不够用了，于是让他用一条腿稳稳站住，这就使他非常显眼。
+从前有二十五个锡兵，他们都是兄弟，因为他们是由同一把旧的锡汤匙铸出来的。他们肩上扛着枪，眼睛笔直看着前面，穿着漂亮的军服，一半是红的，一半是蓝的。他们在这个世界上听到的第一句话是“锡兵”，这是他们躺在一个盒子里，一个小男孩打开盒盖后高兴得拍着双手说出来的。他们被送给他作为生日礼物，他站在桌子旁边把他们一个一个站起来。这些兵全都一模一样，只除了一个，他只有一条腿；他是最后一个被铸成的，融化的锡不够用了，于是让他用一条腿稳稳站住，这就使他非常突出。
 
-On the table where they had been lined up there were many other playthings, but the one that stood out most was a lovely paper castle. Through the tiny windows you could look right into the halls. Outside were tiny trees standing around a little mirror that was supposed to look like a lake. Wax swans were swimming on it and being reflected there. It was all lovely, and yet the loveliest of all was a little maiden who was standing in the open door of the castle. She too had been cut out of paper, but she was wearing a skirt of the sheerest lawn and a narrow ribbon over her shoulder just like a drapery; in the very center of it was a shining spangle as big as her whole face. The little maiden was stretching out both her arms, for she was a dancer, and then she had raised one leg so high in the air that the tin soldier couldn't find it at all, and he thought she had but one leg, just like himself.
+On the table where they had been **lined up** there were many other playthings, but the one that stood out most was a lovely paper castle. Through the tiny windows you could look right into the halls. Outside were tiny trees standing around a little mirror that was supposed to look like a lake. **Wax** swans were swimming on it and being **reflected** there. It was all lovely, and yet the loveliest of all was a little **maiden** who was standing in the open door of the castle. She too had been cut out of paper, but she was wearing a skirt of the **sheerest** **lawn** and a **narrow** **ribbon** over her shoulder just like a **drapery;** in the very center of it was a shining **spangle** as big as her whole face. The little **maiden** was **stretching** out both her arms, for she was a dancer, and then she had raised one leg so high in the air that the tin soldier couldn't find it at all, and he thought she had but one leg, just like himself.
 
+- lined up 整顿；对准
+- wax n. 蜡；蜡状物;vt. 给…上蜡;vi. 月亮渐满；增大;adj. 蜡制的；似蜡的
+- reflected 英  [rɪˈflekt]   美  [rɪˈflekt];vt. 反映；反射，照出；表达；显示;反省;vi. 反射，映现；深思
+- maiden 英  [ˈmeɪdn]   美  [ˈmeɪdn]n. 少女，处女；未婚女子；（板球比赛中）未得分的一轮投球；从未跑赢过的赛马adj. （尤指年纪较大女性）未婚的；处女的；（航行、飞行)）首次的；（赛马）从未跑赢过的；（植物）生长期第一年内的n.
+- sheerest adj. 绝对的；透明的；峻峭的 (sheer的变形)
+- lawn 英  [lɔːn]   美  [lɔːn] n. 草地；草坪
+- narrow 英  [ˈnærəʊ]   美  [ˈnæroʊ] adj. 狭窄的，有限的；勉强的；精密的；度量小的 n. 海峡；狭窄部分，隘路;vt. 使变狭窄;vi. 变窄
+- ribbon 英  [ˈrɪbən]   美  [ˈrɪbən] n. 带；缎带；（勋章等的）绶带；带状物；勋表 vi. 形成带状 vt. 把…撕成条带；用缎带装饰
+- drapery 英  [ˈdreɪpəri]   美  [ˈdreɪpəri]n. 布料；帏帐；打褶的帐幔
+- spangle 英  [ˈspæŋɡl]   美  [ˈspæŋɡl] v. 用闪光饰物装饰；使闪烁发光 n. 闪光金属片，亮晶晶的小饰片；亮点
+- stretch 英  [stretʃ]   美  [stretʃ] v. （柔软或弹性物）伸展；拉紧；（使）过分延长；（资金、资源）足够；大量要求；（使）最大限度利用（才能）；夸大；延续
+n. （四肢或身体的）舒展；（肌肉的）伸张；
+- d
 锡兵们站着的桌子上还摆满了别的玩具，但最引人注目的是一座纸做的美丽小宫殿。透过小窗子可以看到里面的那些房间。宫殿前面有一些小树围着一面镜子，它就代表一个清澈的湖。几只蜡做的天鹅在湖上游着，它们的影子倒映在湖水里。这一切非常好看，但是最好看的是一位小姐，她站在宫殿开着的门口；她也是纸做的，穿一身淡雅的布裙，肩上围着一条蓝色的细缎带，就像披着一条披中。在缎带上插着一朵用锡纸做的闪光的玫瑰花，有她整张脸那么大。这位小姐是个舞女，她张开双臂，一条腿举得那么高，这位锡兵根本看不见它，以为她也和他一样只有一条腿。
 
-"That's the wife for me!" he thought. "But she's very highborn. She lives in a castle and I have only a box, and then it must do for five-and-twenty of us--that's no place for her.Still, I must see about making her acquaintance!" And then he stretched out at full length behind a snuffbox that stood on the table. From here he could look right at the little highborn lady, who continued to stand on one leg without losing her balance.
-
+"That's the wife for me!" he thought. "But she's very **highborn**. She lives in a castle and I have only a box, and then it must do for five-and-twenty of us--that's no place for her.Still, I must see about making her **acquaintance**!" And then he **stretche**d out at full **length** behind a snuffbox that stood on the table. From here he could look right at the little highborn lady, who continued to stand on one leg without losing her **balance**.
+- highborn 英  ['haɪbɔːn]   美  ['haibɔ:n] adj. 出身名门的
+- acquaintance 英  [əˈkweɪntəns]   美  [əˈkweɪntəns] n. 熟人；相识；了解；知道
+- length 英  [leŋθ]   美  [leŋθ] n. 长度，长；时间的长短；（语）音长
+- snuffbox 英  [ˈsnʌfbɒks]   美  [ˈsnʌfbɑːks] n. 鼻烟盒
+- balance 英  [ˈbæləns]   美  [ˈbæləns] n. 平衡；余额；匀称
+vt. 使平衡；结算；使相称 vi. 保持平衡；相称；抵销
 “她正好给我做妻子，”他想，“但是她太高贵了，住在宫殿里，而我只有一个盒子可以往，而且我们二十五个挤在一起，就住不下她了。不过我还是必须试试看和她相识。”于是他在桌上一个鼻烟盒后面平躺下来，好偷看那位漂亮的小姐，她继续用一条腿站着而不失去平衡。
 
-Later in the evening all the other tin soldiers went back in their box, and the  people of the house went to bed. Now the toys began to play--at "Visitors," waging war, and holding balls. The tin soldiers rattled in their box because they wanted to join in, but they couldn't get the lid off. The nutcracker turned somersaults, and the slate pencil did monkeyshines on the slate; there was such a racket that the canary bird woke up and joined in the talk--and in verse, at that! The only two who didn't budge an inch were the tin soldier and the little dancer. She held herself erect on the tip of her toe and with both arms outstretched; he was just as steadfast on his one leg and his eyes never left her for a moment.
+Later in the evening all the other tin soldiers went back in their box, and the  people of the house went to bed. Now the toys began to play--at "**Visitors**," waging war, and holding balls. The tin soldiers **rattled** in their box because they wanted to join in, but they couldn't get the lid off. The **nutcracker** turned **somersaults**, and the **slate** pencil did **monkeyshines** on the slate; there was such a **racket** that the **canary** bird woke up and joined in the talk--and **in verse**, at that! The only two who didn't **budge** an inch were the tin soldier and the little dancer. She held herself **erect** on the **tip** of her toe and with both arms outstretched; he was just as steadfast on his one leg and his eyes never left her for a moment.
+- visitors 英  [ˈvɪzɪtə(r)]   美  [ˈvɪzɪtər] n. 访问者，参观者；视察者；候鸟
+- waging 英  [weɪdʒ]   美  [weɪdʒ] n. 工资；报酬；代价；报应
+v. 进行，发动（运动、战争等）；开展 wage 的现在进行时+ing
+- rattle 英  [ˈrætl]   美  [ˈrætl] vt. 使发出咯咯声；喋喋不休；使慌乱，使惊慌 vi. 喋喋不休地讲话；发出卡嗒卡嗒声 n. 喋喋不休的人；吓吱声，格格声
+- nutcracker 英  [ˈnʌtkrækə(r)]   美  [ˈnʌtkrækər] n. 胡桃钳；星鸦；瘪嘴
+- somesaults n. 筋斗
+- slate 英  [sleɪt]   美  [sleɪt] n. 板岩；石板；蓝色；石片
+vt. 铺石板；严厉批评某人；计划 adj. 板岩的；石板色的
+- monkeyshines 英  ['mʌŋkɪʃaɪn]   美  ['mʌŋkiʃain] n. 胡闹，恶作剧
+- racket 英  [ˈrækɪt]   美  [ˈrækɪt] n. 球拍；吵闹，喧闹
+- canary 英  [kəˈneəri]   美  [kəˈneri] n. 金丝雀；淡黄色，鲜黄色；加纳利甜酒
+- in verse 用诗写的，韵文的
+- budge 英  [bʌdʒ]   美  [bʌdʒ] vi. 挪动；微微移动；改变态度或意见；服从 vt. 使让步；移动；使改变态度或意见 n. 羔羊皮
+- erect 英  [ɪˈrekt]   美  [ɪˈrekt] adj. 竖立的，笔直的；因性刺激而勃起的；（毛发）竖起的 v. （使）竖立；建造；创立；安装；勃起
+- tip 英  [tɪp]   美  [tɪp] n. 尖端；小部件；小费；小建议，小窍门；（比赛的）内部消息；垃圾场，脏乱处 v. （使）倾斜，翻倒；倒出，倾倒；轻触；丢垃圾；给小费；预测成功；覆盖端头
 
-等到天晚了，其他锡兵都放进了盒子，那一家子的人也上床去睡了。这时候玩偶们就开始互相玩他们自己的游戏：串门，打仗，开舞会。锡兵们在盒子里也吵闹起来，他们也想出去跟大家一起玩，但是打不开盒盖。那些核桃钳子玩跳背游戏，铅笔在桌子上蹦蹦跳跳，吵得那么厉害。金丝鸟给吵醒了开始说话，而且出口成诗。只有那个锡兵和那位舞女在原地一动不动。她竖着脚尖站着，双臂张开，用一条腿站着和那锡兵用一条腿站得同样稳。他的眼睛连一瞬间也没有离开过她。
+等到天晚了，其他锡兵都放进了盒子，那一家子的人也上床去睡了。这时候玩偶们就开始互相玩他们自己的游戏：串门，打仗，开舞会。锡兵们在盒子里也吵闹起来，他们也想出去跟大家一起玩，但是打不开盒盖。那些核桃钳子玩跳背游戏，铅笔在桌子上蹦蹦跳跳，吵得那么厉害。金丝鸟被吵醒了也开始说话，而且出口成诗。只有那个锡兵和那位舞女在原地一动不动。她竖着脚尖站着，双臂张开，用一条腿站着和那锡兵用一条腿站得同样稳。他的眼睛连一瞬间也没有离开过她。
 
-Now the clock struck twelve, and crash! The lid of the snuffbox flew off, but there wasn't any snuff in there--no, but a little black troll, and that was quite a trick.
-
-钟敲十二点，鼻烟盒的盖子砰地打开；但是跳上来的不是鼻烟，而是一个黑色的小妖精；因为这鼻烟盒是个叫人吓一跳的玩具。
+Now the clock struck twelve, and crash! The lid of the snuffbox **flew off**, but there wasn't any **snuff** in there--no, but a little black **troll**, and that was quite a **trick**.
+- struck 英  [stʌk]   美  [stʌk] v. 刺（stick 的过去式和过去分词）adj. 卡住的，动不了的；被困住的； 陷入的；停滞不前的；无法摆脱困境的；被难倒的，（因困难）无法继续的
+- flew off 飞出；飞速（或突然）地跑掉 ；fly 的过去式flew
+- snuff vt. 剪烛花；掐灭；消灭；嗅出 n. 鼻烟；烛花；灯花 vi. 扑灭；断气；嗅
+- troll  英  [trɒl; trəʊl]   美  [troʊl] n. （北欧神话中的）穴居巨怪，侏儒；挑衅帖子，发挑衅帖子的人（非正式）；钓鱼；轮唱 v. 拖饵钓鱼；搜查；发布挑衅帖子（非正式）；散步；欢快地高唱；轮唱；随便浏览（报纸或文件）
+- 英  [trɪk]   美  [trɪk] n. 诡计；恶作剧；窍门；花招；骗局；欺诈
+vt. 欺骗；哄骗；装饰；打扮 vi. 哄骗；戏弄
+时钟敲到十二点，鼻烟盒的盖子砰地打开；但是跳出来的不是鼻烟，而是一个黑色的小妖精；因为这鼻烟盒是个叫人吓一跳的玩具。
 
 "Tin soldier!" said the troll. "Will you keep your eyes to yourself!"
 
 “锡兵，”小妖精说，“不要指望不属于你的东西。”
-
-But the tin soldier pretended not to hear.
+ 
+But the tin soldier **pretended** not to hear.
 
 但是锡兵假装没有听见他的话。
-
+- 英  [prɪˈtend]   美  [prɪˈtend] vi. 假装，伪装，佯装
+adj. 假装的 vt. 假装，伪装，模拟
 "Well, wait until tomorrow!" said the troll.
-
 “很好；那就等到明天吧。”小妖精说。
+Now, when it was morning and the children got up, the tin soldier was placed over in the window; and whether it was caused by the troll or the **draft**, the window suddenly flew open and the tin soldier went **headlong** out from the third floor with a terrible speed. He turned his leg up in the air and landed on his cap, with his **bayonet** stuck between the **paving** stones.
+- draft 英  [drɑːft]   美  [dræft] n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流 vt. 起草；制定；征募 vi. 拟稿；绘样；作草图
+- headlong 英  [ˈhedlɒŋ]   美  [ˈhedlɔːŋ] adv. 头朝前，头向前地；轻率地；莽撞地，慌慌张张地 adj. 轻率的；匆促而用力的；头向前的
+- bayonet 英  ['beɪənɪt]   美  ['beənət] n. 刺刀；卡销 vt. 用刺刀刺 vi. 用刺刀；劈刺
+- paving 英  [ˈpeɪvɪŋ]   美  [ˈpeɪvɪŋ] n. [建] 铺砌；铺路材料；块石面路 v. 铺设；为…做准备（pave的ing形式）
+第二天早晨孩子们起床，把这锡兵放在窗口。好，也不知是小妖精干的，还是风吹的，但是窗子一下子打开，锡兵倒栽葱从三楼落到了下面街上。跌得可厉害了；因为是头朝下跌的，他的军盔和刺刀插在铺石的缝间，那条独腿朝天。
 
-Now, when it was morning and the children got up, the tin soldier was placed over in the window; and whether it was caused by the troll or the draft, the window suddenly flew open and the tin soldier went headlong out from the third floor with a terrible speed. He turned his leg up in the air and landed on his cap, with his bayonet stuck between the paving stones.
+The **maid** and the little boy went right down to look for him, but despite the fact that they nearly stepped on him, they couldn't see him. If the tin soldier had shouted "Here I am!" they would have found him, all right. But he didn't think it **proper**to shout when he was in uniform.
+- maid  女仆 
+- despite 尽管
+- proper 英  [ˈprɒpə(r)]   美  [ˈprɑːpər] adj. 适当的；本身的；特有的；正派的 adv. 完全地
+女仆和那小男孩马上下楼来找他；但是哪儿也看不到他，虽然有一次她们险些儿就踩在他身上；如果他叫一声“我在这里”就好了，但是他穿着军服，不好大叫救命。
 
-第二天早晨孩子们进来，把这锡兵放在窗口。好，也不知是小妖精干的，还是风吹的，但是窗子一下子打开，锡兵倒栽葱从三楼落到了下面街上。跌得可厉害了；因为是头朝下跌的，他的军盔和刺刀插在铺石的缝间，那条独腿朝天。
-
-The maid and the little boy went right down to look for him, but despite the fact that they nearly stepped on him, they couldn't see him. If the tin soldier had shouted "Here I am!" they would have found him, all right. But he didn't think it proper to shout when he was in uniform.
-
-女仆和那小男孩马上下楼来找他；但是哪儿也看不到他，虽然有一次她们险些儿就踩在他身上；如果他叫一声“我在这里”就好了，但是他穿着军服，大自豪了，不好大叫救命。
-
-Now it started to rain; the drops fell thick and fast. It turned into a regular downpour. When it was over, two street urchins came along.
-
+Now it started to rain; the drops fell thick and fast. It turned into a regular **downpour**. When it was over, two street **urchins** came along.
+- downpour 英  [ˈdaʊnpɔː(r)]  美  [ˈdaʊnpɔːr] n. 倾盆大雨；注下
+- urchins n. 海胆（urchin的复数）；顽童
 紧接着就下起雨来，雨点越来越密，最后下起了倾盆大雨。雨后恰巧有两个男孩走过！
 
 "Look!" said the first. "There's a tin soldier. He's going out sailing!"
+“看！”第一个说。“有一个锡兵，要是有条船他便要出海航行了！”
 
-其中一个说：“瞧，这儿有个锡兵。他该有条船坐着航行。”
+And so they made a boat out of a newspaper and put the tin soldier in the middle of it, and now he **sailed** down the **gutter**. Both the boys ran **alongside** and clapped their hands. Heaven help us! What **waves** there were in that gutter and what a **current**! But, then, the rain had **poured down**. The paper boat **bobbed** up and down, and now and then it turned around, sending a **shudder** through the tin soldier. But he was just as steadfast, didn't **bat** an **eyelash**, looked straight ahead, and shouldered his gun.
 
-And so they made a boat out of a newspaper and put the tin soldier in the middle of it, and now he sailed down the gutter. Both the boys ran alongside and clapped their hands. Heaven help us! What waves there were in that gutter and what a current! But, then, the rain had poured down. The paper boat bobbed up and down, and now and then it turned around, sending a shudder through the tin soldier. But he was just as steadfast, didn't bat an eyelash, looked straight ahead, and shouldered his gun.
+- gutter 英  [ˈɡʌtə(r)]   美  [ˈɡʌtər] n. 排水沟；槽；贫民区
+vi. 流；形成沟 vt. 开沟于…；弄熄 adj. 贫贱的；粗俗的；耸人听闻的
+- alongside 英  [əˌlɒŋˈsaɪd]   美  [əˌlɔːŋˈsaɪd] prep. 在……旁边，沿着……的边；与 ……一起，合作；与……同时，共存；与……相比 adv. 在旁边
+- waves 英  [weɪv]   美  [weɪv] v. 挥手；挥手示意；挥舞；飘扬；使（头发）略呈波形 n. 海浪；心潮；涌现的人（或物）；挥手；波；（头发）卷曲；（感情）爆发
+- current 英  [ˈkʌrənt]   美  [ˈkɜːrənt] adj. 现在的；流通的，通用的；最近的；草写的 n. （水，气，电）流；趋势；涌流 
+- pour down 雨）倾盆而下
+- bobbed up and down 上下颠簸；在水面上忽沉忽浮
+- shudder 英  [ˈʃʌdə(r)]   美  [ˈʃʌdər] n. 发抖；战栗；震动
+vi. 发抖；战栗
+- bat n. 蝙蝠；球棒；球拍；批处理文件的扩展名 vt. 用球棒击球；击球率达vi. 轮到击球；用球棒击球
+- eyelash 英  [ˈaɪlæʃ]   美  [ˈaɪlæʃ] n. 睫毛
 
 于是他们用一张报纸折成一条船，把锡兵放进去，让他顺着水沟航行，两个男孩在旁边跟着他走，一路拍着手。天哪，水沟里浪头多么大啊！水流得多么急啊！因为刚才那场雨太大了。把船摇来晃去，有时候转得那么快，锡兵也摇晃了；然而他保持坚定；他的脸色不变；笔直望着前面，扛着他的枪。
 
-All at once the boat drifted in under a long gutter plank; it was just as dark as if he were in his box.
+All at once the boat **drifted** in under a long gutter **plank**; it was just as dark as if he were in his box.
+
+- drifted vt. 漂泊，漂流；吹积（drift的过去分词）vi. 使漂流；使吹积（drift的过去分词）
+- plank 英  [plæŋk]   美  [plæŋk]n. [木] 厚木板；支架；政纲条款
+vt. 在…上铺板；撂下；立刻付款
 
 船忽然在一座桥下冲过，这桥是阴沟的一部分，接下来四周黑得像锡兵的盒子里一样。
 
-"I wonder where I'm going now," he thought. "Well, well, it's the fault of the troll. Alas, if only the little maiden were sitting here in the boat, then it could be twice as dark for all I'd care!"
+"I wonder where I'm going now," he thought. "Well, well, it's the **fault** of the troll. Alas, if only the little maiden were sitting here in the boat, then it could be twice as dark for all I'd care!"
+
+- fault  英 [fɔːlt] 美 [fɔːlt] n. 故障；[地质] 断层；错误；缺点；毛病；（网球等）发球失误vi. 弄错；产生断层 vt.（通常用于疑问句或否定句）挑剔
+- alas 英 [əˈlæs] 美 [əˈlæs] int. 唉（表悲伤、遗憾、恐惧、关切等等）
 
 我这会儿是在上哪儿去呢？”他想，“我断定这都是那黑妖精捣的鬼。啊，要是那小姐和我一起在船上就好了，黑不黑我就一点也不在乎。”
 
-At the same moment a big water rat came along, who lived under the gutter plank.
+At the same moment a big water rat came along, who lived under the gutter **plank**.
 
 忽然出现了一只很大的水老鼠，它住在这儿阴沟里。
 
@@ -91,11 +154,19 @@ At the same moment a big water rat came along, who lived under the gutter plank.
 
 “你有通行证吗？”老鼠问道，“马上把它给我。”
 
-But the tin soldier remained silent and held the gun even tighter. The boat flew away with the rat right behind it. Whew! How it gnashed its teeth and shouted to sticks and straws:"Stop him! Stop him! He hasn't paid the toll! He hasn't shown his passport!"
+But the tin soldier **remained** silent and held the gun even **tighter**. The boat flew away with the rat right behind it. Whew! How it **gnashed** its teeth and shouted to sticks and straws:"Stop him! Stop him! He hasn't paid the toll! He hasn't shown his passport!"
+
+- remain  英 [rɪˈmeɪn]  美 [rɪˈmeɪn]vi. 保持；依然；留下；剩余；逗留；残存n. 遗迹；剩余物，残骸
+- tight  英  [taɪt]   美  [taɪt]adj. 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的adv. 紧紧地；彻底地
+- gnash  英  [næʃ]   美  [næʃ]vt. 咬牙切齿vi. 咬牙切齿n. 咬
+- straw  英  [strɔː]   美  [strɔː]n. 稻草；吸管；一文不值的东西 adj. 稻草的；无价值的
 
 但是锡兵保持沉默，把枪握得更紧。船继续飘走，老鼠跟在后面。它是怎样地咬牙切齿啊，它对木屑和干草大叫：“拦住他，拦住他；他还没有付过路钱，还没有出示通行证。”
 
-But the current grew stronger and stronger; the tin soldier could already see daylight ahead where the gutter plank ended, but he could also hear a roaring sound that was enough to frighten a brave man. Just think, where the gutter plank ended, the gutter poured right out into a big canal! It was just as dangerous for him as it would be for us to sail down a great waterfall.
+But the **current** grew stronger and stronger; the tin soldier could already see daylight ahead where the gutter plank ended, but he could also hear a **roaring** sound that was enough to frighten a brave man. Just think, where the gutter plank ended, the gutter poured right out into a big canal! It was just as dangerous for him as it would be for us to sail down a great waterfall.
+
+- current 英  [ˈkʌrənt]   美  [ˈkɜːrənt]adj. 现在的；流通的，通用的；最近的；草写的n. （水，气，电）流；趋势；涌流
+- roaring 英  [ˈrɔːrɪŋ]   美  [ˈrɔːrɪŋ]adj. （疼痛、愤怒时）吼叫的，喧闹的；（自然现象）呼啸的，轰鸣的；（火）熊熊燃烧的；（古）放纵的；兴旺的；（非正式）十足的 adv. 非常，极其n. 咆哮，吼声；（马）吼喘（一种疾病）v. （常指车辆）呼啸疾驰；吼叫；咆哮；哄笑，大笑（roar 的现在分词）
 
 但是水流得越来越急。锡兵已经看得见拱道尽头处阳光照耀了。这时候他听见一阵隆隆声，可怕得足以使最勇敢的人吓倒。在管道的尽头处，阴沟猛地泻入一条大运河，对于他来说，这危险程度就像瀑布对于我们一样。
 
