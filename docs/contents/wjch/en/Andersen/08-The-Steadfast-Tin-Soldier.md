@@ -51,8 +51,8 @@ On the table where they had been **lined up** there were many other playthings, 
 - acquaintance 英  [əˈkweɪntəns]   美  [əˈkweɪntəns] n. 熟人；相识；了解；知道
 - length 英  [leŋθ]   美  [leŋθ] n. 长度，长；时间的长短；（语）音长
 - snuffbox 英  [ˈsnʌfbɒks]   美  [ˈsnʌfbɑːks] n. 鼻烟盒
-- balance 英  [ˈbæləns]   美  [ˈbæləns] n. 平衡；余额；匀称
-vt. 使平衡；结算；使相称 vi. 保持平衡；相称；抵销
+- balance 英  [ˈbæləns]   美  [ˈbæləns] n. 平衡；余额；匀称 vt. 使平衡；结算；使相称 vi. 保持平衡；相称；抵销
+
 “她正好给我做妻子，”他想，“但是她太高贵了，住在宫殿里，而我只有一个盒子可以往，而且我们二十五个挤在一起，就住不下她了。不过我还是必须试试看和她相识。”于是他在桌上一个鼻烟盒后面平躺下来，好偷看那位漂亮的小姐，她继续用一条腿站着而不失去平衡。
 
 Later in the evening all the other tin soldiers went back in their box, and the  people of the house went to bed. Now the toys began to play--at "**Visitors**," waging war, and holding balls. The tin soldiers **rattled** in their box because they wanted to join in, but they couldn't get the lid off. The **nutcracker** turned **somersaults**, and the **slate** pencil did **monkeyshines** on the slate; there was such a **racket** that the **canary** bird woke up and joined in the talk--and **in verse**, at that! The only two who didn't **budge** an inch were the tin soldier and the little dancer. She held herself **erect** on the **tip** of her toe and with both arms outstretched; he was just as steadfast on his one leg and his eyes never left her for a moment.
@@ -83,6 +83,7 @@ Now the clock struck twelve, and crash! The lid of the snuffbox **flew off**, bu
 - troll  英  [trɒl; trəʊl]   美  [troʊl] n. （北欧神话中的）穴居巨怪，侏儒；挑衅帖子，发挑衅帖子的人（非正式）；钓鱼；轮唱 v. 拖饵钓鱼；搜查；发布挑衅帖子（非正式）；散步；欢快地高唱；轮唱；随便浏览（报纸或文件）
 - 英  [trɪk]   美  [trɪk] n. 诡计；恶作剧；窍门；花招；骗局；欺诈
 vt. 欺骗；哄骗；装饰；打扮 vi. 哄骗；戏弄
+
 时钟敲到十二点，鼻烟盒的盖子砰地打开；但是跳出来的不是鼻烟，而是一个黑色的小妖精；因为这鼻烟盒是个叫人吓一跳的玩具。
 
 "Tin soldier!" said the troll. "Will you keep your eyes to yourself!"
@@ -102,6 +103,7 @@ Now, when it was morning and the children got up, the tin soldier was placed ove
 - headlong 英  [ˈhedlɒŋ]   美  [ˈhedlɔːŋ] adv. 头朝前，头向前地；轻率地；莽撞地，慌慌张张地 adj. 轻率的；匆促而用力的；头向前的
 - bayonet 英  ['beɪənɪt]   美  ['beənət] n. 刺刀；卡销 vt. 用刺刀刺 vi. 用刺刀；劈刺
 - paving 英  [ˈpeɪvɪŋ]   美  [ˈpeɪvɪŋ] n. [建] 铺砌；铺路材料；块石面路 v. 铺设；为…做准备（pave的ing形式）
+
 第二天早晨孩子们起床，把这锡兵放在窗口。好，也不知是小妖精干的，还是风吹的，但是窗子一下子打开，锡兵倒栽葱从三楼落到了下面街上。跌得可厉害了；因为是头朝下跌的，他的军盔和刺刀插在铺石的缝间，那条独腿朝天。
 
 The **maid** and the little boy went right down to look for him, but despite the fact that they nearly stepped on him, they couldn't see him. If the tin soldier had shouted "Here I am!" they would have found him, all right. But he didn't think it **proper**to shout when he was in uniform.
@@ -109,12 +111,14 @@ The **maid** and the little boy went right down to look for him, but despite the
 - maid  女仆
 - despite 尽管
 - proper 英  [ˈprɒpə(r)]   美  [ˈprɑːpər] adj. 适当的；本身的；特有的；正派的 adv. 完全地
+
 女仆和那小男孩马上下楼来找他；但是哪儿也看不到他，虽然有一次她们险些儿就踩在他身上；如果他叫一声“我在这里”就好了，但是他穿着军服，不好大叫救命。
 
 Now it started to rain; the drops fell thick and fast. It turned into a regular **downpour**. When it was over, two street **urchins** came along.
 
 - downpour 英  [ˈdaʊnpɔː(r)]  美  [ˈdaʊnpɔːr] n. 倾盆大雨；注下
 - urchins n. 海胆（urchin的复数）；顽童
+
 紧接着就下起雨来，雨点越来越密，最后下起了倾盆大雨。雨后恰巧有两个男孩走过！
 
 "Look!" said the first. "There's a tin soldier. He's going out sailing!"
