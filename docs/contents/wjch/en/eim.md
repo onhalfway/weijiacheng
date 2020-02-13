@@ -12,13 +12,13 @@
 
 - CD1 T41 Listen to the dialogue between Paul and Ben. Then look at the pictures and write A-F in the correct order.
 TAPESCRIPT
-Paul: I have a great time with my cousins! We all get on really well. 
-Ben: Really? Do you like the same things? 
+Paul: I have a great time with my cousins! We all get on really well.
+Ben: Really? Do you like the same things?
 Paul: Yes, we do. Well, actually Jason, Jamie and I all like going bowling, but Kelly doesn't like that so much. She likes going to the cinema or going to museums.
 Ben: Does she go bowling with you at all?
 Paul: No, she doesn't.
 Ben: What do you all do together, then?
-Paul: We go shopping together at weekends, and we go to the internet cafe together. 
+Paul: We go shopping together at weekends, and we go to the internet cafe together.
 Ben: What about your sister, Jess? Does she go with you?
 Paul: Yeah, sometimes. She works in a shop at the weekends, so she doesn't have a lot of time.
 
