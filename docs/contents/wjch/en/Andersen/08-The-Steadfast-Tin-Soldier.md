@@ -43,7 +43,7 @@ On the table where they had been **lined up** there were many other playthings, 
 - spangle 英  [ˈspæŋɡl]   美  [ˈspæŋɡl] v. 用闪光饰物装饰；使闪烁发光 n. 闪光金属片，亮晶晶的小饰片；亮点
 - stretch 英  [stretʃ]   美  [stretʃ] v. （柔软或弹性物）伸展；拉紧；（使）过分延长；（资金、资源）足够；大量要求；（使）最大限度利用（才能）；夸大；延续
 n. （四肢或身体的）舒展；（肌肉的）伸张；
-- d
+
 锡兵们站着的桌子上还摆满了别的玩具，但最引人注目的是一座纸做的美丽小宫殿。透过小窗子可以看到里面的那些房间。宫殿前面有一些小树围着一面镜子，它就代表一个清澈的湖。几只蜡做的天鹅在湖上游着，它们的影子倒映在湖水里。这一切非常好看，但是最好看的是一位小姐，她站在宫殿开着的门口；她也是纸做的，穿一身淡雅的布裙，肩上围着一条蓝色的细缎带，就像披着一条披中。在缎带上插着一朵用锡纸做的闪光的玫瑰花，有她整张脸那么大。这位小姐是个舞女，她张开双臂，一条腿举得那么高，这位锡兵根本看不见它，以为她也和他一样只有一条腿。
 
 "That's the wife for me!" he thought. "But she's very **highborn**. She lives in a castle and I have only a box, and then it must do for five-and-twenty of us--that's no place for her.Still, I must see about making her **acquaintance**!" And then he **stretche**d out at full **length** behind a snuffbox that stood on the table. From here he could look right at the little highborn lady, who continued to stand on one leg without losing her **balance**.
