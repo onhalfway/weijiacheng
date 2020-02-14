@@ -4,15 +4,54 @@
 
 ## 正文 as is
 
-There was once a merchant; he was so rich that he could pave the whole street, and most of a little alleyway too, with silver money. But he didn't do it; he knew of other ways to use his money. If he spent a shilling, he got back a daler. That's the sort of merchant he was--and then he died.
+There was once a **merchant**; he was so rich that he could pave the whole street, and most of a little **alleyway** too, with silver money. But he didn't do it; he knew of other ways to use his money. If he spent a **shilling**, he got back a **daler**. That's the sort of merchant he was--and then he died.
+
+- merchant 英  [ˈmɜːtʃənt]   美  [ˈmɜːrtʃənt] n. 商人，批发商；店主 adj. 商业的，商人的
+- alleyway 英  ['ælɪweɪ]   美  ['ælɪ,we] n. 胡同；小巷；窄街；走廊
+- shilling  英  [ˈʃɪlɪŋ]   美  [ˈʃɪlɪŋ] n. 先令
+- daler ?
 
 TODO: verify 从前有一个商人;他很有钱，可以用银元铺满整条街，甚至整条小巷的大部分。但他没有这样做;他知道还有其他方式来使用他的钱。如果他花了一先令，就会得到一大笔钱。他就是这样一个商人——后来他死了。
 
-Now the son got all this money, and he lived merrily--going to masquerade balls every night, making paper kites out of rixdaler bills, and playing ducks and drakes on the lake with golden coins instead of stones. So I daresay the money could go, and go it did. At last he had no more than four shillings left, and he had no other clothes than a pair of slippers and an old bathrobe. His friends no longer bothered about him now, as, indeed, they couldn't walk down the street together. But one of them, who was kind, sent him an old trunk and said, "Pack it!" Now, that was all very well, but he had nothing to pack, and so he seated himself in the trunk.
+Now the son got all this money, and he lived **merrily**--going to **masquerade** **balls** every night, making paper kites out of **rixdaler** **bills**, and playing ducks and drakes on the lake with golden coins **instead** of stones. So I **daresay** the money could go, and go it did. At last he had no more than four shillings left, and he had no other clothes than a pair of slippers and an old **bathrobe**. His friends no longer **bothered** about him now, as, indeed, they couldn't walk down the street together. But one of them, who was kind, sent him an old trunk and said, "**Pack** it!" Now, that was all very well, but he had nothing to pack, and so he **seated** himself in the **trunk**.
+
+- merrily
+- masquerade 英  [ˌmæskəˈreɪd; ˌmɑːskəˈreɪd]  美  [ˌmæskəˈreɪd] n. 掩藏，掩饰；伪装，化装；欺骗；化妆舞会 v. 伪装，化装；冒充
+- bills 英 [bɪlz]
+美 [bɪlz]
+n. 账单;   (餐馆的)账单;   (提交议会讨论的)议案，法案;
+v. 给(某人)开账单，发账单(要求付款);   把(某人或事物)宣传为…;   宣布…将做某事;
+bill的第三人称单数和复数;
+- ball  英  [bɔːl]   美  [bɔːl] n. 球；舞会 vi. 成团块 vt. 捏成球形
+- trunk
+ 英  [trʌŋk]   美  [trʌŋk]
+
+n. 树干；躯干；象鼻；汽车车尾的行李箱
+vt. 把…放入旅行箱内
+adj. 干线的；躯干的；箱子的
+- daresay
+ 英  ['deə'seɪ]   美  ['dεə'sei]
+
+vt. 猜想；料想
+vi. 猜想；料想（只用于第一人称单数和现在时）
+- bothered  英  ['bʌðəd]   美  ['bʌðəd] adj. 烦（恼）的；感到讨厌
+- seated  英  ['si:tid]   美  ['sitɪd] adj. 就座的，坐下来的 v. 使……坐下；为……提供座位；可坐……人；固定，安装（seat 的过去式和过去分词）
 
 现在，儿子得到了所有的钱，他过着快乐的生活——每天晚上去参加化装舞会，用纸币做纸风筝，用金币而不是石头在湖上玩鸭子和鸭子游戏。所以我敢说，钱可以去，去了它。最后，他只剩下四个先令了，除了一双拖鞋和一件旧浴衣外，他没有别的衣服。他的朋友们现在不再为他操心了，因为他们确实不能一起在街上走。但是其中一个好心的人，给了他一只旧箱子，说:“打包!”现在，一切都很好，但他没有什么东西可以收拾，所以他坐在箱子里。
 
-It was a funny trunk. As soon as you pressed the lock, the trunk could fly--and fly it did! Whoops! It flew up through the chimney with him, high above the clouds, farther and farther away. The bottom creaked, and he was afraid it would go to pieces, for then he would have made quite a big jolt! Heaven help us! And then he came to the land of the Turks. He hid the trunk in the woods under the dried leaves and then went into the town. He  could do this easily, for among the Turks everyone, of course, walked around like he did, in a bathrobe and slippers. Then he met a nurse with a baby.
+It was a funny trunk. As soon as you **pressed** the lock, the trunk could fly--and fly it did! Whoops! It flew up through the chimney with him, high above the clouds, farther and farther away. The bottom creaked, and he was afraid it would go to pieces, for then he would have made quite a big **jolt**! Heaven help us! And then he came to the land of the Turks. He hid the trunk in the woods under the dried leaves and then went into the town. He  could do this easily, for among the Turks everyone, of course, walked around like he did, in a bathrobe and slippers. Then he met a nurse with a baby.
+
+- preesed 英 [prest] 美 [prest]
+adj. (时间、资金等)紧缺，短绌;   压平的;   压扁的;
+v. (被)压，挤，推，施加压力;   按，压(使启动);   将…塞进;   把…按入;
+press的过去分词和过去式;  英 [prest] 美 [prest]
+adj. (时间、资金等)紧缺，短绌;   压平的;   压扁的; v. (被)压，挤，推，施加压力;   按，压(使启动);   将…塞进;   把…按入; press的过去分词和过去式;
+- jolt 英 [dʒəʊlt] 美 [dʒoʊlt]
+v. (使)震动，摇动，颠簸;   使受到震惊(而采取行动);   唤醒;   使觉醒;
+n. 颠簸;   震动;   摇晃;   一阵强烈的感情(尤指震惊或惊讶);
+-
+-
+-
 
 这是一个有趣的箱子。只要你一按下锁，箱子就会飞起来——它确实飞起来了!哎呀!它和他一起从烟囱里飞出来，飞得比云还高，越飞越远。船底嘎吱一声响了，他担心船会碎，因为那样的话，他就会颠得很厉害!天堂帮助我们!然后他来到了土耳其人的土地。他把树干藏在树林里的干树叶下面，然后就进城去了。他很容易做到这一点，因为在土耳其人当中，当然每个人都像他一样穿着浴衣和拖鞋四处走动。然后他遇到了一个带着婴儿的护士。
 
@@ -22,21 +61,70 @@ It was a funny trunk. As soon as you pressed the lock, the trunk could fly--and 
 
 "The king's daughter lives there!" she said. "It has been prophesied that a sweetheart is going to make her very unhappy, so no one can come in to see her unless the king and the queen are there!"
 
+- prophesied  v. 预言，预告；受神启示而说；传教（prophesy 的过去式和过去分词）
+
 “国王的女儿住在那儿!”她说。“据说有一个心上人要使她非常不幸，所以除非国王和王后在场，否则谁也不能进去看她!”
 
 "Thanks!" said the merchant's son. And then he went out in the woods, seated himself in his trunk, flew up on the roof, and crawled in through the window to the princess.
+
+- crawl
+ 英  [krɔːl]   美  [krɔːl]
+vi. 爬行；匍匐行进
+vt. 爬行；缓慢地行进
+n. 爬行；养鱼池；匍匐而行
 
 “谢谢!”商人的儿子说。于是他走进树林，坐进箱子，飞上屋顶，从窗口爬了进去。
 
 She was lying on the sofa asleep. She was so lovely that the merchant's son had to kiss her. She woke up and was quite terrified, but he said that he was the God of the Turks, who had come down to her through the air, and she liked that very much.
 
+- terrified
+ 英  [ˈterɪfaɪd]   美  [ˈterɪfaɪd]
+
+v. （使）害怕，惊恐；恐吓（terrify 的过去式及过去分词）
+adj. 非常害怕的，极度惊恐的
+
 她躺在沙发上睡着了。她是那么可爱，商人的儿子不得不吻她。她醒了过来，吓了一大跳，但他说他是土耳其人的神，他们从空中来到她身边，她非常喜欢。
 
 Then they sat next to each other, and he told her tales about her eyes: they were the loveliest dark pools, and her thoughts swarm about there like mermaids. And he told her about her forehead: it was a snow-capped mountain with the most magnificent halls and pictures. And he told her about the stork that brings the sweet little babies.
 
+- tales
+英 ['teɪliːz]
+n.
+(尤指充满惊险的)故事;历险记;(精彩但不一定完全真实的)讲述，叙述
+- pool英 [puːlz]
+美 [puːlz]
+n. 水坑，水塘，池塘(尤指自然形成的);   一滩(液体);   一小片(液体或光);   共用的资源(或资金);
+
+v. 集中资源(或材料等);
+- swarm
+英 [swɔːm]   美 [swɔːrm]
+n.
+一大群(蜜蜂等昆虫);一大群，一大批(向同方向移动的人)
+v.
+成群地来回移动;成群地飞来飞去
+- mermaids
+英 [ˈmɜːmeɪdz]   美 [ˈmɜrˌmeɪdz]
+n.
+(传说中的)美人鱼
+mermaid的复数
+- forehead 英 [ˈfɔːhed]
+美 [ˈfɔːrhed]
+n. 额;   前额;
+- snow-capped
+英 [ˈsnəʊ kæpt]   美 [ˈsnoʊ kæpt]
+adj.
+顶部被雪覆盖的
+- stork 英 [stɔːk] 美 [stɔːrk] n. 鹳;
+
 于是他们就挨在一起坐着。他给她讲关于她的眼睛的故事。他告诉她关于她的前额的事情:那是一座白雪皑皑的山，有最宏伟的宫殿和图画。他告诉她关于鹳鸟带来了可爱的小婴儿。
 
 Yes, those were some lovely tales! Then he proposed to the princess, and she said yes right away.
+
+- proposed
+ 英  [prəˈpəʊzd]   美  [prəˈpozd]
+
+adj. 被提议的，建议的
+v. 提议；计划（propose 的过去式和过去分词）
 
 是的，那些是一些可爱的故事!然后他向公主求婚，公主马上答应了。
 
@@ -45,6 +133,24 @@ Yes, those were some lovely tales! Then he proposed to the princess, and she sai
 “可是你星期六一定要来呀，”她说。“那么国王和王后会来和我一起喝茶!”他们会为我得到土耳其人的神而感到非常自豪。不过你要知道一个真正可爱的故事，因为我的父母特别喜欢他们。我妈妈喜欢它有道德，有礼貌，而我爸爸喜欢它有趣味，这样你就可以笑了!”
 
 "Well, I'm bringing no other wedding present than a story!" he said, and then they parted. But the princess gave him a saber that was encrusted with golden coins--and he could particularly use those.
+
+- parted
+ 英  ['pɑːtɪd]   美  ['pɑtɪd]
+adj. 分开的，分成部分的；深裂的；去世的，死去的
+v. 离开，分别；分开，隔离；分散，解散；裂开，断裂；（头发）梳成分头（part 的过去式及过去分词）
+- saber
+ 英  [ˈseɪbə(r)]   美  [ˈseɪbər]
+n. 军刀；佩剑；骑兵
+vt. 用马刀砍或杀
+- encrusted
+ 美  [ɪnˈkrʌstɪd]
+
+adj. 带有外壳的；硬壳覆盖的，结外壳的；覆有……外壳的
+v. （encrust 的过去式和过去分词）包以外壳；使形成硬壳；包硬外壳于
+- particularly
+ 英  [pəˈtɪkjələli]   美  [pərˈtɪkjələrli]
+
+adv. 异乎寻常地；特别是；明确地
 
 “好吧，除了故事，我不带别的结婚礼物!”他说，然后他们分手了。但公主给了他一把镶有金币的军刀——他特别需要这些金币。
 
@@ -62,6 +168,10 @@ The king and the queen and the whole court were waiting with tea at the princess
 
 "Now, will you tell a story!" said the queen. "Once that is profound and imparts a moral."
 
+- profound
+ 英  [prəˈfaʊnd]   美  [prəˈfaʊnd]
+adj. 深厚的；意义深远的；渊博的
+
 “现在，你讲个故事吧!”王后说。“一旦那是深刻的，是道德的。”
 
 "But one that can still make you laugh!" said the king.
@@ -74,41 +184,116 @@ The king and the queen and the whole court were waiting with tea at the princess
 
 "There was once a bunch of matches that were so exceedingly proud of their high descent. Their family tree--that is to say, the big fir tree of which each one was a tiny stick--had been a huge old tree in the forest. The matches were now lying on the shelf between a tinderbox and an old iron pot, and they were telling them about their youth.
 
+- matches
+英 [ˈmætʃɪz]   美 [ˈmætʃɪz]
+n.
+火柴;比赛;竞赛;敌手;旗鼓相当的人
+v.
+般配;相配;相同;相似;相一致;找相称(或相关)的人(或物);配对
+match的第三人称单数和复数
+- exceedingly 英 [ɪkˈsiːdɪŋli]
+美 [ɪkˈsiːdɪŋli]
+adv. 极其;   非常;   特别;
+- discent 英 [dɪˈsent]
+美 [dɪˈsent]
+n. 下降;下倾;斜坡;坡道;血统;祖籍;祖先;出身;
+- fir 英 [fɜː(r)]
+美 [fɜːr]
+n. 枞;   冷杉;
+- tinderbox 英 [ˈtɪndəbɒks]
+美 [ˈtɪndərbɑːks]
+n. (旧时点火)
+
 “从前有一束火柴，它们对于自己的高贵血统感到非常骄傲。他们的族谱——也就是说，那棵每棵都是一根小树枝的大冷杉——曾经是森林里的一棵巨大的老树。火柴现在就躺在架子上，在一个火绒箱和一个旧铁罐中间。
 
 "Yes, when we lived high on the green branch," they said, "we were really living high! Every morning and evening, diamond tea--that was teh dew. All day we had sunshine--when the sun was shining--and all the little birds had to tell us stories. We were very well aware that we were rich too, for the leafy trees were clad only in the summer, but our family could afford green clothes both summer and winter. But then came the woodcutters--that was the Great Revolution--and our family was split up. The head of the family was given a post as the mainmast on a splendid ship that could sail around the world0--if it wanted to. The other branches ended up in other places, and it is now our task to provide light for the rank and file. That's why people of rank like ourselves happen to be in the kitchen."
 
+- dew 英 [djuː]
+美 [duː]
+n. 露;   露水;
+vt. 弄湿;
+- aware 英 [əˈweə(r)] 美 [əˈwer]
+adj. 知道;意识到;明白;察觉到;发觉;发现;对…有兴趣的;有…意识的;
+- leafy 英 [ˈliːfi]
+美 [ˈliːfi]
+adj. 多叶的;   叶茂的;   多树木的;   多植物的;   叶制的;   由树木构成的;
+- leafy 英 [klæd]
+美 [klæd]
+adj. 穿…衣服的;   …覆盖的;
+v. 穿（衣）(clothe的过去式和过去分词);   在（金属）外面包上另一种金属;   （用语言）表达;   <文>覆盖;
+- woodcutter 英 [ˈwʊdˌkʌtəz]  美 []  n. 伐木工;
+- Revolution 英 [ˌrevəˈluːʃn]  美[ˌrevəˈluːʃn]  n. 革命;   巨变;   大变革;   (环绕中心点的)旋转;   (尤指)天体运行;
+- split 英 [splɪt]  美 [splɪt]  v. 分裂，使分裂(成不同的派别);分开，使分开(成为几个部分);分担;分摊;分享; n. 分歧;分裂;分离;划分;分别;份额;裂缝;裂口;
+- mainmast n. 主桅
+- splendid 英 [ˈsplendɪd]  美 [ˈsplendɪd]  adj. 极佳的;非常好的;壮丽的;雄伟的;豪华的;华丽的;int. (表示赞许或满意)好极了，痛快;
+- provide 英 [prəˈvaɪd] 美 [prəˈvaɪd] v. 提供;供应;给予;规定;
+- rank 英 [ræŋk]  美 [ræŋk]  n. (尤指较高的)地位，级别;   军衔;   军阶;   警衔;   普通士兵;    v. 把…分等级;   属于某等级;   排列;   使排成行;    adj. 难闻的;   恶臭的;   (强调质量、状况等)极端的，糟糕的;   疯长的;
+
 “是的，当我们住在高高的绿树枝上的时候，”他们说，“我们真的住得很高!每天早晚，钻石茶——那是露水。我们整天都有阳光——当太阳照耀的时候——所有的小鸟都给我们讲故事。我们很清楚，我们也很富有，因为树叶只在夏天才有衣服穿，而我们家在夏天和冬天都买得起绿色的衣服。但后来出现了伐木工人——这就是伟大的革命——我们的家庭分裂了。一家之主被分配了一个职位，作为一艘华丽轮船的主桅。这艘船可以环游世界——如果它愿意的话。其他的分支在其他地方结束了，现在我们的任务是为普通员工提供光明。这就是为什么像我们这样地位高的人碰巧在厨房里的原因。”
 
-"Well, it's been different with me!" said the iron pot, which was lying beside the matches. "Ever since I came out into the world, I've been scoured and boiled many times! I attend to the substantial things, and as a matter of fact, I really come first in this house. My only joy--next to the table--is to lie nice and clean on the shelf and carry on a sensible chat with my companions. But--with the exception of the water pail, which occasionally goes down in the yard--we always live indoor. Our only news bringer is the market basket, but it talks so alarmingly about the government and the people. Yes, the other day and elderly pot was so upset by it all that it fell down and broke to bits! That's liberalism, I tell you!"
+"Well, it's been different with me!" said the iron pot, which was lying beside the **matches**. "Ever since I came out into the world, I've been **scoured** and boiled many times! I **attend** to the **substantial** things, and as a **matter** of fact, I really come first in this house. My only joy--next to the table--is to lie nice and clean on the shelf and carry on a **sensible** chat with my **companions**. But--with the **exception** of the water pail, which **occasionally** goes down in the yard--we always live indoor. Our only news **bringer** is the market basket, but it talks so **alarmingly** about the government and the people. Yes, the other day and **elderly** pot was so upset by it all that it fell down and broke to bits! That's **liberalism**, I tell you!"
+
+- matches 英 [ˈmætʃɪz]   美 [ˈmætʃɪz]   n. 火柴;比赛;竞赛;敌手;旗鼓相当的人 v. 般配;相配;相同;相似;相一致;找相称(或相关)的人(或物);配对
+- scoured 英 [ˈskaʊəd]   美 [ˈskaʊərd]   v. (彻底地)搜寻，搜查，翻找;(用粗糙的物体)擦净，擦亮;冲刷成;冲刷出 scour的过去分词和过去式
+- attend    英  [əˈtend]   美  [əˈtend]  vt. 出席；上（大学等）；照料；招待；陪伴 vi. 出席；致力于；照料；照顾
+- substantial    英  [səbˈstænʃl]   美  [səbˈstænʃl]  adj. 大量的；实质的；内容充实的 n. 本质；重要材料
+- matter    英  [ˈmætə(r)]   美  [ˈmætər]  n. 物质；事件 vi. 有关系；要紧
+- sensible    英  [ˈsensəbl]   美  [ˈsensəbl]  adj. 明智的; 通情达理的; 合乎情理的; 意识到的，能感觉到的; n. 可感觉到的东西; 敏感的人;
+- companion    英  [kəmˈpænjən]   美  [kəmˈpænjən]  n. 同伴；朋友；指南；手册 vt. 陪伴 n. (Companion)
+- exception    英  [ɪkˈsepʃn]   美  [ɪkˈsepʃn]  n. 例外；异议
+- pail    英  [peɪl]   美  [peɪl]  n. 桶，提桶
+- occasionally    英  [əˈkeɪʒnəli]   美  [əˈkeɪʒnəli]  adv. 偶尔；间或
+- alarmingly    英  [əˈlɑːmɪŋli]   美  [əˈlɑːrmɪŋli]  adv. 惊人地；让人担忧地
+- liberalism    英  [ˈlɪbərəlɪzəm]   美  [ˈlɪbərəlɪzəm]  n. 自由主义；开明的思想或见解
 
 “唉，我的情况就不一样了!”躺在柴火旁边的那个铁罐子说。“自从我来到这个世界上，我已经被擦洗和煮过很多次了!”我关心的是实质性的事情，事实上，在这所房子里，我真的是第一位的。我唯一的乐趣——就在桌子旁边——就是舒舒服服地躺在架子上，与同伴们进行理智的交谈。但是——除了偶尔会从院子里掉下来的水桶——我们都住在室内。我们唯一能带来新闻的是“市场篮子”(market basket)，但它谈论的是政府和人们，令人担忧。是的，有一天，老壶被这一切弄得心烦意乱，摔得粉碎!我告诉你，那是自由主义!”
 
 "Now you're talking too much!' said the tinderbox, and the steel struck the flint so the sparks flew. 'Weren't we going to have a cheerful evening?"
 
+- steel    英  [stiːl]   美  [stiːl]  n. 钢铁；钢制品；坚固 vt. 钢化；使冷酷 adj. 钢制的；钢铁业的；坚强的
+- struck    英  [strʌk]   美  [strʌk]  v. 罢工；打击，撞击（strike 的过去式和过去分词） adj. 受罢工影响的
+- flint    英  [flɪnt]   美  [flɪnt]  n. 燧石；打火石；极硬的东西 n. (Flint)人名；(德、英、俄、法、瑞典)弗林特
+- cheerful    英  [ˈtʃɪəfl]   美  [ˈtʃɪrfl]  adj. 快乐的；愉快的；高兴的
+
 “现在你说得太多了!”火绒箱说着，钢片打在火石上，火星四溅。“我们今晚不是要过得很愉快吗?”
 
 "Yes, let's talk about which of us is the most aristocratic!" said the matches.
 
+- aristocratic    英  [ˌærɪstəˈkrætɪk]   美  [əˌrɪstəˈkrætɪk]  adj. 贵族的；贵族政治的；有贵族气派的
+
 “是的，让我们来谈谈我们谁是最高贵的!”火柴说。
 
-"No, I don't enjoy talking about myself!" said the earthenware pot. "Let's have an evening's divertissement. I'll begin. I'm going to tell about the sort of thing each one of us has experienced; you can enter into it so nicely, and that's such a delight. On the Baltic Sea, by the Danish beeches!..."
+"No, I don't enjoy talking about myself!" said the earthenware pot. "Let's have an evening's divertissement. I'll begin. I'm going to tell about the sort of thing each one of us has experienced; you can enter into it so nicely, and that's such a delight. On the Baltic Sea(波罗的海), by the Danish(丹麦) beeches!..."
+
+- beech    英  [biːtʃ]   美  [biːtʃ]  n. 山毛榉 adj. 山毛榉木材的
+- enter    英  [ˈentə(r)]   美  [ˈentər]  vt. 进入；开始；参加 vi. 参加，登场；进去 n. [计] 输入；回车
+- divertissement   [di:verti:s'mɔŋ]   n. （法）娱乐；（法）两幕间之余兴表演
 
 “不，我不喜欢谈论我自己!””瓦锅说。“咱们来玩一个晚上吧。我将开始。我将讲述我们每个人都经历过的事情;你可以很好地进入其中，这是多么令人高兴的事。在波罗的海边，在丹麦山毛榉林边……”
 
 "That's a delightful beginning!" said all the plates. "This is decidedly going to be the kind of story I like!"
 
+- decidedly    英  [dɪˈsaɪdɪdli]   美  [dɪˈsaɪdɪdli]  adv. 果断地；断然地；明显；毫无疑问
+
 “这是一个愉快的开始!”所有的盘子都说。“这肯定是我喜欢的故事!”
 
 "Well, there I spent my youth with a quiet family. The furniture was polished, the floors washed; clean curtains were put up every fourteen days!"
+
+- polished    英  [ˈpɒlɪʃt]   美  [ˈpɑːlɪʃt]  adj. 擦亮的；优美的；圆滑的 v. 擦亮（polish的过去式和过去分词）
+- curtains    英  ['kɜːtənz]   美  ['kɜːtənz]  窗帘（curtain的复数）
 
 “嗯，我在一个安静的家庭里度过了我的童年。家具擦得锃亮，地板洗得干干净净;每隔十四天就挂上一次干净的窗帘!”
 
 "My, what an interesting storyteller you are!" said the mop. "You can tell right away that it's being told by a lady. Such cleanliness pervades!"
 
+- mop    英  [mɒp]   美  [mɑːp]  n. 拖把，墩布；蓬乱的头发；清扫；洗碗刷；（秋季雇佣农工的）雇工市场；鬼脸 v. 用拖把拖洗；擦去（脸）上的汗水，拭去（眼）中的泪水；扮鬼脸
+- pervade    英  [pəˈveɪd]   美  [pərˈveɪd]  vt. 遍及；弥漫
+
 “天哪，你真是个有趣的讲故事的人!”拖把说。“你一眼就能看出这是一位女士说的。这种清洁弥漫!”
 
 "Yes, you can feel it!" said the water pail, and then it gave a little hop for joy, so it went splash on the floor.
+
+- hop    英  [hɒp]   美  [hɑːp]  v. 单足跳行；双足或齐足跳行；突然快速去某处；（（非正式：）作快速旅行；快速离开；（快速改变方位等）跳到……；跳过；登上……；换来换去；跳上（开动的车辆）；速递；用啤酒花调味 ）n. 单足短距离跳跃；双足短距离跳跃；短途旅行；啤酒花；（（非正式：）舞会；霍普舞；啤酒；毒品（尤指鸦片））
 
 “是的，你能感觉到!”水桶说着高兴地跳了一下，于是就扑通一声落在地板上了。
 
