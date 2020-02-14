@@ -64,10 +64,10 @@
 
 ## A Song on Solar Terms
 
-- Spring rain wakes spring of pure grain bequest.
-- Summer grain buds and ears flourish in summer heat.
-- Autumn heat abates with dewy autumn and cold frost.
-- Winter snow, heavy snow, winter cold descends.
+- Spring rain wakes spring of pure grain bequest. (/bɪˈkwest/ n. 遗产；遗赠)
+- Summer grain buds and ears flourish in summer heat. (/bʌd/ n. 芽，萌芽；蓓蕾 vi. 发芽，萌芽 vt. 使发芽英 | /ˈflʌrɪʃ/  美 /ˈflɜːrɪʃ/ v. 繁荣，茂盛；茁壮成长，处于旺盛时期；)
+- Autumn heat abates with dewy autumn and cold frost. (/əˈbeɪt/ vt. 减轻；减少；废除 vi. 减轻；失效 | /ˈduːi/ adj. 带露水的，露湿的；如露的)
+- Winter snow, heavy snow, winter cold descends. (/dɪˈsend/ vi. 下降； vt. 下去；沿…向下)
 
 节气歌 Song of Solar Terms
 春雨惊春清谷天，夏满芒夏暑相连，
@@ -91,7 +91,7 @@
 16. Cold Dew 寒露
 17. Frost's Descent 霜降 /dɪˈsent/ n. 下降；血统；袭击 vt. 除去…的气味；使…失去香味
 18. Beginning of Winter 立冬
-19. Light Snow 小雪 (Lesser Snow)
+19. Light Snow 小雪 /laɪt/ n. 光；光线；灯；打火机；领悟；浅色；天窗 adj. 轻的； (Lesser Snow) /ˈlesər/ adj. 较少的；次要的；更小的 adv. 较少地；更小地；不及
 20. Heavy Snow 大雪 (Greater Snow)
 21. Winter Solstice 冬至
 22. Slight Cold and Great Cold 小寒、大寒
@@ -100,17 +100,25 @@ Refer to [twenty four solar terms](../../english/twenty-four-solar-term.md)
 
 ## Winter
 
-- Fluffing the Cotton
+- Fluffing the Cotton (fluff /flʌf/ vt. 抖松；使…起毛 vi. 起毛；变松)
 - Removing Seeds of the Cotton
 - Storing the Cotton
 
 Grandma observes that winter in rural areas is far colder than that in the city. She promises Yaya she'll make her a new, and maximally windproof coat after the coming autumn cotton harvest. This makes Yaya hope for an early winter this year because she can't wait to try on her new coat.
+
+- rural  /ˈrʊrəl/ adj. 农村的，乡下的；田园的，有乡村风味的
+- windproof /'wɪnd,prʊf/ adj. 防风的
+- proof /pruːf/ n. 证明；证据；校样；考验；验证；试验 adj. 防…的；不能透入的；证明用的；耐…的 vt. 试验；校对；使不被穿透
 
 ---
 
 ### Canvas
 
 The snowfield is a vast canvas painted in footprints. Gazing at the canvas, Yaya wonders who "painted" secretly /ˈsiːkrətli/ last night.
+
+雪地是一块巨大的画布，上面画着脚印。雅雅凝视着画布，心想昨晚到底是谁在“作画”。
+
+- vast /væst/ adj. 广阔的；巨大的；大量的；巨额的 n. 浩瀚；广阔无垠的空间
 
 ---
 
