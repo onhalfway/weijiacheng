@@ -45,7 +45,20 @@
       - [The Slight Cold](#the-slight-cold)
       - [Preventing Frost Damage](#preventing-frost-damage)
       - [Nesting Magpies](#nesting-magpies)
+      - [Wintersweet Smells Sweet](#wintersweet-smells-sweet)
+      - [Snowfield Games](#snowfield-games)
+      - [Laba Porridge](#laba-porridge)
+      - [Spring Festival Ballad](#spring-festival-ballad)
+    - [Great Cold](#great-cold)
+      - [The Great Cold](#the-great-cold)
+      - [A Frozen World](#a-frozen-world)
+      - [Raptorial Birds Hunt for Prey](#raptorial-birds-hunt-for-prey)
+      - [Winter Swimming](#winter-swimming)
+      - [Wintersweet Blooms](#wintersweet-blooms)
+      - [Cleaning and Shopping For the Spring Festival](#cleaning-and-shopping-for-the-spring-festival)
+      - [Secrets in the Snowfield](#secrets-in-the-snowfield)
     - [Arrival of the New Year](#arrival-of-the-new-year)
+    - [Who Gets the Golden Snowflake?](#who-gets-the-golden-snowflake)
 
 ## A Song on Solar Terms
 
@@ -362,15 +375,112 @@ Three Hou of the Slight Cold
 
 #### Nesting Magpies
 
-Magpies generally build their nests in the branches of large trees near human communities. As this
+Magpies generally build their nests in the branches of large trees near human communities. As this task takes several months to complete, the birds allow themselves ample time to ensure that all is in readiness for them to incubate their eggs in the coming year. They fly back and forth to teh crown of their chosen tree, carrying in their beaks sticks, mud, feathers, and animal hair with which to build the frame of the nest, and the twigs that they line it with. A warm, solidly-built nest can take as long as four months to finish.
+
+#### Wintersweet Smells Sweet
+
+Do you know the Chinese character "la" in *lamei* (wintersweet) is the same character appearing in *lazhu* (candle) which stands for wax? It is because wintersweet's flower buds are smooth and thick just like a layer of wax is spread on the surface. Many people, however, make the mistake of using the character "la" in *la yue* (the twelfth month of the lunar calendar) because they think wintersweet blooms in that month. In fact, wintersweet's florescence is beyond the last month of the lunar calendar. Also, it is distinct from Chinese plum blossom, which blooms later. Other differences are as follows: wintersweet belongs to Calycanthaceae while plum blossom Rosaceae; the petals of wintersweet are yellow and solid while plum blossom's variegated and soft; the fragrance of wintersweet is stronger than plum blossom's.
 
 ---
 
-The snow-shrouded ground basks in the winter sunshine, like a huge cotton-padded quilt, a corner of which the warm sunshine lifts to reveal the budding green winter wheat.
+#### Snowfield Games
+
+After a heavy fall of snow when everything is clad in white, children delight in snowfield games and inventing snow toys. For instance, a small sled can be improvised by attaching a rope to a wooden board that one can sit on while one pulls him in front, and one pushes him from the back. They can take turns to enjoy it.
+
+#### Laba Porridge
+
+The Laba Festival is the main event during the Slight Cold. On the eighth day of the 12th month of the lunar year (ie. Laba), every household cooks laba porridge. In some regions there is also the tradition of pickling laba garlic. It's easy, so give it a try! You'll be amazed at how the color of the garlic changes after marinating in vinegar. There are many legends about the origins of the Laba Festival. Some say it is the day when Sakyamuni became Buddha; others say it is to commemorate Yue Fei (1103-1142), the famous general of Southern Song Dynasty in Chinese history. Parents and grandparents have plenty of stories to tell about the origins of the Laba Festival.
+
+Pickling Laba Garlic (Vinegar, Garlic, Bottle)
+
+- Peel the garlic
+- Put the garlic into a bottle and add vinegar
+- Seal the bottle until garlic turns green. It's then ready to eat. The vinegar in the bottle can also be used for cold dishes, or as a dipping sauce for jiaozi
+
+#### Spring Festival Ballad
+
+The vibrant Spring Festival atmosphere is all pervasive once Laba (the eighth day of the last lunar month) arrives. The Spring Festival Ballad recounts the customs and traditions synonymous with this most important Chinese festival:
+
+- The New Year follows closely on the heels of Laba.
+- Enjoy your laba porridges for a few days until the 23rd day of the last lunar month, when your parents will buy you malt sugar candy.
+
+- On the 24th day, people spring-clean their houses.
+- On the 25th day, everyone makes tofu.
+- On the 26th day, each family buys pork.
+- On the 27th day, people go shopping for new clothes.
+- On the 28th day, the dough is leavened.
+- On the 29th day, people make steamed buns.
+- On Lunar New Year's Eve, be ready to stay up the whole night.
+- On Lunar New Year's Day, dance to celebrate the New Year.
+
+---
+
+### Great Cold
+
+The 23rd day of the last lunar month is known as Preliminary Eve. On that day, markets and fairs are heaving with shoppers for Spring Festival treats. Yaya's grandma tells her that this day is also known as the Kitchen God Festival, when people clean their homes, eat malt sugar candy, and offer sacrifices to teh Kitchen God hoping that he will give a good report of the temporal world to the Jade Emperor. Everyone can then be sure of being blessed with a safe and prosperous new year.
+
+---
+
+#### The Great Cold
+
+The Great Cold, the last of the 24 solar terms, falls between January 19 and 21. Temperatures are still very low at this time, and snow freezes on the ground. But following close behind the Great Cold comes the Spring Festival. This solar term is consequently imbued with happy expectations of family reunions and a fresh start.
+
+The Slight Heat, Great Heat, Limit of Heat, Slight Cold, and Great Cold all reflect the change of temperature and degree of heat or cold at different periods of the year. After the Great Cold, a new round of solar terms begins.
+
+- After the Great Cold, a new year starts.
+
+The Sun reaches ecliptic longitude 300<sup>o</sup>
+
+#### A Frozen World
+
+Heavy snowfall generally occurs around the Great Cold, and is often accompanied by strong winds and a drop in temperature. When going out, you'd better wrap up well in an overcoat, scarf and mittens to avoid frostbite.
+
+---
+
+Three Hou of the Great Cold
+
+- During the first hou, broody hens incubate their eggs.
+- During the second hou, raptorial birds hunt for prey.
+- During the third hou, the river freezes solidly at the center.
+
+#### Raptorial Birds Hunt for Prey
+
+Flowers and plants, birds and animals all behave according to the seasons. Their regular patterns are regarded as the distinguishing signal of the solar terms. It's around the Great Cold that raptorial birds like eagles and falcons are keenest to hunt prey, hovering in the sky as they scan the landscape for food that will give them sufficient energy to weather the cold.
+
+#### Winter Swimming
+
+"During the third and fourth periods, tread on icy ground." Ice skaters are attracted by the thick and solid ice on rivers. It is also a time when certain brave souls break through the ice on rivers and jump in for a swim. Studies show that, with due preparation, regular winter swimming can ease anxiety and enhance the capacity to resist the cold, and also improve the body's microcirculation, so enhancing the immune system.
+
+#### Wintersweet Blooms
+
+As the Spring Festival approaches, wintersweet blossoms appear amid the cold winds in the snow fields of Southern regions. In northern China, meanwhile, the potted wintersweet also flowers, and wafts its distinct fragrance, after which new leaves later bud on the shrub. Wintersweet is, along with teh pine and bamboo, one of the Three Friends of Winter.
+
+In Chinese, mei refers to both the wintersweet and the plum. The former is popular by virtue of its distinctive flowers and fragrance, and the latter is planted mainly for its fruits. Preserved plums are a national favorite.
+
+---
+
+#### Cleaning and Shopping For the Spring Festival
+
+As the Lunar New Year draws near, every household is busy making preparations. Everyone is allotted certain tasks, such as cleaning the house from top to bottom and pasting red paper-cuts on windows. People also go shopping at fairs or malls for lanterns, Spring Festival couplets, fire crackers, and new clothes for children.
+
+#### Secrets in the Snowfield
+
+The snow-shrouded ground basks in the winter sunshine, like a huge cotton-padded quilt, a corner of which the warm sunshine lifts to reveal the budding green winter wheat. Cloud it be that spring has arrived before the end of winter?
+
 冰雪覆盖的地面，在冬日的阳光下，就像一床巨大的棉被，暖暖的阳光托起一角，露出嫩绿的冬小麦。
 
 ### Arrival of the New Year
 
 Everyone who has worked hard the past year embraces the arrival of the New Year with faces wreathed in smiles.
+
 过去一年里努力工作的每个人都面带微笑迎接新年的到来。
-The passing
+
+The passing of the Beginning of Winter, the Slight Snow, the Great Snow, the Winter Solstice, the Slight Cold, and the Great Cold signifies the end of the three months of winter. The Great Cold is the last of the 24 solar terms.
+
+But before the cold completely disappears, winter jasmine blooms in hidden nooks and crannies. Then spring arrives once more, and a new round of the 24 solar terms begins.
+
+---
+
+### Who Gets the Golden Snowflake?
+
+Rules of the Game: Two players enter the playground from entrances A and B and write down the names of the seven patterns they have encountered on their travels. The one who finishes first wins the golden snowflake in picture 7.
