@@ -1,7 +1,9 @@
 # This is the 24 solar terms
 
-[节气](http://tv.cctv.com/special/24jq/jieqi/index.shtml)
-[twenty four solar terms](../../../contents/english/twenty-four-solar-term.md)
+- [节气](http://tv.cctv.com/special/24jq/jieqi/index.shtml)
+- [节气歌](https://baike.baidu.com/item/%E8%8A%82%E6%B0%94%E6%AD%8C)
+- [Chinese Solar Terms](https://www.chinatravel.com/facts/chinese-solar-terms.htm)
+- [twenty four solar terms](../../english/twenty-four-solar-term.md)
 
 - [This is the 24 solar terms](#this-is-the-24-solar-terms)
   - [A Song on Solar Terms](#a-song-on-solar-terms)
@@ -67,6 +69,10 @@
 - Autumn heat abates with dewy autumn and cold frost.
 - Winter snow, heavy snow, winter cold descends.
 
+节气歌 Song of Solar Terms
+春雨惊春清谷天，夏满芒夏暑相连，
+秋处露秋寒霜降，冬雪雪冬小大寒。
+
 1. Beginning of Spring 立春
 2. Rain Water 雨水
 3. Waking of insects 惊蛰
@@ -89,6 +95,8 @@
 20. Heavy Snow 大雪 (Greater Snow)
 21. Winter Solstice 冬至
 22. Slight Cold and Great Cold 小寒、大寒
+
+Refer to [twenty four solar terms](../../english/twenty-four-solar-term.md)
 
 ## Winter
 
