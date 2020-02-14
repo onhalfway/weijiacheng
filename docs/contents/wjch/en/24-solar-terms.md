@@ -82,14 +82,14 @@
 7. Beginning of Summer 立夏
 8. Grain Full 小满
 9. Grain in Ear 芒种 (抽穗;耳朵)
-10. Summer Solstice 夏至 (/ˈsɑːlstɪs/ n. 至，至日；至点)
+10. Summer Solstice 夏至 (/ˈsɒlstɪs/ /ˈsɑːlstɪs/ n. 至，至日；至点)
 11. Slight Heat and Great Heat 小暑、大暑
 12. Beginning of Autumn 立秋
 13. Limit of Heat 处暑
-14. White Dew 白露
-15. Autumn Equinox 秋分
+14. White Dew 白露 英 [djuː] 美 [duː] n. 露;露水 vt. 弄湿
+15. Autumn Equinox 秋分 /ˈekwɪnɑːks,ˈiːkwɪnɑːks/ n. 春分；秋分；昼夜平分点
 16. Cold Dew 寒露
-17. Frost's Descent 霜降
+17. Frost's Descent 霜降 /dɪˈsent/ n. 下降；血统；袭击 vt. 除去…的气味；使…失去香味
 18. Beginning of Winter 立冬
 19. Light Snow 小雪 (Lesser Snow)
 20. Heavy Snow 大雪 (Greater Snow)
