@@ -58,9 +58,8 @@ On the table where they had been **lined up** there were many other playthings, 
 - ribbon 英  [ˈrɪbən]   美  [ˈrɪbən] n. 带；缎带；（勋章等的）绶带；带状物；勋表 vi. 形成带状 vt. 把…撕成条带；用缎带装饰
 - drapery 英  [ˈdreɪpəri]   美  [ˈdreɪpəri]n. 布料；帏帐；打褶的帐幔
 - spangle 英  [ˈspæŋɡl]   美  [ˈspæŋɡl] v. 用闪光饰物装饰；使闪烁发光 n. 闪光金属片，亮晶晶的小饰片；亮点
-- stretch 英  [stretʃ]   美  [stretʃ] v. （柔软或弹性物）伸展；拉紧；（使）过分延长；（资金、资源）足够；大量要求；（使）最大限度利用（才能）；夸大；延续
-n. （四肢或身体的）舒展；（肌肉的）伸张；
-- d
+- stretch 英  [stretʃ]   美  [stretʃ] v. （柔软或弹性物）伸展；拉紧；（使）过分延长；（资金、资源）足够；大量要求；（使）最大限度利用（才能）；夸大；延续 n. （四肢或身体的）舒展；（肌肉的）伸张；
+
 锡兵们站着的桌子上还摆满了别的玩具，但最引人注目的是一座纸做的美丽小宫殿。透过小窗子可以看到里面的那些房间。宫殿前面有一些小树围着一面镜子，它就代表一个清澈的湖。几只蜡做的天鹅在湖上游着，它们的影子倒映在湖水里。这一切非常好看，但是最好看的是一位小姐，她站在宫殿开着的门口；她也是纸做的，穿一身淡雅的布裙，肩上围着一条蓝色的细缎带，就像披着一条披中。在缎带上插着一朵用锡纸做的闪光的玫瑰花，有她整张脸那么大。这位小姐是个舞女，她张开双臂，一条腿举得那么高，这位锡兵根本看不见它，以为她也和他一样只有一条腿。
 
 "That's the wife for me!" he thought. "But she's very **highborn**. She lives in a castle and I have only a box, and then it must do for five-and-twenty of us--that's no place for her.Still, I must see about making her **acquaintance**!" And then he **stretched** out at full **length** behind a snuffbox that stood on the table. From here he could look right at the little highborn lady, who continued to stand on one leg without losing her **balance**.
@@ -69,8 +68,8 @@ n. （四肢或身体的）舒展；（肌肉的）伸张；
 - acquaintance 英  [əˈkweɪntəns]   美  [əˈkweɪntəns] n. 熟人；相识；了解；知道
 - length 英  [leŋθ]   美  [leŋθ] n. 长度，长；时间的长短；（语）音长
 - snuffbox 英  [ˈsnʌfbɒks]   美  [ˈsnʌfbɑːks] n. 鼻烟盒
-- balance 英  [ˈbæləns]   美  [ˈbæləns] n. 平衡；余额；匀称
-vt. 使平衡；结算；使相称 vi. 保持平衡；相称；抵销
+- balance 英  [ˈbæləns]   美  [ˈbæləns] n. 平衡；余额；匀称 vt. 使平衡；结算；使相称 vi. 保持平衡；相称；抵销
+
 “她正好给我做妻子，”他想，“但是她太高贵了，住在宫殿里，而我只有一个盒子可以往，而且我们二十五个挤在一起，就住不下她了。不过我还是必须试试看和她相识。”于是他在桌上一个鼻烟盒后面平躺下来，好偷看那位漂亮的小姐，她继续用一条腿站着而不失去平衡。
 
 Later in the evening all the other tin soldiers went back in their box, and the  people of the house went to bed. Now the toys began to play--at "**Visitors**," waging war, and holding balls. The tin soldiers **rattled** in their box because they wanted to join in, but they couldn't get the lid off. The **nutcracker** turned **somersaults**, and the **slate** pencil did **monkeyshines** on the slate; there was such a **racket** that the **canary** bird woke up and joined in the talk--and **in verse**, at that! The only two who didn't **budge** an inch were the tin soldier and the little dancer. She held herself **erect** on the **tip** of her toe and with both arms outstretched; he was just as steadfast on his one leg and his eyes never left her for a moment.
@@ -101,6 +100,7 @@ Now the clock struck twelve, and crash! The lid of the snuffbox **flew off**, bu
 - troll  英  [trɒl; trəʊl]   美  [troʊl] n. （北欧神话中的）穴居巨怪，侏儒；挑衅帖子，发挑衅帖子的人（非正式）；钓鱼；轮唱 v. 拖饵钓鱼；搜查；发布挑衅帖子（非正式）；散步；欢快地高唱；轮唱；随便浏览（报纸或文件）
 - 英  [trɪk]   美  [trɪk] n. 诡计；恶作剧；窍门；花招；骗局；欺诈
 vt. 欺骗；哄骗；装饰；打扮 vi. 哄骗；戏弄
+
 时钟敲到十二点，鼻烟盒的盖子砰地打开；但是跳出来的不是鼻烟，而是一个黑色的小妖精；因为这鼻烟盒是个叫人吓一跳的玩具。
 
 "Tin soldier!" said the troll. "Will you keep your eyes to yourself!"
@@ -120,6 +120,7 @@ Now, when it was morning and the children got up, the tin soldier was placed ove
 - headlong 英  [ˈhedlɒŋ]   美  [ˈhedlɔːŋ] adv. 头朝前，头向前地；轻率地；莽撞地，慌慌张张地 adj. 轻率的；匆促而用力的；头向前的
 - bayonet 英  ['beɪənɪt]   美  ['beənət] n. 刺刀；卡销 vt. 用刺刀刺 vi. 用刺刀；劈刺
 - paving 英  [ˈpeɪvɪŋ]   美  [ˈpeɪvɪŋ] n. [建] 铺砌；铺路材料；块石面路 v. 铺设；为…做准备（pave的ing形式）
+
 第二天早晨孩子们起床，把这锡兵放在窗口。好，也不知是小妖精干的，还是风吹的，但是窗子一下子打开，锡兵倒栽葱从三楼落到了下面街上。跌得可厉害了；因为是头朝下跌的，他的军盔和刺刀插在铺石的缝间，那条独腿朝天。
 
 The **maid** and the little boy went right down to look for him, but despite the fact that they nearly stepped on him, they couldn't see him. If the tin soldier had shouted "Here I am!" they would have found him, all right. But he didn't think it **proper**to shout when he was in uniform.
@@ -127,12 +128,14 @@ The **maid** and the little boy went right down to look for him, but despite the
 - maid  女仆
 - despite 尽管
 - proper 英  [ˈprɒpə(r)]   美  [ˈprɑːpər] adj. 适当的；本身的；特有的；正派的 adv. 完全地
+
 女仆和那小男孩马上下楼来找他；但是哪儿也看不到他，虽然有一次她们险些儿就踩在他身上；如果他叫一声“我在这里”就好了，但是他穿着军服，不好大叫救命。
 
 Now it started to rain; the drops fell thick and fast. It turned into a regular **downpour**. When it was over, two street **urchins** came along.
 
 - downpour 英  [ˈdaʊnpɔː(r)]  美  [ˈdaʊnpɔːr] n. 倾盆大雨；注下
 - urchins n. 海胆（urchin的复数）；顽童
+
 紧接着就下起雨来，雨点越来越密，最后下起了倾盆大雨。雨后恰巧有两个男孩走过！
 
 "Look!" said the first. "There's a tin soldier. He's going out sailing!"
