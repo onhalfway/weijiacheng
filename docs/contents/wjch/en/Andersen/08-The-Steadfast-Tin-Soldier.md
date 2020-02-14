@@ -5,6 +5,23 @@
 - tin /tɪn/ n. 锡；罐头，罐；马口铁
 - soldier /ˈsoʊldʒər/ n. 军人；[昆] 兵蚁；懒汉；一片烤面包 vi. 当兵；磨洋工；坚持干；假称害病
 
+## Book Description
+
+Award-winning author Tor Seidler and the incomparable illustrator Fred Marcellino retell Hans Christian Anderson’s classic Christmas tale about a tin solder who is separated from the paper ballerina he loves in this stunning picture book that’s perfect for gift-giving.
+
+True love blossoms between a handsome one-legged tin soldier and a graceful paper ballerina, posed in arabesque. But when a jealous goblin pushes the soldier out a window, the soldier embarks on a journey through storm drains, past toll-collecting rats, into canals, and inside a fish before finding his way back with his beloved ballerina.
+
+## Plot line
+
+ROLL-A-STORY
+
+- Title: The Steadfast Tin Soldier
+- Setting: An old tin spoon was cast into twenty-five tin soldiers.
+- Characters: one-legged tin soldier, a little maiden--dancer
+- Problem: One of tin soldiers had only one leg and he was barred from living together by the troll.
+- Solution: The one-legged tin soldier was steadfast.
+- Theme: The one-legged tin soldier never gave up and finally got together with his beloved dancer.
+
 ## 正文 as is
 
 There were once five-and-twenty tin soldiers; they were all brothers, for they had been born of an old tin spoon. They shouldered their arms, they faced **straight ahead**, and their uniforms--red and blue--were **ever** so lovely. The very first thing they heard in this world, when the **lid** was **taken off** the box in which they were lying, were the words: "Tin soldiers!" It was shouted by a little boy, and he **clapped** his hands. They had been given to him for his birthday, and now he was **lining them up** on the table. Each soldier looked exactly like the other. Only one was **slightly** different: he had but one leg, for he was the last one to be **cast** and there hadn't been enough tin. And yet he stood just **as** **firmly** on his one leg **as** the others did on their two, and he is the very one who **turns out to be** **unique**.
@@ -46,7 +63,7 @@ n. （四肢或身体的）舒展；（肌肉的）伸张；
 - d
 锡兵们站着的桌子上还摆满了别的玩具，但最引人注目的是一座纸做的美丽小宫殿。透过小窗子可以看到里面的那些房间。宫殿前面有一些小树围着一面镜子，它就代表一个清澈的湖。几只蜡做的天鹅在湖上游着，它们的影子倒映在湖水里。这一切非常好看，但是最好看的是一位小姐，她站在宫殿开着的门口；她也是纸做的，穿一身淡雅的布裙，肩上围着一条蓝色的细缎带，就像披着一条披中。在缎带上插着一朵用锡纸做的闪光的玫瑰花，有她整张脸那么大。这位小姐是个舞女，她张开双臂，一条腿举得那么高，这位锡兵根本看不见它，以为她也和他一样只有一条腿。
 
-"That's the wife for me!" he thought. "But she's very **highborn**. She lives in a castle and I have only a box, and then it must do for five-and-twenty of us--that's no place for her.Still, I must see about making her **acquaintance**!" And then he **stretche**d out at full **length** behind a snuffbox that stood on the table. From here he could look right at the little highborn lady, who continued to stand on one leg without losing her **balance**.
+"That's the wife for me!" he thought. "But she's very **highborn**. She lives in a castle and I have only a box, and then it must do for five-and-twenty of us--that's no place for her.Still, I must see about making her **acquaintance**!" And then he **stretched** out at full **length** behind a snuffbox that stood on the table. From here he could look right at the little highborn lady, who continued to stand on one leg without losing her **balance**.
 
 - highborn 英  ['haɪbɔːn]   美  ['haibɔ:n] adj. 出身名门的
 - acquaintance 英  [əˈkweɪntəns]   美  [əˈkweɪntəns] n. 熟人；相识；了解；知道

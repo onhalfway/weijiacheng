@@ -76,39 +76,39 @@ The king and the queen and the whole court were waiting with tea at the princess
 
 “从前有一束火柴，它们对于自己的高贵血统感到非常骄傲。他们的族谱——也就是说，那棵每棵都是一根小树枝的大冷杉——曾经是森林里的一棵巨大的老树。火柴现在就躺在架子上，在一个火绒箱和一个旧铁罐中间。
 
-'Yes, when we lived high on the green branch,' they said, 'we were really living high! Every morning and evening, diamond tea--that was teh dew. All day we had sunshine--when the sun was shining--and all the little birds had to tell us stories. We were very well aware that we were rich too, for the leafy trees were clad only in the summer, but our family could afford green clothes both summer and winter. But then came the woodcutters--that was the Great Revolution--and our family was split up. The head of the family was given a post as the mainmast on a splendid ship that could sail around the world0--if it wanted to. The other branches ended up in other places, and it is now our task to provide light for the rank and file. That's why people of rank like ourselves happen to be in the kitchen.'
+"Yes, when we lived high on the green branch," they said, "we were really living high! Every morning and evening, diamond tea--that was teh dew. All day we had sunshine--when the sun was shining--and all the little birds had to tell us stories. We were very well aware that we were rich too, for the leafy trees were clad only in the summer, but our family could afford green clothes both summer and winter. But then came the woodcutters--that was the Great Revolution--and our family was split up. The head of the family was given a post as the mainmast on a splendid ship that could sail around the world0--if it wanted to. The other branches ended up in other places, and it is now our task to provide light for the rank and file. That's why people of rank like ourselves happen to be in the kitchen."
 
 “是的，当我们住在高高的绿树枝上的时候，”他们说，“我们真的住得很高!每天早晚，钻石茶——那是露水。我们整天都有阳光——当太阳照耀的时候——所有的小鸟都给我们讲故事。我们很清楚，我们也很富有，因为树叶只在夏天才有衣服穿，而我们家在夏天和冬天都买得起绿色的衣服。但后来出现了伐木工人——这就是伟大的革命——我们的家庭分裂了。一家之主被分配了一个职位，作为一艘华丽轮船的主桅。这艘船可以环游世界——如果它愿意的话。其他的分支在其他地方结束了，现在我们的任务是为普通员工提供光明。这就是为什么像我们这样地位高的人碰巧在厨房里的原因。”
 
-'Well, it's been different with me!' said the iron pot, which was lying beside the matches. 'Ever since I came out into the world, I've been scoured and boiled many times! I attend to the substantial things, and as a matter of fact, I really come first in this house. My only joy--next to the table--is to lie nice and clean on the shelf and carry on a sensible chat with my companions. But--with the exception of the water pail, which occasionally goes down in the yard--we always live indoor. Our only news bringer is the market basket, but it talks so alarmingly about the government and the people. Yes, the other day and elderly pot was so upset by it all that it fell down and broke to bits! That's liberalism, I tell you!'
+"Well, it's been different with me!" said the iron pot, which was lying beside the matches. "Ever since I came out into the world, I've been scoured and boiled many times! I attend to the substantial things, and as a matter of fact, I really come first in this house. My only joy--next to the table--is to lie nice and clean on the shelf and carry on a sensible chat with my companions. But--with the exception of the water pail, which occasionally goes down in the yard--we always live indoor. Our only news bringer is the market basket, but it talks so alarmingly about the government and the people. Yes, the other day and elderly pot was so upset by it all that it fell down and broke to bits! That's liberalism, I tell you!"
 
 “唉，我的情况就不一样了!”躺在柴火旁边的那个铁罐子说。“自从我来到这个世界上，我已经被擦洗和煮过很多次了!”我关心的是实质性的事情，事实上，在这所房子里，我真的是第一位的。我唯一的乐趣——就在桌子旁边——就是舒舒服服地躺在架子上，与同伴们进行理智的交谈。但是——除了偶尔会从院子里掉下来的水桶——我们都住在室内。我们唯一能带来新闻的是“市场篮子”(market basket)，但它谈论的是政府和人们，令人担忧。是的，有一天，老壶被这一切弄得心烦意乱，摔得粉碎!我告诉你，那是自由主义!”
 
-'Now you're talking too much!' said the tinderbox, and the steel struck the flint so the sparks flew. 'Weren't we going to have a cheerful evening?'
+"Now you're talking too much!' said the tinderbox, and the steel struck the flint so the sparks flew. 'Weren't we going to have a cheerful evening?"
 
 “现在你说得太多了!”火绒箱说着，钢片打在火石上，火星四溅。“我们今晚不是要过得很愉快吗?”
 
-'Yes, let's talk about which of us is the most aristocratic!' said the matches.
+"Yes, let's talk about which of us is the most aristocratic!" said the matches.
 
-“是的，让我们来谈谈我们谁是最高贵的!””火柴说。
+“是的，让我们来谈谈我们谁是最高贵的!”火柴说。
 
-'No, I don't enjoy talking about myself!' said the earthenware pot. 'Let's have an evening's divertissement. I'll begin. I'm going to tell about the sort of thing each one of us has experienced; you can enter into it so nicely, and that's such a delight. On the Baltic Sea, by the Danish beeches!...'
+"No, I don't enjoy talking about myself!" said the earthenware pot. "Let's have an evening's divertissement. I'll begin. I'm going to tell about the sort of thing each one of us has experienced; you can enter into it so nicely, and that's such a delight. On the Baltic Sea, by the Danish beeches!..."
 
 “不，我不喜欢谈论我自己!””瓦锅说。“咱们来玩一个晚上吧。我将开始。我将讲述我们每个人都经历过的事情;你可以很好地进入其中，这是多么令人高兴的事。在波罗的海边，在丹麦山毛榉林边……”
 
-'That's a delightful beginning!' said all the plates. 'This is decidedly going to be the kind of story I like!'
+"That's a delightful beginning!" said all the plates. "This is decidedly going to be the kind of story I like!"
 
 “这是一个愉快的开始!”所有的盘子都说。“这肯定是我喜欢的故事!”
 
-'Well, there I spent my youth with a quiet family. The furniture was polished, the floors washed; clean curtains were put up every fourteen days!'
+"Well, there I spent my youth with a quiet family. The furniture was polished, the floors washed; clean curtains were put up every fourteen days!"
 
 “嗯，我在一个安静的家庭里度过了我的童年。家具擦得锃亮，地板洗得干干净净;每隔十四天就挂上一次干净的窗帘!”
 
-'My, what an interesting storyteller you are!' said the mop. 'You can tell right away that it's being told by a lady. Such cleanliness pervades!'
+"My, what an interesting storyteller you are!" said the mop. "You can tell right away that it's being told by a lady. Such cleanliness pervades!"
 
 “天哪，你真是个有趣的讲故事的人!”拖把说。“你一眼就能看出这是一位女士说的。这种清洁弥漫!”
 
-'Yes, you can feel it!' said the water pail, and then it gave a little hop for joy, so it went splash on the floor.
+"Yes, you can feel it!" said the water pail, and then it gave a little hop for joy, so it went splash on the floor.
 
 “是的，你能感觉到!”水桶说着高兴地跳了一下，于是就扑通一声落在地板上了。
 
@@ -120,11 +120,11 @@ All the plates rattled with delight, and the mop took green parsley out of the s
 
 所有的盘子都高兴得嘎嘎作响，拖把把绿色的欧芹从沙箱里拿了出来，把它戴在锅盖上，因为它知道这样会惹恼别人。“如果我今天给她戴上王冠，”它说，“那么她明天就会给我戴上王冠!”
 
-'Well, I want to dance,' said the fire tongs, and dance she did. Yes, heaven help us, how she could lift one leg up in the air! The old chair cover over in the corner split just from looking at it. 'May I be crowned too?' said the fire tongs, and then she was.
+"Well, I want to dance," said the fire tongs, and dance she did. Yes, heaven help us, how she could lift one leg up in the air! The old chair cover over in the corner split just from looking at it. "May I be crowned too?" said the fire tongs, and then she was.
 
 “好吧，我想跳舞，”火钳说，于是她就跳了起来。是的，老天保佑，她怎么能把一条腿举到空中!角落里的旧椅子一看就裂开了。“我也可以戴上王冠吗?”火钳说，于是她就睡着了。
 
-'All the same, they're only rabble!' thought the matches.
+"All the same, they're only rabble!" thought the matches.
 
 “尽管如此，他们都是乌合之众!”火柴想。
 
@@ -136,19 +136,19 @@ Over in the window sat an old quill pen, which the maid usually wrote with. Ther
 
 窗户上放着一支旧鹅毛笔，那是女仆常用来写字的。它没有什么特别之处，只是在墨水瓶里浸得太深了。但正因为如此，它现在才装腔作势。“如果茶炊不唱歌，”它说，“那就不唱了。外面笼子里挂着一只夜莺。它可以唱歌。可以肯定的是，没有人教过它，但是我们今天晚上不打算诽谤它!”
 
-'I find it highly improper,' said the tea kettle, who was a kitchen singer and half sister to the samovar, 'that such an alien bird is to be heard! Is that patriotic? I'll let the market basket be the judge!'
+"I find it highly improper," said the tea kettle, who was a kitchen singer and half sister to the samovar, "that such an alien bird is to be heard! Is that patriotic? I'll let the market basket be the judge!"
 
 “我觉得，”茶壶说，她是厨房里的歌手，也是茶炊的同父异母妹妹，“让人听到这样一只陌生的鸟，实在是太不应该了!这是爱国吗?我要让菜篮子来做裁判!”
 
-'I'm simply vexed!' said the market basket. 'I'm as deeply vexed as anyone can imagine! Is this a fitting way to spend an evening? Wouldn't it be better to put the house to rights? Then everyone would find his place, and I'd run the whole caboodle! Then there'd be another song and dance!'
+"I'm simply vexed!" said the market basket. "I'm as deeply vexed as anyone can imagine! Is this a fitting way to spend an evening? Wouldn't it be better to put the house to rights? Then everyone would find his place, and I'd run the whole caboodle! Then there'd be another song and dance!"
 
 “我只是烦!”菜篮子说。“谁也想象不出我有多烦恼! 这样度过一个晚上合适吗?把房子整顿一下不是更好吗?然后每个人都找到自己的位置，我就可以管理所有的事情了!然后就会有另一场歌舞!”
 
-'Yes, let's raise a rumpus!' they all said. At the same moment the door opened. It was the maid, and so they stood still. There wasn't a deep out of anyone. But there wasn't a pot there that didn't know what it was capable of doing or how distinguished it was.
+"Yes, let's raise a rumpus!" they all said. At the same moment the door opened. It was the maid, and so they stood still. There wasn't a deep out of anyone. But there wasn't a pot there that didn't know what it was capable of doing or how distinguished it was.
 
 “是的，让我们大吵大闹吧!”他们都说。正在这时，门开了。那是女仆，所以他们就站着不动。没有人的内心深处。但是那里没有一个罐子不知道自己能做什么，也不知道自己有多出众。
 
-'Yes, if only I'd wanted to,' each thought, 'it really would have been a lively evening!'
+"Yes, if only I'd wanted to," each thought, "it really would have been a lively evening!"
 
 “是的，如果我愿意的话，”每个人都想，“这将是一个热闹的夜晚!”
 
@@ -156,17 +156,17 @@ The maid took the matches and made a fire with them! Heavens, how they sputtered
 
 女仆拿起火柴，生起了火!天哪，他们是怎样喷出火焰的!
 
-'Now,' they thought, 'everyone can see that we're the first! What a radiance we have! What a light!' and then they were burned out."
+"Now," they thought, "everyone can see that we're the first! What a radiance we have! What a light! and then they were burned out."
 
-“现在，”他们想，“每个人都能看出我们是第一个!我们多么容光焕发啊!一盏灯!’然后他们就被烧光了。”
+“现在，”他们想，“每个人都能看出我们是第一个!我们多么容光焕发啊!一盏灯!然后他们就被烧光了。”
 
 "That was a delightful story!" said the queen. "I felt just as if I were in the kitchen with the matches! Yes, now thou shalt have our daughter!"
 
-“这真是一个有趣的故事!”王后说。“我觉得自己就像在厨房里拿着火柴一样!”是的，现在你可以拥有我们的女儿了!”
+“这真是一个有趣的故事!”王后说。“我觉得自己就像在厨房里拿着火柴一样! 是的，现在你可以拥有我们的女儿了!”
 
 "Certainly!" said the king. "Thou shalt have our daughter on Monday!" They said "thou" to him now that he was going to be one of the family.
 
-“当然可以!”国王说。“你星期一就可以得到我们的女儿了!”他们对他说“你”，因为他就要成为这个家庭的一员了。
+“当然可以!”国王说。“你星期一就可以得到我们的女儿了! 他们对他说“你”，因为他就要成为这个家庭的一员了。
 
 And thus the wedding was decided; on the evening before, the entire city was illuminated. Buns and cakes were thrown out to be scrambled for. The street urchins stood on tiptoe, shouted "Hurrah!" and whistled through their fingers.
 

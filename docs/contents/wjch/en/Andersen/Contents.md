@@ -8,7 +8,7 @@
 2. [Little Claus and Big Claus](../Little-Claus-and-Big-Claus)
 3. [The Princess on the Pea](../The-Princess-on-the-Pea)
 4. [The Fable Alludes to You](../The-Fable-Alludes-to-You)
-5. [The Talisman](../05-The-Talisman)
+5. [The Talisman](../05-The-Talisman.docx)
 6. [The Little Mermaid](../06-The-Little-Mermaid)
 7. [The Emperor's New Clothes](../07-The-Emperor's-New-Clothes)
 8. [The Steadfast Tin Soldier](../08-The-Steadfast-Tin-Soldier)
