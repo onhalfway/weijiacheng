@@ -303,45 +303,87 @@ And the pot went on with the story, and the end was just as good as the beginnin
 
 All the plates rattled with delight, and the mop took green parsley out of the sand bin and crowned the pot with it, for it knew this would irritate the others. 'And if I crown her today,' it said, 'then she'll crown me tomorrow!'
 
+- rattled    英  ['rætld]   美  ['rætld]  adj. 担忧的；紧张的；恼火的 v. 发出嘎嘎声；发出连续短促的高声；咔嚓咔嚓前进；呆在……里；占用；（非正式）使紧张，使恼火（rattle 的过去式和过去分词）
+- parsley    英  [ˈpɑːsli]   美  [ˈpɑːrsli]  n. 荷兰芹，欧芹
+- bin  英  [bɪn]   美  [bɪn] n. 垃圾箱；箱子，容器；瓶酒搁架；统计堆栈；（非正式）精神病院 v. 把……扔进垃圾桶；把……放入容器中；拒绝；把（酒等）放进搁架；把（数据）归入统计堆
+- crowned  英  [kraʊnd]   美  [kraund] v. 为……加冕；宣布（某人）为最优秀者；（在国际跳棋中）在（一枚棋子）上覆盖另一旗子使之成为王；形成……顶部；（使）圆满；（非正式）敲（某人的）脑壳；（在牙齿上）镶人造冠；（分娩时胎儿的头）露顶（crown 的过去式及过去分词） adj. （牙齿）人造冠的；有王冠的；带有……冠的
+- irritate    英  [ˈɪrɪteɪt]   美  [ˈɪrɪteɪt]  vt. 刺激，使兴奋；激怒 vi. 引起恼怒，引起不愉快
+
 所有的盘子都高兴得嘎嘎作响，拖把把绿色的欧芹从沙箱里拿了出来，把它戴在锅盖上，因为它知道这样会惹恼别人。“如果我今天给她戴上王冠，”它说，“那么她明天就会给我戴上王冠!”
 
 "Well, I want to dance," said the fire tongs, and dance she did. Yes, heaven help us, how she could lift one leg up in the air! The old chair cover over in the corner split just from looking at it. "May I be crowned too?" said the fire tongs, and then she was.
+
+- tongs    英  [tɒŋz]   美  [tɑːŋz]  n. [机] 夹具；钳子（tong的复数） v. 用钳夹取（tong的三单形式）
+- cover    英  [ˈkʌvə(r)]   美  [ˈkʌvər]  vt. 包括；采访，报导；涉及；行走（一段路程）；掩护；翻唱 n. 封面，封皮；盖子；掩蔽物;幌子，借口 vi. 覆盖；代替；敷衍；给…投保。
+- split 英 [splɪt] 美 [splɪt] vt. 分离；使分离；劈开；离开；分解 vi. 离开；被劈开；断绝关系 n. 劈开；裂缝 adj. 劈开的。
 
 “好吧，我想跳舞，”火钳说，于是她就跳了起来。是的，老天保佑，她怎么能把一条腿举到空中!角落里的旧椅子一看就裂开了。“我也可以戴上王冠吗?”火钳说，于是她就睡着了。
 
 "All the same, they're only rabble!" thought the matches.
 
+- rabble 英 [ˈræbl] 美 [ˈræbl] n. 乌合之众；暴民；下层社会；（搅炼用的）长柄耙 vt. 聚众闹事；用长柄耙搅拌
+
 “尽管如此，他们都是乌合之众!”火柴想。
 
 Now the samovar was to sing, but it had a cold, it said--it couldn't unless it was boiling. But that was plain snobbishness; it wouldn't sing except when it was standing on the table in the room with the family.
 
+- samovar 英 [ˈsæməvɑː(r)] 美 [ˈsæməvɑːr] n. 俄国式茶饮；茶壶
+- plain 英 [pleɪn] 美 [pleɪn] adj. 平的；简单的；朴素的；清晰的 n. 平原；无格式；朴实无华的东西 adv. 清楚地；平易地
+- snobbishness ['snɔbiʃnis] n. 势利
+
 现在茶炊要唱了，可是它说，它感冒了，除非它是煮着的，否则唱不出来。但那是明显的势利;它不会唱歌，除非它和家人一起站在房间的桌子上。
 
-Over in the window sat an old quill pen, which the maid usually wrote with. There was nothing exceptional about it except that it had been dipped too far down in the inkwell. But because of this it now put on airs. 'If the samovar won't sing,' it said, 'then it needn't. Hanging outside in a cage is a nightingale. It can sing. To be sure, it hasn't been taught anything, but we won't malign it this evening!'
+Over in the window sat an old **quill** pen, which the maid usually wrote with. There was nothing **exceptional** about it except that it had been **dipped** too far down in the **inkwell**. But because of this it now **put on airs**. 'If the **samovar** won't sing,' it said, 'then it needn't. Hanging outside in a cage is a nightingale. It can sing. To be sure, it hasn't been taught anything, but we won't malign it this evening!'
+
+- quill  英  [kwɪl]   美  [kwɪl] n. 大翎毛；羽茎；（豪猪、刺猬的）刚毛 vt. 刺穿
+- exceptional 英  [ɪkˈsepʃənl]   美  [ɪkˈsepʃənl] adj. 异常的，例外的 n. 超常的学生
+- dip 英 [dɪp] 美 [dɪp] v. 浸，蘸；（使）下降，下沉，减少；（把手、工具）伸入（袋子、容器）；扒窃；动用（资金）；浏览（书籍）；（给牲畜）洗药浴；制作（蜡烛）；给某人施洗礼；（道路、地面）向下倾斜；放下，下移；（把汽车前灯）调为近光 n. 浸，蘸；短暂的水浴或游泳；（暂时的）减少，下降；调味酱，蘸酱；凹陷处，低洼处；浏览，翻阅；药浴液；舀取的量；（上坡前的）短暂下坡，（上升前的）短暂下落；倾角，视倾斜；扒手
+- inkwell 英 [ˈɪŋkwel] 美 [ˈɪŋkwel] n. 墨水池
+- nightingale 英 [ˈnaɪtɪŋɡeɪl] 美 [ˈnaɪtɪŋɡeɪl] n. 夜莺
+- malign 英 [məˈlaɪn] 美 [məˈlaɪn] v. （公开地）诽谤 adj. 有害的；邪恶的；（疾病）恶性的
 
 窗户上放着一支旧鹅毛笔，那是女仆常用来写字的。它没有什么特别之处，只是在墨水瓶里浸得太深了。但正因为如此，它现在才装腔作势。“如果茶炊不唱歌，”它说，“那就不唱了。外面笼子里挂着一只夜莺。它可以唱歌。可以肯定的是，没有人教过它，但是我们今天晚上不打算诽谤它!”
 
-"I find it highly improper," said the tea kettle, who was a kitchen singer and half sister to the samovar, "that such an alien bird is to be heard! Is that patriotic? I'll let the market basket be the judge!"
+"I find it highly **improper**," said the tea kettle, who was a kitchen singer and half sister to the samovar, "that such an alien bird is to be heard! Is that **patriotic**? I'll let the market basket be the **judge**!"
+
+- improper 英 [ɪmˈprɒpə(r)] 美 [ɪmˈprɑːpər] adj. 不正确的，错误的；不适当的；不合礼仪的
+- patriotic  英  [ˌpætriˈɒtɪk; ˌpeɪtriˈɒtɪk]   美  [ˌpeɪtriˈɑːtɪk] adj. 爱国的
+- judge 英 [dʒʌdʒ] 美 [dʒʌdʒ] n. 法官；裁判员；鉴定人 v. 判断；猜测（大小、数量等）；裁判；评价；审判，判决
 
 “我觉得，”茶壶说，她是厨房里的歌手，也是茶炊的同父异母妹妹，“让人听到这样一只陌生的鸟，实在是太不应该了!这是爱国吗?我要让菜篮子来做裁判!”
 
 "I'm simply vexed!" said the market basket. "I'm as deeply vexed as anyone can imagine! Is this a fitting way to spend an evening? Wouldn't it be better to put the house to rights? Then everyone would find his place, and I'd run the whole caboodle! Then there'd be another song and dance!"
 
+- vexed 英 [vekst] 美 [vekst] adj. 生气的，烦恼的，恼怒的；为难的；焦急的
+- caboodle 英 [kəˈbuːdl] 美 [kəˈbuːdl] n. 堆；伙，群
+
 “我只是烦!”菜篮子说。“谁也想象不出我有多烦恼! 这样度过一个晚上合适吗?把房子整顿一下不是更好吗?然后每个人都找到自己的位置，我就可以管理所有的事情了!然后就会有另一场歌舞!”
 
-"Yes, let's raise a rumpus!" they all said. At the same moment the door opened. It was the maid, and so they stood still. There wasn't a deep out of anyone. But there wasn't a pot there that didn't know what it was capable of doing or how distinguished it was.
+"Yes, let's **raise** a **rumpus**!" they all said. At the same moment the door opened. It was the maid, and so they stood still. There wasn't a deep out of anyone. But there wasn't a pot there that didn't know what it was **capable** of doing or how **distinguished** it was.
 
-“是的，让我们大吵大闹吧!”他们都说。正在这时，门开了。那是女仆，所以他们就站着不动。没有人的内心深处。但是那里没有一个罐子不知道自己能做什么，也不知道自己有多出众。
+- raise 英 [reɪz] 美 [reɪz] vt. 提高；筹集；养育；升起；饲养，种植 vi. 上升 n. 高地；上升；加薪
+- rumpus 英 [ˈrʌmpəs] 美 [ˈrʌmpəs]n. 喧闹；骚乱
+- cap able 英  [ˈkeɪpəbl]   美  [ˈkeɪpəbl] adj. 有能力的；有才干的；容许……的；可以做（某事）的；综合性的；有资格的
+- distinguished 英 [dɪˈstɪŋɡwɪʃt] 美 [dɪˈstɪŋɡwɪʃt] adj. 卓越的，著名的；高贵的，受尊重的 v. 辨别；使有区别；看清，认出（distinguish 的过去式和过去分词）
+
+“是的，让我们大吵大闹吧!”他们都说。正在这时，门开了。那是女仆，所以他们就站着不动。没有人的内心深处。但是那里没有一个罐子不知道自己能做什么，不知道自己有多出众。
 
 "Yes, if only I'd wanted to," each thought, "it really would have been a lively evening!"
+
+- lively 英 [ˈlaɪvli] 美 [ˈlaɪvli] adj. 活泼的；生动的；真实的；生气勃勃的
 
 “是的，如果我愿意的话，”每个人都想，“这将是一个热闹的夜晚!”
 
 The maid took the matches and made a fire with them! Heavens, how they sputtered and burst into flames!
 
+- sputter 英 [ˈspʌtə(r)] 美 [ˈspʌtər] v. 发劈啪声；气急败坏地说，结结巴巴地讲；飞溅出，喷出，唾沫飞溅；疲软地进行；喷镀 n. 劈啪声，喷溅声；急切的言语
+- burst 英 [bɜːst] 美 [bɜːrst] v. 爆炸；戳破；爆裂；（器官或血管）爆裂；装满；充满感情；突然爆发（某种感情）；爆发出；冲开；闯；分页，断纸 n. 爆炸；猝发；迸发；冲刺；一阵短促的射击 n. (Burst) （美）布尔斯特（人名）
+
 女仆拿起火柴，生起了火!天哪，他们是怎样喷出火焰的!
 
 "Now," they thought, "everyone can see that we're the first! What a radiance we have! What a light! and then they were burned out."
+
+- radiance 英 [ˈreɪdiəns] 美 [ˈreɪdiəns] n. 光辉；发光；容光焕发
 
 “现在，”他们想，“每个人都能看出我们是第一个!我们多么容光焕发啊!一盏灯!然后他们就被烧光了。”
 
@@ -349,11 +391,22 @@ The maid took the matches and made a fire with them! Heavens, how they sputtered
 
 “这真是一个有趣的故事!”王后说。“我觉得自己就像在厨房里拿着火柴一样! 是的，现在你可以拥有我们的女儿了!”
 
-"Certainly!" said the king. "Thou shalt have our daughter on Monday!" They said "thou" to him now that he was going to be one of the family.
+"Certainly!" said the king. "Thou **shalt** have our daughter on Monday!" They said "thou" to him now that he was going to be one of the family.
+
+- thou 英 [ðaʊ] 美 [ðaʊ] pron. 你；尔，汝（古时候的叫法）
+- shalt 英 [ʃælt] 美 [ʃælt] v. 将要；必定；应该，必须（shall 的第二人称单数现在时
 
 “当然可以!”国王说。“你星期一就可以得到我们的女儿了! 他们对他说“你”，因为他就要成为这个家庭的一员了。
 
-And thus the wedding was decided; on the evening before, the entire city was illuminated. Buns and cakes were thrown out to be scrambled for. The street urchins stood on tiptoe, shouted "Hurrah!" and whistled through their fingers.
+And thus the wedding was decided; on the evening before, the entire city was **illuminated**. **Buns** and cakes were thrown out to be **scrambled** for. The street **urchins** stood on **tiptoe**, shouted "Hurrah!" and **whistled** through their fingers.
+
+- hus 英 [ðʌs] 美 [ðʌs] adv. 因此；从而；这样；如此
+- entire 英 [ɪnˈtaɪə(r)] 美 [ɪnˈtaɪər] adj. 全部的，整个的；全体的
+- illuminatedilluminated 英 [ɪˈluːmɪneɪtɪd] 美 [ɪˈluːmɪneɪtɪd] adj. 照亮的，发光的；被照明的；装饰华丽的 v. 照亮；阐明；用灯装饰；启发（illuminate 的过去分词）
+- bun 英 [bʌn] 美 [bʌn] n. 小圆面包
+- scrambled 美  ['skræmbl] adj. 仓促的 v. 爬行，攀登；笨拙移动，仓促行动；（匆忙或笨拙地）做，取得；争取，争夺；弄乱，搅糟；炒（蛋）；紧急起飞；（橄榄球）带球跑到阻截争球线后（scramble 的过去式和过去分词）
+- urchins 英 美 n. 海胆（urchin的复数）；顽童
+- tiptoe 英 [ˈtɪptəʊ] 美 [ˈtɪptoʊ] n. 脚尖 v. 踮着脚走 adv. 用脚尖；偷偷摸摸地 adj. 踮着脚走的；偷偷摸摸的
 
 婚礼就这样决定了;前一天晚上，整个城市都被照亮了。人们把面包和蛋糕扔出去抢吃。街上的孩子们踮起脚尖，高声欢呼“万岁!”，并通过他们的手指吹着口哨。
 
@@ -373,21 +426,33 @@ SWOOOOOOOOSH! How they went off! And how they popped!
 
 It made all the Turks hop in the air so their slippers flew about their ears. They'd never seen a vision like this before. Now they could tell that it was the God of the Turks himself who was going to marry the princess.
 
+- vision 英 [ˈvɪʒn] 美 [ˈvɪʒn] n. 视力；美景；眼力；幻象；想象力；幻视（漫威漫画旗下超级英雄） vt. 想象；显现；梦见
+
 它使所有的土耳其人在空中跳跃，所以他们的拖鞋在他们的耳朵周围飞舞。他们以前从未见过这样的景象。现在他们知道是土耳其人的神要娶公主为妻了。
 
 As soon as the merchant's son had come back down in the forest again with his trunk, he thought, "I'll just go into the city to find out how it looked!" And of course it was only reasonable that he wanted to do that.
+
+- reasonable  英  [ˈriːznəbl]   美  [ˈriːznəbl] adj. 合理的，公道的；通情达理的
 
 商人的儿子带着他的箱子又回到森林里来了。他想:“我要到城里去看看，看看箱子究竟是什么样子。”当然，他这样做是合理的。
 
 My, how people were talking! Every last person he asked had seen it, in his own fashion, but they all thought it had been delightful!
 
+
 天啊，人们都说些什么呀!他问的每一个人都以他自己的方式看过它，但是他们都认为它是令人愉快的!
 
+
 "I saw the God of the Turks himself!" said one. "he had eyes like shining stars and a beard like frothy water!"
+
+- frothy  英  [ˈfrɒθi]   美  [ˈfrɔːθi] adj. 多泡的；起泡的；空洞的，浅薄的
 
 “我亲眼看见了土耳其人的神!”“他的眼睛像闪亮的星星，胡子像泡沫的水!”
 
 "He flew in a fiery robe!" said another. "The loveliest cherubs were peeking out from among the folds!"
+
+- fiery 英 [ˈfaɪəri] 美 [ˈfaɪəri] adj. 热烈的，炽烈的；暴躁的；燃烧般的
+- herubs  n. 天使（cherub复数）；可爱的人；天真无邪的人（尤指孩子）
+- peek 英 [piːk] 美 [piːk] v. 窥视，偷看；微微露出，探出 n. 偷看；一瞥，看一眼；（计算机）读取数据
 
 “他穿着一件火袍飞!”另一个说。“最可爱的小天使从羊圈里探出头来!”
 
@@ -399,11 +464,18 @@ Now he went back to the forest to seat himself in the trunk--but where was it?
 
 现在他回到森林里去，坐到箱子里去。可是箱子在什么地方呢?
 
-The trunk had burned up! A spark from the fireworks had remained and set it on fire, and the trunk was in ashes. No longer could he fly, no longer could he come to his bride.
+The trunk had burned up! A spark from the fireworks had **remained** and set it on fire, and the trunk was in ashes. No longer could he fly, no longer could he come to his bride.
+
+- remain 英 [rɪˈmeɪn] 美 [rɪˈmeɪn] vi. 保持；依然；留下；剩余；逗留；残存 n. 遗迹；剩余物，残骸
+- ashes  英  ['æʃiz]   美  ['æʃiz] n. 骨灰，灰烬（ash的复数）v. 把…烧成灰烬（ash的第三人称单数形式）
+- bride 英 [braɪd] 美 [braɪd] n. 新娘；姑娘，女朋友
 
 箱子烧掉了!烟火留下的火星把箱子点着了，箱子也成了灰烬。他再也不能飞了，再也不能到他的新娘那里去了。
 
 She stood all day on the roof and waited. She's waiting still while he's wandering about the world telling stories. But they're no longer as gay as the one he told about the matches.
+
+- wandering 英 ['wɒnd(ə)rɪŋ] 美 ['wɑndərɪŋ] adj. 流浪的；漫游的；徘徊的；蜿蜒的 n. 闲逛；离题；神志恍惚 v. 漫游；偏移；蜿蜒；漫步于（某地）；（对固定性伴侣）不忠（wander 的现在分词）
+- gay 英 [ɡeɪ] 美 [ɡeɪ] adj. 快乐的；放荡的；艳丽的
 
 她整天站在屋顶上等着。当他在世界各地讲故事时，她还在等待。但他们已经不像他说的那场比赛那么快乐了。
 
