@@ -75,14 +75,14 @@
 
 1. Beginning of Spring 立春
 2. Rain Water 雨水
-3. Waking of insects 惊蛰
-4. Spring Equinox 春分
-5. Pure Brightness 清明
+3. Waking of insects 惊蛰 (/'ɪnsɛkt/ n. [昆] 昆虫；昆虫类，昆虫纲（insect的复数形式）)
+4. Spring Equinox 春分 (/ˈekwɪnɑːks,ˈiːkwɪnɑːks/ n. 春分；秋分；昼夜平分点)
+5. Pure Brightness 清明 (/pjʊr/ adj. 纯的；纯粹的；纯洁的；清白的；纯理论的 | /ˈbraɪtnəs/ n. [光][天] 亮度；聪明，活泼；鲜艳；愉快)
 6. Grain Rain 谷雨
 7. Beginning of Summer 立夏
 8. Grain Full 小满
-9. Grain in Ear 芒种
-10. Summer Solstice 夏至
+9. Grain in Ear 芒种 (抽穗;耳朵)
+10. Summer Solstice 夏至 (/ˈsɑːlstɪs/ n. 至，至日；至点)
 11. Slight Heat and Great Heat 小暑、大暑
 12. Beginning of Autumn 立秋
 13. Limit of Heat 处暑
