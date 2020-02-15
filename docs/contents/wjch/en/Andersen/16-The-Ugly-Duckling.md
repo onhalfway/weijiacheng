@@ -18,6 +18,8 @@
 
 ## Plotline 主要情节
 
+不要以貌取人；永不放弃；
+
 - Beginning
   - Characters: the ugly duckling
   - Background: a duckyard

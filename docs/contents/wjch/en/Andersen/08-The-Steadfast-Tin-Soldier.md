@@ -13,6 +13,8 @@ True love blossoms between a handsome one-legged tin soldier and a graceful pape
 
 ## Plot line
 
+有情人终成眷属；
+
 ROLL-A-STORY
 
 - Title: The Steadfast Tin Soldier

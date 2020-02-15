@@ -53,8 +53,12 @@
 
 - [Headway Student's Site](https://elt.oup.com/student/headway/?cc=cn&selLanguage=zh)
 - [study.com](https://study.com/) *--paid*
-- [bookreports.info](https://www.bookreports.info/)
+- [book reports info](https://www.bookreports.info/)
 - [wikipedia](https://en.wikipedia.org/)
+- [The Free Dictionary](https://www.thefreedictionary.com/)
+- [Word Reference](https://www.wordreference.com/)
+- [Cambridge Dictionary](https://dictionary.cambridge.org)
+- [Vocabulary](https://www.vocabulary.com/)
 
 ## 英文新闻网站
 

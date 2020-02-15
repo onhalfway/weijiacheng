@@ -4,10 +4,12 @@
 
 - [The Flying Trunk](#the-flying-trunk)
   - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
+  - [Plotline](#plotline)
   - [The Flying Trunk wikipedia](#the-flying-trunk-wikipedia)
     - [Plot summary](#plot-summary)
-  - [The Flying Trunk 背景知识](#the-flying-trunk-%e8%83%8c%e6%99%af%e7%9f%a5%e8%af%86)
-  - [Reference Version （参考译文）](#reference-version-%e5%8f%82%e8%80%83%e8%af%91%e6%96%87)
+  - [The Flying Trunk Reference](#the-flying-trunk-reference)
+    - [The Flying Trunk 背景知识](#the-flying-trunk-%e8%83%8c%e6%99%af%e7%9f%a5%e8%af%86)
+    - [Reference Version （参考译文）](#reference-version-%e5%8f%82%e8%80%83%e8%af%91%e6%96%87)
 
 ## 正文 as is
 
@@ -429,12 +431,34 @@ She stood all day on the roof and waited. She's waiting still while he's **wande
 
 她在屋顶上整天等待着。她现在还在那儿等待着哩。而他呢，在这个茫茫的世界里跑来跑去讲故事;不过这些故事再也不像他所讲的那个“火柴的故事”一样有趣。
 
+## Plotline
+
+现实的人生与世态：富在深山有远亲，穷在闹市无人问；黄粱美梦/白日梦，不劳无获 No pains no gains；
+
+Sotry Map
+
+- Setting
+  - Time: Long time ago
+  - Place: Turkey
+  - Main Characters: a merchant's son
+  - Problem: The merchant's son spent/run out of/squandered all his interitance.
+- Begging: He inerited a large sum/amounts of money, and spent all. But he got a flying trunk from a kind friend.
+- Middle:
+  - The flying trunk carried him to the land of Turks.
+  - He visited the king's daughter who was kept in a castle. He persuaded her to marry him by telling lovely story. Her parrents were impressed and agreed this marriage.
+  - To celebrate his upcoming marriage, he bought fireworks, and set them off.
+- End: A spark burned up the flying trunk in ashes, and his hope disappeared like soup bubbles.
+
+Revised Middle: He visited the princess by using the flying trunk. He persuaded her to marry him and the king and Queen are impressed by his story and agreed the marriage. For celebrating his upcoming marriage, he bought all kinds of fireworks and set them off.
+
 ## The Flying Trunk wikipedia
 
+[The Flying Trunk wikipedia](https://encyclopedia.thefreedictionary.com/the+flying+trunk)
 [The Flying Trunk wikipedia](https://en.wikipedia.org/wiki/The_Flying_Trunk)
 
 "The Flying Trunk" (Den flyvende Kuffert) is a **fairy tale** by the **Danish** **poet** and **author** Hans Christian Andersen about a young man who has a flying trunk that carries him to **Turkey** where he visits the **Sultan's** daughter. The tale was first published 1839.
 
+- Danish, Denmark
 - poet /ˈpoʊət/ n. 诗人
 - author /ˈɔːθər/ n. 作者；作家；创始人 vt. 创作出版
 - Turkey /ˈtɜːrki/ n. 土耳其（横跨欧亚两洲的国家）
@@ -445,13 +469,13 @@ She stood all day on the roof and waited. She's waiting still while he's **wande
 
 A young man **squanders** his **inheritance** until he has nothing left but a few **shillings**, a pair of slippers, and an old **dressing-gown**. A friend sends him a trunk with directions to pack up and be off. Having nothing to pack, he gets into the trunk himself. The trunk is **enchanted** and carries him to the land of the Turks. He uses the trunk to visit the sultan's daughter, who is kept in a **tower** because of a **prophecy** that her marriage would be unhappy.
 
-- squander /ˈskwɑːndər/ vt. 浪费 vi. 浪费；漂泊 n. 浪费
-- inheritance /ɪnˈherɪtəns/ n. 继承；遗传；遗产
+- squander /ˈskwɑːndər/ vt. **浪费** vi. 浪费；漂泊 n. 浪费
+- inheritance /ɪnˈherɪtəns/ n. 继承；遗传；**遗产**
 - shilling /ˈʃɪlɪŋ/ n. 先令
 - dressing-gown 睡衣
-- enchant /ɪnˈtʃænt/ v. 使着迷，使迷惑；施魔法于
+- enchant /ɪnˈtʃænt/ v. 使着迷，使迷惑；**施魔法于**
 - tower /ˈtaʊər/ n. 塔；高楼；堡垒 vi. 高耸；超越
-- prophecy /ˈprɑːfəsi/ n. 预言；预言书；预言能力
+- prophecy /ˈprɑːfəsi/ n. **预言**；预言书；预言能力
 
 一个年轻人挥霍了他的遗产，直到最后只剩下几个先令、一双拖鞋和一件旧睡衣。一个朋友给他寄来一只箱子，告诉他收拾东西走人。由于没有东西可装，他自己钻进了箱子。箱子被施了魔法，把他带到土耳其人的土地上。他使用箱子去拜访苏丹的女儿，她被关在一个宫殿，因为预言她的婚姻将是不幸福的。
 
@@ -468,14 +492,16 @@ He **persuades** her to marry him. When her father and mother visit her tower, h
 
 他说服公主嫁给他。当她的父亲和母亲参观她的宫殿，他告诉他们一个故事。他们深受感动，同意了这桩婚事。为了庆祝他即将到来的婚礼，这个年轻人买了烟花，然后飞过地面，点燃了烟花。回到地面，一个火花把箱子烧成灰烬，这个年轻人再也不能去宫殿内拜访公主了。相反，他周游世界，讲故事。
 
-## The Flying Trunk 背景知识
+## The Flying Trunk Reference
+
+[Reference Version （参考译文）](http://www.for68.com/new/2006/2/xi1965162910182260028970-0.htm)
+
+### The Flying Trunk 背景知识
 
 （１８３９年）
 这是一个阿拉伯的故事，在《一千零一夜》中可以找到它的原形。但安徒生却作了不同的处理，把它和现实的人生与世态结合了起来：那个商人的儿子的钱花光了，“他的朋友们再也不愿意跟他来往了，因为他再也不能跟他们一道逛街。”但是当他快要成为驸马时，他买了些焰火和炮竹，以及种种可以想象得到的鞭炮，使所有的人享受一番欢乐。这时大家都称赞他说：“他的眼睛像一对发光的星星，他的胡须像起泡沫的水！”“他穿着一件火外套飞行”，“许多最美丽的天使藏在他的衣褶里向外窥望。”他成了土耳奇的神。但是乐极生悲，焰火的一颗星星落下来，点起一把火。箱子已经化成灰烬了。他再也飞不起来了，也没有办法到他的新娘那儿去。他和公主结婚的安排成了泡影。这个故事有许多东西值得人们深思。
 
-## Reference Version （参考译文）
-
-[Reference Version （参考译文）](http://www.for68.com/new/2006/2/xi1965162910182260028970-0.htm)
+### Reference Version （参考译文）
 
 　　从前有一个商人，非常有钱，他的银元可以用来铺满一整条街，而且多余的还可以用来铺一条小巷。不过他没有这样作：他有别的方法使用他的钱，他拿出一个毫子，必定要赚回一些钱。他就是这样一个商人——后来他死了。他的儿子现在继承了全部的钱财；他生活得很愉快；他每晚去参加化装跳舞会，用纸币做风筝，用金币——而不用石片——在海边玩着打水漂的游戏。
 
