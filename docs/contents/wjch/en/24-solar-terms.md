@@ -119,7 +119,7 @@ The snowfield is a vast canvas painted in footprints. Gazing at the canvas, Yaya
 雪地是一块巨大的画布，上面画着脚印。雅雅凝视着画布，心想昨晚到底是谁在“作画”。
 
 - vast /væst/ adj. 广阔的；巨大的；大量的；巨额的 n. 浩瀚；广阔无垠的空间
-- secretly /ˈsiːkrətli/
+- secretly /ˈsiːkrətli/ adv. 秘密地；背地里
 
 ---
 

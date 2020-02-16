@@ -34,6 +34,7 @@
 
 - [2021北京中考改革方案解读](https://mp.weixin.qq.com/s?__biz=MjM5OTEzNTkxMw==&mid=2657995852&idx=1&sn=c37ad440abcff04b8cc05c5302aa2daf&chksm=bd59738a8a2efa9cf6d51c0dbd5afe4e975ab976843847d3e6bda9afc7de01cf7d2198baa68b&mpshare=1&scene=1&srcid=1019Dje77VCBNHCscFJpJPzV&sharer_sharetime=1571536246666&sharer_shareid=e3452fe4a2aa9057acf716c221f92496&key=cd599c7e68335d37af4c3f4af9d8639afe8962c2f5919d8605f68716cf097e11acc10cb19d2671cb711c952d17e16109536364500172db0a1c93d7838523d164cf6baf7fcf0554f8e1b47ee9d5ed61f4&ascene=1&uin=MTA2MzQyMzc4Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=JsybqgQDuUmGX4p0GI8BT2KKZN%2BJDnfrT%2F8yEs%2F%2B%2FMRIX6S5TLPm%2BZsQzCJB1jGI)
 - [2020北京中考体育项目是什么？](https://mp.weixin.qq.com/s/lxkvYBTx_wlPxzDChuiuAA)
+- [居家锻炼](https://www.meipian3.cn/2p9k4vvo?share_depth=2&user_id=ohbsluHNZ6SphR08M4u9VejeFefo&sharer_id=ojq1tt6dHJhnAVkPN_5LGgY9U1BE&first_share_uid=13746536&share_user_mpuuid=f98007d6093aa8407101f597293a98b0&share_source=singlemessage)
 
 ## 通知
 
