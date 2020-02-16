@@ -1,5 +1,7 @@
 # New Headway
 
+Refer to USB disk and Net disk
+
 ---
 
 ## Beginner
