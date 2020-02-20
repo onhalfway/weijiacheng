@@ -66,3 +66,4 @@
 - [Time For Kids](https://www.timeforkids.com/)
 - [Teaching Kids News](https://www.teachingkidsnews.com)
 - [ELA-Science-Social Studies](https://www.dogonews.com/)
+- [英语点津](http://language.chinadaily.com.cn/)
