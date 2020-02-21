@@ -558,43 +558,230 @@ CD2T22: Match the words from the box with the pictures. Write the words in the s
 
 ## 23 Unit 9 - Exercise 7
 
+Listen again. Write T (true) or F (false). Correct the false statements.
 
+TODO: TAPESCRIPT
+
+1 Hannah goes rollerblading every day.
+2 Sam likes playing tennis, but ke doesn't like watching it on TV.
+3 Hannah likes watching American football games.
+4 Sam plays football in his school team.
+
+- Hannah /'hænə/ n. 汉娜（女子名）
+
+CD2T23
+Students read through statements 1 to 4. Check any problems. Go through the first item as an example, if necessary.
+Stronger classes: They can answer the questions and then listen and check only.
+Weaker classes: Play the recording again while students listen only. Students complete the exercise.
+Check answers, playing and pausing the recording as necessary to clarify any problems.
+
+Answers
+1 F (She goes rollerblading every week.)
+2 F (He doesn't like playing tennis, but he enjoys watching it on TV.)
+3 T
+4 T
 
 ## 24 Unit 9 - Exercise 10c
 
+Culture in Mind
+Read the article again and listen. Complete the sentences with Craig or Julia.
 
+`Not only football and swimming!`
+Kids in British schools can do a lot of sport. Lots of teenagers do swimming or play football - but these days, there are other things they can do, too!
+`Craig Hopkins` is 15 and he is Year 11 at St Mary's School in Oakham. He loves playing rugby and cricket. But his favourite sport is rowing. 'There is a big lake near my school and we go there once a week to row,' says Craig. 'I'm in the school team, and two or there times a year we row against teams from schools in other parts of the country.'
+`Julia Ho` is 16 and is in Year 11 at Sandown School, Derby. 'Netball is cool,'says Julia. 'But I love orienteering! In orienteering. you have to run and run - but you have to find out where to go, too! You have a map and a compass, and you have to get to a place as fast as possible. It's great fun - even when it's raining!
+
+- orienteering /ˌɔːriənˈtɪərɪŋ/ n. 定向越野比赛，越野识图比赛
+
+CD2T24 Students read the instructions. Check any problems.
+Stronger classes: They can read the text silently and complete the exercise.
+Weaker classes: The text can be read aloud and then students can complete the exercise.
+Check answers.
+
+Answers
+Craig: cricket, rugby, rowing Julia: netball, orienteering
 
 ## 25 Unit 10 - Exercise 1b
 
+Read the text again and listen. Write T (true) or F (false). Correct the false statements.
 
+`ROUND THE WORLD - ALONE`
+John White is a bus driver. He likes his job but he loves his boat. Once a year, John goes on a short journey in the boat. His wife Pauline and son Andy often go with him.
+This year is different. John is taking a year off from his job and is sailing around the world. And he's doing it alone. An exciting journey? Yes and no. 'Sometimes, dolphins and whales swim along with the boat, and sometimes I sail past beautiful tropical islands,' says John. 'But sometimes the weather gets bad and then I have problems.' John wants to ...
+
+- dolphin /ˈdɑːlfɪn/ n. 海豚
+- whale /weɪl/ n. 鲸；巨大的东西
+- tropical /ˈtrɑːpɪkl/ adj. 热带的；热情的；酷热的
+
+1 John sails around the world every year.
+2 John is sailing around the world now.
+3 Pauline is with him on his boat.
+4 Everything on his journey is good.
+
+CD2T25: Students read through sentences 1 to 4. Check any problems. Go through the example as a class.
+Stronger classes: They can do this as a listening exercise only, without reading the text.
+Weaker classes: Play the recording for students to read and listen. Students complete the exercise. Check answers, playing and pausing the recording again as necessary to clarify any problems.
+Encourage students to correct the false statements. TAPESCRIPT
+See reading text on page 74 of the Student's Book.
+
+Answers
+1 F (He normally just goes on a short journey.)
+2 T
+3 F (He's doing it alone.)
+4 F (Sometimes the weather gets bad and he has problems.
 
 ## 26 Unit 10 - Exercise 2a
 
+Here is a telephone conversation between John and Pauline. Complete the conversation with the words from the box. Then listen and check your answers.
 
+a it's starting
+b They're swimming
+c are you doing
+d I'm eating
+e I'm getting
+f he's having
+
+Pauline: Hi, John. How are you?
+John: Fine, yeah, I'm fine. How are you? What (c)?
+Pauline: Oh, () breakfast in the kitchen. Andy's upstairs in the bathroom - () a shower. So, are you OK?
+John: Yes, I'm making good progress. And () very close to South Africa.
+Pauline: Great!
+John: Yes, and guess what? I can see dolphins outside! () next to the boat.
+Pauline: Oh, how lovely!
+John: It is! But I'm worried. The weather's changing. There's a strong wind now and () to rain. A bad storm's coming, I think. Sorry Pauline, I can't talk any more. I have to go outside.
+Pauline: John? Can you hear me, John?
+
+CD2T26
+Tell the students they are going to listen to a conversation between John and his wife Pauline. Ask students to predict what they will talk about, and write any interesting ideas on the board. Read through the dialogue with students and check understanding of difficult words: upstairs, progress, outside. Play the recording for students to listen and complete the dialogue. Let them check answers with a partner before feedback in open class.
+
+TAPESCRIPT
+Pauline: Hi, John. How are you?
+John: Fine, yeah, I'm fine. How are you? What (are you doing)?
+Pauline: Oh, (I'm eating) breakfast in the kitchen. Andy's upstairs in the bathroom - (he's having) a shower. So, are you OK?
+John: Yes, I'm making good progress. And (I'm
+getting) very close to South Africa.
+Pauline: Great!
+John: Yes, and guess what? I can see dolphins outside! (They're swimming) next to the boat. Pauline: Oh, how lovely.
+John: It is! But I'm worried. The weather's changing. There's a strong wind now and (it's starting) to rain. A bad storm's coming, I think. Sorry, Pauline, I can't talk any more. I have to go outside.
+Pauline: John? Can you hear me, John?
+
+Answers 2d 3f 4e 5b 6a
 
 ## 27 Unit 10 - Exercise 4
 
+Listen to six sounds. What are the people doing?
 
+Play the recording, pausing after the first item. Go through the example as a class, explaining to students that they must write a present continuous sentence to describe what they think the person on the recording is doing. Play the rest of the recording while students listen. If necessary, play the recording again. Check answers.
+
+Answers
+2 He's having a shower.
+3 They're playing football.
+4 She's swimming.
+5 He's drinking.
+6 They're singing.
 
 ## 28 Unit 10 - Exercise 6
 
+Pronunciation /h/ have
 
+CD2T28: Listen and repeat the sentences.
+1 Hi! Can I help you?
+2 He can walk on his hands.
+3 Are you hungry? Have a hamburger.
+4 Henry's having a holiday in Holland.
 
 ## 29 Unit 10 - Exercise 7
 
+Match the words in the boxes with the numbers and letters in the picture. Write the letters and numbers next to the words. Then listen, check and repeat.
 
+CD2T29
+Students open their books at page 77 and look at the picture and the words in the boxes. If they have given any of the words already in the Warm-up they can fill those in. Go through the example as a class, if necessary. Students then match the other words. Play the recording while students listen and check answers.
+
+TAPESCRIPT/ANSWERS
+1 kitchen 2 bathroom 3 bedroom 4 living room 5 hall 6 garden 7 garage a window b door с bed d sofa e chairs f armchair g table h toilet i shower j bath к fridge I cooker
+
+Vocabulary bank
+Refer students to the vocabulary bank. Read through the words and phrases in open class and check understanding.
+Vocabulary notebook
+Encourage students to start a section called House and furniture, to note down any new words from this section, and to illustrate or write translations to help them remember the new items.
 
 ## 30 Unit 10 - Exercise 9
 
+Look at the title of the story and the pictures. What does Darren want to do? Read, listen and check your answer.
 
+`A Kickabout`
+(1)
+Darren: Hi Izzie.
+Izzie: Hey Darren. What's up?
+Darren: Nothing. But I'm bored. How about a bit of football?
+Izzie: Sorry, Darren. Not now. I'm working.
+(2)
+Darren: Mark - my friend!
+Mark: Hey Darren. What are you doing?
+Darren: Looking for someone to play ... football!
+Mark: Sorry - I'm busy. I'm finishing this. Why don't you ask Ray?
+(3)
+Ray: I don't know, Darren. I've got lots of things to do.
+Darren: Oh, Ray. Just five minutes!
+Ray: Oh - all right, then. Five minutes - no more!
+(4)
+Ray: Goal! Goal! Arsenal one/1, Liverpool no/oh/0! Yes!
+Darren: Oh no! Let's stop, Ray. I'm tired!
+Ray: Come on Darren - another five minutes! OK?
+
+- arsenal /ˈɑːsənl/ n. 兵工厂；军械库；武器；军火库
+- Arsenal 阿森纳
+- Liverpool /'livəpu:l/ n. 利物浦
+
+CD2T30
+Students read the title of the photostory and answer the question. Play the recording for students to check their answers. Explain that a kickabout is an informal game of football.
+
+Answers
+Darren wants to play football.
 
 ## 31 Unit 10 - Exercise 10c
 
+Read the dialogue and put the sentences in the correct order. The listen and check your answers.
 
+CD2T31
+Read through the sentences with students and clarify any problems with understanding. In pairs, students decide on the correct order for the dialogue. Check answers and ask students to practise the correct dialogue.
+
+TAPESCRIPT/ANSWERS
+Millie: Dad? I'm going out now, OK?
+Dad: What? But Millie, you've got lots of homework.
+Millie: But I'm almost finished, Dad. I can finish tomorrow morning. I've got a bit of time before the English lesson.
+Dad: Well, Millie - why don't you finish it now? Then you can go out and have fun, and not worry about it any more.
+Millie: Oh, all right Dad. Maybe you're right.
+Dad: Good girl.
 
 ## 32 Unit 11 - Exercise 1c
 
+CD2T32
+Students read through sentences 1 to 3. Check any problems. Play the recording for students to read and listen. Go through the first item as an example, if necessary. Students complete the exercise. Check answers, playing and pausing the recording again as necessary.
 
+Read the article again and listen. Write the names of the special days.
+1 People go to friends' houses ().
+2 People eat special food ().
+3 People dance and do athletics ().
+
+- athletics /æθˈletɪks/ n. 竞技；体育运动；田径运动 复数 athletics
+
+TAPESCRIPT
+`Scotland - a land of traditions`
+Scotland has lots of beautiful places to visit - and there are some special days there, too. Here are three of them.
+1 Burns Night
+Every year on 25 January, the Scots remember a famous poet called Robert Burns. Usually there is a special dinner, and people eat haggis (which is made from different bits of a sheep!). People play music and they read Burn's poems aloud.
+2 Hogmanay
+Hogmanay is an important holiday for the Scottish people. It is on 31 December - New year's Eve. Like everywhere in the world, Scottish people celebrate the New Year with a party. Then, early in the morning of 1 January, they put on warm coats and go 'first footing' - they visit the homes of their friends and take a piece of bread and a piece of coal, to bring their friends food and warmth all year.
+3 Highland Games
+In the summer, there are Highland Games days all over Scotland. The men wear kilts (a type of skirt) and socks made from a special material called 'tartan'. Women wear beautiful skirts, blouses and scarves. There is dancing and the bands play music. There are lots of athletic events too - a famous one is 'tossing the caber': men try to throw a six-metre tree trunk (the 'caber').
+
+- Hogmanay /ˈhɒɡməneɪ; ˌhɒɡməˈneɪ/ n. （苏格兰的）除夕；除夕活动
+
+Answers
+1 Hogmanay
+2 Burns Night
+3 Highland Games
 
 ## 33 Unit 11 - Exercise 2a
 
