@@ -785,35 +785,146 @@ Answers
 
 ## 33 Unit 11 - Exercise 2a
 
+Listen and underline the syllables with the main stress. Then listen, check and repeat.
 
+TAPESCRIPT
+January February March April May June July August September October
+
+CD2T33
+Students open their books at page 83 and look at the months in Exercise 2a. Students read through the months quickly.
+Stronger classes: Play the recording for students to listen and underline the main stress.
+Weaker classes: It may be useful to write all the months on the board before you play the recording if you did not do this in the Warm-up. Play the recording, pausing after January. Elicit where the stress falls and mark it on the board, as in the example. Play the rest of the recording for students to listen and underline the stress.
+Play the recording for students to check their answers, pausing as necessary to clarify any problems.
 
 ## 34 Unit 11 - Exercise 2c
 
+Match the names of the seasons with the pictures. Write 1-4 in the boxes. Then listen, check and repeat.
 
+CD2T34
+Students read through the words in the box. Check students know how to pronounce each season: /ˈsʌmə(r)/ /ˈɔːtəm/ /ˈwɪntə(r)/ /sprɪŋ/. Go through the first item as a class, if necessary. Students complete the exercise. Play the recording once for students to listen and check. Play the recording a second time, pausing for students to repeat.
+
+TAPESCRIPT/ANSWERS
+A summer В autumn С winter D spring
 
 ## 35 Unit 11 - Exercise 4a
 
+Match the names of the clothes with the pictures. Write 1-12 in the boxes. Then listen, check and repeat.
 
+CD2T35
+Books closed. Elicit the names of any clothes students know already in English and write them on the board. Check students know how to pronounce each word. Students then open their books at page 84 and look at the picture. They match the names of the clothes in the box with the picture. Go through the first item as an example, if necessary. Then play the recording for students to listen and check. Play the recording a second time, pausing after each item for students to repeat.
+
+TAPESCRIPT/ANSWERS
+1 E T shirt 2 F scarf /skɑːf/ 围巾 3 C shirt 4 A dress 连衣裙 5 G trousers /ˈtraʊzəz/ 裤子，长裤 6 I jumper 工作服；妇女穿的套头外衣 (jumper一词在英国可指毛衣,而美国人很少用这个词当衣服讲,而用sweater表示毛衣) 7 H socks 8 J jacket 9 D top 上衣 10 В jeans 牛仔裤；工装裤 11 К shoes 12 L trainers 运动鞋
 
 ## 36 Unit 11 - Exercise 5
 
+Listen and number the pictures
 
+CD2TJ6
+Students look at the pictures.
+Stronger classes: Play the recording for students to listen and number the pictures in the correct order.
+Weaker classes: Elicit and write on the board what each model is wearing so students know what they are listening for. Play the recording, pausing after the first item and go through this as an example. Play the rest of the recording for students to listen and mark the order. Check answers. Play the recording again to clarify any problems, if necessary.
+
+TAPESCRIPT
+1
+OK, and here comes our first model, Jonathan. He's looking good in his blue jeans, his grey trainers and his white T-shirt. And what a lovely leather jacket too! Let's give him a big hand.
+
+- Jonathan /'dʒɑnəθən/ n. 乔纳森（男子名）
+- leather /ˈleðər/ n. 皮革；皮革制品
+
+2
+And here comes Samantha. Isn't she elegant in her blue dress, black shoes and her wonderful white scarf? Thank you very much, Samantha. And can I ask for a round of applause for Samantha, please.
+
+- Samantha sə'mænθə/ n. 萨曼莎（女子名）
+- elegant /ˈelɪɡənt/ adj. 高雅的，优雅的；讲究的；简炼的；简洁的
+- applause /əˈplɔːz/ n. 欢呼，喝采；鼓掌欢迎；掌声
+
+3
+And now, George. Well, how do you like these grey trousers, with the green shirt and the black jumper? Isn't that a great combination? A big hand for George, please. Thank you.
+4
+All right, and here we have Natalie. And Natalie's wearing a grey skirt with a pink top and beautiful black shoes. Let's give her a big hand too.
+
+- Natalie /'nætli/ n. 纳塔利（女子名）
+
+Answers
+A 2 В 4 C 1 D 3
+
+OPTIONAL ACTIVITY
+Ask a student to choose another person in the class and to describe what they are wearing without giving the name. The rest of the class must guess who is being described. The student who guesses correctly then describes someone else. Set a time limit for this.
 
 ## 37 Unit 11 - Exercise 7a
 
+Pronunciation: /æ/ and /е/
+Listen and repeat the words.
 
+CD2T37: Students read the words in each
+column. Play the recording, pausing after each word for students to repeat.
+
+TAPESCRIPT
+/æ/ black jacket hamburger thanks January
+/е/ yes red dress yellow September
 
 ## 38 Unit 11 - Exercise 7c
 
+CD2T39: Play the recording, pausing after each sentence for students to repeat.
 
+TAPESCRIPT
+1 I like the black jacket in the window.
+2 I wear red in January and yellow in September.
+3 She's wearing a black and red dress.
 
 ## 39 Unit 11 - Exercise 8d
 
+Listen to the dialogues and number the pictures 1-4.
 
+CD2T39
+Students look at the pictures. Play the recording, pausing after the first dialogue, and go through this as an example. Play the rest of the recording for students to listen and match. Students can compare answers in pairs before a whole-class check.
+
+TAPESCRIPT
+1
+Boy: Can I use your MP4 player?
+Girl: No, sorry James, you can't. I'm using it.
+Boy: OK.
+2
+Girl: Is that magazine good?
+Boy: Yes, it's great.
+Girl: Can I read it?
+Boy: Yes, of course you can! Here you are!
+3
+Man: Can I try this shirt on, please?
+Woman: Yes, of course you can.
+4
+Girl: Dad, can I watch my programme now?
+Man: No, sorry, you can't. I'm watching the football.
+
+Answers
+1С 2D ЗА 4B
 
 ## 40 Unit 11 - Exercise 8e
 
+CD2T40
+and 2.
+Students read through dialogues 1
+Stronger classes: They can predict the missing words and then listen and check only.
+Weaker classes: Play the recording while students listen. Then give students time to fill in the gaps.
+Check answers, playing and pausing the recording as necessary to clarify any problems.
+Play the recording again, pausing after each dialogue for long enough for students to repeat.
 
+TAPESCRIPT
+See dialogues 1 and 2 for Exercise 8d.
+1
+Boy: (Can) I use your MP4 player?
+Girl: No, sorry James, (you can't)? I'm using it.
+Boy: OK.
+2
+Girl: Is that magazine good?
+Boy: Yes, it's great.
+Girl: (Can) I read it?
+Boy: Yes, of course (you can)! Here you are!
+
+Answers
+Dialogue 1: Can; you can't
+Dialogue 2: Can; you can
 
 ## 41 Unit 11 - Exercise 9b
 
