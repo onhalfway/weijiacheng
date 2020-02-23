@@ -928,35 +928,187 @@ Dialogue 2: Can; you can
 
 ## 41 Unit 11 - Exercise 9b
 
+Culture in Mind
+Read the text on page 86 again and listen. Answer the questions.
+1 When did the Edinburgh Festival start?
+2 Is the Edinburgh Festival just one event, or is it many events?
+3 What happens at the Edinburgh Tattoo?
+4 How many people go to the Tattoo each year?
+5 Why is it important to organise yourself for a trip to the Edinburgh Festival:
 
+- Edinburgh /'edinbərə/ n. 爱丁堡（英国城市名）
+- tattoo 英 /təˈtuː/ 美 /tæˈtuː/ n. 文身 vt. 刺花纹于 vi. 刺花样
+
+`The Edinburgh Festival 爱丁堡艺术节`
+Every summer there is a big festival in Edinburgh, the capital city of Scotland. Do you love dancing? Laughing? Films? Theatre? Well, the Edinburgh Festival is the place for you. There's something for everyone!
+The 'Edinburgh International Festival' started in 1947. Artists and actors come from around the world, and there are many exhibitions and performances. People talk about 'The Edinburgh Festival', but there are really several festivals that all happen in August. There is a film festival, a theatre festival, a jazz festival, a book festival, and many others.
+A famous event is the Edinburgh Tattoo - army bands from Scotland and other countries play music inside Edinburgh Castle at night. There is dancing too, especially Scottish country dancing. Every year, over 200,000 people watch the Tattoo and listen to the famous Scottish bagpipes.
+People come from all over the world to see the events in Edinburgh. Hotels and guesthouses are always full, so if you want to see the festival, it's important to plan early. Do you want to go? Start planning now!
+
+- bagpipe /ˈbæɡpaɪp/ n. 风笛 vi. 奏风笛
+- guesthouse 英 /'ɡesthaʊs/ 美 /'gɛst,haʊs/ n. 宾馆；小型家庭旅馆
+
+CD2T41
+Students read through questions 1 to 5. Go through the first item as an example, if necessary. Give students time to read the text again and answer the questions. Check answers.
+
+Answers
+1 In 1947.
+2 It is many events.
+3 Army bands play music and there is Scottish country dancing.
+4 Over 200,000.
+5 Because hotels and guest houses are always full.
 
 ## 42 Unit 12 - Exercise 1b
 
+Read the text again and listen. Write T (true) or F (false). Correct the false statements.
+1 The men were in a small car.
+2 Buddy Holly's real name was J.P.Richardson.
+3 The plane was in the air for a long time.
+4 Four men died in the crash.
+5 Buddy Holly had a hit called American Pie.
 
+TAPESCRIPT
+See reading text on page 88 of the Student's Book.
+*The history of pop*
+This week: Buddy Holly and the Day the Music Died
+`The Day the Music Died`
+On 3 February 1959, three men were in a small plane in Iowa, USA, at one o'clock in the morning. They were Buddy Holly, Ritchie valens and J.P.Richardson (or 'The Big Bopper').
+The three men were singers and musicians. Buddy Holly was very successful, with his songs like Peggy Sue and That'll be the Day. Valens and the Big Bopper were stars too.
+It was a very cold night and there was snow and a lot of wind. The plane wasn't in the air for very long when there was a problem. The plane went down and crashed. The three musicians, and the pilot, were all dead.
+Buddy Holly was only 22, and Ritchie Valens was only 17. The Big Bopper was 28.
+In 1971, another singer, Don McLean, wrote a song about that terrible day. It was called American Pie and was about 'the day the music died'.
+
+- Iowa [ˈaɪəwə] n. 爱荷华州（美国州名）
+
+CD2T42
+Students quickly read through statements 1 to 5. Check any problems. Go through the first item as an example, if necessary.
+Stronger classes: They can complete the exercise and listen and check only.
+Weaker classes: Play the recording once for students to listen and read. Students complete the exercise. Play the recording again, pausing after each answer for students to check answers. Encourage students to correct the false answers.
+
+Answers
+1 F (They were in a small plane.)
+2 F (The Big Bopper's name was J.P.Richardson.)
+3 F (It wasn't in the air for very long.)
+4 T
+5 F (It was Don McLean.)
 
 ## 43 Unit 12 - Exercise 3a
 
-
+Pronunciation: was/wasn't and were/weren't
+CD2T43 Listen and repeat the sentences.
+1 He was only 22.
+2 They were in Iowa.
+3 It wasn't a warm night.
+4 They weren't in New York.
 
 ## 44 Unit 12 - Exercise 3b
 
-
+Pronunciation: was/wasn't and were/weren't
+CD2T44 Listen and repeat the sentences.
+1 'Was he only 22?' - 'Yes, he was.'.
+2 'Were they in New York?' - 'No, they weren't.'.
 
 ## 45 Unit 12 - Exercise 5
 
+Listen to Alan talking to his Gran about the Beatles. Check your answers to Exercise 5b
 
+CD2T45
+Play the recording for students to
+listen and check their answers to Exercise 5b. Play it a second time, pausing as necessary t o clarify any problems.
+
+TAPESCRIPT
+Alan: What kind of music do you like Gran?
+Gran: Well, my favourite group were the Beatles.
+Alan: Oh, right. Were they from London?
+Gran: No they weren't! They were from Liverpool.
+Oh, they were fantastic, just wonderful.
+Alan: How many of them were there - in the
+Beatles, I mean?
+Gran: There were four of them - John Lennon, Paul McCartney, George Harrison and Ringo Starr. They were very young - and I was very young too! John was my favourite, but they were all great. All the girls in my school were crazy about them!
+Alan: Right! Are their songs still on the radio?
+Gran: Yes, they are. That song Yesterday, for example - that's a really famous Beatles song, they play that on the radio a lot.
+Alan: Oh yeah, I know that one. There was a really good song on the radio last week, it was called Miss You - I think that was the Beatles too.
+Gran: No, Alan, I don't think so. Miss You was the Rolling Stones, not the Beatles.
+Alan: OK, if you say so, Gran. Anyway, when did the Beatles break up - when did they stop?
+Gran: 1970. John Lennon just said 'I want to stop', and they stopped.
+Alan: John Lennon - hmm. He died, I think.
+Gran: Yes, in 1980. December 1980. He wasn't very old - he was only 40. I remember the day he was shot - I was really sad.
+Alan: Yeah, sorry Gran. But tell me some more about the Beatles.
+Gran: Well,...
+
+Questions/Answers
+1 Where were the Beatles from? (Liverpool)
+2 How many men were there in the group? (Four)
+3 What were their names? (John, Paul, George and Ringo)
+
+Students read the questions. Elicit their responses, then play the recording again while students listen and check their answers.
+
+Questions
+1 The Beatles were Gran's favourite group
+2 You never hear Beatles songs on the radio now.
+3 Miss You was famous Beatles song.
+4 The Beatles were still together in 1969.
+5 John Lennon was 50 when he died.
+
+Answers
+1 T
+2 F (Some Beatles songs are on the radio a lot.)
+3 F (Miss You was a Rolling Stones song.)
+4 T
+5 F (He was 40.)
 
 ## 46 Unit 12 - Exercise 6a
 
+Listen and repeat.
 
+CD2T46
+Students quickly read the list of numbers. Explain that this list of numbers is written the way dates are said (refer students to the Look! box if necessary). Play the recording, pausing after each number for students to repeat.
+
+TAPESCRIPT
+1st (first) 2nd (second) 3rd (third) 4th (fourth) 5th (fifth) 6th (sixth) 7th (seventh) 8th ( eighth) 9th (ninth) 10th (tenth) 12th (twelfth) 13th (thirteenth) 20th (twentieth) 30th (thirtieth)
 
 ## 47 Unit 12 - Exercise 6b
 
+Listen and write the numbers.
 
+CD2T47
+Play the recording, pausing after the first item and going through this as an example. Play the rest of the recording for students to listen and write down the numbers they hear. Students can compare answers in pairs before a whole-class check. Play the recording again if necessary to clarify any problems.
+
+TAPESCRIPT/ANSWERS
+1 third 2 seventh 3 tenth 4 eleventh 5 nineteenth 6 twentieth 7 twenty-third 8 thirtieth
 
 ## 48 Unit 12 - Exercise 6d
 
+Listen to four conversations and tick (√) the dates you hear.
+1 a 5 December () b 6 December (√)
+2 a 13 June (√) b 30 June ()
+3 a 4 January (√) b 14 January ()
+4 a 21 April () b 23 April (√)
 
+CD2T48
+Students read through items 1 to 4. Play the recording, pausing after the first item and go through this as an example. Play the recording for students to listen and complete the exercise. Check answers, playing and pausing the recording as necessary to clarify any problems.
+
+TAPESCRIPT
+1
+Boy: When's your birthday, Jane?
+Girl: The sixth of December.
+Boy: The sixth of December?
+Girl: Yes, that's right.
+2
+Girl: When's Emma's birthday?
+Boy: Oh, urn, let me think. Erm, oh, yes. The thirteenth of June.
+Girl: The thirteenth of June? Really? That's the same day as my grandmother's.
+3
+Boy: Is there a concert in January?
+Girl: Yeah. It's on the fourth.
+Boy: Great. Erm, let me write it down. Fourth of January.
+4
+Girl: Bye, Peter. Have a good holiday in Paris. Boy: Oh, thanks.
+Girl: When are you coming back?
+Boy: Oh, the twenty-third of April.
+
+Answers
+lb 2a 3a 4b
 
 ## 49 Unit 12 - Exercise 7
 
