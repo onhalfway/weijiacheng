@@ -3,6 +3,7 @@
 - [The Little Mermaid](#the-little-mermaid)
   - [BBC The Little Mermaid](#bbc-the-little-mermaid)
     - [Audio Transcript](#audio-transcript)
+    - [Synopsis](#synopsis)
     - [Curriculum guidance](#curriculum-guidance)
     - [Background](#background)
     - [Reading / listening comprehension](#reading--listening-comprehension)
@@ -88,7 +89,8 @@ That night when everyone was asleep the Little Mermaid sat by the shore waiting 
 The Little Mermaid took the knife and ran to the prince’s bedroom. She looked at him as her slept beside his new wife. One blow with the knife, and then she would be free. How she longed to be once more with her father and her sisters under the sea! Shelooked at the sharp knife. She looked at the prince. She still loved him, so she went to the window... and threw the knife far out into the sea.
 
 In the morning the prince ordered his servants to search high and low but no sign of the Little Mermaid was ever found. The prince was very sad and would often sit on the beach late at night missing his little friend. And sometimes he would look at the bubbles on the water shining in the moonlight and almost think he saw her face.
-Synopsis
+
+### Synopsis
 
 Anne-Marie Duff reads an adaptation of 'The Little Mermaid' by Hans Christian Andersen.
 
