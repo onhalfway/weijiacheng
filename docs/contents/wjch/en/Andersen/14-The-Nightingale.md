@@ -120,14 +120,14 @@ Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This 
 
 ## Background
 
-First published in 1843, it is thought by many to be Andersen’s tribute to the opera singer Jenny Lind, with whom Andersen was in love.
-It was unrequited, with Jenny thinking of Andersen as a brother, and herself being in love with the composer Chopin.
+- First published in 1843, it is thought by many to be Andersen’s tribute to the opera singer Jenny Lind, with whom Andersen was in love.
+- It was unrequited, with Jenny thinking of Andersen as a brother, and herself being in love with the composer Chopin.
 
 ## Reading / listening comprehension
 
-Why do you think the Emperor had not heard the nightingale before?
-Where will it be more appropriate to hear a nightingale’s song – inside the palace, or in the forest? Why?
-In what ways does the clockwork nightingale compare to the real one? How is it different?
-Why do you think the Emperor over-uses the clockwork nightingale, so much that it breaks down?
-Why does the real nightingale return to the Emperor?
-How will the nightingale’s song help him to be a better Emperor?
+- Why do you think the Emperor had not heard the nightingale before?
+- Where will it be more appropriate to hear a nightingale’s song – inside the palace, or in the forest? Why?
+- In what ways does the clockwork nightingale compare to the real one? How is it different?
+- Why do you think the Emperor over-uses the clockwork nightingale, so much that it breaks down?
+- Why does the real nightingale return to the Emperor?
+- How will the nightingale’s song help him to be a better Emperor?
