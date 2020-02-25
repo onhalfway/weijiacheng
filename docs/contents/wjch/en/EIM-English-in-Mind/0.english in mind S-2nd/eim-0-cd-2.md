@@ -1216,20 +1216,55 @@ Host: And 2009 is ... absolutely correct. Jackson died on June the 25th 2009. We
 Woman: Oh, er, the man's name was Neil Armstrong. And I think it was 1979, so 'c'.
 Host: Well, Sarah, you're right about Neil Armstrong - but he didn't walk on the moon in 1979, it was on July the 20th 1969. So no points for that, I'm afraid. Don't worry. Let's look at the next question. You can get 40 points this time. This question is about the Olympic Games in Beijing, China. They started on August the 8th and ended on August the 24th. In which year? a. 2004? b. 2006? c. 2008?
 Woman: That's easy. It was in 2008.
-Host: That's absolutely correct. 40 points for you. The Beijing Olympic Games started on August the 8th and they ended on August the 24th 2008. And now Sarah -100 points on the all or nothing question. In Alabama, USA, in a famous incident, Rosa Parks did not give her seat to a white man. What year was that?
+Host: That's absolutely correct. 40 points for you. The Beijing Olympic Games started on August the 8th and they ended on August the 24th 2008. And now Sarah - 100 points on the all or nothing question. In Alabama, USA, in a famous incident, Rosa Parks did not give her seat to a white man. What year was that?
 Woman: Er, oh, I'm not sure! Urn ... was it... 1958?
 Host: Oh, I'm sorry, Sarah. It was in 1955, not 1958. Sorry about that, but you get a wonderful prize ...
+
+- Neil /ni:l/ n. 尼尔（男子名） Armstrong /'ɑːmstrɒŋ/ n. 阿姆斯特朗（美国宇航员，登月第一人）
 
 Answers
 2 a 3 e 4 b 5 d
 
 ## 55 Unit 13 - Exercise 9b
 
+Culture in Mind
+Read the article again and listen. Write T (true) or F (false). Correct teh false statements.
+1 Elizabeth was queen for fifty years. (T)
+2 Her father really wanted a son. ()
+3 Her father had six different wives.
+4 When Edward died. Elizabeth became queen. ()
+5 Everything was good in England in 1558. ()
+6 Elizabeth was intelligent and educated. ()
+7 England became strong when Elizabeth ()
+8 When she died, her son became king. ()
 
+- Elizabeth /ɪ'lɪzəbəθ/ n. 伊丽莎白（女子名）
+
+`The daughter of a lion`
+*Perhaps I am not a lion - but I am the daughter of a lion, and I have lion's heart.*
+These are the words of Queen Elizabeth Ⅰ (the first), daughter of King Henry Ⅷ (the eighth), and queen of England from fifteen-fifty-eight (1558) to sixteen-oh-three (1603).
+Elizabeth's father wanted a son very badly. He married six times, and he had a son. Edward, but Edward died in 1553. After that, Henry's other daughter, Mary, was queen for a few years, and then it was her sister's turn. Elizabeth Ⅰ, **aged** 25, became a great queen.
+In 1558, England was in a bad state. People were hungry, and France and Spain wanted to control England. Elizabeth had a good education and was very good at languages. This helped her when she talked to the **ambassadors** from other countries.
+She was a very clever woman. She made good decisions, and made England a great country. Her period as queen is called 'The Elizabeth Age'. It was a great time for **adventure** and for **literature** - Sir Francis Drake sailed around the world, and Shakespeare wrote many famous plays and became one of the great writers in history. Elizabeth never married. When she died in 1603, her cousin James Ⅵ of Scotland became king. The next Queen Elizabeth became queen in 1953 - 350 years later.
+
+- ambassador /æmˈbæsədər/ n. 大使；代表；使节
+
+CD2T55
+Students read through statements 1 to 8. You may want to pre-teach the irregular verbs died and became. Go through the first item as an example, if necessary. Students read the text again and complete the exercise. Check answers. Encourage them to correct the false answers.
+
+Answers
+1 F (She was Queen for 45 years.)
+2 T
+3 T
+4 F (She became Queen when Mary died.)
+5 F (England was in a bad state.)
+6 T
+7 T
+8 F (Her cousin became King.)
 
 ## 56 Unit 13 - Exercise 1b
 
-
+page 102, 97
 
 ## 57 Unit 13 - Exercise 3a
 
