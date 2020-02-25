@@ -64,6 +64,22 @@ Hans Christian Andersen Center
 
 - [The Complete Andersen](https://andersen.sdu.dk/vaerk/hersholt/index_e.html)
 - [BBC School Radio](www.bbc.co.uk/schoolradio)
+  - [See all episodes from Tales of Hans Christian Andersen](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-hans-christian-andersen/z6j2cqt)
+
+English KS2: Tales of Hans Christian Andersen
+
+BBC Teach > School Radio > English
+
+A collection of well-known fairy stories by Hans Christian Andersen, adapted for children aged 7 - 11 and read by Anne-Marie Duff, Sir Derek Jacobi, David Tennant and Penelope Wilton.
+
+Curriculum guidance
+
+Tales of Hans Christian Andersen can be used to target a range of Reading and Writing objectives from the KS2 National Curriculum programme of study for English across Y3 to Y6 in England, Wales and Northern Ireland and Second Level of the Curriculum for Excellence in Scotland. Specific objectives include increasing pupils’ familiarity with a range of texts ‘including fairy stories’ and ’traditional stories’.
+
+Pupils have the opportunity to listen to and read a selection of Andersen’s stories - especially adapted for the age group - and respond through a range of speaking and writing activities. Full details of curriculum links and follow up activities are included in the Teachers’ Notes.
+
+Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This means that careful selection of texts is required to ensure age-appropriateness. Please see the teachers' notes below for full synopses and suggestions for use in the classroom.
+
   - [Tales of Hans Christian Andersen](https://www.bbc.co.uk/search?q=Tales+of+Hans+Christian+Andersen)
   - [A third party tool for accessing BBC iPlayer content](https://www.squarepenguin.co.uk)
   - [Apowersoft Free Online Audio Recorder](https://www.apowersoft.com/free-audio-recorder-online)

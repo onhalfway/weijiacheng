@@ -6,6 +6,20 @@
 
 翻译：小魏娜妈
 
+- [丑小鸭 The Ugly Duckling](#%e4%b8%91%e5%b0%8f%e9%b8%ad-the-ugly-duckling)
+  - [声明](#%e5%a3%b0%e6%98%8e)
+  - [Plotline 主要情节](#plotline-%e4%b8%bb%e8%a6%81%e6%83%85%e8%8a%82)
+  - [Plot](#plot)
+  - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
+  - [拓展阅读：安徒生童话丑小鸭的道理](#%e6%8b%93%e5%b1%95%e9%98%85%e8%af%bb%e5%ae%89%e5%be%92%e7%94%9f%e7%ab%a5%e8%af%9d%e4%b8%91%e5%b0%8f%e9%b8%ad%e7%9a%84%e9%81%93%e7%90%86)
+  - [词汇详解](#%e8%af%8d%e6%b1%87%e8%af%a6%e8%a7%a3)
+  - [BBC The Ugly Duckling](#bbc-the-ugly-duckling)
+    - [Audio Transcript](#audio-transcript)
+    - [Synopsis](#synopsis)
+    - [Curriculum guidance](#curriculum-guidance)
+    - [Background](#background)
+    - [Reading / listening comprehension](#reading--listening-comprehension)
+
 ---
 
 ## 声明
@@ -446,3 +460,145 @@ PS：Part of new glossary as follows:
 100. overhung悬垂;悬挂;突出于某物之上；overhang的过去分词和过去式；英[ˌəʊvəˈhʌŋ]
 101. swept over掠过；席卷
 102. rushes and reeds灯芯草和芦苇
+
+## BBC The Ugly Duckling
+
+### Audio Transcript
+
+Summer had arrived in the countryside. The fields were green and the birds sang from morning until night. At the old manor house, the ducks spent their days dabbling about in the moat hoping that one of the children might arrive with some breadcrumbs or sitting by the water’s edge preening their feathers in the warm sunshine.
+
+In a quiet place, hidden by long grass and leaves, a mother duck was welcoming her new babies into the world. One by one her eggs were hatching. She listened for the tap tap tap of little beaks against eggshell, then crack crack crack as the ducklings’ yellow heads peeped out, then ‘cheep’, ‘cheep’, ‘cheep’ as the youngsters looked around at their big new world. ‘You’re the prettiest ducklings I’ve ever seen,’ the mother said.
+
+There was one egg, however, that was bigger than the others and took longer to hatch. The mother duck was getting bored sitting on it to keep it warm and the ducklings were getting bored too because they wanted to explore and take their first swim. ‘I’ll just wait a little longer,’ sighed their mother. ‘It must hatch soon!’
+
+And it did. First came the tap tap tap, then the crack crack crack, then the ‘cheep’ ‘cheep’ ‘cheep’. Proudly, the mother duck looked down at her new baby expecting to see another pretty yellow head. But, oh dear! This duckling was very big and, instead of pretty yellow feathers, there were boring grey ones. ‘This one obviously takes after his father,’ she thought. ‘He’s mine and I’ll look after him, but what will the other birds say?’
+
+She didn’t have long to find out. The next day the mother duck waddled down to the moat with her family in a single file behind her. With a splash, she jumped into the water, and it felt wonderful having been on her nest for so long. The ducklings followed, the last to hatch making a bigger splash than his brothers and sisters, but the mother was pleased to see that he swam just as well. At first the water washed over her babies’ heads, but they soon got the hang of it and bobbed happily along following their mother. They swam once round the entire moat before she led them out of the water and up the grassy bank towards the manor house.
+
+Soon they reached the farmyard where, as well as the other ducks, there were noisy chickens, bossy geese and plump posh turkeys. The chickens scratched around in the mud and ignored the new arrivals. The geese honked a greeting and the turkey puffed out his feathers to show that he thought he was better than everybody else. All the birds had just been fed and as always arguments had broken out over the best food. ‘Stay close to me, my darlings,’ said the mother duck. ‘Be nice and polite to thegrown ups and keep an eye out for the farmyard cat!’
+
+‘Such pretty ducklings,’ said the elderly brown duck, ‘apart from the one at the back. He’s far too big and very ugly!’
+
+‘Can’t you put him back in his egg?’ sneered another duck with a shiny green head.
+
+‘We don’t want ugly things like you round here!’
+
+‘What horrible grey feathers!’ quacked another duck. ‘We won’t put up with him in our farmyard,’ and with that he flapped over to the poor duckling and pecked him hard on the neck.
+
+‘Leave him alone,’ said the mother crossly. ‘He’s not doing any harm. And I’m sure he’ll grow into his looks.’
+
+But the other birds didn’t leave the ugly duckling alone. They laughed at him and called him names and sometimes even trod on him. Then they started to chase him and peck at him. His brothers and sisters joined in with the teasing, saying ‘You’re so ugly, we wish the cat would get you!’ which was terribly unkind and made him cry.
+
+Even the farmer’s daughter who fed the birds was heard to say to her father, ‘Have you seen the new brood of ducklings? There’s a clumsy grey one!’ and the ugly duckling felt sure that, when she kicked him, it wasn’t an accident.
+
+After a week of name-calling, the duckling could stand it no more. He was all alone in the world, so he crept away from the farmyard and into a hedge to spend a lonely, sad night.
+
+The little birds in the bushes flew away frightened because they hadn’t ever seen such a strange-looking creature. ‘I wish I had never hatched,’ spluttered the duckling as tears slid down his beak.
+
+The next morning he awoke with a jump. Gunshots fi lled the air. Huntsmen were out in the countryside shooting ducks for dinner and they had big dogs with them that growled as they bounded through the fields.
+
+The duckling crouched low and stayed perfectly still, hoping not to be seen. Scared for his life, he closed his eyes and listened to the bangs of the guns, to the shouts of the men and the barks of the dogs as they came closer and closer.
+
+The duckling turned his head to hide it under his wing and found himself staring into the face of a huge black dog. With gleaming eyes, a long wet tongue and a jaw full of razor-sharp teeth, the dog looked at the duckling. It came closer…and closer with a fierce growl and the terrified bird felt the hound’s meaty breath ruffle his feathers.
+
+Then….. ‘Yuk! What an ugly duck! I don’t think my master would find you very tasty.’
+
+Laughing cruelly, the dog turned tail and trotted off. ‘I’m not even worth eating,’ sighed the ugly duckling, “but I can’t stay round here, it’s too dangerous.’
+
+After hours of wandering, the ugly duckling looked for somewhere safe to spend the night. He came upon a little cottage that was so ancient and rickety, with a door hanging off its hinges and a front path overgrown with brambles, that at first he thought nobody could live there.
+
+In fact it was home to an old woman, who couldn’t see very well, and her two companions; a purring cat called Sonny and a hen which she called Chicky Low Legs.
+
+‘Mmm,’ said the old woman, ‘now I can have duck eggs as well as chicken eggs! You can live here with us, though I have to say you’re not the most handsome of birds, are you?’
+
+‘You mean he’s ugly!’ grinned Sonny the cat to the hen. ‘Can you purr?’ he asked the duckling. ‘No!’
+
+‘Then you’d better keep your mouth shut!’ and he curled up in his basket and showed off his own purring skills.
+
+‘Can you lay eggs?’ clucked Chicky Low Legs. ‘No!’ ‘Then you’re not much use round here, are you?’ she said spitefully. ‘What can you do?’
+
+‘Well, I can fl oat on water,’ said the duckling, ‘and it’s a fantastic feeling to duck your head under and down to the bottom.’
+
+‘You’re quite mad!’ replied the hen. ‘Our mistress is the wisest person in the whole world and I’m sure floating on water or ducking under it is the last thing she would want to do!’
+
+‘I don’t think you understand me,’ said the duckling. Sonny the cat opened his eyes and said: ‘Well, if we don’t understand you, who would? You’re not welcome here!’
+
+‘Then I shall go out into the world again,’ said the duckling. And that is what he did.
+
+The next morning, before anyone was awake, he slipped out of the old cottage.
+
+He spent his days on the water, gliding across the surface or ducking his long neck down to the bottom. This made him happy but he still had no friends because all the other animals and birds said he was ugly.
+
+Summer passed into autumn and the leaves turned golden. The duckling wondered what the birds were doing back in the farmyard and whether they ever thought about coming to find him.
+
+‘Sadly,’ he thought, ‘they won’t have noticed I’m gone. Not even my brothers and sisters.’
+
+It was getting colder and some of the birds were preparing to fl y away to warmer countries where they could spend the winter. One evening, as a beautiful crimson sunset made the countryside glow red, the duckling saw a flock of the loveliest birds he had ever seen. Although they too had long necks like him, they were an exquisite white, like the purest snowfall, not his grey, and they moved with such grace and elegance.
+
+‘What are those birds?’ he asked a sparrow.
+
+‘Please don’t look at me,’ it chirped, ‘but I can tell you they are called Swans.’
+
+‘Oh I wish I could look like that!’ thought the duckling.
+
+‘I bet you do,’ laughed the sparrow and off it hopped.
+
+As the duckling gazed at the splendid white swans, the birds stretched their necks high, cried out to each other, and lifted into the air on strong, powerful wings.
+
+The duckling stared after them, marvelling at the wonderful sight they made as they soared beneath the clouds in a vast V-shape across the sky. ‘I wonder where they’re going,’ thought the duckling. ‘I’d like to go wherever it is.’
+
+The winter was cold, so very cold. The duckling shivered and paddled in the water to stop itself freezing. There was little to eat and so he suffered and was miserable through the days of heavy frost and sleety showers, trying to keep warm in the reedbeds of a bleak and unfriendly marsh.
+
+When the spring came and the sun warmed his feathers, he flapped his wings and thought to himself that they somehow felt stronger than before. Trees were in bloom now and flowers had peered through the earth and, although he was alone, theduckling enjoyed his first taste of spring.
+
+One day he was gliding down a canal when straight ahead of him he caught sight of the beautiful white birds he had seen all those months ago and which he now knew were called Swans.
+
+‘I must talk to them,’ he thought. ‘They must be royal birds, being so proud and lovely. Even though they will call me ugly and possibly peck me and hurt me, I must tell them how beautiful I think they are.’
+
+So the duckling swam towards the swans and bowed his head to them, waiting for the insults. As he dipped his head towards the water he caught sight of his own reflection. What looked back at him was not an ugly, clumsy grey bird but a fine, white swan.
+
+He was a swan! He was a swan! The others gathered around him to admire his fine feathers and striking yellow and black beak. ‘How handsome you are!’ they agreed. Some children were walking by the canal. ‘There’s a new one!’ they shouted happily.‘Mum, Dad, look. There’s a new swan and he’s the prettiest one of all. We love him the best!’
+
+The ugly duckling, that was now a swan, thought about his life so far. He had been teased and treated cruelly by everyone and everything. But now, as the sun shone down on his soft, snowy feathers, he was the happiest bird in the world.
+
+### Synopsis
+
+Penelope Wilton reads an adaptation of 'The Ugly Duckling' by Hans Christian Andersen.
+
+One summer, a mother duck watches her eggs hatch. The ducklings are beautiful, but the last egg is bigger and takes longer to hatch. When it does, the last duckling is bigger than the others and is a dull grey rather than a pretty yellow. The next day the mother duck takes the ducklings to the farmyard. The other birds are rude to the ugly duckling and peck at him. After a while, his brothers and sisters and even the farmer’s daughter are cruel to him.
+
+The Ugly Duckling wanders away and is almost caught by a hunter’s dog, but the dog thinks he is too ugly for his master to want to eat. The Ugly Duckling shelters for a while at an old woman’s house, but her cat and hen insult him and make him feel unwelcome. He wanders further, enjoying swimming, but making no friends.
+
+In the autumn, he watches the swans migrating and wishes he could be like them.
+
+He is cold and hungry over winter, but when spring comes he feels stronger. Seeing the swans return, he resolves to talk to them even though he fears they will insult or attack him. But they welcome him because he has grown into a swan, just like them. In fact, he is the most handsome swan of all.
+
+Download the transcript of The Ugly Duckling (pdf)
+
+### Curriculum guidance
+
+Tales of Hans Christian Andersen can be used to target a range of Reading and Writing objectives from the KS2 National Curriculum programme of study for English across Y3 to Y6 in England, Wales and Northern Ireland and Second Level of the Curriculum for Excellence in Scotland. Specific objectives include increasing pupils’ familiarity with a range of texts ‘including fairy stories’ and ’traditional stories’.
+
+Pupils have the opportunity to listen to and read a selection of Andersen’s stories - especially adapted for the age group - and respond through a range of speaking and writing activities. Full details of curriculum links and follow up activities are included in the Teachers’ Notes.
+
+Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This means that careful selection of texts is required to ensure age-appropriateness. Please see the teachers' notes below for full synopses and suggestions for use in the classroom.
+
+Download the Teachers' Notes for Tales of Hans Christian Andersen (pdf)
+
+### Background
+
+The Ugly Duckling was published in 1843 in a collection that also included The Nightingale and is one of Andersen’s best-known works.
+It is seen by many as highly autobiographical, as Andersen was tall and considered himself ‘ugly’ after being cruelly teased as a child.
+It has been adapted several times for films and musicals and is the subject of the well-known song ‘The Ugly Duckling’ by Frank Loesser, sung by Danny Kaye in the 1953 film Hans Christian Andersen.
+
+### Reading / listening comprehension
+
+Questions to help pupils understand, interpret and respond to the text:
+
+- Why do you think it might be that a swan’s egg was being hatched by a mother duck?
+- How do you think the duckling felt on his first trip to the farmyard and why?
+- Why were the other farmyard birds so rude to the duckling?
+- Why do his brothers and sisters start being cruel to him after the trip to the farmyard, when they had not been before?
+- How could the story have been different had the duckling’s brothers and sisters stood up for him and prevented him from leaving the farmyard?
+- Why is the bird’s appearance such an important influence on the way other creatures react to him? What does this tell us about the other creatures?
+- If someone at your school was treated like this, what would we call it? What should we do about it?

@@ -14,6 +14,21 @@
 
 ---
 
+- [The Emperor’s New Clothes](#the-emperors-new-clothes)
+  - [声明](#%e5%a3%b0%e6%98%8e)
+  - [Plot line 情节线索](#plot-line-%e6%83%85%e8%8a%82%e7%ba%bf%e7%b4%a2)
+  - [Plot](#plot)
+  - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
+  - [Version 2 English](#version-2-english)
+  - [Version 2 Chinese](#version-2-chinese)
+  - [Version 3 from Internet](#version-3-from-internet)
+  - [BBC The Emperor's New Clothes](#bbc-the-emperors-new-clothes)
+    - [Audio Transcript](#audio-transcript)
+    - [Synopsis](#synopsis)
+    - [Curriculum guidance](#curriculum-guidance)
+    - [Background](#background)
+    - [Reading / listening comprehension](#reading--listening-comprehension)
+
 ## Plot line 情节线索
 
 - Beginning
@@ -373,3 +388,133 @@ So the emperor went in procession under the rich canopy, and every one in the st
 “Just hear what that innocent says!” said the father and one whispered to another what the child had said. “ There is a little child that says he has nothing on.”
 
 “But he has nothing on!” said the whole people at length. And the emperor shivered, for it seemed to him that they were right; but he thought within himself. “I must go through with the procession.” And so he carried himself still more proudly, and the chamberlains held on tighter than ever, and carried the train which did not exist at all.
+
+## BBC The Emperor's New Clothes
+
+### Audio Transcript
+
+A long time ago there was an Emperor who loved new clothes. He spent his whole life searching for new things to wear. He didn’t do any of the things which Emperors are supposed to do. He never visited his army, never made a speech, never opened a newschool or hospital... no, the only time his people saw him was when he walked through the city showing off his newest clothes. People would see him and whisper, ‘Look at his wonderful hat.’ Or ‘Those silk trousers! What beautiful colours!’
+
+One day two strangers arrived in the city. One was a very tall thin man with a long pointed nose. The other, small and round, had not a single hair on his head. The strange pair drove their cart straight to the Emperor’s palace, and asked to see the Emperor.
+
+‘Impossible,’ said the palace gatekeeper. ‘A box of new shoes has just arrived from China and His Majesty will be spending the whole day trying them on. He’ll have no time to see people.’
+
+‘Fine,’ said the tall stranger. ‘Tell your Emperor that he’s just missed the chance to buy the most wonderful, magical clothes the world has ever seen. Goodbye.’
+
+‘Wait,’ said the gatekeeper. ‘Magical, you say? Perhaps His Majesty might spare a moment for you. Wait there.’
+
+Now the Emperor would never miss a chance to buy unusual clothes, so before long the two strangers were standing in front of the great man and his ministers, all eager to see what the two had brought.
+
+‘Your Majesty,’ said the small round stranger, ‘my partner and I have invented a cloth which is not only very beautiful but is also magic. We wondered if Your Majesty might be interested in such a cloth.’
+
+‘Magic?’ said the Emperor pretending not to be very interested. ‘What magic?’ ‘Of course Your Majesty will be able to see our magical cloth but anyone who is stupid or not fi t for his job will see nothing. To stupid people our cloth will be invisible.’
+
+The Emperor sat up very straight. ‘This is brilliant,’ he thought. ‘Here’s a chance to find out which of my people are fi t for their jobs and which of them are fools.’
+
+‘Alright,’ he said. ’Make me some of your magic cloth. Make it for me now.’ ‘It’s not cheap’, said the tall stranger. ‘It’ll cost...
+
+‘It doesn’t matter what it costs,’ said the Emperor. ‘Whatever you ask I’ll pay.’ The strangers were given two bags of gold coins and a room where they could set up their huge wooden looms. Then they locked the door...and started to work. The Emperor listened at the door and smiled excitedly.
+
+‘Good,’ he said. ‘They’ve made a start.’ But... what the Emperor didn’t know was that these two strangers were cheats who had come to trick him. They were just pretending to work. They kept their looms moving but no silk or thread was used and not a stitch of cloth was made. The strangers looked at their empty looms and their two bags of gold and laughed.
+
+‘Enjoying their work,’ said the Emperor. ‘That’s good sign.’ For two days and two nights the Emperor listened to the strangers working and on the third day he sent his Chief Minister to see how they were getting on. The Chief Minister knocked politely on the door.
+
+‘Excuse me,’ he said. ‘May I come in?’ The door opened. ‘Of course,’ said the tall stranger. ‘Come and see the magic cloth. I think you will be quite surprised.’
+
+Well the Chief Minister was surprised. Actually the Chief Minister was horrified because what he saw hanging on the looms was...nothing. He put on his glasses, put his face right up to the loom but he could not see a single thread of cloth. ‘Oh no,’ hethought. ‘This means that I’m a fool and that I’m not fi t to do my job. No-one must know. I must pretend that I see the cloth.’‘So what do you think?’ said the short round stranger.
+
+‘It’s um...beautiful,’ said the Chief Minister. ‘Like the colours?’ said the tall thin stranger. ‘The colours? Oh yes,’ said the Chief Minister. ‘Magnificent. The Emperor is going to just love those colours.’
+
+‘Then tell him he’s going to need to pay us more money,’ said the short round stranger. ‘Magic thread is very expensive. Tell him we need two more bags of gold if we are to make enough cloth for a suit of clothes.’
+
+‘Certainly,’ said the Chief Minister and he scurried back to the Emperor. The Emperor was very excited when he heard about the magnificent cloth and he told a servant to take the strangers two more bags of gold.
+
+‘Put the money on the table,’ said the tall stranger pretending to work on his loom. The servant did as he was told and then took at look at the magic cloth and saw... nothing.
+
+‘Lovely, isn’t it,’ said the short round stranger without looking up from his work. Now the servant didn’t want the whole world to think he was a fool and unfit for his job so of course he said, ‘Oh yes. The most beautiful cloth I have ever seen.’
+
+As he left the room and walked back to the Emperor’s chamber the servant heard the chink of gold coins and the unmistakable sound of laughter.
+
+News of the beautiful magic cloth quickly spread. The Emperor could wait no longer and demanded to see the cloth for himself. So, with all his ministers and his servants following behind, the Emperor went to the strangers’ room and knocked on the door.
+
+The Emperor looked at the looms, stared at the cloth and saw...nothing. He rubbed his eyes and looked again. Still nothing. His heart was beating. The colour had drained from his face. The cloth was invisible.
+
+‘This is a disaster,’ he thought. ‘Everyone will know I’m a fool and unfit to be Emperor. I’m finished. I’ll have to resign, give up my Empire, admit I’m not up to the job’.
+
+And then he thought. ‘No! I’m not going to allow this to happen. I am the Emperor and I’m going to carry on being the Emperor.’And so he said...
+
+‘Magnificent! This is the most beautiful cloth I have ever seen.’ And of course his ministers and servants all agreed. None of them could really see any cloth either but nobody wanted to be thought a fool so they all said, ‘Magnificent...beautiful...quite, quite brilliant!’
+
+And then someone started to clap. Others joined in...and soon the whole court was cheering the two strangers who smiled and bowed very low like actors on a stage.
+
+When the cheering died down the Emperor asked the two strangers if they could make him a suit of clothes from the magic cloth. The tall stranger stroked his long chin and said, ‘Your Majesty, a suit of clothes made from this fine cloth will cost you two more bags of gold.’
+
+‘Of course. Whatever. Pay them!’ ordered the Emperor. So the money was paid and the two cheats got to work.
+
+Now different sounds came from the strangers’ room. Peering through the keyhole the Emperor could see scissors cutting invisible cloth and needles stitching with invisible thread. He longed to see his beautiful new clothes but the Emperor knew now that they would always remain invisible to him because he was a fool.
+
+The cheating strangers worked through the night and in the morning they told the Emperor that his new clothes were ready. The Emperor was very excited and he announced that he would wear his new clothes that very morning and walk through his city so that his people could admire his latest outfit.
+
+So the Emperor got undressed and the strangers helped him on with his new clothes. First they squeezed him into a pair of invisible trousers. ‘Trousers not too tight, Your Majesty?’ they asked.
+
+‘No,’ said the Emperor. ‘Very comfortable. Very comfortable indeed actually.’ The strangers fastened invisible buttons and buckles, eased the Emperor into an invisible shirt and coat and placed an invisible hat on his head.
+
+Finally, as they tied up the invisible laces on his invisible shoes, they said, ‘So how do the clothes feel, Your Majesty?’
+
+‘Very light,’ said the Emperor. ‘It almost feels like I’m not wearing anything at all. Now fetch me a pair of gloves. I don’t want to get cold hands today.’ ‘Certainly,’ said the small round stranger. ‘What colour gloves shall I fetch?’
+
+‘I don’t know,’ said the Emperor. ‘What do you think would be the best colour to go with this magnificent outfit?’ ‘Purple, I think, Your Majesty,’ said the tall thin stranger. ‘Yes. That’s what I think too,’ said the Emperor. ‘Fetch me some purple gloves andthen I’ll be ready.’
+
+The city streets were full. A great crowd had come to see the Emperor’s new clothes. Everyone was excited, but they were also a bit scared. Everyone was thinking the same thought. ‘What if I can’t see the clothes? What if it turns out that I’m a fool?’
+
+The Emperor led the procession out of the Palace and into the streets. He walked very slowly with his head in the air and a proud smile on his face and, although the people could see no clothes, they all clapped and praised the wonderful colours and the beautiful design. ‘Oh dear,’ thought the Emperor. ‘All my people can see my clothes. I must be the only fool in the whole city.’
+
+And then a little boy pointed at the Emperor and said, ‘He’s got nothing on!’ Everything went quiet. The people looked at the little boy. The people looked at the Emperor.
+
+‘Don’t be silly,’ said the boy’s father. ‘I’m sorry, Your Majesty. My son doesn’t know what he’s saying. He’s just a stupid boy. Your clothes are beautiful.’ ‘But he hasn’t got any clothes,’ said the little boy. ‘He’s all bare.’
+
+‘No he’s not,’ said the boy’s father. ‘Yes he is,’ said the little boy. ‘He’s all bare. I can see...’ ‘Quiet!’ said the boy’s father.And now people started whispering amongst themselves.
+
+‘The boy’s right,’ they said. ‘The Emperor’s got nothing on.’ The whispering spread and when people started pointing and laughing. ‘He’s all bare. He’s got nothing on.’
+
+‘Poor fools,’ thought the Emperor. ‘Of course they can’t see my clothes. Just proves it. Fools every single one of them.’
+
+And slowly, proudly he walked on through the city streets dressed in nothing but a pair of purple gloves.
+
+### Synopsis
+
+Sir Derek Jacobi reads an adaptation of 'The Emperor's new clothes' by Hans Christian Andersen.
+
+A foolish emperor doesn't spend any time doing the things an emperor ought to do - he is only interested in trying on new clothes and parading them in front of his people.
+
+One day two strangers arrive in town, offering the Emperor the chance to try some magical cloth which will be invisible to anyone who is a fool or not fit for their job. The Emperor orders some cloth to be prepared, paying two bags of gold for it. The Chief Minister and a servant cannot see the cloth, but neither wants to admit to this lest they be regarded as no good at their jobs. The Emperor thinks the same thing, and orders a suit of clothes to be made from the magical cloth, at the cost of more gold.
+
+The cheating strangers help the Emperor into the imaginary clothes and he goes on a procession through the town. None of the townspeople wants to admit that they can’t see the clothes until a small boy pipes up that the Emperor has nothing on at all. This causes the rest of the crowd to start whispering and laughing as they realise the boy is right. The Emperor just carries on with his parade – thinking the people must all be fools.
+
+Download the transcript of The Emperor's New Clothes (pdf)
+
+### Curriculum guidance
+
+Tales of Hans Christian Andersen can be used to target a range of Reading and Writing objectives from the KS2 National Curriculum programme of study for English across Y3 to Y6 in England, Wales and Northern Ireland and Second Level of the Curriculum for Excellence in Scotland. Specific objectives include increasing pupils’ familiarity with a range of texts ‘including fairy stories’ and ’traditional stories’.
+
+Pupils have the opportunity to listen to and read a selection of Andersen’s stories - especially adapted for the age group - and respond through a range of speaking and writing activities. Full details of curriculum links and follow up activities are included in the Teachers’ Notes.
+
+Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This means that careful selection of texts is required to ensure age-appropriateness. Please see the teachers' notes below for full synopses and suggestions for use in the classroom.
+
+Download the Teachers' Notes for Tales of Hans Christian Andersen (pdf)
+
+### Background
+
+- First published in 1837, alongside The Little Mermaid, as part of Hans Christian Andersen’s third volume of Fairy Tales, Told for Children.
+- It was based on an earlier Spanish tale dating from medieval times.
+
+### Reading / listening comprehension
+
+- Describe the different reasons why rst the minister, then the servant, then the Emperor and nally the townspeople pretend that they can see the Emperor’s clothes.
+- Why does the small boy’s father initially say that his son is wrong?
+- Why do you think it takes a child to point out what all the adults can see?
+- How do you think you would have acted if you had been...
+  - ...the minister?
+  - ...the Emperor?
+  - ...the small boy’s father?
+- Describe the two swindlers. What is their appearance? Who do you think the tall one might represent - and why?

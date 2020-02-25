@@ -1,7 +1,7 @@
 # The Nightingale
 
 - [The Nightingale](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-the-nightingale-hans-christian-andersen/zvn4nrd)
-- [Download ](http://teach.files.bbci.co.uk/schoolradio/the_nightingale.pdf)
+- [Download The Nightingale transcript](http://teach.files.bbci.co.uk/schoolradio/the_nightingale.pdf)
 
 - [The Nightingale](#the-nightingale)
   - [Audio Transcript](#audio-transcript)

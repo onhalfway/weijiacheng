@@ -5,6 +5,17 @@
 - tin /tɪn/ n. 锡；罐头，罐；马口铁
 - soldier /ˈsoʊldʒər/ n. 军人；[昆] 兵蚁；懒汉；一片烤面包 vi. 当兵；磨洋工；坚持干；假称害病
 
+- [The Steadfast Tin Soldier](#the-steadfast-tin-soldier)
+  - [Book Description](#book-description)
+  - [Plot line](#plot-line)
+  - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
+  - [BBC The Brave Tin Soldier](#bbc-the-brave-tin-soldier)
+    - [Audio Transcript](#audio-transcript)
+    - [Synopsis](#synopsis)
+    - [Curriculum guidance](#curriculum-guidance)
+    - [Background](#background)
+    - [Reading / listening comprehension](#reading--listening-comprehension)
+
 ## Book Description
 
 Award-winning author Tor Seidler and the incomparable illustrator Fred Marcellino retell Hans Christian Anderson’s classic Christmas tale about a tin solder who is separated from the paper ballerina he loves in this stunning picture book that’s perfect for gift-giving.
@@ -269,3 +280,104 @@ The tin soldier stood all **aglow** and felt the terrible heat--but whether it w
 - coal 英 [kəʊl] 美 [koʊl] n. 煤；（尤指燃烧着的）煤块；木炭 v. 供煤；采煤，提炼煤；把……烧成炭；加煤
 
 锡兵站在那里，火焰燎到他，热得厉害，但是他说不出这是由于真实的火还是由于爱情的火。接着他看到他军服上鲜艳的颜色退了，但这是在旅途中被洗得退去的呢，还是由于伤心而退去的呢，没有人能说出来。他看着那位小姐，那位小姐看着他。他感到自己在熔化了，但是他肩上扛着枪，保持着坚定。忽然房门打开，风把那小舞女吹起来，她像个空气仙子一样飘飘然，正好飞到火炉里锡兵的身边，马上着火，烧没了。锡兵熔化成一块锡。第二天早晨当女仆来出炉灰的时候，她发现他化成了一颗小小的锡的心。至于那位小舞女，那就什么也没有剩下，只留下了那朵用锡纸做的玫瑰花，烧黑了，像一块炭。
+
+## BBC The Brave Tin Soldier
+
+-[BBC The Brave Tin Soldier](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-the-brave-tin-soldier-hans-christian-andersen/zhskf4j)
+
+### Audio Transcript
+
+Once there were twenty-five tin soldiers. They were all made out of the same tin kitchen spoon and were all alike – except for one. This soldier had only one leg. He was the last to be moulded and there had not been enough tin to give him two. But he stood just as straight and proud as his brothers, in his smart red and blue uniform, his musket over one shoulder.
+
+The soldiers were a birthday present for a little boy. The boy was very pleased with his soldiers and he took them out of their box and stood them up on a table. The table was already covered with toys. The prettiest toy of all was a paper castle. It had little windows so you could see into the rooms and in front of it were tiny trees around a lake of glass. On its surface were little swans made out of wax. In the castle’s open doorway stood a girl.
+
+She was the prettiest girl the soldier had ever seen. She was made of paper like the castle, but she wore a skirt of fi nest muslin and had a scarf of blue ribbon, which was fastened by a glittering tinsel rose. Her arms were outstretched and she stood on one leg, like a dancer. Her other leg was raised so high behind her that the soldier couldn’t see it. He thought she had only one leg like him.
+
+‘Why, that girl has only one leg like me,’ he thought. ‘What a perfect wife she would make me. But,’ he sighed sadly, ‘she is too grand for me. She lives in a castle and my home is a box which I share with twenty-four soldiers. I can’t ask such a pretty creature to live in a box! But I could try and get to know her. What harm would there be in that?’
+
+So the soldier lay down behind a jack in a box, which was where he could see her best, and gazed and gazed at the little dancer.That evening, when all the other tin soldiers had been put back in their box and everyone had gone to bed, the toys began to play. What a din they made. The tin soldiers rattled in their box. The nutcrackers turned somersaults. The slate pencil squeaked on the slate. They made such a noise that the canary woke up and joined in too. The only two that were quite still were the soldier and the dancer. She stood on one toe and he on his one leg – and not once did he take his eyes off her. The clock struck twelve. Suddenly the lid fl ew off the jack in a box, and out popped a goblin. He looked at the soldier who was still gazing at the dancer. ‘Tin soldier,’ he screeched. ‘Don’t wish for what does not belong to you.’
+
+The tin soldier pretended he hadn’t heard. ‘Just you wait till morning. And don’t say I haven’t warned you,’ the goblin said. In the morning the children came in to play and the little boy put the tin soldier on the window sill. But all of a sudden something - maybe it was a draught or the little goblin - made the window swing open. And the poor soldier was knocked right off the sill and out of the window. Down, down the soldier fell, spinning like a top all three storeys to the ground. It was a dreadful fall. His leg pointed upwards, his head was down and he came to a halt at last with his bayonet stuck in between the paving stones.
+
+The boy and a servant went outside to try and find him. They looked for him everywhere. They almost stood on top of him but even then they didn’t see him. The soldier was so quiet and still. He was too proud to call for help. Soldiers in uniform don’t call for help, he thought. While he was lying there it began to rain. The drops splashed on the soldier. Faster and faster the rain fell. It ran down the pavement and splashed into the gutter. Soon the poor soldier was drenched through.
+
+When the rain stopped at last two boys came out to play on the pavement. They saw the tin soldier standing there, his bayonet still stuck in the ground. ‘Look! A tin soldier,’ one of them said. ‘Let’s put him out to sea.’
+
+They made him a boat of newspaper, put the soldier aboard and set the boat down in the gutter, which by now was full of rainwater. Away the boat sped, floating down the gutter. The boys ran alongside, clapping their hands. But oh, how rough the water was in that gutter. Up and down the boat rocked and big waves picked the boat up and whirled it about until the poor soldier felt quite giddy. But he stood as steadfast as ever, looking straight ahead, his musket over his shoulder.
+
+Suddenly the boat tipped into a tunnel that ran under the pavement. It was dark in that tunnel, as dark as the box at home. ‘Where am I?’ the soldier wondered. ‘Where am I going? This must be all the fault of that goblin. Ah, if only that pretty girl was here in the boat with me, I wouldn’t care how dark it was.’
+
+Just then a water rat rushed out of its home in the tunnel. ‘Where do you think you’re going,’ it growled. ‘This is my tunnel. Show me your passport. You can’t travel through this tunnel without a passport.’
+
+The soldier didn’t answer. He gripped his musket even more tightly and the boat hurtled on. The rat swam after it, grinding its teeth angrily. ‘Here. Stop him. Stop him,’ the rat yelled to the sticks and straws floating on the water. ‘He hasn’t shown me his passport. He hasn’t paid his toll.’
+
+But nothing could stop that boat now. The stream ran stronger and stronger. Ahead now the soldier could see glimpses of daylight where the tunnel came to an end.
+
+He could hear a strange roaring in his ears, like the noise a waterfall makes. There, at the end of the tunnel, the stream thundered downwards into a canal. Imagine! It must have been as frightening a ride for the tin soldier as a plunge down a giantwaterfall would be for us.
+
+But he was so near the edge now that there was nothing he could do. So he stood stiff and still while the boat raced on and plunged downwards, over the edge. Down the boat hurtled on that great tide of water. He didn’t blink an eye…as once, twice,three times the boat whirled round, each time filling up more with water. Soon the boat was full to the brim and only the tin soldier’s neck and head could be seen.
+
+Deeper and deeper the boat sank. Softer and softer the paper grew, until the water closed right over the tin soldier’s head. And as he sank, he thought about the lovely little dancer who he would never see again. In his ears rang the words of a song.
+
+‘Onward, onward, warrior, Meet your fate; show no fear.’
+
+The boat reached the bottom and away floated the soldier – straight into the open mouth of a huge fish. And with one great gulp the fish had swallowed the tin soldier whole.
+
+It wasn’t at all comfortable inside that fish. It was dark – even darker than the tunnel - and there wasn’t much room to move about. But the soldier didn’t lose his courage. He lay there in the fi sh’s stomach, his musket still over his shoulder.
+
+Suddenly he felt the fish jerk, and it began to twist and thrash around in the water. Inside the fish’s stomach the poor soldier bumped up and down and from side to side. Then just as suddenly the thrashing stopped and something flashed through the fishlike a streak of lightning. The soldier looked up – into the bright light of a busy kitchen. After the dark the bright light dazzled him. ‘Why! It’s the tin soldier!’ he heard a voice exclaim.
+
+And how had he come to be there? Well, the fish that had swallowed him had been caught, taken to market and sold and then carried into the kitchen where the cook had cut it open with a large knife.
+
+Now the cook picked up the soldier, between her finger and thumb, and carried him into the living room so that all the family could see and admire him. ‘What a remarkable soldier he is,’ he heard the family say. ‘He must be proud of himself.’ But the tin soldier didn’t feel proud. ‘What have I to be proud of?’ he thought.
+
+He was put down on the table – in the very room where all his adventures had begun. And there were all the toys; there were the children. There was the fine paper castle. And there too was the little dancer, still poised just as gracefully on one leg.
+
+‘She is as steadfast as me’, the soldier thought. He felt his eyes fill with tears. He wanted to cry. But soldiers don’t cry. He looked at her and she looked at him. But neither of them said a word to the other.
+
+And then something dreadful happened. One of the children picked up the tin soldier and flung him headfirst into the burning stove. Why did he do such a thing? It must have been the goblin’s fault. He must have whispered in the boy’s ear and guided his hand.
+
+The soldier stood steadfast, while all around him the flames danced and crackled. The heat in the stove felt very fierce. But whether such fierce heat came from the flames or from his burning love he did not know. His bright colours had all gone now, but whether they had faded on his journey or through his sorrow, who could say?
+
+He looked at the little dancer and she at him. He felt as if he was melting in the heat, but he stood as steadfast as ever, his musket still over his shoulder. Suddenly the door of the stove fl ew open. A gust of air caught the pretty little paper dancer and she fl ew like a fairy right into the stove, straight to the waiting tin soldier.
+
+And there the flames caught her and in a flash she was gone. Soon the soldier had melted down to a lump of tin. In the morning the maid came into the room to rake out the ashes in the stove. And there she found the soldier – in the shape of a little tin heart. But what was left of the dancer? Only her tinsel rose – and that was charred and as black as soot.
+
+### Synopsis
+
+David Tennant reads an adaptation of 'The brave Tin Soldier' by Hans Christian Andersen.
+
+Twenty-five toy soldiers are made from an old tin spoon. They are all alike except for one, which was last to be made. He has only one leg, because they ran out of tin, but stands as straight as his brothers.
+
+The soldiers are a birthday present for a little boy. The boy stands them on a table with other toys, one of which is a pretty dancer made of paper. The one-legged soldier falls in love with the dancer but doesn't tell her. He thinks she will be too grand for him as she lives in a castle, while he lives in a box.
+
+One night a goblin jumps out of a jack-in-the-box. He warns the soldier that he shouldn’t wish for what doesn't belong to him and should wait to see what happens in the morning.
+
+When morning comes the boy puts the soldier on the window sill. He is blown out of the open window. He's found by some other boys and when it starts to rain he's put into a paper boat and washed down a drain. A rat tries to make him pay a toll. Then he plunges into a canal and is eaten by a fish. The fish is caught and sold at market and then taken to the house where the soldier began his journey. The soldier is found when the fish is cut open.
+
+The soldier is put back with his brothers but one of the other children, perhaps having been put up to it by the goblin, throws him on the fire. A gust of wind then blows the paper dancer onto the fire and she is immediately consumed by flames. The soldier melts into a lump of heart-shaped tin.
+
+Download the transcript of The Brave Tin Soldier (pdf)
+
+### Curriculum guidance
+
+Tales of Hans Christian Andersen can be used to target a range of Reading and Writing objectives from the KS2 National Curriculum programme of study for English across Y3 to Y6 in England, Wales and Northern Ireland and Second Level of the Curriculum for Excellence in Scotland. Specific objectives include increasing pupils’ familiarity with a range of texts ‘including fairy stories’ and ’traditional stories’.
+
+Pupils have the opportunity to listen to and read a selection of Andersen’s stories - especially adapted for the age group - and respond through a range of speaking and writing activities. Full details of curriculum links and follow up activities are included in the Teachers’ Notes.
+
+Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This means that careful selection of texts is required to ensure age-appropriateness. Please see the teachers' notes below for full synopses and suggestions for use in the classroom.
+
+Download the Teachers' Notes for Tales of Hans Christian Andersen (pdf)
+
+### Background
+
+The tale was first published in 1838 and has since been adapted into films and ballet.
+
+### Reading / listening comprehension
+
+- Why does the soldier only have one leg?
+- On what occasions during the story does the soldier say or do nothing, when more decisive action might have brought a better outcome? Why is the soldier so reluctant to act?
+- How might the story have turned out differently had the soldier acted differently on those occasions?
+- Why does the dancer appear only to have one leg?
+- How do you think the dancer feels about the soldier and why?
+- What is the motive for the goblin’s actions?
