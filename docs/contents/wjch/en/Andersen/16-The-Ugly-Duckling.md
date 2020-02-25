@@ -2,6 +2,10 @@
 
 **Don't judge somebody sheerly by its appearance!**
 
+![The Nightingale](../16-The-Ugly-Duckling.jpg)
+
+<audio src="../16-The-Ugly-Duckling.mp3" controls="controls"></audio>
+
 作者：丹麦童话作家安徒生
 
 翻译：小魏娜妈

@@ -1,5 +1,9 @@
 # The Little Mermaid
 
+![The Nightingale](../06-The-Little-Mermaid.jpg)
+
+<audio src="../06-The_Little_Mermaid.mp3" controls="controls"></audio>
+
 - [The Little Mermaid](#the-little-mermaid)
   - [BBC The Little Mermaid](#bbc-the-little-mermaid)
     - [Audio Transcript](#audio-transcript)

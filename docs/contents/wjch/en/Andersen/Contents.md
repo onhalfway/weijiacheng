@@ -113,4 +113,6 @@ As the title conveys, The Complete Andersen is a rather extensive collection of 
 
 ## Other works
 
-- [Thumbelina](../wjch/en/Andersen/Thumbelina)
+- [Thumbelina](../Thumbelina)
+- [The Fir Tree](../the_fir_tree)
+- [The Wild Swans](../the-wild-swans)

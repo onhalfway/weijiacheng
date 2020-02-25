@@ -1,5 +1,9 @@
 # The Fir Tree
 
+![The Nightingale](../the_fir_tree.jpg)
+
+<audio src="../The_Fir_Tree.mp3" controls="controls"></audio>
+
 - [BBC The Fir Tree](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-the-fir-tree-hans-christian-andersen/zr3rhbk)
 
 - [The Fir Tree](#the-fir-tree)

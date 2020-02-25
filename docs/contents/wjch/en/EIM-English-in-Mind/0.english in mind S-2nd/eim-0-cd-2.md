@@ -1112,27 +1112,116 @@ lb 2a 3a 4b
 
 ## 49 Unit 12 - Exercise 7
 
+`An accident in the park`
 
+Look at the title of the story and the pictures. How did Izzie hurt her head? Read, listen and check your answer.
+
+(1)
+Izzie: Hi, you two. Do you like my new hat?
+Mark: Poor you!
+Kate: Izzie, what happened?
+(2)
+Izzie: Well, this morning I was in the park, you know, skateboarding...
+(3)
+... and suddenly, there was a boy on a bike. A minute later, I was on the ground. My head hurt and the boy was gone!
+(4)
+Mark: So it was the boy's fault. How silly of him!
+Izzie: No, Mark. It was my fault, not his. My helmet was on my arm, not on my head!
+Kate: Well, anyway, who was the boy? We have to find him.
+
+- silly /ˈsɪli/ adj. 愚蠢的；不明事理的；没头脑的
+- helmet /ˈhelmɪt/ n. 钢盔，头盔
+
+CD2T49
+Students look at the title of the story and the pictures and answer the question. Play the recording for students to read and listen to check their answers. If students ask questions about vocabulary, write the words on the board, but do not explain the meaning at this stage.
+
+Answers
+She was knocked over in the park while she was skateboarding.
 
 ## 50 Unit 12 - Exercise 8c
 
+Read the dialogue and put the sentences in the correct order. Then listen and check your answers.
 
+CD2 T50
+Read through the sentences with students and clarify any problems with understanding. In pairs, students decide on the correct order for the dialogue. Check answers and ask students to practise the correct dialogue.
+
+TAPESCRIPT/ANSWERS
+Liz: Hey Dave. Are you OK?
+Dave: No, I'm not. My little sister's in hospital. Her arm's broken.
+Liz: Oh no! Poor her! What happened?
+Dave: Well, I opened the door of our living room. She was on the floor, you know, playing with her toys. The door hit her arm. It was **awful**! And it was my fault!
+Liz: Oh, Dave, come on. It's not really your fault, you know. Accidents happen - especially at home.
+Dave: I know. But I feel terrible now. Poor Jenny -she's only seven!
 
 ## 51 Unit 13 - Exercise 1b
 
+Read the text again and listen. Answer the questions.
+1 Why did the bus driver say to Rosa:'Stand up!'?
+2 Why did Rosa say 'No'?
+3 What was Rosa's world when she was a little girl?
+4 Why did he the police take Rosa to prison?
+5 Why did black people stop using the buses in Alabama?
 
+CD2T51 Students read questions 1 to 5. Check any problems. Go through the first item as a class, if necessary. Play the recording for students to complete the exercise. Students can compare answers in pairs before a whole-class check. Play the recording again if necessary, pausing to clarify any problems.
+
+TAPESCRIPT
+See reading text on page 96 of the Student's Book.
+`SHE SAID 'NO'`
+One day in December nineteen-fifty-five (1955), Rosa Parks left work in Alabama, USA, got on a bus and sat down. More people got on the bus, and soon it was full. One man didn't have a seat. The bus driver said to Rosa:'Stand up! Give this man your seat!' Rosa was tired after a long day at work. So, she quietly said:'No.' This started something that changed the USA for ever - because Rosa Parks was a 42-year-old black woman, and the man on the bus was white.
+When Rosa was a little girl, she walked to school, but the white children took a bus. Rosa saw their bus every day when it went past. 'In those days,' she said, 'there was a white world and a black world. I lived in the black world.' She went to a black school and studied with black children. When Rosa said 'No', she broke the law. The law said a black person had to give their seat to a white person. The police came and took her to prison. Many black people in Alabama were very angry, and they stopped using the buses for a year. Then the law changed, and slowly, things started to change all over the USA.
+For the rest of her life, Rosa worked to help black people in the USA. She died on twenty-fifth (25) October two thousand and five (2005), at the age of ninety-two (92).
+
+- Rosa /'roʊzə/ n. 罗莎（女子名）
+- Alabama /,ælə'bæmə/ n. 阿拉巴马州（美国州名）
+
+Answers
+1 Because a white man wanted her seat.
+2 Because she was tired.
+3 It was divided into a black world and a white world.
+4 Because she broke the law by not giving up her seat.
+5 Because they were angry that Rosa had been arrested.
 
 ## 52 Unit 13 - Exercise 3a
 
+Pronunciation -ed endings
 
+CD2T52 Listen and repeat the sentences.
+1 /t/ We watched a film.
+2 /d/ I called a friend.
+3 /id/ He wanted an ice cream.
 
 ## 53 Unit 13 - Exercise 3b
 
-
+Listen and repeat the sentences.
+1 I phoned a friend.
+2 I phoned my friend.
+3 He talked a lot.
+4 He talked to the teacher.
+5 We visited a friend.
+6 We visited the museum.
 
 ## 54 Unit 13 - Exercise 5b
 
+Listen to a radio quiz show. Check your answers to Exercise 5a.
 
+CD2T54
+Play the recording for students to listen and check their answers to Exercise 5a.
+
+TAPESCRIPT
+Host: Hello, and welcome back, and in the next round of our quiz we are looking at important dates, OK?
+Woman: Yes, OK.
+Host: And here is the first question. Singer Michael Jackson died on the 25th of June. In which year?
+Woman: Er, I think it was in 2009.
+Host: And 2009 is ... absolutely correct. Jackson died on June the 25th 2009. Well done, Sarah. That's 20 points for you. And here's our next question. When did the first man walk on the moon? Was it a. on July the 20th 1949? b. on July the 20th 1969? or c. on July the 20th 1979?
+Woman: Oh, er, the man's name was Neil Armstrong. And I think it was 1979, so 'c'.
+Host: Well, Sarah, you're right about Neil Armstrong - but he didn't walk on the moon in 1979, it was on July the 20th 1969. So no points for that, I'm afraid. Don't worry. Let's look at the next question. You can get 40 points this time. This question is about the Olympic Games in Beijing, China. They started on August the 8th and ended on August the 24th. In which year? a. 2004? b. 2006? c. 2008?
+Woman: That's easy. It was in 2008.
+Host: That's absolutely correct. 40 points for you. The Beijing Olympic Games started on August the 8th and they ended on August the 24th 2008. And now Sarah -100 points on the all or nothing question. In Alabama, USA, in a famous incident, Rosa Parks did not give her seat to a white man. What year was that?
+Woman: Er, oh, I'm not sure! Urn ... was it... 1958?
+Host: Oh, I'm sorry, Sarah. It was in 1955, not 1958. Sorry about that, but you get a wonderful prize ...
+
+Answers
+2 a 3 e 4 b 5 d
 
 ## 55 Unit 13 - Exercise 9b
 

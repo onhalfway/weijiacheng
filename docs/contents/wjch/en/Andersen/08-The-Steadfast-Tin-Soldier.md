@@ -1,5 +1,9 @@
 # The Steadfast Tin Soldier
 
+![The Nightingale](../08-The-Steadfast-Tin-Soldier.jpg)
+
+<audio src="../08-The-brave-Tin-Soldier.mp3" controls="controls"></audio>
+
 - 坚定的锡兵
 - Steadfast /ˈstedfæst/ adj. 坚定的；不变的； 比较级 more steadfast最高级 most steadfast
 - tin /tɪn/ n. 锡；罐头，罐；马口铁
