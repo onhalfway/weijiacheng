@@ -57,7 +57,7 @@
   - [48 Unit 13 - Exercise 9](#48-unit-13---exercise-9)
   - [49 Unit 14 - Exercise 1a](#49-unit-14---exercise-1a)
   - [50 Unit 14 - Exercise 3](#50-unit-14---exercise-3)
-  - [51 Unit 14 - Exercise 6](#51-unit-14---exercise-6)
+  - [51 Unit 14 - Exercise 7](#51-unit-14---exercise-7)
 
 ## 01 Introduction
 
@@ -577,64 +577,237 @@ Answers
 
 ## 36 Unit 10 - Exercise 7b
 
+Listen and write tick or cross under 'Emma'.
 
+Emma is also on the school trip. It's three days later and they're in Empoli. Listen to Emma talking to her father. In the table, write √ (good) or × (not good) under 'Emma'.
+
+- Empoli 佛罗伦萨省
+
+CD3T36
+TAPESCRIPT 
+Dad: Hello.
+Emma: Hi Dad. Its Emma.
+Dad: Emma! Hello, love. Where are you? 
+Emma: We're in Empoli right now. We're staying in a beautiful hotel here - it's a really nice place. 
+Dad: So you're having a good time? 
+Emma: Oh yeah. And I'm speaking a lot of Italian now. It's great when people understand me - I'm feeling good about saying things in Italian now. Dad: That's excellent. And is the food nice? 
+Emma: Fantastic! We all love the food here, and
+it's not only pizza. We're having great meals. Dad: And what about the weather? Is it still
+raining? It's sunny here in England. 
+Emma: Oh, well it's still raining here and it's
+cold. But that's OK. We're still having a good
+time. Listen, Dad, I must go now. Some other
+people want to use the phone. 
+Dad: OK, love. But ring again on Friday, all right? 
+Emma: Yes, I will. Is everyone OK at home? 
+Dad: Yes, we're fine.
+Emma: Well, give them my love. Bye, Dad. 
+Dad: Bye. 
+
+2 √ 3 √ 4 X 5 √
 
 ## 37 Unit 11 - Exercise 5a
 
+Listen to the word pairs and repeat.
 
+CD3T37
+/æ/ /e/
+TAPESCRIPT
+1 sad said
+2 bad bed
+3 man men
+4 dad dead
+5 sat set
 
 ## 38 Unit 11 - Exercise 5b
 
+Listen and tick the word you hear.
 
+CD3T38
+TAPESCRIPT/ANSWERS
+1 I'm sad.
+2 You aren't in bed!
+3 Look at the man.
+4 Is it dead?
+5 They sat together.
 
 ## 39 Unit 11 - Exercise 5c
 
-
+CD3T39 TAPESCRIPT
+1 Annie is Alan's best friend.
+2 I'm helping Joanna in December and January.
+3 Emma's jacket is black and yellow.
+4 How many magazines is Danny sending
 
 ## 40 Unit 11 - Exercise 9
 
+CD3T40
+TAPESCRIPT
+Assistant: Сап I help you?
+Nadia: Yes, I'm interested in a dress in the window. 
+Assistant: Yes - which one are you looking at? 
+Nadia: It's over there behind the shirts - next to
+that black jumper. 
+Assistant: Oh, yes, the green one. That's a lovely dress.
+Nadia: How much is it?
+Assistant: It's...£49.
+Nadia: Oh, OK. Can I try it on, please?
+Assistant: I'm afraid we haven't got many sizes in that dress. Only ten or sixteen. What size are you? 
+Nadia: Twelve.
+Assistant: No, sorry, we haven't got a twelve. Is there anything else I can show you?
+Nadia: Well actually, those tops are nice. The pink one would look nice with my new trousers.
+Assistant: Yes, or you can wear it with jeans or a skirt.
+Nadia: OK, can I try it on, please?
+Assistant: Yes, of course. The changing room's over there...
 
+Answers
+1 the thing Nadia wants: dress
+2 colour: green
+3 price: £49
+4 Nadia's size: twelve
+5 the thing she tries on: top
 
 ## 41 Unit 12 - Exercise 4
 
-
+CD3 T41
+TAPESCRIPT
+Alan: What kind of music do you like, Gran?
+Gran: Well, my favourite group *were* the Beatles.
+Alan: Oh right. *Were* they from London?
+Gran: No they *weren't*! They *were* from Liverpool. Oh, they *were* fantastic, just wonderful.
+Alan: How many of them *were* there - in the Beatles, I mean?
+Gran: There *were* four of them - John Lennon, Paul McCartney, George Harrison and Ringo Starr. They *were* very young - and I *was* very young too! John *was* my favourite, but they *were* all great. All the girls in my school *were* crazy about them!
+Alan: Right! Are their songs still on the radio? Gran: Yes, they are. That song Yesterday, for
+example - that's a really famous Beatles song,
+they play that on the radio a lot.
 
 ## 42 Unit 12 - Exercise 5a
 
-
+CD3T42
+TAPESCRIPT/ANSWERS
+1 Were they in *London*? *Yes*, they *were*.
+2 Were they *happy*? *No*, they *weren't*.
+3 Were the *girls* at (home)? *Yes*, they *were*.
+4 Was he an *actor*? *Yes*, he *was*.
+5 Was she *worried*? *No*, she *wasn't*.
+6 Was *Dave* at *school*? *No*, he *wasn*'t).
 
 ## 43 Unit 12 - Exercise 5b
 
-
+CD3T43
+TAPESCRIPT/ANSWERS
+1 *Helen* was in *hospital* on *Wednesday*.
+2 Our *parents* were at the *library yesterday*.
+3 *When* were you in *Paris*?
+4 *What* was your *address*?
 
 ## 44 Unit 12 - Exercise 9
 
+Listen to the dates. Write the numbers 1-6.
 
+CD3T44 
+TAPESCRIPT
+1 the eleventh of December, two thousand and four (11/12/2004)
+2 the twenty-fifth of November, nineteen eighty (25/11/1980)
+3 the thirtieth of July, nineteen ninety-five (30/07/1995)
+4 the thirteenth of September, nineteen fifty-nine (13/09/1959)
+5 the thirty-first of August, nineteen ninety-nine (31/08/1999)
+6 the third of March, two thousand and one (03/03/2001)
 
 ## 45 Unit 13 - Exercise 3a
 
+Write the verbs in the lists. Then listen and check.
 
+CD3T45 TAPESCRIPT
+liked, travelled, called, watched hated, started, landed, wanted
+
+/t/ or /d/ travelled, called, watched 
+/id/ started, landed, wanted
 
 ## 46 Unit 13 - Exercise 3b
 
+Listen and repeat. Make sure you say /id/ for the *-ed* sound.
 
+CD3T46
+TAPESCRIPT
+1 They visited a museum.
+2 They landed on the moon.
+3 The concert ended at 11 o'clock.
+4 We waited at the station.
 
 ## 47 Unit 13 - Exercise 3c
 
+Listen and repeat. Is the -ed sound /t/ or /d/? Write /t/ or /d/ in the spaces.
 
+CD3T47
+TAPESCRIPT/ANSWERS
+1 We watched a film. /t/
+2 He lived in Barcelona. /d/
+3 We helped Annie with her homework. /t/
+4 They laughed at me. /t/
+5 Sally stayed in a hotel. /d/
+6 We opened our books. /d/
 
 ## 48 Unit 13 - Exercise 9
 
+Tony is on holiday in England with his father. Listen to his conversation with Sandro. Look at the pictures and circle the correct answer: A, B or C.
 
+CD3T48
+TAPESCRIPT Sandro: Hello
+Tony: Sandro, hi. It's Tony. I'm ringing from Cambridge.
+Sandro: Tony, hi! How are you?
+Tony: Fine! We arrived in London on Monday. The plane landed at 5.15 in the morning.
+Sandro: Oh dear!
+Tony: Yeah, really early. So we were in the city by 7.30. And we stayed in London for two nights.
+Sandro: Where? In a hotel?
+Tony: Yes, we were in a hotel for the first night. And then on Tuesday we stayed at my uncle's place.
+Sandro: So what was London like? What did you do?
+Tony: Well, we spent a lot of time at my uncle's house - talking, you know. But we went all round the city in a tourist bus - that was really good. And we went for a boat trip on the river. Dad wanted to visit the British Museum too, but we didn't have time for that.
+Sandro: So when did you leave for Cambridge?
+Tony: On Wednesday. We got the early evening
+train and now we're staying with my cousins.
+They've got a great house here. Anyway, Sandro
+- how are things? How's Carla? I tried to ring her
+yesterday but...
+
+1 When did they arrive in London? (C: Tuesday)
+2 What time did the plane land? (B: 5.15)
+3 Where did they stay on Tuesday? (C: my uncle's place)
+4 What didn't they do in London? (C: the British Museum)
+5 How did they get to Cambridge? (B: train)
 
 ## 49 Unit 14 - Exercise 1a
 
-
+CD3T49
+1 When I was young, of course, a lot of TV was in black and white!
+2 I think school life is more difficult now, certainly.
+3 I think people were friendlier in the *sixties* 60s than they are now.
+4 Some things now are difficult for my grandma.
+5 I'm sure that now, life is faster than in the *nineteen-sixties* 1960s.
+6 There are a lot more cars these days.
 
 ## 50 Unit 14 - Exercise 3
 
+CD3T50
+TAPESCRIPT/ANSWERS
+1 She's *younger* than him.
+2 You're *happier* than me.
+3 The *bank* is *older* than the *bookshop*.
+4 *Maths* is more *difficult* than *Science*.
+5 The *book* was more *interesting* than the film.
+6 The *shoes* were more *expensive* than the *trainers*.
 
+## 51 Unit 14 - Exercise 7
 
-## 51 Unit 14 - Exercise 6
+Listen and write the names of the people and cats in the picture.
 
+CD3T51
+TAPESCRIPT
+I took this photo of my family last summer. My
+two brothers are on the left - Frank and Tim. Frank's the one with the *curlier* hair and he's a bit shorter than Tim.
+That's my sister Anne on the other side - she's standing next to her friend Lisa. You can see they're both tall and they've got the same hair style. Lisa always wears more expensive clothes than Anne, but I think Anne always looks happier.
+Then there's Dad here - he's playing cards with Uncle Bill. Dad's younger than Uncle Bill but he looks older and he's a bit fatter. And you can see he's winning the game because he's a better card player.
+So that's everyone. Oh, there are the cats too. The big one's called Sandy. She's a bit boring - she just sleeps most of the time. The little one with Uncle Bill is friendlier and more interesting - he's called Pablo.
 
+Answers
+2 Tim 3 Lisa 4 Anne 5 Sandy 6 Uncle Bill 7 Dad 8 Pablo
