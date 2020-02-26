@@ -62,11 +62,11 @@
   - [53 Unit 13 - Exercise 3b](#53-unit-13---exercise-3b)
   - [54 Unit 13 - Exercise 5b](#54-unit-13---exercise-5b)
   - [55 Unit 13 - Exercise 9b](#55-unit-13---exercise-9b)
-  - [56 Unit 13 - Exercise 1b](#56-unit-13---exercise-1b)
-  - [57 Unit 13 - Exercise 3a](#57-unit-13---exercise-3a)
-  - [58 Unit 13 - Exercise 6b](#58-unit-13---exercise-6b)
-  - [59 Unit 13 - Exercise 8](#59-unit-13---exercise-8)
-  - [60 Unit 13 - Exercise 9c](#60-unit-13---exercise-9c)
+  - [56 Unit 14 - Exercise 1b](#56-unit-14---exercise-1b)
+  - [57 Unit 14 - Exercise 3a](#57-unit-14---exercise-3a)
+  - [58 Unit 14 - Exercise 6b](#58-unit-14---exercise-6b)
+  - [59 Unit 14 - Exercise 8](#59-unit-14---exercise-8)
+  - [60 Unit 14 - Exercise 9c](#60-unit-14---exercise-9c)
 
 ## 01 Introduction
 
@@ -1262,28 +1262,131 @@ Answers
 7 T
 8 F (Her cousin became King.)
 
-## 56 Unit 13 - Exercise 1b
+## 56 Unit 14 - Exercise 1b
 
-page 102, 97
+CD2T56 Ask students if they know anything about life in the 1960s. Listen to some of their ideas. Tell students they are going to listen to a teenager and his grandmother talking about life in the 1960s and life now. Play the recording while students listen and complete the exercise. Let them compare their answers with a partner before checking answers in open class.
 
-## 57 Unit 13 - Exercise 3a
+Listen to Dave and his grandmother. They talk about life in the 1960s and life now.
 
+TAPESCRIPT
+Grandmother: I think life was great when I was a teenager. Yes, we had a lot of fun. Is it better now? I'm not sure. But it's very different! I think perhaps life is more interesting now - you know, there are computers and DVDs, and things like that. When I was young, of course, a lot of TV was in black-and-white, and we only got programmes in the afternoon and evening! But I think that life is more difficult for today's teenagers - for example, my grandson Dave. His school work - he gets a lot of homework to do, and he's always got tests and exams - it wasn't like that for me. I was freer than him, I think. School life is more difficult now, certainly. But you know, the really big difference? I think people were friendlier in the 60s than they are now.
 
+Dave: I think perhaps that some things are easier now - for example, with mobile phones and the internet, I can talk to my friends any time I want to. But I also know that some things now are difficult for my grandma. I'm sure that now, life is faster than in the 1960s, and I think that's hard for her. I mean, now she's older, so of course things are more difficult - like, going shopping in town, it's hard for her, the streets are very crowded, they're more crowded than before - and there are a lot more cars these days, the roads are much busier than in the 1960s. And I'm sure that things in the shops are more expensive. So perhaps life is worse for her now - but she's a very happy person!
 
-## 58 Unit 13 - Exercise 6b
+Who talks about these things? Write D (Dave) or G (grandmother)
+1 the streets in a town (D)
+2 school life ()
+3 DVDs ()
+4 the shops ()
+5 television ()
+6 mobile phones ()
 
+Answers
+2 G 3 G 4 D 5 G 6 D
 
+CD2T56
+Read through the sentences with students and check understanding. Play the recording again for students to decide if the sentences are true or false. Encourage students to correct the false statements. Check answers.
 
-## 59 Unit 13 - Exercise 8
+Listen again. Write T (true) or F (false). Correct the false statements.
+1 Dave's grandmother thinks life is better now than in the 1960s. ()
+2 She didn't watch television when she was young. ()
+3 She thinks Dave's life at school is easy. ()
+4 Dave says it's easy for his grandmother to walk in the streets. ()
+5 Dave says his grandmother is a happy woman. ()
 
+Answers
+1 F (She thinks life was better in the 1960s.)
+2 F (She watched TV in the evenings.)
+3 F (She thinks it's difficult.)
+4 F (The streets are very crowded.)
+5 T
 
+CD2T56
+Stronger classes: Students read through the sentences. Go through the first one as an example, if necessary. Students complete the exercise. Play the recording from Exercise lb again for students to check answers. Weaker classes: Play the recording again and then students complete the exercise. Play it a second time to check answers.
 
-## 60 Unit 13 - Exercise 9c
+TAPESCRIPT
+See tapescript for Exercise lb.
 
+Who said these sentences in the conversation? Write G (grandmother) or D (Dave) in the boxes. Then listen again and check your answers.
+1 Now, life is faster than in the 1960s. (D)
+2 Now she's older. ()
+3 Some things are easier now. ()
+4 School life is more difficult now. ()
+5 People were friendlier in the 1960s ()
+6 Life is more interesting now. ()
+7 Is it better now? ()
+8 Perhaps life is worse for her now. ()
 
+Answers
+2D 3D 4G 5G 6G 7G 8D
 
+## 57 Unit 14 - Exercise 3a
 
+Pronunciation /ðən/ than
+Listen. How is than pronounced?
+1 She's taller than me.
+2 I'm older than him.
+3 It's hotter than yesterday.
+4 Our dog's bigger than yours.
+5 This is more expensive than that one.
 
+## 58 Unit 14 - Exercise 6b
 
+Write the words from the box under the pictures. Then listen and check your answers.
 
-- End on page 57 of SB.pdf, page 57 of TRP.pdf
+CD2T58
+Give students a few minutes to read the words in the box and look at the pictures. Check any problems. Go through the example as a class, if necessary. Students complete the exercise.
+
+Answers
+1 a dangerous street 2 a safe place 3 a noisy club 4 a modern house 5 an old-fashioned car 6 a boring game 7 an exciting film 8 a quiet garden
+
+Language note
+Remind students that in English adjectives do not agree with the subject. We don't say *three moderns houses*. Remind them too that adjectives usually go before the noun they are describing, e.g. we say a modern house NOT *a house modern*.
+
+## 59 Unit 14 - Exercise 8
+
+`So sorry`
+Look at the title of the story and the pictures. Is Izzie angry with Darren? Read, listen and check your answer.
+(1)
+Mark: Hey, Darren. What's the matter?
+Darren: Hi, Mark. I feel awful. You see, ... this morning I was on my bike in the park and I was in hurry ...
+(2)
+Darren: And there was a girl, skateboarding. I think she fell over, but I didn't stop. And now I feel terrible. You know, maybe she ...
+Mark: Don't worry, Darren. She hurt her head a bit, but she's alright.
+(3)
+Darren: What do you mean? How do you know?
+Mark: Well, I know who the girl was! It was Izzie!
+Darren: Izzie! I don't believe it!
+(4)
+Darren: I'm so sorry about what happened, Izzie. I had no idea it was you.
+Izzie: That's OK, Darren. It was sort of my fault, really. Next time I go skateboarding, I'm going to put my helmet on my head!
+Darren: Thanks, Izzie.
+Izzie: That's OK, Darren! Now - you can buy me an ice cream!!
+
+CD2T59
+Ask students to read the question and predict the answer but do not comment at this stage. Play the recording while students read and check their predictions. Check answers in open class. If students ask questions about vocabulary, write the words on the board, but do not comment at this stage.
+
+TAPESCRIPT
+See the text on page 106 of the Student's Book.
+
+Answers
+No, Izzie isn't angry.
+
+## 60 Unit 14 - Exercise 9c
+
+Read the dialogue and put the sentences in the correct order. Then listen and check your answers.
+
+CD2T60
+Read through the sentences with students and clarify any problems with understanding. In pairs, students decide on the correct order for the dialogue. Check answers and ask students to practise the correct dialogue.
+
+TAPESCRIPT/ANSWERS
+Phil: Hi Maggie. Did you see the exam results? They came out today.
+Maggie: Yes, I saw them - unfortunately.
+Phil: Oh dear. What's the matter? Not good news?
+Maggie: No. I'm sort of unhappy. I only got 80% in French. I wanted 90%.
+Phil: Oh, French? You know, Tom Black got 93% in French.
+Maggie: What? I don't believe it! He was always terrible at French.
+Phil: Well, you see, he studied really hard this year. How about you, Maggie?
+
+- End on page 109 of SB.pdf, page 103 of TRP.pdf
+- Vocabulary bank - Unit 1 countries and nationalities page 114 of SB.pdf
