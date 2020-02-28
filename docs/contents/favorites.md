@@ -84,6 +84,7 @@
 - [MXPlayer for Android]()
 - [MPlayerX for MaxOS]()
 - [kodi]()
+- [recorder](https://www.apowersoft.com/free-audio-recorder-online)
 - [Cmder | Console Emulator on Windows](https://cmder.net/)
 - [Coding in Windows - Setting Up Git & Cmder](https://www.awmoore.com/2015/01/14/setting-up-git-and-cmder/)
 - [Unix-like environment](https://www.cygwin.com/)

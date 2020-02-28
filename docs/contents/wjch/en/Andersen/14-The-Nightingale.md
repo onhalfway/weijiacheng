@@ -6,6 +6,7 @@
 
 - [The Nightingale](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-the-nightingale-hans-christian-andersen/zvn4nrd)
 - [Download The Nightingale transcript](http://teach.files.bbci.co.uk/schoolradio/the_nightingale.pdf)
+- [夜莺（安徒生著童话）](https://baike.baidu.com/item/%E5%A4%9C%E8%8E%BA/3812157)
 
 - [The Nightingale](#the-nightingale)
   - [Audio Transcript](#audio-transcript)
@@ -32,11 +33,13 @@ The Lord-in-Waiting looked high and low for the mysterious nightingale. He went 
 
 ‘I know the nightingale!’ she said. ‘Every evening I go home to care for my sick mother who lives by the seashore. When I return to the palace, I stop in the forest to rest and listen to the nightingale’s song. Oh, it’s so lovely it brings tears to my eyes!Come with me, I will take you to her.’All the palace servants followed as the kitchen maid led the way through the garden. ‘There she is!’ said a young courtier. ‘What a very loud noise for such a small creature!’
 
-‘That’s a cow, not a nightingale,’ replied the kitchen maid. ‘We have a long way to go yet…’They carried on walking.‘I can hear her!’ said a serving girl. ‘Her song sounds like tinkling church bells.’‘Hmmm, those are frogs,’ laughed the maid. ‘But quiet now, we’re getting close…’‘Look! There she is’, said the maid - and she pointed to a little grey bird perched on the bough of a tree.
+‘That’s a cow, not a nightingale,’ replied the kitchen maid. ‘We have a long way to go yet…’ They carried on walking. ‘I can hear her!’ said a serving girl. ‘Her song sounds like tinkling church bells.’ ‘Hmmm, those are frogs,’ laughed the maid. ‘But quiet now, we’re getting close…’ ‘Look! There she is’, said the maid - and she pointed to a little grey bird perched on the bough of a tree.
 
 ‘What an exquisite sound!’ said the Lord-in-Waiting. ‘But – er - I wasn’t expecting such a small, plain, simple creature. Never mind. Most excellent Nightingale!’ he called out. ‘Our most gracious Emperor wishes you to sing to him. Will you come to the palace with us?’
 
-‘My song sounds best in the green wood,’ answered the nightingale. ‘But I will do as you ask.’The palace was specially decorated for the great occasion. The walls and floors of porcelain glittered in the light of a thousand lamps and beautiful flowers with little bells stood in the corridors. In the centre of the great hall was a golden perch for the nightingale to sit on.
+- exquisite /ɪkˈskwɪzɪt,ˈekskwɪzɪt/ adj. 精致的；细腻的；优美的，高雅的；异常的；剧烈的 n. 服饰过于讲究的男子
+
+‘My song sounds best in the green wood,’ answered the nightingale. ‘But I will do as you ask.’ The palace was specially decorated for the great occasion. The walls and floors of porcelain glittered in the light of a thousand lamps and beautiful flowers with little bells stood in the corridors. In the centre of the great hall was a golden perch for the nightingale to sit on.
 
 The whole court was present, including the kitchen maid. As the Emperor nodded to the little grey bird to begin, all eyes turned to watch… The nightingale sang so sweetly that tears started rolling down the Emperor’s cheeks. ‘Oh, how glorious!’ he cried. ‘Please, wear my gold slipper round your neck as a token of my thanks’.
 

@@ -536,7 +536,7 @@ Answers
 Listen and complete the information in the box.
 
 CD3ТЗЗ
-TAPESCRIPT 
+TAPESCRIPT
 Interviewer: Today in the studio we're talking to Mark Cavalcanti. Mark is only 17 but he's already a star in British tennis. Mark, good morning.
 Mark: Good morning.
 Interviewer: Now Mark, your family name's interesting - Cavalcanti.
@@ -584,25 +584,25 @@ Emma is also on the school trip. It's three days later and they're in Empoli. Li
 - Empoli 佛罗伦萨省
 
 CD3T36
-TAPESCRIPT 
+TAPESCRIPT
 Dad: Hello.
 Emma: Hi Dad. Its Emma.
-Dad: Emma! Hello, love. Where are you? 
-Emma: We're in Empoli right now. We're staying in a beautiful hotel here - it's a really nice place. 
-Dad: So you're having a good time? 
-Emma: Oh yeah. And I'm speaking a lot of Italian now. It's great when people understand me - I'm feeling good about saying things in Italian now. Dad: That's excellent. And is the food nice? 
+Dad: Emma! Hello, love. Where are you?
+Emma: We're in Empoli right now. We're staying in a beautiful hotel here - it's a really nice place.
+Dad: So you're having a good time?
+Emma: Oh yeah. And I'm speaking a lot of Italian now. It's great when people understand me - I'm feeling good about saying things in Italian now. Dad: That's excellent. And is the food nice?
 Emma: Fantastic! We all love the food here, and
 it's not only pizza. We're having great meals. Dad: And what about the weather? Is it still
-raining? It's sunny here in England. 
+raining? It's sunny here in England.
 Emma: Oh, well it's still raining here and it's
 cold. But that's OK. We're still having a good
 time. Listen, Dad, I must go now. Some other
-people want to use the phone. 
-Dad: OK, love. But ring again on Friday, all right? 
-Emma: Yes, I will. Is everyone OK at home? 
+people want to use the phone.
+Dad: OK, love. But ring again on Friday, all right?
+Emma: Yes, I will. Is everyone OK at home?
 Dad: Yes, we're fine.
-Emma: Well, give them my love. Bye, Dad. 
-Dad: Bye. 
+Emma: Well, give them my love. Bye, Dad.
+Dad: Bye.
 
 2 √ 3 √ 4 X 5 √
 
@@ -644,15 +644,15 @@ CD3T39 TAPESCRIPT
 CD3T40
 TAPESCRIPT
 Assistant: Сап I help you?
-Nadia: Yes, I'm interested in a dress in the window. 
-Assistant: Yes - which one are you looking at? 
+Nadia: Yes, I'm interested in a dress in the window.
+Assistant: Yes - which one are you looking at?
 Nadia: It's over there behind the shirts - next to
-that black jumper. 
+that black jumper.
 Assistant: Oh, yes, the green one. That's a lovely dress.
 Nadia: How much is it?
 Assistant: It's...£49.
 Nadia: Oh, OK. Can I try it on, please?
-Assistant: I'm afraid we haven't got many sizes in that dress. Only ten or sixteen. What size are you? 
+Assistant: I'm afraid we haven't got many sizes in that dress. Only ten or sixteen. What size are you?
 Nadia: Twelve.
 Assistant: No, sorry, we haven't got a twelve. Is there anything else I can show you?
 Nadia: Well actually, those tops are nice. The pink one would look nice with my new trousers.
@@ -705,7 +705,7 @@ TAPESCRIPT/ANSWERS
 
 Listen to the dates. Write the numbers 1-6.
 
-CD3T44 
+CD3T44
 TAPESCRIPT
 1 the eleventh of December, two thousand and four (11/12/2004)
 2 the twenty-fifth of November, nineteen eighty (25/11/1980)
@@ -721,7 +721,7 @@ Write the verbs in the lists. Then listen and check.
 CD3T45 TAPESCRIPT
 liked, travelled, called, watched hated, started, landed, wanted
 
-/t/ or /d/ travelled, called, watched 
+/t/ or /d/ travelled, called, watched
 /id/ started, landed, wanted
 
 ## 46 Unit 13 - Exercise 3b
