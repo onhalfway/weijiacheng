@@ -10,6 +10,7 @@ nav:
     - 英语: contents/english
     - 编程: contents/programming
     - 收藏: contents/favorites
+    - About: contents/wjch/about-me
 #theme: readthedocs
 #repo_url: https://github.com/onhalfway/weijiacheng
 

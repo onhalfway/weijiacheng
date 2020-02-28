@@ -25,6 +25,7 @@
 
 ## 英语日积月累
 
+- [Writing](../wjch/en/writing)
 - [Spoken English](../wjch/en/spoken)
 - [Surfing the Internet](../wjch/en/resource)
 - [EIM- English In Mind](../wjch/en/eim)

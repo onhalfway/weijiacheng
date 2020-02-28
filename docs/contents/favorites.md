@@ -167,6 +167,7 @@
   - [Apowersoft Free Online Audio Recorder](https://www.apowersoft.com/free-audio-recorder-online)
 - [ebook - All IT Book](http://www.allitebooks.org/)
 - [ebook - PDF](https://epdf.pub)
+- [ebook search](https://www.jiumodiary.com/)
 - [Python进阶](https://mp.weixin.qq.com/s/KVsdLhEdxdSskDtkvTv2VQ)
   - [Intermediate Python](http://book.pythontips.com/en/latest/)
 - [Wiki How](https://www.wikihow.com/)
@@ -308,6 +309,10 @@
 
 - [Maven](https://www.toutiao.com/a6747200402938167816)
 - [SSH Proxy](work/SSH-Proxy.md)
+- [SSH Client Putty](https://www.putty.org/)
+  - [Bitvise](https://www.bitvise.com/ssh-client-download)
+- [WinSCP]
+- [XShell]
 
 ## Security
 
