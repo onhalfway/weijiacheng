@@ -44,10 +44,11 @@
   - Problem: the duckling is ugly and no one likes him.
 - Rising actions
   - He is so ugly and everybody laugh at him.
-- Climax
   - He was made fun of everybody - run off.
   - The hen and the cat didn't understand - walked away.
   - The woman want hit him - run away.
+- Climax
+  - The ugly duckling turned into swan.
 - End
   - The duckling learned never to give up.
   - I learned not to judge people by their appearance.

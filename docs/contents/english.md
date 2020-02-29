@@ -55,6 +55,7 @@
 - [Headway Student's Site](https://elt.oup.com/student/headway/?cc=cn&selLanguage=zh)
 - [study.com](https://study.com/) *--paid*
 - [book reports info](https://www.bookreports.info/)
+- [Good Reads - book review](https://www.goodreads.com/)
 - [wikipedia](https://en.wikipedia.org/)
 - [The Free Dictionary](https://www.thefreedictionary.com/)
 - [Word Reference](https://www.wordreference.com/)

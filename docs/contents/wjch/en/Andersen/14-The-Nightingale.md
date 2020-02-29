@@ -9,11 +9,164 @@
 - [夜莺（安徒生著童话）](https://baike.baidu.com/item/%E5%A4%9C%E8%8E%BA/3812157)
 
 - [The Nightingale](#the-nightingale)
+  - [As-is](#as-is)
   - [Audio Transcript](#audio-transcript)
   - [Synopsis](#synopsis)
   - [Curriculum guidance](#curriculum-guidance)
   - [Background](#background)
   - [Reading / listening comprehension](#reading--listening-comprehension)
+
+## As-is
+
+In China, you know of course, the emperor is Chinese, and everyone he has around him is Chinese too. Now this happened many years ago, but that is just why the story is worth hearing, before it is forgotten. The emperor's palace was the most magnificent in the world. It was made entirely of fine porcelain, so precious and so fragile and delicate that one really had to watch one's step. In the garden the most unusual flowers were to be seen, and teh most beautiful had fastened to them silver bells that tinkled so that no one would go past without noticing them. Yes, everything had been very well thought out in the emperor's garden, and it stretched so far that even the gardener didn't know where it stopped. If one kept on walking, one came to the loveliest forest with great trees and deep lakes. The forest stretched all teh way down to the sea, which was blue and so deep that great ships could sail right in under the branches. And in these branches lived a nightingale that sang so sweetly that even the poor fisherman, who had so many other things to keep him busy, lay still and listened when he was out at night pulling in his net.
+
+"Good heavens! How beautiful!" he said. But then he had to look after his net and forgot the bird, although the next night, when it sang again and the fisherman came out there, he said the same thing: "Good heavens! How beautiful!"
+
+From every land in the world travelers came to the emperor's city. They admired the city, the palace, and the garden. But when they heard the nightingale, they all said: "But this is really the best thing of all!" And the travelers told about it when they got home, and scholars wrote many books about the city, the palace, and the garden. But they didn't forget the nightingale - it was given the highest place of all. And those who were poets wrote the loveliest poems, each one about the nightingale in the forest by the sea.
+
+These books went around the world, and once some of them came to the emperor. He sat in his golden chair, reading and reading and nodding his head, for he was pleased by the lovely descriptions of the city, the palace, and the garden. "But the nightingale is really the best thing of all" - there it stood in print.
+
+"What's that?" said the emperor. "The nightingale? Why, I don't know anything about it! Is there such a bird in my empire, in my very own garden? I have never heard of it before! Fancy having to find this out from a book!"
+
+And then he summoned his chamberlain, who was so grand that if anyone of lower rank dared speak to him or ask about something, he would only say: "P!" And that doesn't mean anything at all.
+
+There is supposed to be a highly remarkable bird here called a nightingale!" said the emperor. "They say it's the very best thing of all in my great kingdom! Why hasn't anyone ever told me about it?"
+
+"I have never heard it mentioned before!" said the chamberlain. "It has never been presented at court!"
+
+"I want it to come here this evening and sing for me," said the emperor. "The whole world knows what I have, and I don't!"
+
+"I have never heard it mentioned before!" said the chamberlain. "I shall look for it! I shall find it!"
+
+But where was it to be found? The chamberlain ran up and down all the stairs, through great halls and corridors. But no one he met had ever heard of th nightingale, and the chamberlain ran back again to the emperor and said it was probably a fable made up by the people who write books. "Your Imperial Majesty shouldn't believe what si written in them. They are inventions and belong to something called black magic!"
+
+"But the book in which I read it was sent to me by the mighty emperor of Japan, so it cannot be false. I will hear the nightingale! It shall be here this evening! I bestow my hightest patronage upon it! And if it doesn't come, I'll have the whole court thumped on their stomachs after they have eaten supper!"
+
+"Tsing-pe!" said the chamberlain, and again ran up and down all the great halls and corridors. And half the court ran with him, for they weren't at all willing to be thumped on their stomachs. They asked and asked about the remarkable nightingale that was known to the whole world but not to the court.
+
+Finally they met a little peasant girl in the kitchen. She said, "The nightingale? Heavens! I know it well. Yes, how it can sing! Every evening I'm permitted to take a few scraps from the table home to my poor sick mother -she lives down by the shore. And on my way back, when I'm tired and stop to rest in the forest, I can hear the nightingale sing. It brings tears to my eyes. It's jus as though my mother were kissing me."
+
+"Little kitchen maid!" said the chamberlain. "You shall have a permanent position in the kitchen and permission to stand and watch the emperor eating if you can lead us to the nightingale. It has been summoned to appear at court this evening."
+
+And so they all set out for the part of the forest where the nightingale usually sang. Half the court went with them. As they were walking along at a fast pace a cow started mooing.
+
+"Oh!" said a courtier. "There it is! Indeed, what remarkable force for so tiny an animal. I am certain I have heard it before."
+
+"No, that's the cow mooing." said the little kitchen maid. "We're still quite a long way from the spot."
+
+Now the frogs started croaking in the marsh.
+
+"Lovely," said the Chinese imperial chaplain. "Now I can hear her. It's just like tiny church bells."
+
+"No, that's the frogs!" said the little kitchen maid. "But now I think we'll soon hear it."
+
+Then the nightingale started to sing.
+
+"That's it!" said the little girl. "Listen! Listen! There it sits!" And then she pointed to a little gray bird up in the branches.
+
+"Is it possible?" said the chamberlain. "I had never imagined it like this. How ordinary it looks! No doubt seeing so many fine people has made it lose its *couleur*!"
+
+"Little nightingale," shouted the little kitchen maid quite loud, "our gracious emperor would so like you to sing for him!"
+
+"With the greatest pleasure," said the nightingale, and sang in a way to warm one's heart.
+
+"It si just like glass bells!" said the chamberlain. "And look at that tiny throat. How it vibrates! It's remarkable that we have never heard it before. It will be a great success at court."
+
+"Shall I sing for the emperor again?" said the nightingale, who thought the emperor was there.
+
+"My enchanting little nightingale," said the chamberlain, "it gives me the greatest pleasure to command you to appear at a court celebration this evening, where you will delight his High Imperial Eminence with your *charmante* song!"
+
+"It sounds best out of doors," said the nightingale, but it followed them gladly when it heard it was the emperor's wish.
+
+The palace had been properly polished up. Walls and floors, which were of porcelain, glowed from the lights of thousands of golden lamps. The loveliest flowers, which really could tinkle, had been lined up in the halls. There was such a running back and forth that it caused a draft that made all the bells tinkle so one couldn't hear oneself think.
+
+In the middle of the great hall, where the emperor sat, a golden perch had been placed for the nightingale to sit on. The whole court was there, and the little kitchen maid had been given permission to stand behind the door, for now she really did have the little of kitchen maid. Everyone was wearing his most splendid attire. They all looked at the little gray bird, to which the emperor was nodding.
+
+And the nightingale sang so sweetly that tears came to the emperor's eyes and rolled down his cheeks. And then the nightingale sang even more sweetly. It went straight to one's heart. And the emperor was so pleased that he said the nightingale was to have his golden slipper to wear around its neck. But the nightingale said no, thank you - it had been rewarded enough.
+
+"I have seen tears in the emperor's eyes. To me, that is the richest treasure. An emperor's tears have a wondrous power. Heaven knows I have been rewarded enough!" And then it sang again with its sweet and blessed voice.
+
+"That is the most adorable *coquetterie* I know of," said the ladies standing around. And then they put water in their mouths so they could gurgle whenever anyone spoke to them, for now they thought that they were nightingales too. Yes, even the lackeys and chambermaids let it be known that they were also satisfied, and that was saying a lot, for they are the hardest to please. Yes indeed, the nightingale had really been a success.
+
+Now it was to remain at court and have its own cage as well as freedom to take a walk outside twice during the day and once at night. It was given twelve servants, too, each one holding tightly to a silken ribbon fastened to its leg. That kind of walk was no pleasure at all.
+
+The whole city talked about the remarkable bird, and whenever two people met, the first merely said "Night!" and the other said "Gale!" And then they sighed and understood each other! Yes, eleven shopkeepers' children were named after it, but not one of them could ever sing a note in his life!
+
+One day a big package came for the emperor. On the outside was written "Nightingale."
+
+"Here's a new book about our famous bird," said the emperor. But it was no book, it was a little work of art in a case: an artificial nightingale made to resemble the real one, except that it was encrusted with diamonds and rubies and sapphires! As soon as the artificial bird was wound up it could sing one of the melodies the real one sang, and then its tail bobbed up and down, glittering with gold and silver. Around its neck hung a ribbon, and on it was written: "The emperor of Japan's nightingale is poor compared to the emperor of China's."
+
+"How lovely!" said everyone. And the person who had brought the artificial nightingale immediately had the title of chief-imperial-nightingale-bringer bestowed upon him.
+
+"Now they must sing together! What a duet that will be!"
+
+And then they had to sing together, but is didn't really come off because the real nightingale sang in its own way and the artificial bird worked mechanically.
+
+"It is not to blame," said the music master. "It keeps time perfectly and according to the rules of my own system!" Then the artificial bird had to sing alone. It was as much of a success as the real one, and besides, it was so much more beautiful to look at: it glittered like bracelets and brooches.
+
+Thirty-three times it sang one and the same melody, and still it wasn't tired. People were only too willing to hear it from the beginning again, but the emperor thought that nwo the living nightingale should also sing a little. But where was it? No one had noticed it fly out of the open window, away to its green forest.
+
+"But what kind of behavior is that?" said the emperor. And all the courtiers berated it and said the nightingale was a most ungrateful bird.
+
+"We still have the best bird," they said, and again the artificial bird had to sing. And it was the thirty-fourth time they had heard the same tune, but they didn't know it all the way through yet, for it was so hard. And the music master praised the bird very highly - yes, even assured them that it was better than the real nightingale, not only as far as its clothes and the many diamonds were concerned, but internally as well.
+
+"You see, my lords and ladies, and your Imperial Majesty above all! You can never figure out what the real nightingale will sing, but with the artificial bird everything had already been decided. This is the way it will be, and not otherwise. It can be accounted for; it can be opened up to reveal teh human logic that has gone into the arrangement of the works, how they operate and how they turn one after the other!"
+
+"Those are my thoughts precisely!" they all said. And on the following Sunday the music master was allowed to show the bird to the people. They were also going to hear it sing, said the emperor. And they heard it and were as happy as if they had all trunk themselves merry on tea, for that is so very Chinese. And then they all said "Oh" and held their index fingers high in the air and nodded. But the poor fisherman, who had heard the real nightingale, said: "It sounds pretty enough, and it is similar too. But something is missing. I don't know what it is."
+
+The real nightingale was banished from the land.
+
+The artificial bird had its place on a silken pillow close to the emperor's bed. All the gifts it had received, gold and precious stones, lay around it, and its title had risen to high-imperial-bedside-table-singer. It ranked  Number One on the left, for the emperor considered the side where the emperor is on the left side too. The music master wrote a treatise in twenty-five volumes about the artificial bird. It was very learned and very long and contained the biggest Chinese words, and all the people said they had read and understood it, for otherwise they would have been considered stupid and would have been thumped on their stomachs.
+
+It went on like this for a whole year. The emperor, the court, and the other Chinese knew every little "cluck" in the song of the artificial bird by heart. But this is why they prized it so highly now: they could sing along with it themselves, and this they did! The street boys sang "Zizizi! Cluck-cluck-cluck!" And the emperor sang it too. Yes, it was certainly lovely.
+
+But one evening, as the artificial bird was singing away and emperor was lying in bed listening to it, something went "Pop!" inside the bird. "Whirrrrrr!" All the wheels went around, and then the music stopped.
+
+The emperor sprang out of bed and had his personal physician summoned. But what good was he? Then they summoned the watchmaker, and after much talk and many examinations of the bird he put it more or less in order again. Nut he said it must be used as sparingly as possible. The cogs were so worn down that it wasn't possible to put in new ones in a way that would be sure to make music. What a great affliction this was! Only once a year did they dare let the artificial bird sing, and even that was hard on it. But then the music master made a little speech, with big words, and said it was just as good as new, and then it was just as good as new.
+
+Five years passed, and then a great sorrow fell upon the land. They were all fond of their emperor, but now he was sick and it was said he could not live. A new emperor had already been picked out, and people stood out int the streeet and asked the chamberlain hwo their emperor was.
+
+"P!" he said, and shook his head.
+
+Cold and pale, the emperor lay in his great magnificent bed. The whole court thought he was dead, and they all ran off to greet the new emperor. The lackeys ran out to talk about it, and the chambermaids had a big tea party. Cloths had been put down n all the halls and corridors to deaden the sound of footsteps. And now it was so quiet, so quiet. But the emperor was not yet dead. Stiff and pale, he lay in the magnificent bed with the long velvet curtains and the heavy gold tassels. High above him a window stood open, and the moon shone in on the emperor and the artificial bird.
+
+The poor emperor could hardly breathe. It was as though something heavy were sitting on his chest. He had put on his golden crown and was holding the emperor's golden sword in one hand and his magnificent banner in the other. All around from the folds of the velvet curtains strange faces were peering out. Some were quite hideous, others so kindly and mild. These were all the emperor's good and wicked deeds that were looking at him now that Death was sitting on his heart.
+
+"Do you remember that?" whispered one after the other. "Do you remember that?" And then they told him so much that the sweat stood out on his forehead.
+
+"I never knew that!" said the emperor. "Music! Music! The big Chinese drum!" he shouted. "So I don't have to hear all the things they're saying!"
+
+But they kept it up, and Death nodded, just the way the Chinese do, at everything that was being said.
+
+"Music! Music!" shrieked the emperor. "Blessed little golden bird, sing now! Sing! I've given you gold and costly presents. I myself hung my golden slipper around your neck. Sing now! Sing!"
+
+But the bird kept silent. There was no one to wind it up, so it didn't sing. But Death kept on looking at the emperor out of his big empty sockets, and it was so quiet, so terribly quiet.
+
+Suddenly the loveliest song could be heard close to the window. It was the little real nightingale sitting on the branch outside. It had heard of the emperor's need and had come to sing him comfort and hope. And as it sang the face became paler and paler, and the blood started flowing faster and faster in the emperor's weak body, and Death himself listened and said, "Keep on, little nightingale, keep on!"
+
+"If you will give me the magnificent golden sword! If you will give me the rich banner! If you will give me the emperor's crown!"
+
+And Death gave each treasure for a song, and the nightingale kept on singing. And it sang about the quiet churchyard where the white roses grow the scent of the older tree perfumes the air and where the fresh grass is watered by the tears of the bereaved. Then Death was filled with longing for his garden and drifted like a cold, white mist out of the window.
+
+"Thank you, thank you!" said the emperor. "Heavenly little bird, I know you, all right. I have driven you out of my land and empire, and still you have sung the bad visions away from my bed and removed Death from my heart! How can I reward you?"
+
+"You have already rewarded me!" said the nightingale. "You gave me the tears from your eyes the first time I sang. I will never forget that. Those are the jewels that do a singer's heart good. But sleep now, and get well and strong. I shall sing for you."
+
+And it sang, and the emperor fell into a sweet sleep, which was calm and beneficial.
+
+The sun was shining in on him through the windows when he awoke, refreshed and healthy. None of his servants had returned yet, for they thought he was dead, but the nightingale still sat there and sand.
+
+"You shall sing only when you yourself want to, and I shall break the artificial bird into a thousand bits!"
+
+"Don't' do that!" said the nightingale. "Why, it has done what good it could. Keep it as before. I cannot build my nest and live at the palace, but let me come whenever I want to. Then in the evening I will sit on the branch here by the window and sing for you. I shall sing about those who are happy and those who suffer. I shall sing of good and evil, which is kept hidden from you. The little songbird flies far, to the poor fisherman, to the farmer's roof, to everyone who is far from you and your court. I love your heart more than your crown, and yet your crown has an odor of sanctity about it. I will come. I will sing for you. But you must promise me one thing!"
+
+"Everything!" said hte emperor, standing there in his imperial robe, which he himself had put on, and holding the heavy golden sword up to his heart.
+
+"One thing I beg of you. Tell no one that you have a little bird that tells you everything! Then things will go even better!"
+
+And then the nightingale flew away.
+
+The servants came in to have a look at their dead emperor. Yes, there they stood, and the emperor said, "Good morning!"
 
 ## Audio Transcript
 

@@ -1,18 +1,62 @@
 # Contents of Andersen's Fairy Tales
 
-*as is = copy from the book named Andersen's Fairy Tales in Chaoyang Foreign Language School*
+_as is = copy from the book named Andersen's Fairy Tales in Chaoyang Foreign Language School_
+
+Plot Line (Plotline) / Synopsis - Story Review Format
+
+`Format 1`
+
+- Name: FirstName LastName
+- Date: YYYY-MM-DD
+- Story Map
+  - Title
+  - Author
+  - Setting
+    - Time
+    - Place
+  - Main Characters
+  - Problem
+  - Beginning
+  - Middle
+  - End
+
+`Format 2`
+
+- Name:
+- Date:
+- ROLL-A-STORY
+  - Tittle:
+  - Setting:
+  - Characters:
+  - Problem:
+  - Solution:
+  - Theme:
+
+`Format 3`
+
+- Beginning
+  - Characters:
+  - Background:
+  - Problem
+- Rising actions
+- Climax
+- Resolution/End of the story (sometimes a moral is revealed)
+
+* * *
+
+## Contents
 
 [Introduction](../Introduction)
 
-1. [The Tinderbox](../01-The-Tinderbox)
-2. [Little Claus and Big Claus](../02-Little-Claus-and-Big-Claus)
-3. [The Princess on the Pea](../03-The-Princess-on-the-Pea)
-4. [The Fable Alludes to You](../04The-Fable-Alludes-to-You)
-5. [The Talisman](../05-The-Talisman.docx)
-6. [The Little Mermaid](../06-The-Little-Mermaid)
-7. [The Emperor's New Clothes](../07-The-Emperor's-New-Clothes)
-8. [The Steadfast Tin Soldier](../08-The-Steadfast-Tin-Soldier)
-9. [The Garden of Paradise](../09-The-Garden-of-Paradise)
+1.  [The Tinderbox](../01-The-Tinderbox)
+2.  [Little Claus and Big Claus](../02-Little-Claus-and-Big-Claus)
+3.  [The Princess on the Pea](../03-The-Princess-on-the-Pea)
+4.  [The Fable Alludes to You](../04The-Fable-Alludes-to-You)
+5.  [The Talisman](../05-The-Talisman.docx)
+6.  [The Little Mermaid](../06-The-Little-Mermaid)
+7.  [The Emperor's New Clothes](../07-The-Emperor's-New-Clothes)
+8.  [The Steadfast Tin Soldier](../08-The-Steadfast-Tin-Soldier)
+9.  [The Garden of Paradise](../09-The-Garden-of-Paradise)
 10. [The Flying Trunk](../10-The-Flying-Trunk)
 11. [The Rose Elf](../11-The-Rose-Elf)
 12. [The Evil Prince (A Legend)](../12-The-Evil-Prince)
@@ -56,15 +100,15 @@
 
 [Back Cover](../Back-Cover)
 
----
+* * *
 
 ## References
 
 Hans Christian Andersen Center
 
-- [The Complete Andersen](https://andersen.sdu.dk/vaerk/hersholt/index_e.html)
-- [BBC School Radio](www.bbc.co.uk/schoolradio)
-  - [See all episodes from Tales of Hans Christian Andersen](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-hans-christian-andersen/z6j2cqt)
+-   [The Complete Andersen](https://andersen.sdu.dk/vaerk/hersholt/index_e.html)
+-   [BBC School Radio](www.bbc.co.uk/schoolradio)
+    -   [See all episodes from Tales of Hans Christian Andersen](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-hans-christian-andersen/z6j2cqt)
 
 English KS2: Tales of Hans Christian Andersen
 
@@ -80,10 +124,10 @@ Pupils have the opportunity to listen to and read a selection of Andersen’s st
 
 Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This means that careful selection of texts is required to ensure age-appropriateness. Please see the teachers' notes below for full synopses and suggestions for use in the classroom.
 
-  - [Tales of Hans Christian Andersen](https://www.bbc.co.uk/search?q=Tales+of+Hans+Christian+Andersen)
-  - [A third party tool for accessing BBC iPlayer content](https://www.squarepenguin.co.uk)
-  - [Apowersoft Free Online Audio Recorder](https://www.apowersoft.com/free-audio-recorder-online)
-  
+-   [Tales of Hans Christian Andersen](https://www.bbc.co.uk/search?q=Tales+of+Hans+Christian+Andersen)
+-   [A third party tool for accessing BBC iPlayer content](https://www.squarepenguin.co.uk)
+-   [Apowersoft Free Online Audio Recorder](https://www.apowersoft.com/free-audio-recorder-online)
+
 ```cmd
 C:\Users\opc>get_iplayer --PID=p03vvqvx
 get_iplayer 3.25.0-MSWin32, Copyright (C) 2008-2010 Phil Lewis
@@ -105,14 +149,14 @@ INFO: Tagging MP4
 C:\Users\opc>
 ```
 
-- [Hans Christian Andersen on BBC](https://www.bbc.co.uk/search?q=Tales+of+Hans+Christian+Andersen&sa_f=search-product&scope=)
+-   [Hans Christian Andersen on BBC](https://www.bbc.co.uk/search?q=Tales+of+Hans+Christian+Andersen&sa_f=search-product&scope=)
 
 As the title conveys, The Complete Andersen is a rather extensive collection of Andersen's tales - and this is the most comprehensive edition of Andersen's fairy tales in English (American) on the internet.
 
-- [Hans_Christian_Andersen_bibliography](https://en.wikipedia.org/wiki/Hans_Christian_Andersen_bibliography)
+-   [Hans_Christian_Andersen_bibliography](https://en.wikipedia.org/wiki/Hans_Christian_Andersen_bibliography)
 
 ## Other works
 
-- [Thumbelina](../Thumbelina)
-- [The Fir Tree](../the_fir_tree)
-- [The Wild Swans](../the-wild-swans)
+-   [Thumbelina](../Thumbelina)
+-   [The Fir Tree](../the_fir_tree)
+-   [The Wild Swans](../the-wild-swans)

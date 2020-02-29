@@ -1,5 +1,7 @@
 # 用 SSH 搭建一个简单代理服务器
 
+- Keywords: SSH, Tunnel, Proxy, SSH-Tunnel,
+
 TOC
 
 - [用 SSH 搭建一个简单代理服务器](#%e7%94%a8-ssh-%e6%90%ad%e5%bb%ba%e4%b8%80%e4%b8%aa%e7%ae%80%e5%8d%95%e4%bb%a3%e7%90%86%e6%9c%8d%e5%8a%a1%e5%99%a8)
