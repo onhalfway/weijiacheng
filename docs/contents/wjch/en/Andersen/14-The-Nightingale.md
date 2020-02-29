@@ -9,6 +9,7 @@
 - [夜莺（安徒生著童话）](https://baike.baidu.com/item/%E5%A4%9C%E8%8E%BA/3812157)
 
 - [The Nightingale](#the-nightingale)
+  - [Plotline](#plotline)
   - [As-is](#as-is)
   - [Audio Transcript](#audio-transcript)
   - [Synopsis](#synopsis)
@@ -16,7 +17,23 @@
   - [Background](#background)
   - [Reading / listening comprehension](#reading--listening-comprehension)
 
+## Plotline
+
+- Story Map
+  - Title: The Nightingale
+  - Author: Hans Christian Andersen
+  - Setting
+    - Time: many years ago
+    - Place: ancient China
+  - Main Characters: Emperor, Nightingale
+  - Problem: The emperor want to find the nightingale who can sing *beautifully*/sweetly.
+  - Beginning: The emperor knew a special bird in his garden - mysterious nightingale and summoned his chamberlain to find the bird.
+  - Middle: Then, they found the nightingale and brought it back. The nightingale sang so sweetly that tears came to the emperor's eyes.But one day an artificial bird looking more beautiful replaced the real one. After one year, this mechanical bird broke down.
+  - End: Five years later, the emperor got sick and was dying. Nobody took care of the emperor. At this time the real nightingale came back, adn her song revived the emperor.
+
 ## As-is
+
+TODO translation
 
 In China, you know of course, the emperor is Chinese, and everyone he has around him is Chinese too. Now this happened many years ago, but that is just why the story is worth hearing, before it is forgotten. The emperor's palace was the most magnificent in the world. It was made entirely of fine porcelain, so precious and so fragile and delicate that one really had to watch one's step. In the garden the most unusual flowers were to be seen, and teh most beautiful had fastened to them silver bells that tinkled so that no one would go past without noticing them. Yes, everything had been very well thought out in the emperor's garden, and it stretched so far that even the gardener didn't know where it stopped. If one kept on walking, one came to the loveliest forest with great trees and deep lakes. The forest stretched all teh way down to the sea, which was blue and so deep that great ships could sail right in under the branches. And in these branches lived a nightingale that sang so sweetly that even the poor fisherman, who had so many other things to keep him busy, lay still and listened when he was out at night pulling in his net.
 

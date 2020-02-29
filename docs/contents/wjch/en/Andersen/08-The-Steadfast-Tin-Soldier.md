@@ -11,8 +11,8 @@
 
 - [The Steadfast Tin Soldier](#the-steadfast-tin-soldier)
   - [Book Description](#book-description)
-  - [Plot line](#plot-line)
-  - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
+  - [Plotline](#plotline)
+  - [As is](#as-is)
   - [BBC The Brave Tin Soldier](#bbc-the-brave-tin-soldier)
     - [Audio Transcript](#audio-transcript)
     - [Synopsis](#synopsis)
@@ -26,7 +26,7 @@ Award-winning author Tor Seidler and the incomparable illustrator Fred Marcellin
 
 True love blossoms between a handsome one-legged tin soldier and a graceful paper ballerina, posed in arabesque. But when a jealous goblin pushes the soldier out a window, the soldier embarks on a journey through storm drains, past toll-collecting rats, into canals, and inside a fish before finding his way back with his beloved ballerina.
 
-## Plot line
+## Plotline
 
 有情人终成眷属；
 
@@ -39,7 +39,7 @@ ROLL-A-STORY
 - Solution: The one-legged tin soldier was steadfast.
 - Theme: The one-legged tin soldier never gave up and finally got together with his beloved dancer.
 
-## 正文 as is
+## As is
 
 There were once five-and-twenty tin soldiers; they were all brothers, for they had been born of an old tin spoon. They shouldered their arms, they faced **straight ahead**, and their uniforms--red and blue--were **ever** so lovely. The very first thing they heard in this world, when the **lid** was **taken off** the box in which they were lying, were the words: "Tin soldiers!" It was shouted by a little boy, and he **clapped** his hands. They had been given to him for his birthday, and now he was **lining them up** on the table. Each soldier looked exactly like the other. Only one was **slightly** different: he had but one leg, for he was the last one to be **cast** and there hadn't been enough tin. And yet he stood just **as** **firmly** on his one leg **as** the others did on their two, and he is the very one who **turns out to be** **unique**.
 

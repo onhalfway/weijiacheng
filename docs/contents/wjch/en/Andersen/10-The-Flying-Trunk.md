@@ -3,7 +3,7 @@
 - 飞箱/飞行的箱子
 
 - [The Flying Trunk](#the-flying-trunk)
-  - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
+  - [As is](#as-is)
   - [Plotline](#plotline)
   - [The Flying Trunk wikipedia](#the-flying-trunk-wikipedia)
     - [Plot summary](#plot-summary)
@@ -11,7 +11,7 @@
     - [The Flying Trunk 背景知识](#the-flying-trunk-%e8%83%8c%e6%99%af%e7%9f%a5%e8%af%86)
     - [Reference Version （参考译文）](#reference-version-%e5%8f%82%e8%80%83%e8%af%91%e6%96%87)
 
-## 正文 as is
+## As is
 
 There was once a **merchant**; he was so rich that he could pave the whole street, and most of a little **alleyway** too, with silver money. But he didn't do it; he knew of other ways to use his money. If he spent a **shilling**, he got back a **daler**. That's the sort of merchant he was--and then he died.
 

@@ -2,25 +2,25 @@
 
 _as is = copy from the book named Andersen's Fairy Tales in Chaoyang Foreign Language School_
 
-Plot Line (Plotline) / Synopsis - Story Review Format
+Plot Line (Plotline) / Synopsis / Biography / 书评
 
-`Format 1`
+`Template 1`
 
 - Name: FirstName LastName
 - Date: YYYY-MM-DD
 - Story Map
-  - Title
-  - Author
+  - Title:
+  - Author:
   - Setting
-    - Time
-    - Place
-  - Main Characters
-  - Problem
-  - Beginning
-  - Middle
-  - End
+    - Time:
+    - Place:
+  - Main Characters:
+  - Problem:
+  - Beginning:
+  - Middle:
+  - End:
 
-`Format 2`
+`Template 2`
 
 - Name:
 - Date:
@@ -32,15 +32,15 @@ Plot Line (Plotline) / Synopsis - Story Review Format
   - Solution:
   - Theme:
 
-`Format 3`
+`Template 3`
 
 - Beginning
   - Characters:
   - Background:
-  - Problem
-- Rising actions
-- Climax
-- Resolution/End of the story (sometimes a moral is revealed)
+  - Problem:
+- Rising actions:
+- Climax:
+- Resolution/End of the story (sometimes a moral is revealed):
 
 * * *
 

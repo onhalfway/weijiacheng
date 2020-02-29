@@ -1,16 +1,55 @@
 # The Teapot
 
-Hans Christian Andersen
-
-- [ ] TODO: translation checking
 - teapot /ˈtiːpɑːt/ n. 茶壶
 - pot n. 壶；盆；罐
+
+- [The Teapot](#the-teapot)
+  - [Biography (Plotline)](#biography-plotline)
+  - [Plot summary](#plot-summary)
+  - [As is](#as-is)
+  - [Translation by jean hersholt](#translation-by-jean-hersholt)
+
+## Biography (Plotline)
+
+The Teapot by Hans Christian Andersen
+
+1 proud
+
+- who: teapot
+- where: tea table
+- fell: proud of its porcelain; proud of its long spout; proud of its broad handle.
+
+2 broken
+
+- who: teapot, mistress
+- where: ready-laid table
+- like: the spout broke off and the handle broke off.
+
+3 given away
+
+- who: teapot, beggar
+- where: corner -> beggar's home
+
+4 bulb was put into it
+
+- who: teapot, flower bulb
+- where: beggar's home
+- fell: I was so happy because of that. How happy it must have been then.
+
+5 thrown away
+
+- who: teapot
+- where: beggar's home
+- fell: I have a memory that I cannot lose.
+- like: broken in two
 
 ## [Plot summary](https://en.wikipedia.org/wiki/The_Teapot)
 
 A porcelain teapot rules the tea table. She is very proud of her handle and spout, but not quite so proud of her lid (which is cracked). She is very proud of holding the tea leaves and of being the one to pour forth her contents for thirsty humankind. One day, the teapot is dropped and the handle and spout are broken. She is given to a beggar woman who fills her with soil and plants a flowering bulb within her. The teapot then feels a happiness she has never known. At the last, the teapot is broken in two, the bulb removed to a bigger pot, and the teapot thrown away. She cherishes her memories.
 
-## 正文 as is
+## As is
+
+TODO translation checking
 
 There was a proud teapot--**proud of** its **porcelain**, proud of its long **spout**, proud of its broad **handle**. It had something in front and something behind, the spout in front and the **handle** behind, and it **talked about** that. But it didn't talk about its **lid**; that was **cracked** and had been **riveted**. It had a **flaw**, and one is not **fond of** talking about one's flaws--the others are sure to do that. Cups, **cream pitcher**, and sugar bowl, the whole **tea service**, would be sure to remember more the **frailty** of the lid, and to talk about it, than about the good handle and the excellent spout. And the teapot was **aware of** this.
 
@@ -53,7 +92,7 @@ There was a proud teapot--**proud of** its **porcelain**, proud of its long **sp
 - mistress /ˈmɪstrəs/ n. 情妇；女主人；主妇；女教师；女能人
 - diffuse /dɪˈfjuːs/ adj. 弥漫的；散开的 vt. 扩散；传播；漫射 vi. 传播；四散
 - blessing 祝福
-- thirsting 渴望 
+- thirsting 渴望
 - thirst n. 渴望；口渴；热望 vi. 渴望；口渴
 - humanity /hjuːˈmænəti/ n. 人类；人道；仁慈；人文学科
 - interior /ɪnˈtɪriər/ n. 内部，里面；内景；内陆，腹地；内政，内务；本质 adj. 内部的，里面的；

@@ -20,7 +20,7 @@
 
 - [The Emperor’s New Clothes](#the-emperors-new-clothes)
   - [声明](#%e5%a3%b0%e6%98%8e)
-  - [Plot line 情节线索](#plot-line-%e6%83%85%e8%8a%82%e7%ba%bf%e7%b4%a2)
+  - [Plotline 情节线索](#plotline-%e6%83%85%e8%8a%82%e7%ba%bf%e7%b4%a2)
   - [Plot](#plot)
   - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
   - [Version 2 English](#version-2-english)
@@ -33,7 +33,7 @@
     - [Background](#background)
     - [Reading / listening comprehension](#reading--listening-comprehension)
 
-## Plot line 情节线索
+## Plotline 情节线索
 
 - Beginning
   - Characters: the **emperor**
