@@ -25,7 +25,7 @@
 - [Writing](../wjch/en/writing)
 - [Spoken English](../wjch/en/spoken)
 - [Surfing the Internet](../wjch/en/resource)
-- [EIM- English In Mind](../wjch/en/eim)
+- [EIM- English In Mind](../wjch/en/EIM-English-in-Mind/eim)
 - [皇帝的新装 The Emperor’s New Clothes](../wjch/en/Andersen/The-New-Clothes)
 - [丑小鸭 The Ugly Duckling](../wjch/en/Andersen/The-Ugly-Duckling)
 - [The Teapot 茶壶](../wjch/en/Andersen/The-Teapot)
@@ -68,3 +68,4 @@
 - [Teaching Kids News](https://www.teachingkidsnews.com)
 - [ELA-Science-Social Studies](https://www.dogonews.com/)
 - [英语点津](http://language.chinadaily.com.cn/)
+- [China Daily](http://language.chinadaily.com.cn/)
