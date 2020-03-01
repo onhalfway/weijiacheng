@@ -15,7 +15,7 @@ function getSearchTerm()
 $(document).ready(function() {
 
     document.oncopy=function(){
-            alert('This website is Copyright.');
+            //alert('This website is Copyright.');
             return false;
     }
 
