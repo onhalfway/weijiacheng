@@ -1,19 +1,15 @@
 # 英语
 
-## [Word List](word-list)
+## 晨读
 
-## [Grammar](english-grammar)
+- [Morning With Reading](morning-with-reading)
+- [3A-B Recording](20191213-recording)
 
 ## [Headway](../../contents/lib/headway)
 
 - partial Headway learning resources in lib path
 - all Headway learning resources in baidu net disk
 - all Headway learning resources in Slim USB disk
-
-## 晨读
-
-- [Morning With Reading](morning-with-reading)
-- [3A-B Recording](20191213-recording)
 
 ## 影音
 
@@ -25,6 +21,10 @@
 
 ## 英语日积月累
 
+- [FAQ](en-faq)
+- [Word List](word-list)
+- [Grammar](english-grammar)
+- [24 Solar Terms](../wjch/en/24-solar-terms)
 - [Writing](../wjch/en/writing)
 - [Spoken English](../wjch/en/spoken)
 - [Surfing the Internet](../wjch/en/resource)
