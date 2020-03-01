@@ -33,6 +33,8 @@
 
 ## 居家
 
+Refer to Tencent Docs
+
 - [空中课堂, 教育ID/123456](http://kzkt.bjchyedu.cn/) 
   - [空中课堂, 无需用户名密码](http://spzy.bjchyedu.cn)
 - [居家生活指南](https://www.meipian3.cn/2qn9qvf7?first_share_to=singlemessage&first_share_uid=79442535&share_depth=3&share_source=groupmessage&sharer_id=ojq1tt56rP5ab8cRi_sE85U0Df74&user_id=ohbsluBALM4gLGkdiPCHy4MDllOw)
