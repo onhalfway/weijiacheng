@@ -11,6 +11,17 @@
 
 ---
 
+Physical Fitness
+
+<video controls="controls">
+    <source src="../lib/physical-fitness-1.mp4" type="video/mp4" />
+</video>
+<video controls="controls">
+    <source src="../lib/physical-fitness-2.mp4" type="video/mp4" />
+</video>
+
+---
+
 ## 信息
 
 - 北京市朝阳外国语学校
