@@ -15,15 +15,12 @@
 
 - [ev002_Charlotte’s-Web](ev002_Charlotte’s-Web)
 
-## 英语共享资源
-
-- [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
-
 ## 英语日积月累
 
 - [FAQ](en-faq)
 - [Word List](word-list)
 - [Grammar](english-grammar)
+- [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
 - [24 Solar Terms](../wjch/en/24-solar-terms)
 - [Writing](../wjch/en/writing)
 - [Spoken English](../wjch/en/spoken)
