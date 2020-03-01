@@ -47,7 +47,7 @@ Refer to Tencent Docs
 - [综合体能训练](https://www.meipian3.cn/2qn9qvf7?first_share_to=singlemessage&first_share_uid=79442535&share_depth=3&share_source=groupmessage&sharer_id=ojq1tt56rP5ab8cRi_sE85U0Df74&user_id=ohbsluBALM4gLGkdiPCHy4MDllOw)
 - [HIIT腿部强化训练](https://mp.weixin.qq.com/s/NAa60R8zrBkt-qG1oe1m6A)
 
-- [居家健康体能自测](https://v.qq.com/x/page/n3065ezfkwx.html)
+- [居家健康体能自测-本站首页或此链接](https://v.qq.com/x/page/n3065ezfkwx.html)
 
 ## 中考
 
