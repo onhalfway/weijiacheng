@@ -14,11 +14,6 @@ function getSearchTerm()
 
 $(document).ready(function() {
 
-    document.oncopy=function(){
-            alert('This website is Copyright.');
-            return false;
-    }
-
     var search_term = getSearchTerm(),
         $search_modal = $('#mkdocs_search_modal'),
         $keyboard_modal = $('#mkdocs_keyboard_modal');

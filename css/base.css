@@ -1,5 +1,11 @@
 body {
     padding-top: 70px;
+    /* No copy. This website is Copyright. */
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
 }
 
 /* Replacement for `body { background-attachment: fixed; }`, which has
