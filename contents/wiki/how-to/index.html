@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Python - Jeff Wei分享站点</title>
+        <title>How To - Jeff Wei分享站点</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -62,7 +62,7 @@
                                 <a href="../../english">英语</a>
                             </li>
                             <li >
-                                <a href="..">编程</a>
+                                <a href="../../programming">编程</a>
                             </li>
                             <li >
                                 <a href="../../favorites">收藏</a>
@@ -86,95 +86,18 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#python">Python</a></li>
-            <li><a href="#python-installing">Python Installing</a></li>
-            <li><a href="#mkdocs-build-static-website-with-markdown-files">MKDocs: build static website with Markdown files.</a></li>
+        <li class="main active"><a href="#how-to">How To</a></li>
+            <li><a href="#about-how-to">About How To</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
+<h1 id="how-to">How To</h1>
 <ul>
-<li><a href="#python">Python</a></li>
-<li><a href="#python-installing">Python Installing</a></li>
-<li><a href="#mkdocs-build-static-website-with-markdown-files">MKDocs: build static website with Markdown files.</a></li>
+<li><a href="#how-to">How To</a></li>
+<li><a href="#about-how-to">About How To</a></li>
 </ul>
-<h1 id="python">Python</h1>
-<h2 id="python-installing">Python Installing</h2>
-<ul>
-<li><a href="https://www.python.org/">Python</a></li>
-<li>show version: <code>python --version</code></li>
-<li>If you are using Windows, some of the above commands may not work out-of-the-box. A quick solution may be to preface every Python command with <code>python -m</code><ul>
-<li>For a more permanent solution, you may need to edit your PATH environment variable to include the Scripts directory of your Python installation. Recent versions of Python include a script to do this for you. Navigate to your Python installation directory (for example C:\Python34), open the Tools, then Scripts folder, and run the win_add2path.py file by double clicking on it. Alternatively, you can <a href="https://svn.python.org/projects/python/trunk/Tools/scripts/win_add2path.py">download</a> the script and run it (python win_add2path.py).</li>
-</ul>
-</li>
-<li>Installing Python package manager: pip</li>
-<li><a href="http://pip.readthedocs.io/en/stable/installing/">pip</a></li>
-<li><a href="https://bootstrap.pypa.io/get-pip.py">download get-pip.py</a><ul>
-<li>install pip: <code>python get-pip.py</code></li>
-<li>show version: <code>pip --version</code></li>
-<li>upgrade pip: <code>pip install --upgrade pip</code></li>
-</ul>
-</li>
-</ul>
-<h2 id="mkdocs-build-static-website-with-markdown-files">MKDocs: build static website with Markdown files.</h2>
-<ul>
-<li><a href="https://www.mkdocs.org/#getting-started">mkdocs</a></li>
-<li><a href="https://www.mkdocs.org/">MkDocs: Project documentation with Markdown</a></li>
-<li>Installing MkDocs</li>
-<li><code>pip install mkdocs</code> or <code>python -m pip install mkdocs</code></li>
-<li><code>mkdocs --version</code> or <code>python -m mkdocs</code></li>
-<li>manpages</li>
-<li><code>pip install click-man</code></li>
-<li><code>click-man --target path/to/man/pages mkdocs</code></li>
-<li>MKDocs Getting Started</li>
-<li><code>mkdocs new my-project</code></li>
-<li><code>cd my-project</code></li>
-<li><code>mkdocs serve</code></li>
-<li><code>curl http://127.0.0.1:8000/</code></li>
-<li><code>mkdocs build</code></li>
-<li><code>mkdocs build --clean</code></li>
-<li><code>echo "site/" &gt;&gt; .gitignore</code></li>
-<li><code>mkdocs --help</code></li>
-<li><code>mkdocs &lt;command&gt; --help</code></li>
-<li><code>mkdocs build --help</code></li>
-<li>
-<p><code>mkdocs build --clean</code></p>
-</li>
-<li>
-<p><a href="https://cyent.github.io/markdown-with-mkdocs-material/">mkdocs-material</a></p>
-</li>
-<li>
-<p><a href="https://www.mkdocs.org/user-guide/deploying-your-docs/">Deploying your docs</a></p>
-</li>
-<li>For Github Project Pages<ul>
-<li><code>cd my-project</code></li>
-<li><code>mkdocs gh-deploy [--clean] [-v]</code></li>
-<li>That's it! Behind the scenes, MkDocs will build your docs and use the <a href="https://github.com/davisp/ghp-import">ghp-import</a> tool to commit them to the gh-pages branch and push the gh-pages branch to GitHub.</li>
-<li>run under PowerShell with Administrator will fail due to FileNotFoundError (Python 3.7.3, pip 19.2.3, MKDocs 1.0.4)</li>
-<li>success under git bash</li>
-<li><a href="https://git-scm.com/download/win">Git Bash for Windows</a></li>
-</ul>
-</li>
-<li>
-<p>For Github Organization and User Pages</p>
-<ul>
-<li><code>cd ../orgname.github.io/</code></li>
-<li><code>mkdocs gh-deploy --config-file ../my-project/mkdocs.yml --remote-branch master</code></li>
-</ul>
-</li>
-<li>
-<p><a href="https://www.mkdocs.org/">Deploying</a></p>
-</li>
-<li><a href="https://help.github.com/articles/creating-project-pages-manually/">GitHub project pages</a></li>
-<li><a href="https://help.github.com/en/articles/creating-project-pages-using-the-command-line">GitHub project pages</a></li>
-<li><a href="https://www.mkdocs.org/user-guide/deploying-your-docs/">Deploying your docs</a></li>
-<li><a href="https://help.github.com/en/articles/user-organization-and-project-pages">User, Organization, and Project Pages</a></li>
-<li>C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\commands\gh_deploy.py</li>
-<li>C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\</li>
-<li>C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\base.html</li>
-</ul>
-<pre><code class="shellscript">
-</code></pre></div>
+<h2 id="about-how-to">About How To</h2></div>
         </div>
 
         <footer class="col-md-12">
