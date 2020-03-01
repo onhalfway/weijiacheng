@@ -17,7 +17,7 @@
 
 ## 英语日积月累
 
-- [FAQ](en-faq)
+- [FAQ About English](faq-en)
 - [Word List](word-list)
 - [Grammar](english-grammar)
 - [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)

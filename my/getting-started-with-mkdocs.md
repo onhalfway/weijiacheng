@@ -1,5 +1,7 @@
 # [mkdocs](https://www.mkdocs.org/#getting-started)
 
+- Python.md -> MKDocs: build static website with Markdown files
+
 open terminal `Ctrl + \``
 
 `mkdocs --help`

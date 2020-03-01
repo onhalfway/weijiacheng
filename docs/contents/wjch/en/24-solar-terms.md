@@ -1,13 +1,19 @@
-# Book: This is the 24 solar terms
+# The 24 solar terms
 
-- [节气](http://tv.cctv.com/special/24jq/jieqi/index.shtml)
-- [节气歌](https://baike.baidu.com/item/%E8%8A%82%E6%B0%94%E6%AD%8C)
-- [Chinese Solar Terms](https://www.chinatravel.com/facts/chinese-solar-terms.htm)
-- [twenty four solar terms](../../english/twenty-four-solar-term.md)
-
-- [Book: This is the 24 solar terms](#book-this-is-the-24-solar-terms)
-  - [A Song on Solar Terms](#a-song-on-solar-terms)
-  - [Winter](#winter)
+- [The 24 solar terms](#the-24-solar-terms)
+  - [Reference](#reference)
+    - [Song of Solar Terms](#song-of-solar-terms)
+  - [Book(1-4): This is the 24 solar terms](#book1-4-this-is-the-24-solar-terms)
+    - [Story Plotline](#story-plotline)
+    - [8 Key Sections to Understand Solar Terms](#8-key-sections-to-understand-solar-terms)
+    - [Book Introduction](#book-introduction)
+    - [A Song on Solar Terms](#a-song-on-solar-terms)
+    - [Acknowledgements](#acknowledgements)
+    - [Back Cover - Content Introduction](#back-cover---content-introduction)
+  - [Book 1: Spring](#book-1-spring)
+  - [Book 2: Summer](#book-2-summer)
+  - [Book 3: Autumn](#book-3-autumn)
+  - [Book 4: Winter](#book-4-winter)
     - [Canvas](#canvas)
     - [Beginning of Winter](#beginning-of-winter)
       - [The Beginning of Winter](#the-beginning-of-winter)
@@ -62,14 +68,16 @@
     - [Arrival of the New Year](#arrival-of-the-new-year)
     - [Who Gets the Golden Snowflake?](#who-gets-the-golden-snowflake)
 
-## A Song on Solar Terms
+## Reference
 
-- Spring rain wakes spring of pure grain bequest. (/bɪˈkwest/ n. 遗产；遗赠)
-- Summer grain buds and ears flourish in summer heat. (/bʌd/ n. 芽，萌芽；蓓蕾 vi. 发芽，萌芽 vt. 使发芽英 | /ˈflʌrɪʃ/  美 /ˈflɜːrɪʃ/ v. 繁荣，茂盛；茁壮成长，处于旺盛时期；)
-- Autumn heat abates with dewy autumn and cold frost. (/əˈbeɪt/ vt. 减轻；减少；废除 vi. 减轻；失效 | /ˈduːi/ adj. 带露水的，露湿的；如露的)
-- Winter snow, heavy snow, winter cold descends. (/dɪˈsend/ vi. 下降； vt. 下去；沿…向下)
+- [节气](http://tv.cctv.com/special/24jq/jieqi/index.shtml)
+- [节气歌](https://baike.baidu.com/item/%E8%8A%82%E6%B0%94%E6%AD%8C)
+- [Chinese Solar Terms](https://www.chinatravel.com/facts/chinese-solar-terms.htm)
+- [twenty four solar terms](../../english/twenty-four-solar-term.md)
 
-节气歌 Song of Solar Terms
+### Song of Solar Terms
+
+节气歌
 春雨惊春清谷天，夏满芒夏暑相连，
 秋处露秋寒霜降，冬雪雪冬小大寒。
 
@@ -98,7 +106,61 @@
 
 Refer to [twenty four solar terms](../../english/twenty-four-solar-term.md)
 
-## Winter
+## Book(1-4): This is the 24 solar terms
+
+`Listen to the language of nature!`
+
+### Story Plotline
+
+A little girl named Yaya comes to her grandparents' home in the countryside. Crops planted in the spring, growing in the summer, harvested in the autumn, and preserved in the winter, Yaya experiences the changes of the 24 solar terms there.
+
+### 8 Key Sections to Understand Solar Terms
+
+- Tales of Solar Terms
+- Agricultural Activities
+- Ancient Poems and Proverbs
+- The 72 Hou
+- Historical Origins
+- Folk Festivals
+- Astronomy and Climate
+- Flora and Fauna
+
+### Book Introduction
+
+First set of original Chinese picture books for children to learn about 24 Solar Terms.
+
+Planned and written by researchers from Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences.
+
+### A Song on Solar Terms
+
+- Spring rain wakes spring of pure grain bequest. (/bɪˈkwest/ n. 遗产；遗赠)
+- Summer grain buds and ears flourish in summer heat. (/bʌd/ n. 芽，萌芽；蓓蕾 vi. 发芽，萌芽 vt. 使发芽英 | /ˈflʌrɪʃ/  美 /ˈflɜːrɪʃ/ v. 繁荣，茂盛；茁壮成长，处于旺盛时期；)
+- Autumn heat abates with dewy autumn and cold frost. (/əˈbeɪt/ vt. 减轻；减少；废除 vi. 减轻；失效 | /ˈduːi/ adj. 带露水的，露湿的；如露的)
+- Winter snow, heavy snow, winter cold descends. (/dɪˈsend/ vi. 下降； vt. 下去；沿…向下)
+
+### Acknowledgements
+
+The authors would like to express their most sincere gratitude to the experts and scholars who offered their guidance and helped review the book.
+
+### Back Cover - Content Introduction
+
+There are four seasons in a year. The ancient Chinese divided four seasons into 24 solar terms, each representing a distinctive phase of seasonal change. Solar terms can not only provide guidance on agricultural production, but also help us anticipate changes of weather in our daily life.
+
+The book tells a story of a little girl, Yaya, who visits her grandparents in the countryside and experiences the changes of 24 solar terms throughout the year there. Opening this book, together with Yaya, you will have a journey of experiencing traditional Chinese folk festivals, learning about old rituals, observing animals and plants, and listening to the language of nature.
+
+## Book 1: Spring
+
+TODO
+
+## Book 2: Summer
+
+TODO
+
+## Book 3: Autumn
+
+TODO
+
+## Book 4: Winter
 
 - Fluffing the Cotton (fluff /flʌf/ vt. 抖松；使…起毛 vi. 起毛；变松)
 - Removing Seeds of the Cotton

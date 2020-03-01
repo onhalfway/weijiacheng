@@ -1,10 +1,11 @@
 # 收藏夹
 
 - [收藏夹](#%e6%94%b6%e8%97%8f%e5%a4%b9)
+  - [居家](#%e5%b1%85%e5%ae%b6)
   - [中考](#%e4%b8%ad%e8%80%83)
   - [通知](#%e9%80%9a%e7%9f%a5)
   - [Social Practice](#social-practice)
-  - [How to & FAQ](#how-to--faq)
+  - [Wiki: How to & FAQ](#wiki-how-to--faq)
   - [Tools工具](#tools%e5%b7%a5%e5%85%b7)
   - [文史](#%e6%96%87%e5%8f%b2)
   - [政治视角](#%e6%94%bf%e6%b2%bb%e8%a7%86%e8%a7%92)
@@ -30,6 +31,22 @@
   - [Driver](#driver)
   - [search](#search)
 
+## 居家
+
+- [空中课堂, 教育ID/123456](http://kzkt.bjchyedu.cn/) 
+  - [空中课堂, 无需用户名密码](http://spzy.bjchyedu.cn)
+- [居家生活指南](https://www.meipian3.cn/2qn9qvf7?first_share_to=singlemessage&first_share_uid=79442535&share_depth=3&share_source=groupmessage&sharer_id=ojq1tt56rP5ab8cRi_sE85U0Df74&user_id=ohbsluBALM4gLGkdiPCHy4MDllOw)
+- [居家锻炼](https://www.meipian3.cn/2p9k4vvo?share_depth=2&user_id=ohbsluHNZ6SphR08M4u9VejeFefo&sharer_id=ojq1tt6dHJhnAVkPN_5LGgY9U1BE&first_share_uid=13746536&share_user_mpuuid=f98007d6093aa8407101f597293a98b0&share_source=singlemessage)
+- [HIIT](https://www.meipian3.cn/2phqthxp?share_depth=2&user_id=ohbsluHNZ6SphR08M4u9VejeFefo&sharer_id=ojq1tt6dHJhnAVkPN_5LGgY9U1BE&first_share_uid=13746536&share_user_mpuuid=f98007d6093aa8407101f597293a98b0&share_source=singlemessage)
+- [全身性锻炼](https://www.meipian3.cn/2p27hlpw?share_depth=2&user_id=ohbsluHNZ6SphR08M4u9VejeFefo&sharer_id=ojq1tt6dHJhnAVkPN_5LGgY9U1BE&first_share_uid=13746536&share_user_mpuuid=f98007d6093aa8407101f597293a98b0&share_source=singlemessage)
+- [素质练习](https://www.meipian3.cn/2qaequq8?share_depth=2&user_id=ohbsluHNZ6SphR08M4u9VejeFefo&sharer_id=ojq1tt6dHJhnAVkPN_5LGgY9U1BE&first_share_to=group_singlemessage&first_share_uid=13746536&share_user_mpuuid=f98007d6093aa8407101f597293a98b0&share_source=singlemessage)
+- [居家玩转篮球](https://mp.weixin.qq.com/s/t1PZWyU2or3pFNjxZgQQHw)
+- [全身HIIT练习（无器械）](https://mp.weixin.qq.com/s/t1PZWyU2or3pFNjxZgQQHw)
+- [综合体能训练](https://www.meipian3.cn/2qn9qvf7?first_share_to=singlemessage&first_share_uid=79442535&share_depth=3&share_source=groupmessage&sharer_id=ojq1tt56rP5ab8cRi_sE85U0Df74&user_id=ohbsluBALM4gLGkdiPCHy4MDllOw)
+- [HIIT腿部强化训练](https://mp.weixin.qq.com/s/NAa60R8zrBkt-qG1oe1m6A)
+
+- [居家健康体能自测](https://v.qq.com/x/page/n3065ezfkwx.html)
+
 ## 中考
 
 - [2021北京中考改革方案解读](https://mp.weixin.qq.com/s?__biz=MjM5OTEzNTkxMw==&mid=2657995852&idx=1&sn=c37ad440abcff04b8cc05c5302aa2daf&chksm=bd59738a8a2efa9cf6d51c0dbd5afe4e975ab976843847d3e6bda9afc7de01cf7d2198baa68b&mpshare=1&scene=1&srcid=1019Dje77VCBNHCscFJpJPzV&sharer_sharetime=1571536246666&sharer_shareid=e3452fe4a2aa9057acf716c221f92496&key=cd599c7e68335d37af4c3f4af9d8639afe8962c2f5919d8605f68716cf097e11acc10cb19d2671cb711c952d17e16109536364500172db0a1c93d7838523d164cf6baf7fcf0554f8e1b47ee9d5ed61f4&ascene=1&uin=MTA2MzQyMzc4Mg%3D%3D&devicetype=Windows+10&version=62070152&lang=zh_CN&pass_ticket=JsybqgQDuUmGX4p0GI8BT2KKZN%2BJDnfrT%2F8yEs%2F%2B%2FMRIX6S5TLPm%2BZsQzCJB1jGI)
@@ -51,11 +68,14 @@
 - TODO [北京市初中实践活动管理服务平台](http://kfsj.bjedu.cn/): 教育ID/birthday，综合社会实践活动
 - [Social Practice](../home/social-practice)
 
-## How to & FAQ
+## Wiki: How to & FAQ
 
 - [书籍各部分名称](http://xh.5156edu.com/page/z9059m3355j20367.html)
 - [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
 - [数学符号](../contents/math.md)
+- [书的各部分名称](https://jingyan.baidu.com/article/a65957f4babf8024e67f9bce.html)
+- [关于书的各个部分用英语怎么说](https://zhidao.baidu.com/question/91192475.html)
+- [版面各部分的英文名称](http://zhidao.baidu.com/question/38578081.html?si=6)
 
 ## Tools工具
 

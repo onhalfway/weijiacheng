@@ -19,6 +19,7 @@
 
 ## MKDocs: build static website with Markdown files.
 
+- [mkdocs](https://www.mkdocs.org/#getting-started)
 - [MkDocs: Project documentation with Markdown](https://www.mkdocs.org/)
 - Installing MkDocs
   - `pip install mkdocs` or `python -m pip install mkdocs`
@@ -43,7 +44,7 @@
 
 - [Deploying your docs](https://www.mkdocs.org/user-guide/deploying-your-docs/)
   - For Github Project Pages
-    - `cd cd my-project`
+    - `cd my-project`
     - `mkdocs gh-deploy [--clean] [-v]`
     - That's it! Behind the scenes, MkDocs will build your docs and use the [ghp-import](https://github.com/davisp/ghp-import) tool to commit them to the gh-pages branch and push the gh-pages branch to GitHub.
     - run under PowerShell with Administrator will fail due to FileNotFoundError (Python 3.7.3, pip 19.2.3, MKDocs 1.0.4)
