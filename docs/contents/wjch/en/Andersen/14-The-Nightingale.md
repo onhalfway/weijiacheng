@@ -11,11 +11,12 @@
 - [The Nightingale](#the-nightingale)
   - [Plotline](#plotline)
   - [As-is](#as-is)
-  - [Audio Transcript](#audio-transcript)
-  - [Synopsis](#synopsis)
-  - [Curriculum guidance](#curriculum-guidance)
-  - [Background](#background)
-  - [Reading / listening comprehension](#reading--listening-comprehension)
+  - [BBC-The-Nightingale](#bbc-the-nightingale)
+    - [Audio Transcript](#audio-transcript)
+    - [Synopsis](#synopsis)
+    - [Curriculum guidance](#curriculum-guidance)
+    - [Background](#background)
+    - [Reading / listening comprehension](#reading--listening-comprehension)
 
 ## Plotline
 
@@ -185,11 +186,24 @@ And then the nightingale flew away.
 
 The servants came in to have a look at their dead emperor. Yes, there they stood, and the emperor said, "Good morning!"
 
-## Audio Transcript
+## BBC-The-Nightingale
+
+### Audio Transcript
 
 The Emperor of China lived in the finest palace in the world. It was made of the purest, most precious porcelain and was so delicate that if you touched anything you had to be very careful not to break it.
 
+- porcelain /ˈpɔːrsəlɪn/ n. 瓷；瓷器 adj. 瓷制的；精美的
+- delicate /ˈdelɪkət/ adj. 微妙的；精美的，雅致的；柔和的；易碎的；纤弱的；清淡可口的
+
+中国的皇帝住在世界上最好的宫殿里。它是用最纯粹、最珍贵的瓷器做成的，而且非常精致，如果你碰了什么东西，你必须非常小心，不能把它打碎。
+
 The garden was full of lovely flowers with pretty silver bells tied to them. It was beautifully designed – and it was so big even the gardener had no idea where it ended. But if you kept on walking, you would come to a green forest with tall, lofty trees.
+
+- lovely /ˈlʌvli/ adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的 n. 美女；可爱的东西
+- silver /ˈsɪlvər/ n. 银；银器；adj. vi vt
+- lofty /ˈlɔːfti/ adj. 高的；崇高的；高级的；高傲的
+
+花园里到处是可爱的鲜花，上面系着漂亮的银铃。它设计得很漂亮，而且它太大了，连园丁都不知道它的尽头在哪里。但如果你继续走，你会来到一个绿色的森林，有高大的树木。
 
 The forest ran all the way to the deep blue sea, where great ships sailed under the shadow of swaying tree branches…and in one of these trees lived a nightingale. She sang so beautifully that even the poor fisherman would stop mending his nets to listen.
 
@@ -275,7 +289,7 @@ And with that, the nightingale flew away. When the servants finally arrived to c
 
 ‘Good morning!’ he answered with a happy smile.
 
-## Synopsis
+### Synopsis
 
 Sir Derek Jacobi reads an adaptation of 'The Nightingale' by Hans Christian Andersen
 
@@ -287,7 +301,7 @@ One day the Emperor receives a clockwork, jewelled nightingale as a gift. It als
 
 Soon the Emperor falls ill and is dying. He calls out for music, but there is nobody to wind the clockwork nightingale. The real nightingale returns to the trees outside and her song revives the Emperor. She sings to him about the people in the empire that he never meets and so he becomes a more informed and better Emperor.
 
-## Curriculum guidance
+### Curriculum guidance
 
 Tales of Hans Christian Andersen can be used to target a range of Reading and Writing objectives from the KS2 National Curriculum programme of study for English across Y3 to Y6 in England, Wales and Northern Ireland and Second Level of the Curriculum for Excellence in Scotland. Specific objectives include increasing pupils’ familiarity with a range of texts ‘including fairy stories’ and ’traditional stories’.
 
@@ -295,12 +309,12 @@ Pupils have the opportunity to listen to and read a selection of Andersen’s st
 
 Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This means that careful selection of texts is required to ensure age-appropriateness. Please see the teachers' notes below for full synopses and suggestions for use in the classroom.
 
-## Background
+### Background
 
 - First published in 1843, it is thought by many to be Andersen’s tribute to the opera singer Jenny Lind, with whom Andersen was in love.
 - It was unrequited, with Jenny thinking of Andersen as a brother, and herself being in love with the composer Chopin.
 
-## Reading / listening comprehension
+### Reading / listening comprehension
 
 - Why do you think the Emperor had not heard the nightingale before?
 - Where will it be more appropriate to hear a nightingale’s song – inside the palace, or in the forest? Why?

@@ -1,15 +1,20 @@
 # 首页
 
+- [FAQ](../wiki/faq)
+- [English FAQ](../wjch/en/faq-en)
+- [HOW TO](../wiki/how-to)
+- [Wikipedia](../wiki/wiki)
+
 ---
 
+<!-- 
 <video controls="controls">
     <source src="../lib/movie.mp4" type="video/mp4" />
     <source src="../lib/movie.ogg" type="video/ogg" />
 </video>
 
-<audio src="../lib/song.ogg" controls="controls"></audio>
-
----
+<audio src="../lib/song.ogg" controls="controls"></audio> 
+-->
 
 Physical Fitness
 

@@ -128,7 +128,9 @@ Download the Teachers' Notes for Tales of Hans Christian Andersen (pdf)
 - Why do you think the swallow rescues Thumbelina?
 - Why do you think Thumbelina gets wings at the end? What do you think the wings represent?
 
-## [Translation by jean hersholt](https://andersen.sdu.dk/vaerk/hersholt/Thumbelina_e.html)
+## Translation by jean hersholt
+
+[Translation by jean hersholt](https://andersen.sdu.dk/vaerk/hersholt/Thumbelina_e.html)
 
 *a translation of hans christian andersen's "tommelise" by jean hersholt.*
 
