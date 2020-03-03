@@ -205,37 +205,115 @@ The garden was full of lovely flowers with pretty silver bells tied to them. It 
 
 花园里到处是可爱的鲜花，上面系着漂亮的银铃。它设计得很漂亮，而且它太大了，连园丁都不知道它的尽头在哪里。但如果你继续走，你会来到一个绿色的森林，有高大的树木。
 
-The forest ran all the way to the deep blue sea, where great ships sailed under the shadow of swaying tree branches…and in one of these trees lived a nightingale. She sang so beautifully that even the poor fisherman would stop mending his nets to listen.
+The forest ran all the way to the deep blue sea, where great ships sailed under the shadow of swaying tree branches … and in one of these trees lived a nightingale. She sang so beautifully that even the poor fisherman would stop mending his nets to listen.
+
+- sway /sweɪ/ vt. 影响；统治；使摇动 vi. 影响；**摇摆** n. 影响；摇摆；统治
+- mend  /mend/ vt. 修理，**修补**；改善；修改 vi. 改善，好转 n. 好转，改进；修补处
+
+这片森林一直延伸到深蓝色的大海，巨大的船只在摇曳的树枝的阴影下航行……在这些树的其中一棵树上住着一只夜莺。她唱得如此动听，连可怜的渔夫都都会停下来听。
 
 ‘How sweet that song is!’ he would sigh whenever he heard it. Travellers from all over the world came to the Emperor’s city to admire his palace and garden. Some even wrote poems and books about the wonders they had seen and heard. Most wonderful of all, they wrote, was the nightingale who lived in a forest near the deep sea.
 
+- sigh /saɪ/ v. 叹气；叹着气说；（风）呼啸，悲鸣 n. 叹息，叹气；（尤指风发出的）叹息般的声音
+- admire /ədˈmaɪər/ vt. 钦佩；赞美 vi. 钦佩；称赞
+- wonders 奇观
+
+“这首歌真好听!”他一听到这句话就会叹气。来自世界各地的游客来到皇帝的城市，欣赏他的宫殿和花园。一些人甚至写诗和书来描述他们所看到和听到的奇迹。他们写道，最奇妙的是住在深海附近森林里的夜莺。
+
 One day, a gift arrived from the mighty Emperor of Japan. It was one of the books that had been written about the palace and garden. As he sat in his golden chair, the Emperor was delighted to read how beautiful and impressive they were.
 
-But when he came to the words ‘…the nightingale is the most beautiful of all’, he looked puzzled.‘Nightingale? I have never heard of a nightingale in my garden!’ he said to his Lord-in-Waiting. ‘How come the whole world knows about this except me?! I want you to find this bird and bring it to me so I can hear it sing for myself!’
+- mighty /ˈmaɪti/ adj. 有力的；强有力的；有势力的 adv. 很；极；非常 n. 有势力的人
+
+一天，强大的日本天皇送来了一份礼物。这是一本关于宫殿和花园的书。当他坐在他的金椅子上，皇帝很高兴地读到他们是多么美丽和令人印象深刻。
+
+But when he came to the words ‘…the nightingale is the most beautiful of all’, he looked puzzled.‘Nightingale? I have never heard of a nightingale in my garden!’ he said to his Lord-in-Waiting. ‘How come the whole world knows about this except me?! I want you to find this bird and bring it to me so I can **hear it sing for myself!**’
+
+- How come 为什么；怎么会…(那样)；怎么办；怎么回事
+
+但是当他读到“……夜莺是世界上最美丽的”这句话时，他显得很困惑。“夜莺？我从来没有听说过花园里有夜莺!”他对他的侍从说。“除了我，怎么全世界都知道这件事?!”我要你找到这只鸟，把它带给我，这样我就能听到它为我唱歌了!”
 
 The Lord-in-Waiting looked high and low for the mysterious nightingale. He went up stairs and down, through halls and passages, asking everyone he passed, but no-one had heard of it. Then just as he was about to give up, a little kitchen maid came up to him.
 
-‘I know the nightingale!’ she said. ‘Every evening I go home to care for my sick mother who lives by the seashore. When I return to the palace, I stop in the forest to rest and listen to the nightingale’s song. Oh, it’s so lovely it brings tears to my eyes!Come with me, I will take you to her.’All the palace servants followed as the kitchen maid led the way through the garden. ‘There she is!’ said a young courtier. ‘What a very loud noise for such a small creature!’
+- high and low 到处，up and down, all about
+- mysterious  /mɪˈstɪriəs/ adj. 神秘的；不可思议的；难解的
+- passage /ˈpæsɪdʒ/ n. 一段（文章）；**走廊**；通路；通过；旅程，行程；船费 vi. 通过通道
+  - corridor  /ˈkɔːrɪdɔːr/ n. 走廊
+- come up **走近**；发生；开始；上升；发芽；被提出
+
+我能听到宫中大人在四处寻找那只神秘的夜莺。他上楼梯，下楼梯，穿过大厅和走廊，问每一个他经过的人，但没有人听说过它。就在他要放弃的时候，一个小厨房女佣走了过来。
+
+‘I know the nightingale!’ she said. ‘Every evening I go home to care for my sick mother who lives by the seashore. When I return to the palace, I stop in the forest to rest and listen to the nightingale’s song. Oh, it’s so lovely it brings tears to my eyes! Come with me, I will take you to her.’ All the palace servants followed as the kitchen maid led the way through the garden. ‘There she is!’ said a young courtier. ‘What a very loud noise for such a small creature!’
+
+- courtier /ˈkɔːrtiər/ n. 朝臣；奉承者；谄媚者
+- creature /ˈkriːtʃər/ n. 动物，生物；人；创造物
+
+“我认识夜莺!””她说。“每天晚上我回家照顾住在海边的生病的母亲。当我回到宫殿，我在森林里停下来休息，听夜莺的歌声。哦，它太可爱了，让我热泪盈眶!跟我来，我带你去见她。厨房女佣领着所有的仆人穿过花园。“那就是她!一个年轻的侍臣说。“这么小的动物发出这么大的声音!”
 
 ‘That’s a cow, not a nightingale,’ replied the kitchen maid. ‘We have a long way to go yet…’ They carried on walking. ‘I can hear her!’ said a serving girl. ‘Her song sounds like tinkling church bells.’ ‘Hmmm, those are frogs,’ laughed the maid. ‘But quiet now, we’re getting close…’ ‘Look! There she is’, said the maid - and she pointed to a little grey bird perched on the bough of a tree.
 
+- tinkling /'tɪŋklɪŋ/ n. 叮叮声 v. 发丁当声（tinkle的ing形式）
+- perch /pɜːtʃ/ n. 鲈鱼; 高位；栖木；杆 vt. 栖息；就位；位于；使坐落于 vi. **栖息**；就位；位于
+- bough /baʊ/ n. 大树枝
+
+“那是一头牛，不是一只夜莺，”厨房女工回答说。“我们还有很长的路要走……”他们继续走着。“我能听见她!”一个女仆说。她的歌听起来就像教堂里叮当作响的钟声。'嗯，那些是青蛙，'女仆笑着说。“可是现在安静了，我们快到了……”“她在那儿，”女仆说——她指了指栖息在树枝上的一只灰色小鸟。
+
 ‘What an exquisite sound!’ said the Lord-in-Waiting. ‘But – er - I wasn’t expecting such a small, plain, simple creature. Never mind. Most excellent Nightingale!’ he called out. ‘Our most gracious Emperor wishes you to sing to him. Will you come to the palace with us?’
 
-- exquisite /ɪkˈskwɪzɪt,ˈekskwɪzɪt/ adj. 精致的；细腻的；优美的，高雅的；异常的；剧烈的 n. 服饰过于讲究的男子
+- exquisite /ɪkˈskwɪzɪt,ˈekskwɪzɪt/ adj. 精致的；细腻的；**优美的，高雅的**；异常的；剧烈的 n. 服饰过于讲究的男子
+- gracious /ˈɡreɪʃəs/ adj. 亲切的；高尚的；和蔼的；雅致的 int. 天哪；哎呀
+
+“多么美妙的声音!”侍臣说。“可是——呃——我没想到会有这么小、这么普通、这么简单的一个动物。不要紧。最优秀的夜莺!”他喊道。“我们最仁慈的皇帝希望您为他唱歌。你愿意和我们一起到宫里去吗?”
 
 ‘My song sounds best in the green wood,’ answered the nightingale. ‘But I will do as you ask.’ The palace was specially decorated for the great occasion. The walls and floors of porcelain glittered in the light of a thousand lamps and beautiful flowers with little bells stood in the corridors. In the centre of the great hall was a golden perch for the nightingale to sit on.
 
+- decorate  /ˈdekəreɪt/ vt. 装饰；布置；授勋给 vi. **装饰；布置**
+- porcelain /ˈpɔːrsəlɪn/ n. 瓷；瓷器 adj. 瓷制的；精美的
+- glitter /ˈɡlɪtə(r)/ v. 闪光；闪烁 n. 闪光；灿烂；华而不实；（眼中的）光亮
+- corridor  /ˈkɔːrɪdɔːr/ n. 走廊
+  - passage /ˈpæsɪdʒ/ n. 一段（文章）；**走廊**；通路；通过；旅程，行程；船费 vi. 通过通道
+- perch /pɜːtʃ/ n. 鲈鱼; 高位；**栖木；杆** vt. 栖息；就位；位于；使坐落于 vi. 栖息；就位；位于
+
+“我的歌在绿色的树林里最好听，”夜莺回答说。“但我会照你说的去做。宫殿是专门为这个重要的场合而装饰的。陶瓷的墙壁和地板在一千盏灯的照耀下闪闪发光，走廊上立着带小铃铛的美丽花朵。在大殿的中央有一个金色的栖木，夜莺可以坐在上面。
+
 The whole court was present, including the kitchen maid. As the Emperor nodded to the little grey bird to begin, all eyes turned to watch… The nightingale sang so sweetly that tears started rolling down the Emperor’s cheeks. ‘Oh, how glorious!’ he cried. ‘Please, wear my gold slipper round your neck as a token of my thanks’.
+
+- court /kɔːrt/ n. 法院；球场；朝廷；奉承
+- nodded v. 点头；打瞌睡；摇动（nod的过去式）
+- glorious  /ˈɡlɔːriəs/ adj. 光荣的；辉煌的；极好的
+- token /ˈtəʊkən/ 标志，象征
+
+整个宫廷的人都在场，包括厨房的女仆。当皇帝向这只灰色的小鸟点头示意开始时，所有的眼睛都转过去看……夜莺唱得如此甜美，以至于皇帝的眼泪开始从脸颊上滚落下来。“噢,多么光荣的!”他哭了。“请把我的金拖鞋戴在脖子上，表示我的谢意。”
 
 ‘I have seen tears in the Emperor’s eyes,’ answered the nightingale. ‘That is a powerful gift – the greatest of them all’, and she sang even more enchantingly than ever. Everyone loved the nightingale’s singing so much that the Emperor decided she was to stay at the palace.
 
-The little bird was placed inside a specially made cage and twice a day she was allowed to fl y round the room with a silken string attached to her leg. She may have lost her freedom – but the whole of China was talking about her.
+- enchantingly /ɪnˈtʃæntɪŋli/ adv. 夺人心魂地；可爱地，迷人地
+
+“我在皇帝的眼睛里看到过眼泪，”夜莺回答说。“这是一种强大的天赋（礼物）——是所有天赋中最伟大的天赋。”她唱得比以前更动听了。每个人都非常喜欢夜莺的歌声，所以皇帝决定让她留在皇宫里。
+
+The little bird was placed inside a specially made cage and twice a day she was allowed to fly round the room with a silken string attached to her leg. She may have lost her freedom – but the whole of China was talking about her.
+
+这只小鸟被安置在一个特制的笼子里，每天两次，她可以腿上系着一根丝线，在房间里飞来飞去。她可能已经失去了自由，但整个中国都在谈论她。
 
 Whenever people met, one said ‘nightin’, and the other said ‘gale.’ Then one day, the Emperor received a large parcel with the word ‘Nightingale’ written on it. ‘Ah - another book about our famous bird!’ he said. But when his servants opened it, a magnificent casket was revealed… Inside the casket - was a nightingale. Only this nightingale wasn’t real…
 
+- magnificent /mæɡˈnɪfɪsnt/ adj. 高尚的；壮丽的；华丽的；宏伟的
+- casket /ˈkæskɪt/ n. 棺材；骨灰盒；**小箱**
+- reveal /rɪˈviːl/ vt. 显示；透露；揭露；泄露
+
+每当人们见面时，一个人说“晚安”，另一个人说“盖尔”。有一天，皇帝收到一个大包裹，上面写着“夜莺”两个字。“啊——又是一本关于我们那只著名的鸟的书!”他说。但是当他的仆人打开它的时候，一个华丽的首饰盒出现了……在首饰盒里面是一只夜莺。只是这只夜莺不是真的……
+
 Made of metal with a key to wind it up, this bird was clockwork. But what a magnificent clockwork bird it was, covered in diamonds, rubies and sapphires with a tail of silver and gold. Round it’s neck was a piece of ribbon with a note. ‘A nightingale from the Emperor of Japan – though it cannot compare with your nightingale,’ the note read.
 
+- clockwork  /ˈklɑːkwɜːrk/ n. 发条装置；钟表装置 adj. 装有发条的；重复的；可预测的；平稳的，有规律的
+- ruby /ˈruːbi/ n. 红宝石；红宝石色
+- sapphire /ˈsæfaɪər/ n. 蓝宝石；[宝] 青玉；天蓝色 adj. 天蓝色的
+- ribbon /ˈrɪbən/ n. 带；缎带；（勋章等的）绶带；带状物；勋表 vi. 形成带状 vt. 把…撕成条带；用缎带装饰
+
+这只鸟是用金属制成的，上面有一把钥匙可以上弦。但是，这是一只多么漂亮的发条鸟啊，身上镶满了钻石、红宝石和蓝宝石，尾巴则是金银制成的。它的脖子上系着一条丝带，上面写着一张纸条。“一只来自日本天皇的夜莺——虽然比不上你的夜莺，”纸条上写道。
+
 When the clockwork bird was wound up, it moved its tail up and down and sang out loud. ‘Ahhh! Such an enchanting sound!’ sighed the Emperor. ‘Bring me the real nightingale so they can sing together – what a duet that will be!’
+
+
 
 But the two birds didn’t sound as good together as the Emperor had hoped. The clockwork nightingale’s song was mechanical and rather harsh compared to the natural beauty of the real bird’s song…
 

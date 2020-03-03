@@ -17,6 +17,7 @@ TOC
       - [TODO](#todo)
     - [内网穿透](#%e5%86%85%e7%bd%91%e7%a9%bf%e9%80%8f)
   - [结束语](#%e7%bb%93%e6%9d%9f%e8%af%ad)
+  - [Firefox](#firefox)
 
 ## 概述
 
@@ -233,3 +234,9 @@ user@anywhere $ ssh -D 1080 35.194.*.* -p 2222
 ## 结束语
 
 至此，我们已经完成了[SSH 端口转发](http://m.sohu.com/a/272431090_609423)的简要介绍，并通过几个实例展示了其在工作生活中的应用。
+
+## Firefox
+
+- [Web browsing over SSH](https://www.bitvise.com/ssh-web-browsing)
+
+The recommended browser for this purpose is Firefox, because it can be configured to resolve DNS names through the SOCKS proxy, so the names of the websites you're browsing don't leak out through DNS queries.
