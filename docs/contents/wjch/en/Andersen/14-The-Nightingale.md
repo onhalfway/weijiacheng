@@ -313,7 +313,7 @@ Made of metal with a key to wind it up, this bird was clockwork. But what a magn
 
 When the clockwork bird was wound up, it moved its tail up and down and sang out loud. ‘Ahhh! Such an enchanting sound!’ sighed the Emperor. ‘Bring me the real nightingale so they can sing together – what a duet that will be!’
 
-
+- wind /wɪnd/ vt. 缠绕；上发条；使弯曲；winded or wound wound /waʊnd/
 
 But the two birds didn’t sound as good together as the Emperor had hoped. The clockwork nightingale’s song was mechanical and rather harsh compared to the natural beauty of the real bird’s song…
 
