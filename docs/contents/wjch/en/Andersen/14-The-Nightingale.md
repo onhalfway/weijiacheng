@@ -34,17 +34,37 @@
 
 ## As-is
 
-TODO translation
+In China, you know of course, the emperor is Chinese, and everyone he has around him is Chinese too. Now this happened many years ago, but that is just why the story is worth hearing, before it is forgotten. The emperor's palace was the most magnificent in the world. It was made entirely of fine porcelain, so precious and so fragile and delicate that one really had to watch one's step. In the garden the most unusual flowers were to be seen, and the most beautiful had fastened to them silver bells that tinkled so that no one would go past without noticing them. Yes, everything had been very well thought out in the emperor's garden, and it stretched so far that even the gardener didn't know where it stopped. If one kept on walking, one came to the loveliest forest with great trees and deep lakes. The forest stretched all the way down to the sea, which was blue and so deep that great ships could sail right in under the branches. And in these branches lived a nightingale that sang so sweetly that even the poor fisherman, who had so many other things to keep him busy, lay still and listened when he was out at night pulling in his net.
 
-In China, you know of course, the emperor is Chinese, and everyone he has around him is Chinese too. Now this happened many years ago, but that is just why the story is worth hearing, before it is forgotten. The emperor's palace was the most magnificent in the world. It was made entirely of fine porcelain, so precious and so fragile and delicate that one really had to watch one's step. In the garden the most unusual flowers were to be seen, and teh most beautiful had fastened to them silver bells that tinkled so that no one would go past without noticing them. Yes, everything had been very well thought out in the emperor's garden, and it stretched so far that even the gardener didn't know where it stopped. If one kept on walking, one came to the loveliest forest with great trees and deep lakes. The forest stretched all teh way down to the sea, which was blue and so deep that great ships could sail right in under the branches. And in these branches lived a nightingale that sang so sweetly that even the poor fisherman, who had so many other things to keep him busy, lay still and listened when he was out at night pulling in his net.
+- magnificent /mæɡˈnɪfɪsnt/ adj. 高尚的；壮丽的；华丽的；宏伟的
+- porcelain /ˈpɔːrsəlɪn/ n. 瓷；瓷器 adj. 瓷制的；精美的
+- fragile /ˈfrædʒaɪl/ adj. 脆的；易碎的
+- delicate /ˈdelɪkət/ adj. 微妙的；精美的，雅致的；柔和的；易碎的；纤弱的；清淡可口的
+- think out 解决；仔细考虑；发现
+- all the wall 一路上；自始至终；一直
+
+在中国，你当然知道，皇帝是中国人，他身边的每个人也是中国人。这发生在许多年前，但这正是为什么这个故事值得一听，在它被遗忘之前。皇帝的宫殿是世界上最宏伟的。它完全是用上等瓷器制成的，非常珍贵，非常脆弱，非常精致，人们不得不小心翼翼地走好每一步。花园里种着许多稀奇古怪的花，最美丽的花都系上了银铃，这些银铃丁当地响着，谁经过都不会不注意的。是的，在皇帝的花园里，每件事情都想得很周到，甚至园丁也不知道它在什么地方停下来。如果你继续走下去，你就会来到一片最美丽的森林，那里有参天大树和深邃的湖泊。森林一直延伸到大海，大海是蓝色的，非常深，大轮船可以在它的枝叶下航行。在这些枝头上，住着一只夜莺，它唱得那么动听，就连那个有那么多事情要忙的可怜的渔夫，晚上在外面收渔网的时候，也躺在那里静静地听着。
 
 "Good heavens! How beautiful!" he said. But then he had to look after his net and forgot the bird, although the next night, when it sang again and the fisherman came out there, he said the same thing: "Good heavens! How beautiful!"
 
+“天啊!多漂亮啊!”他说。但是他不得不照看他的网，忘记了那只鸟，尽管第二天晚上，当它再次歌唱时，渔夫又出来了，他还是说了同样的话:“天哪!多么美丽!”
+
 From every land in the world travelers came to the emperor's city. They admired the city, the palace, and the garden. But when they heard the nightingale, they all said: "But this is really the best thing of all!" And the travelers told about it when they got home, and scholars wrote many books about the city, the palace, and the garden. But they didn't forget the nightingale - it was given the highest place of all. And those who were poets wrote the loveliest poems, each one about the nightingale in the forest by the sea.
+
+- admire /ədˈmaɪər/ vt. 钦佩；赞美 vi. 钦佩；称赞
+
+旅行者从世界各地来到帝都。他们羡慕这座城市、这座宫殿和这座花园。但是当他们听到夜莺的歌声时，他们都说:“这真是一件最美妙的事情!”旅行者们回到家就把这事告诉了他们。学者们写了许多关于这座城市、这座宫殿和这座花园的书。但是他们没有忘记那只夜莺——它是所有动物中最高的。那些诗人写了最美丽的诗，每一首都是关于海边森林里的夜莺的。
 
 These books went around the world, and once some of them came to the emperor. He sat in his golden chair, reading and reading and nodding his head, for he was pleased by the lovely descriptions of the city, the palace, and the garden. "But the nightingale is really the best thing of all" - there it stood in print.
 
+- go around 四处走动；供应；（消息）流传
+
+这些书传遍了世界，有一本还传到了皇帝那里。他坐在他的金椅子上，读着，读着，点着头，因为他对这座城市、这座宫殿和这座花园的可爱的描述使他感到愉快。“但夜莺确实是世界上最好的东西。”——它就印在那里。
+
 "What's that?" said the emperor. "The nightingale? Why, I don't know anything about it! Is there such a bird in my empire, in my very own garden? I have never heard of it before! Fancy having to find this out from a book!"
+
+
+TODO translation
 
 And then he summoned his chamberlain, who was so grand that if anyone of lower rank dared speak to him or ask about something, he would only say: "P!" And that doesn't mean anything at all.
 
@@ -286,9 +306,10 @@ The whole court was present, including the kitchen maid. As the Emperor nodded t
 
 ‘I have seen tears in the Emperor’s eyes,’ answered the nightingale. ‘That is a powerful gift – the greatest of them all’, and she sang even more enchantingly than ever. Everyone loved the nightingale’s singing so much that the Emperor decided she was to stay at the palace.
 
+- gift /ɡɪft/ n. 礼物；天赋；赠品 vt. 赋予；向…赠送
 - enchantingly /ɪnˈtʃæntɪŋli/ adv. 夺人心魂地；可爱地，迷人地
 
-“我在皇帝的眼睛里看到过眼泪，”夜莺回答说。“这是一种强大的天赋（礼物）——是所有天赋中最伟大的天赋。”她唱得比以前更动听了。每个人都非常喜欢夜莺的歌声，所以皇帝决定让她留在皇宫里。
+“我在皇帝的眼睛里看到过眼泪，”夜莺回答说。“这是一种强大的天赋（同情心、理解...）——是所有天赋中最伟大的天赋。”她唱得比以前更动听了。每个人都非常喜欢夜莺的歌声，所以皇帝决定让她留在皇宫里。
 
 The little bird was placed inside a specially made cage and twice a day she was allowed to fly round the room with a silken string attached to her leg. She may have lost her freedom – but the whole of China was talking about her.
 
@@ -314,89 +335,248 @@ Made of metal with a key to wind it up, this bird was clockwork. But what a magn
 When the clockwork bird was wound up, it moved its tail up and down and sang out loud. ‘Ahhh! Such an enchanting sound!’ sighed the Emperor. ‘Bring me the real nightingale so they can sing together – what a duet that will be!’
 
 - wind /wɪnd/ vt. 缠绕；上发条；使弯曲；winded or wound wound /waʊnd/
+- enchant 英 /ɪnˈtʃɑːnt/  美 /ɪnˈtʃænt/ v. 使着迷，使迷惑；施魔法于
+- duet /djuˈet/ n. 二重奏；二重唱
+
+发条鸟上紧发条后，它的尾巴上下摆动，大声唱歌。“啊!多么迷人的声音!皇帝叹了口气。“把那只真正的夜莺给我带来，让他们一起唱歌——那将是多么美妙的二重唱啊!”
 
 But the two birds didn’t sound as good together as the Emperor had hoped. The clockwork nightingale’s song was mechanical and rather harsh compared to the natural beauty of the real bird’s song…
 
+- mechanical /məˈkænɪkl/ adj. 机械的；
+- harsh /hɑːʃ/ adj. 严厉的；严酷的；**刺耳的**；粗糙的；刺目的；丑陋的
+
+但是这两只鸟在一起的声音并没有皇帝希望的那么好听。发条似的夜莺的歌声是机械的，与真正的鸟叫声的自然美相比，显得有些刺耳……
+
 The clockwork bird had just one, rather complicated tune that it sang over and over – thirty three times to be exact - before it needed winding up again. But the Emperor’s Music Master was full of praise.
+
+- complicated /ˈkɒmplɪkeɪtɪd/ adj. 难懂的，复杂的
+- tune /tjuːn/ n. 曲调；和谐；心情
+- exact /ɪɡˈzækt/ adj. 准确的，精密的；精确的
+- Master /ˈmɑːstə(r)/ n. 主人；大师；硕士；男教师；原件；院长；
+
+这只发条鸟只有一个相当复杂的曲调，它唱了一遍又一遍——准确地说是三十三遍——然后才需要再次上弦。但是皇帝的音乐老师却赞不绝口。
 
 ‘It sounds perfect to me, your Imperial Majesty!’ he announced. ‘And with all it’s little cogs and wheels, it’s perfect on the inside too. In fact, it’s so perfect it should sing all by itself. You never know what a real nightingale is going to sing, but with this bird there will be no unexpected surprises. You get the same tune every time!’
 
-‘Maybe you are right,’ said the Emperor. ‘Besides, it’s so much prettier and more sparkly to look at than that small grey bird. Oh – where’s it gone?’ No-one had noticed the nightingale fl y out of the open window, back to the green forest.
+- [your grace](https://zhidao.baidu.com/question/396255034502395645.html)
+- Imperial /ɪmˈpɪəriəl/ adj. 帝国的；皇帝的；至高无上的；威严的
+- Majesty /ˈmædʒəsti/ n. 威严；最高权威，王权；雄伟；权威
+- cog /kɒɡ/ n. 齿轮，轮齿；
+
+“听起来很完美，陛下!”他宣布。“所有的小齿轮和轮子，它的内部也是完美的。事实上，它是如此完美，它应该独自歌唱。你永远不知道一只真正的夜莺会唱什么，但是有了这只夜莺，就不会有任何意外的惊喜了。你每次都听到同样的调子!”
+
+‘Maybe you are right,’ said the Emperor. ‘Besides, it’s so much prettier and more sparkly to look at than that small grey bird. Oh – where’s it gone?’ No-one had noticed the nightingale fly out of the open window, back to the green forest.
+
+- sparkly /'spɑ:kli/ adj. 耀眼的
+
+“也许你是对的，”皇帝说。“而且，它比那只灰色的小鸟漂亮得多，也更闪闪发光。哦，它去哪儿了?没有人注意到夜莺从敞开的窗户飞出，飞回了绿色的森林。
 
 ‘What strange behaviour,’ said the Emperor. ‘The ungrateful creature’ added the Lord-in-Waiting. ‘That nightingale is banished from my empire, never to return!’ announced the Emperor grandly. ‘No matter, for we have the best bird of all right here. Let’s listen to it again!’
 
+- ungrateful /ʌnˈɡreɪtfl/ adj. 忘恩负义的；不领情的；讨厌的；徒劳的
+- banish /ˈbænɪʃ/ vt. 放逐；驱逐
+
+“多么奇怪的行为!”皇帝说。“这个忘恩负义的家伙。”侍从补充道。“那只夜莺被驱逐出我的帝国，永远不会回来了!”皇帝庄严地宣布。“没关系，因为我们这儿有最好的鸟。让我们再听一遍!”
+
 The next day, the Music Master paraded the clockwork nightingale before a great crowd that had been summoned to hear it sing. Everyone was very impressed – all that is except the poor fisherman. ‘It sounds pretty enough,’ he thought, ‘and the tune is quite similar. But something’s not quite right…’
+
+- parade /pəˈreɪd/ n. 游行；阅兵；炫耀；行进；阅兵场 vt. 游行；炫耀；列队行进 vi. 游行；炫耀；列队行进
+- summon /ˈsʌmən/ vt. 召唤；召集；鼓起；振作
+
+第二天，音乐大师带着这只钟形夜莺在一大群前来听它唱歌的人面前列队游行。除了可怜的渔夫，所有的人都对此印象深刻。“听起来很好听，”他想，“调子也很相似。但有些地方不大对劲……”
 
 The clockwork bird was placed on a silk cushion by the Emperor’s bed and surrounded by gifts of gold and precious stones. Meanwhile, the Music Master wrote a long book full of difficult Chinese words about the wonderful new bird which everyone was made to read it. Before long, they had heard the song so many times they all knew it by heart. ‘La la la, zing zing, whirrrr!’ – even the Emperor sang along.
 
+- cushion /ˈkʊʃn/ n. 垫子；起缓解作用之物；（猪等的）臀肉；银行储蓄 vt. 给…安上垫子；把…安置在垫子上；缓和…的冲击
+- Before long 不久以后
+
+这只发条鸟被放在皇帝床前的一个丝绸垫子上，周围是黄金和宝石的礼物。与此同时，这位音乐大师写了一本很长的书，书中满是关于这只奇妙的新鸟的难懂的中文单词，每个人都被要求阅读它。不久，他们听过这首歌很多次了，他们都把它记在心里了。“啦啦啦，吱、吱、呼!”——连皇帝也跟着唱了起来。
+
 But one evening, as he lay in bed listening to the mechanical tune yet again, a harsh noise suddenly interrupted the melody. It sounded like the little wheels and cogs inside the clockwork bird were going wild! Oh dear. Something definitely wasn’t right…
 
-As the singing stopped, the Emperor sprang out of bed. ‘Watchmaker!!’ he cried. ‘My clockwork nightingale has broken and I need you to fi x her at once!’ The watchmaker took the metal bird apart and poked and prodded around inside.
+- harsh /hɑːʃ/ adj. 严厉的；严酷的；**刺耳的**；粗糙的；刺目的；丑陋的
+- melody /ˈmelədi/ n. 旋律；歌曲；美妙的音乐
+- wild /waɪld/ adj. 野生的；野蛮的；狂热的；荒凉的 n. 荒野 adv. 疯狂地；胡乱地
+- definitely /ˈdefɪnətli/ adv. 清楚地，当然；明确地，肯定地
+
+但是一天晚上，当他躺在床上再次听着那支机械的曲子时，一种刺耳的声音突然打断了这支曲子。听起来好像发条鸟的小轮子和齿轮都要发疯了!哦亲爱的。肯定有什么地方不对劲……
+
+As the singing stopped, the Emperor sprang out of bed. ‘Watchmaker!!’ he cried. ‘My clockwork nightingale has broken and I need you to fix her at once!’ The watchmaker took the metal bird apart and poked and prodded around inside.
+
+- poke /pəʊk/ v. 刺，捅；戳；拨开
+- prod /prɒd/ v. 刺，戳；刺激，督促
+
+当歌声停止时，皇帝从床上跳了起来。“钟表匠! !”他哭了。“我的发条夜莺坏了，我需要你马上去修她!”钟表匠把金属鸟拆开，在里面又拨又戳。
 
 ‘It’s sung so much that it’s getting worn out, I’m afraid,’ he sighed. ‘If it gets more damaged, the tune may never play again.’
 
+- wear /weə(r)/ v. 穿，戴；过去式 wore; 过去分词 worn
+- wear out 磨损，耗尽；穿破；使精疲力竭
+
+"恐怕是唱得太多了，都快磨坏了，"他叹了口气。如果它受到更大的损害，这首曲子可能就再也放不出来了。
+
 It was a terrible upset. Although the Music Master pretended to everyone that the bird was fine, from now on, it was only allowed to sing once a year – and even that was risky.Five years passed and a great sadness slowly fell over China. The people were very fond of their Emperor – but by now he was very ill. So ill that a new Emperor had been chosen to be crowned when he died.
+
+- upset /ʌpˈset/ vt. 使心烦；颠覆；扰乱 vi. 翻倒 adj. 心烦的；混乱的；弄翻的 n. **混乱**；翻倒；颠覆
+- fall 过去式 fell过去分词 fallen
+
+这是一个可怕的不安。尽管音乐大师假装这只鸟很好，但从现在开始，它每年只能唱歌一次，即使这样做也是有风险的。五年过去了，巨大的悲伤慢慢笼罩着中国。人们都很喜欢他们的皇帝，但是现在他病得很厉害。他病得很重，以至于在他死后，人们选了一个新的皇帝来加冕。
 
 The Emperor lay in his royal bed. He was so cold and pale that everyone thought he was dead. All was silent and still in the empty room. A window stood open and the moon shone down upon his still body and the clockwork bird by his side.
 
+- royal /ˈrɔɪəl/ adj. 皇家的；盛大的；女王的；高贵的；第一流的 n. 王室；王室成员
+
+皇帝躺在他的龙床上。他又冷又苍白，大家都以为他死了。空荡荡的房间里一片寂静。一扇窗户开着，月亮照在他安静的身体上，发条鸟在他身边。
+
 Suddenly, the Emperor called out. ‘Music!’ he cried faintly. ‘Sing, my precious little golden bird! I have given you precious gifts. I have even hung my golden slipper round your neck. Sing! Sing!!’
 
-But the bird stayed silent. Because there was no one to wind it up, it couldn’t sing a note.Suddenly the sound of sweet music came through the open window. Outside, on the bough of a tree, sat the nightingale. ‘I heard you were ill,’ she said, ‘so I have come to sing to you – and bring you hope.’
+- faintly /ˈfeɪntli/ adv. 微弱地；模糊地；虚弱地
+
+突然，皇帝叫了起来。“音乐!他有气无力地叫道。“唱吧，我可爱的金色小鸟!”我已经给了你珍贵的礼物。我甚至把我的金拖鞋挂在你的脖子上了。唱歌!唱歌! !”
+
+But the bird stayed silent. Because there was no one to wind it up, it couldn’t sing a note. Suddenly the sound of sweet music came through the open window. Outside, on the bough of a tree, sat the nightingale. ‘I heard you were ill,’ she said, ‘so I have come to sing to you – and bring you hope.’
+
+- note n. 笔记；**音符**；票据；注解；纸币；便笺；照会；调子 vt. 注意；记录；注解
+- bough /baʊ/ n. 大树枝
+
+但是鸟保持沉默。因为没有人给它上弦，它唱不出一个音符。突然，甜美的音乐声从敞开的窗户里传出来。外面，在一根大树枝上，坐着一只夜莺。“我听说你病了，”她说，“所以我来唱歌给你听——给你带来希望。”
 
 As she carried on singing, the shadows grew paler and paler. The Emperor moved his arms and legs a little. He was starting to feel a bit better.
 
+当她继续唱歌时，影子变得越来越白。皇帝移动了一下他的胳膊和腿。他开始感觉好一点了。
+
 Meanwhile, the nightingale carried on singing. She sang of white roses, fresh sweet grass and the perfume of the trees that blew on the breeze…
+
+- perfume /ˈpɜːfjuːm/ n. 香水；香味 vt. 洒香水于…；使…带香味 vi. 散发香气
+- blow v.（风）吹；过去式 blew过去分词 blown
+- breeze /briːz/ n. 微风
+
+与此同时，夜莺继续歌唱。她唱着白玫瑰、新鲜的甜草和微风吹过的树的芳香……
 
 The Emperor gently opened his eyes. ‘Thank you, little bird,’ he sighed. ‘I banished you from my empire, yet you have banished death from my heart with your sweet song. How can I reward you?’
 
+- banish /ˈbænɪʃ/ vt. 放逐；驱逐
+
+皇帝轻轻地睁开了眼睛。“谢谢你，小鸟，”他叹息道。“我把你驱逐出我的王国，而你却用你美妙的歌声把死亡从我心里驱逐出去。我怎么报答你呢?”
+
 ‘You have already rewarded me,’ said the nightingale. ‘I shall never forget the tears in your eyes the first time I sang to you. That is a powerful gift – the greatest of them all. But sleep now and grow strong and well. I will sing to you again.’
+
+“你已经报答我了，”夜莺说。“我永远不会忘记我第一次唱给你听时你眼里的泪水。这是一份强大的礼物——是所有礼物中最伟大的。现在就睡吧，好好地长身体。我再唱给你听。”
 
 As she sang, the Emperor fell into a sweet sleep. When he woke up, the sun was shining and he felt strong and alert. But not one of his servants was by his side. They still thought he was dead.
 
+当她唱歌时，皇帝进入了甜蜜的睡眠。当他醒来时，阳光灿烂，他感到强壮和警觉。但没有一个仆人在他身边。他们仍然认为他已经死了。
+
 ‘Please, stay with me always,’ the Emperor pleaded to the nightingale. ‘You need sing only when you want to. Meanwhile I shall break that clockwork bird into a thousand pieces’.
+
+- plead /pliːd/ vt. 借口；为...辩护；托称 vi. **恳求**；辩护
+
+“请永远和我在一起，”皇帝请求夜莺。“你只有在想唱的时候才需要唱。与此同时，我要把那只发条鸟撕成碎片。
 
 ‘No, don’t do that,’ replied the nightingale. ‘It kept going for as long as it could. Keep it here. I can’t live in the palace and build my nest, but in the evening I will sit on the bough by your window and sing to you…
 
+“不，不要那样做，”夜莺回答。它尽可能长时间地持续着。保持它在这里。我不能住在宫殿里，也不能筑巢，但晚上我会坐在你窗边的树枝上，为你歌唱……
+
 I’ll make you feel happy - but I will also make you feel thoughtful. I shall tell you about the lives of the people in your empire you never meet – like the poor fisherman and the little kitchen maid. I shall tell you about people who are happy and those who feel sad too.
+
+我会让你感到快乐——但我也会让你感到深思。我将告诉你你从未见过的帝国人民的生活——比如可怜的渔夫和小厨房女佣。我将告诉你那些快乐的人和那些感到悲伤的人。
 
 But you must promise me one thing.’ ‘Everything!’ said the Emperor. ‘No – just this one thing,’ repeated the nightingale. ‘Don’t let anyone know you have a little bird who tells you everything. Let’s keep it our secret’.
 
+但你必须答应我一件事。“一切!”皇帝说。“不——只有一件事，”夜莺重复道。“不要让任何人知道你有一只小鸟，它会告诉你一切。让我们保守秘密吧。”
+
 And with that, the nightingale flew away. When the servants finally arrived to carry their dead Emperor away, they were astonished to see him standing in his fine velvet gown. The colour had returned to his cheeks and he looked fit and healthy.
+
+- velvet /ˈvelvɪt/ n. 天鹅绒，丝绒；天鹅绒似的东西 adj. 天鹅绒的
+- gown /ɡaʊn/ n. **长袍，长外衣**；礼服；睡袍；法衣 vt. 使穿睡衣
+
+说着，夜莺飞走了。当仆人们终于来把死去的皇帝抬走的时候，他们惊奇地看到他穿着华丽的天鹅绒长袍。他的面颊恢复了血色，看上去很健康。
 
 ‘Good heavens!’ they cried in surprise.
 
+“天啊!他们惊讶地叫道。
+
 ‘Good morning!’ he answered with a happy smile.
+
+“早上好!”他笑着回答。
 
 ### Synopsis
 
+- synopsis /sɪˈnɒpsɪs/ n. 概要，大纲；(剧情简介，故事梗概); synopses是synopsis的复数 
+
 Sir Derek Jacobi reads an adaptation of 'The Nightingale' by Hans Christian Andersen
+
+- Derek /'derik/ n. 德里克（男名）
+- Jacobi n. 雅可比（姓氏）(德国) 
+- adaptation /ˌædæpˈteɪʃn/ n. 适应；改编；**改编本，改写本**
+
+德里克·雅克比爵士读了安徒生改编的《夜莺》
 
 The Emperor of China has a wonderful porcelain palace and a garden that goes on for miles. The garden leads to a great forest, in which a nightingale lives. The nightingale sings so beautifully that visiting travellers are moved to write about her song.
 
+- porcelain /ˈpɔːrsəlɪn/ n. 瓷；瓷器 adj. 瓷制的；精美的
+- palace /ˈpæləs/ n. 宫殿；宅邸；豪华住宅
+
+中国的皇帝有一座漂亮的瓷器宫殿和一座绵延数英里的花园。花园通向一片大森林，森林里住着一只夜莺。夜莺歌唱得如此美妙，以至于来访的游客都被她的歌声感动了。
+
 One day the emperor reads one of these written accounts and is surprised, for he has not heard the nightingale himself. He orders that the nightingale is brought to him, and a kitchen maid leads the Emperor's servants to where the bird can be found. They are surprised that the bird is so small and grey, but when she sings for the Emperor he is moved to tears. The nightingale is to live in a cage at the palace so that the Emperor can continue hearing her song.
+
+- account /əˈkaʊnt/ n. 账户；解释；账目，账单；理由；**描述** vi. 解释；导致；报账 vt. 认为；把…视为
+- cage /keɪdʒ/ n. 笼，兽笼；牢房，监狱 vt. 把…关进笼子；把…囚禁起来
+
+有一天，皇帝读了其中的一篇文章，感到很惊讶，因为他自己也没有听到夜莺的歌声。他命令把夜莺带给他，一个厨房女仆带着皇帝的仆人去找夜莺。他们很惊讶这只鸟是如此的小和灰色，但当她为皇帝唱歌时，他感动得流下了眼泪。这只夜莺将被关在皇宫的笼子里，这样皇帝就可以继续听到她的歌声。
 
 One day the Emperor receives a clockwork, jewelled nightingale as a gift. It also sings well, but only one rather mechanical tune. The real nightingale escapes and flies back to the wood. The Emperor thinks this does not matter now that he has the mechanical nightingale, but he listens to it so much that it breaks down and can only be played once a year.
 
+- jewelled /ˈdʒuːəld/ adj. 镶有宝石的；带首饰的
+
+有一天，皇帝收到了一个钟表，镶嵌着珠宝的夜莺作为礼物。它也唱得很好，但只是一个相当机械的曲调。真正的夜莺逃走了，飞回了树林。皇帝认为这已经不重要了，因为他现在有了机械夜莺，但是他听它听得太多了，它坏了，一年只能演奏一次。
+
 Soon the Emperor falls ill and is dying. He calls out for music, but there is nobody to wind the clockwork nightingale. The real nightingale returns to the trees outside and her song revives the Emperor. She sings to him about the people in the empire that he never meets and so he becomes a more informed and better Emperor.
+
+- revive /rɪˈvaɪv/ vi. 复兴；复活；苏醒；恢复精神 vt. 使复兴；**使苏醒**；回想起；重演，重播
+- informed /ɪnˈfɔːmd/ adj. **见多识广的**；消息灵通的；有根据的；明智的（猜测或决定） v. 通知；使了解；提供资料（inform的过去式和过去分词）
+
+不久皇帝病倒了，生命垂危。他大声叫着要音乐，可是没有人给夜莺上发条。真正的夜莺回到外面的树林里，她的歌声唤醒了皇帝。她给他唱关于他从未见过的帝国人民的歌，因此他成为了一个更有见识、更好的皇帝。
 
 ### Curriculum guidance
 
-Tales of Hans Christian Andersen can be used to target a range of Reading and Writing objectives from the KS2 National Curriculum programme of study for English across Y3 to Y6 in England, Wales and Northern Ireland and Second Level of the Curriculum for Excellence in Scotland. Specific objectives include increasing pupils’ familiarity with a range of texts ‘including fairy stories’ and ’traditional stories’.
+- curriculum /kəˈrɪkjələm/ n. 课程
+
+Tales of Hans Christian Andersen can be used to target a range of Reading and Writing objectives from the KS2 National Curriculum programme of study for English across Y3 to Y6 in England, Wales and Northern Ireland and Second Level of the Curriculum for Excellence in Scotland. Specific objectives include increasing pupils' familiarity with a range of texts 'including fairy stories' and 'traditional stories'.
+
+- familiarity /fəˌmɪliˈærəti/ n. 熟悉，精通；亲密；随便
+
+汉斯·克里斯蒂安·安徒生的故事可以被用来实现一系列的阅读和写作目标，从KS2国家英语学习课程计划的Y3到Y6在英格兰、威尔士和北爱尔兰，以及卓越课程的第二级在苏格兰。具体目标包括提高学生对“包括童话”和“传统故事”在内的一系列文本的熟悉程度。
 
 Pupils have the opportunity to listen to and read a selection of Andersen’s stories - especially adapted for the age group - and respond through a range of speaking and writing activities. Full details of curriculum links and follow up activities are included in the Teachers’ Notes.
 
+学生们有机会听和读安徒生的故事选集——特别适合这个年龄段——并通过一系列的说和写活动进行回应。有关课程连结及跟进活动的详情，请参阅教师笔记。
+
 Some of Hans Christian Andersen's tales have a dark and pessimistic theme. This means that careful selection of texts is required to ensure age-appropriateness. Please see the teachers' notes below for full synopses and suggestions for use in the classroom.
+
+- pessimistic /ˌpesɪˈmɪstɪk/ adj. 悲观的，厌世的；悲观主义的
+- theme /θiːm/ n. 主题；主旋律；题目
+- synopses /si'nɔpsi:z/ n. 梗概；对照表 synopses是synopsis的复数
+- appropriateness /əˈproʊpriətnəs/ n. 适当；适合
+
+安徒生的一些故事有一个黑暗和悲观的主题。这意味着需要仔细选择文本，以确保年龄适当。请参阅下面的教师笔记，以获得课堂上使用的完整大纲和建议。
 
 ### Background
 
-- First published in 1843, it is thought by many to be Andersen’s tribute to the opera singer Jenny Lind, with whom Andersen was in love.
-- It was unrequited, with Jenny thinking of Andersen as a brother, and herself being in love with the composer Chopin.
+- First published in 1843, it is thought by many to be Andersen’s tribute to the opera singer Jenny Lind, with whom Andersen was in love. 这本书于1843年首次出版，很多人认为这是安徒生为了向他深爱的歌剧演唱家珍妮·林德致敬而写的。
+  - tribute /ˈtrɪbjuːt/ n. 礼物；[税收] 贡物；颂词；（尤指对死者的）致敬，悼念，吊唁礼物 
+- It was unrequited, with Jenny thinking of Andersen as a brother, and herself being in love with the composer Chopin. 这是没有回报的，珍妮认为安徒生是一个兄弟，而她自己爱上了作曲家肖邦。
+  - unrequited /ˌʌnrɪˈkwaɪtɪd/ adj. 无回报的；无报酬的
+  - composer /kəmˈpəʊzə(r)/ n. 作曲家；作家，著作者；设计者
+  - Chopin 英 /ˈʃəʊpan/ 美 /'shoˌpæn/ n. 肖邦（波兰钢琴家）
 
 ### Reading / listening comprehension
 
-- Why do you think the Emperor had not heard the nightingale before?
-- Where will it be more appropriate to hear a nightingale’s song – inside the palace, or in the forest? Why?
-- In what ways does the clockwork nightingale compare to the real one? How is it different?
-- Why do you think the Emperor over-uses the clockwork nightingale, so much that it breaks down?
-- Why does the real nightingale return to the Emperor?
-- How will the nightingale’s song help him to be a better Emperor?
+- Why do you think the Emperor had not heard the nightingale before? 为什么你认为皇帝以前没有听到夜莺?
+- Where will it be more appropriate to hear a nightingale’s song – inside the palace, or in the forest? Why? 在什么地方听夜莺的歌声更合适呢?是在宫殿里，还是在森林里?为什么?
+  - appropriate adj. 适当的；恰当的；合适的 vt. 占用，拨出
+- In what ways does the clockwork nightingale compare to the real one? How is it different? 与真正的夜莺相比，发条夜莺在哪些方面呢？有什么不同?
+- Why do you think the Emperor over-uses the clockwork nightingale, so much that it breaks down? 为什么你认为皇帝过度使用发条夜莺，以至于它坏了?
+- Why does the real nightingale return to the Emperor? 为什么真正的夜莺会回到皇帝身边?
+- How will the nightingale’s song help him to be a better Emperor? 夜莺的歌声将如何帮助他成为一个更好的皇帝?

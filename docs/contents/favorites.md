@@ -336,8 +336,10 @@ Refer to Tencent Docs
 - [SSH Client Putty](https://www.putty.org/)
   - [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download)
   - [Bitvise SSH Server](https://www.bitvise.com/ssh-server-download)
-- [WinSCP]
-- [XShell]
+- [WinSCP](https://winscp.net/eng/index.php)
+- [XShell](https://www.netsarang.com/)
+- [Royal TSX](https://www.royalapps.com/ts/mac/features)
+- [MobaXterm](https://mobaxterm.mobatek.net/)
 
 ## Security
 
