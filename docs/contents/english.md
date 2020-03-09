@@ -70,3 +70,8 @@
 - [ELA-Science-Social Studies](https://www.dogonews.com/)
 - [英语点津](http://language.chinadaily.com.cn/)
 - [China Daily](http://language.chinadaily.com.cn/)
+
+## tools
+
+- [Language Check Tool](https://languagetoolplus.com/)
+- [Grammarly tool](https://app.grammarly.com/ddocs/715078663)

@@ -1,5 +1,9 @@
 # 语文
 
+- 暗夜之中，才见繁星
+- 危机之下，暗藏转机
+- 事在人为，为者常成
+
 - [语文学习方法](how-to)
 - [chinese notes](chinese-notes)
 
@@ -17,7 +21,10 @@
 
 - [西游记梗概](xiyouji)
 - [海底两万里](https://www.luoxia.com/haidiliangwanli/)
-- [骆驼祥子](https://www.ppzuowen.com/book/luotuoxiangzi/) 
+- [骆驼祥子](https://www.ppzuowen.com/book/luotuoxiangzi/)
+  - [骆驼祥子每章概括](https://wenku.baidu.com/view/e73838c5482fb4daa48d4b4d.html)
+  - [骆驼祥子1至24章节概括内容](https://zhidao.baidu.com/question/583636850.html)
+  - [《骆驼祥子》与《离婚》——无法逃遁的“围城”命运](https://new.qq.com/omn/20190516/20190516A0ITZK.html?pc)
 
 ## 诗词
 
