@@ -25,6 +25,7 @@
   - [骆驼祥子每章概括](https://wenku.baidu.com/view/e73838c5482fb4daa48d4b4d.html)
   - [骆驼祥子1至24章节概括内容](https://zhidao.baidu.com/question/583636850.html)
   - [《骆驼祥子》与《离婚》——无法逃遁的“围城”命运](https://new.qq.com/omn/20190516/20190516A0ITZK.html?pc)
+  - [骆驼祥子经典段落摘抄](https://wenku.baidu.com/view/c186f887cd1755270722192e453610661ed95aaa.html)
 
 ## 诗词
 

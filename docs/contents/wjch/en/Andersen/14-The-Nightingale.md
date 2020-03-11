@@ -29,8 +29,8 @@
   - Main Characters: Emperor, Nightingale
   - Problem: The emperor want to find the nightingale who can sing *beautifully*/sweetly.
   - Beginning: The emperor knew a special bird in his garden - mysterious nightingale and summoned his chamberlain to find the bird.
-  - Middle: Then, they found the nightingale and brought it back. The nightingale sang so sweetly that tears came to the emperor's eyes.But one day an artificial bird looking more beautiful replaced the real one. After one year, this mechanical bird broke down.
-  - End: Five years later, the emperor got sick and was dying. Nobody took care of the emperor. At this time the real nightingale came back, adn her song revived the emperor.
+  - Middle: Then, they found the nightingale and brought it back. The nightingale sang so sweetly that tears came to the emperor's eyes. But one day an artificial bird looking more beautiful replaced the real one. After one year, this mechanical bird broke down.
+  - End: Five years later, the emperor got sick and was dying. Nobody took care of the emperor. At this time the real nightingale came back, and her song revived the emperor.
 
 ## As-is
 
@@ -254,17 +254,25 @@ In the middle of the great hall, where the emperor sat, a golden perch had been 
 
 在皇帝坐着的大殿中央，有一根金制的栖木，夜莺就坐在上面。整个院子的人都在那儿，小厨娘也得到了许可，可以站在门后面，因为她现在真的有了小厨娘了。每个人都穿着他最华丽的衣服。他们都望着这只小灰鸟，皇帝也对着它点了点头。
 
-TODO 
 And the nightingale sang so sweetly that tears came to the emperor's eyes and rolled down his cheeks. And then the nightingale sang even more sweetly. It went straight to one's heart. And the emperor was so pleased that he said the nightingale was to have his golden slipper to wear around its neck. But the nightingale said no, thank you - it had been rewarded enough.
+
+- straight adj. 直的；连续的；笔直的；正直的；整齐的；异性恋的 adv. **直接地**；不断地；立即；坦率地 n. 直；直线；直男，直女，异性恋者
 
 夜莺唱得那么动听，皇帝的眼里噙满了泪水，泪水顺着他的脸颊滚落下来。于是夜莺唱得更动听了。它直刺人的心脏。皇帝非常高兴，他说夜莺的脖子上要套上他的金拖鞋。但是夜莺说不了，谢谢你，它已经得到了足够的回报。
 
 "I have seen tears in the emperor's eyes. To me, that is the richest treasure. An emperor's tears have a wondrous power. Heaven knows I have been rewarded enough!" And then it sang again with its sweet and blessed voice.
 
+- rich /rɪtʃ/ adj. 富有的；肥沃的；**昂贵的** adj. 油腻的，含有很多脂肪 (rich的最高级richest)
+- wondrous /ˈwʌndrəs/ adj. 奇妙的；令人惊奇的；非常的
+- blessed /ˈblesɪd/ adj. 神圣的，尊敬的；受祝福的，受上帝保佑的；**带来幸福的，带来好运的**；（使人）愉快安宁的；有幸具有的；幸运的；（非正式）表示愠怒，该死的 v. 祝福；祝圣；称颂上帝（bless 的过去式和过去分词）
+
 “我看到过皇帝眼中的泪水。对我来说，那是最宝贵的财富。皇帝的眼泪有一种神奇的力量。天知道我已经得到了足够的回报!”然后它又用它那甜美而幸福的声音唱了起来。
 
 "That is the most adorable *coquetterie* I know of," said the ladies standing around. And then they put water in their mouths so they could gurgle whenever anyone spoke to them, for now they thought that they were nightingales too. Yes, even the lackeys and chambermaids let it be known that they were also satisfied, and that was saying a lot, for they are the hardest to please. Yes indeed, the nightingale had really been a success.
 
+- coquetterie coquette /kɒˈket/ n. 卖弄风情的女人；冠蜂鸟 v. 卖弄风情，调情
+
+TODO 
 站在旁边的女士们说:“这是我见过的最可爱的风骚女了。”然后他们把水放进嘴里，这样每当有人跟他们说话时，他们就可以咯咯地笑，因为现在他们认为自己也是夜莺。是的，就连侍从和侍女们也表示他们也很满意，这说明了许多问题，因为他们是最难使人满意的。是的，那只夜莺的确成功了。
 
 Now it was to remain at court and have its own cage as well as freedom to take a walk outside twice during the day and once at night. It was given twelve servants, too, each one holding tightly to a silken ribbon fastened to its leg. That kind of walk was no pleasure at all.

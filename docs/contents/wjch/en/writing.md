@@ -1,6 +1,8 @@
 # Writing Composition
 
 - [Writing Composition](#writing-composition)
+  - [movie transcript](#movie-transcript)
+  - [Lesson 17](#lesson-17)
   - [Camping](#camping)
     - [Excellent: Go Camping](#excellent-go-camping)
     - [Jeff: Camping](#jeff-camping)
@@ -14,6 +16,21 @@
     - [Excellent](#excellent-2)
     - [Great](#great)
     - [good](#good)
+
+## movie transcript
+
+- Wonder 奇迹男孩
+  - When given the choice between being right or being kind.Choose kind." “如果要从正确和善良中做选择，请选择善良。”
+  - "Be kind,for everyone is fighting a hard battle.And if you really wanna see what people are,all you have to do,is look." “善良一点，因为每个人都在与生活苦战，如果你想真正了解他人，你只需要，用心去看。”
+  - "Maybe if we knew what other people were thinking,we'd know that no one's ordinary.And we all deserve a standing ovation at least once in our lives." “如果我们了解别人的想法，就会知道，没有人是普通的，每个人都至少值得大家起来为他鼓一次掌。”
+
+I choose being kind. Firstly, because as human being , the most important thing is to have good relationship among people, especially those who you love most. Secondly, there are many things you can do them right, but you may hurt people concerned. For example, if you have a lot of food and someone asks you to share. You have right not to give him or her, but do you think it's kind? In a word, being kind is what makes us a man, and being right may not be so.
+
+## Lesson 17
+
+老鼠救了狮子以后，还会发生什么事呢？请续写该故事，开头已经给出。
+
+The mouse saved the lion from the trap. They became good friends. One day, the mouse was walking in a field, a cat came and wanted to eat him. The cat flew at the mouse. At that moment, the mouse soon ran away. The cat closely run after it. They run across the field, through the forest, over a stream. The mouse was really tired but the cat was closer and closer. Finally, they came under a big tree. To the rat's surprise, the lion was just there and the little mouse at once climbed to his back from the tail . At the sight of the lion, the cat immediately stopped and stared at the mouse. The cat thought that the lion must be asleep. But the lion roared and the cat was so frightened to run away. However, the cat was really wondering why the little mouse was never afraid of the lion who was the king of the forest.
 
 ## Camping
 
