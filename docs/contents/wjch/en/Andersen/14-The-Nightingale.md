@@ -270,13 +270,20 @@ And the nightingale sang so sweetly that tears came to the emperor's eyes and ro
 
 "That is the most adorable *coquetterie* I know of," said the ladies standing around. And then they put water in their mouths so they could gurgle whenever anyone spoke to them, for now they thought that they were nightingales too. Yes, even the lackeys and chambermaids let it be known that they were also satisfied, and that was saying a lot, for they are the hardest to please. Yes indeed, the nightingale had really been a success.
 
+- adorable /əˈdɔːrəbl/ adj. 可爱的；可敬重的，值得崇拜的
 - coquetterie coquette /kɒˈket/ n. 卖弄风情的女人；冠蜂鸟 v. 卖弄风情，调情
+- gurgle /ˈɡɜːɡl/ v. 作汩汩声；汩汩地流；作咯咯声；用咯咯声表示 n. 汩汩声；咯咯声
+- lackey /ˈlæki/ n. 男仆；侍从；马屁精 vt. 侍候，服侍；奉承
+- chambermaid /ˈtʃeɪmbəmeɪd/ n. 女服务员；家庭女仆
+- chamber /ˈtʃeɪmbə(r)/ n. （身体或器官内的）室，膛；房间；会所 adj. 室内的；私人的，秘密的 vt. 把…关在室内；装填（弹药等）
+- let it be known that ... 使人们知道（或清楚）; 明确表示; The Prime Minister has let it be known that he is against it 首相对此明确表示反对。
+  -  let it be的意思是顺其自然, 随(他)去, 任(他)那样
 
-TODO 
-站在旁边的女士们说:“这是我见过的最可爱的风骚女了。”然后他们把水放进嘴里，这样每当有人跟他们说话时，他们就可以咯咯地笑，因为现在他们认为自己也是夜莺。是的，就连侍从和侍女们也表示他们也很满意，这说明了许多问题，因为他们是最难使人满意的。是的，那只夜莺的确成功了。
+站在旁边的女士们说:“这是我见过的最可爱的冠蜂鸟。”然后他们把水放进嘴里，这样每当有人跟他们说话时，他们就可以咯咯地笑，因为现在他们认为自己也是夜莺。是的，就连侍从和侍女们也表示他们也很满意，这说明了许多问题，因为他们是最难使人满意的。是的，那只夜莺的确成功了。
 
 Now it was to remain at court and have its own cage as well as freedom to take a walk outside twice during the day and once at night. It was given twelve servants, too, each one holding tightly to a silken ribbon fastened to its leg. That kind of walk was no pleasure at all.
 
+TODO 
 现在它得待在院子里，有自己的笼子，还可以自由地在外面散步，白天两次，晚上一次。它也有十二个仆人，每个人都紧紧地抓着系在腿上的丝带。那样的散步一点也不愉快。
 
 The whole city talked about the remarkable bird, and whenever two people met, the first merely said "Night!" and the other said "Gale!" And then they sighed and understood each other! Yes, eleven shopkeepers' children were named after it, but not one of them could ever sing a note in his life!
