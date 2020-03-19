@@ -283,7 +283,7 @@ And the nightingale sang so sweetly that tears came to the emperor's eyes and ro
 
 Now it was to remain at court and have its own cage as well as freedom to take a walk outside twice during the day and once at night. It was given twelve servants, too, each one holding tightly to a silken ribbon fastened to its leg. That kind of walk was no pleasure at all.
 
-TODO 
+TODO  double check
 现在它得待在院子里，有自己的笼子，还可以自由地在外面散步，白天两次，晚上一次。它也有十二个仆人，每个人都紧紧地抓着系在腿上的丝带。那样的散步一点也不愉快。
 
 The whole city talked about the remarkable bird, and whenever two people met, the first merely said "Night!" and the other said "Gale!" And then they sighed and understood each other! Yes, eleven shopkeepers' children were named after it, but not one of them could ever sing a note in his life!
