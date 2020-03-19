@@ -91,6 +91,7 @@
             <li><a href="#ssh_1">SSH端口转发</a></li>
             <li><a href="#_6">端口转发实践</a></li>
             <li><a href="#_9">结束语</a></li>
+            <li><a href="#firefox">Firefox</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
@@ -118,6 +119,7 @@
 </ul>
 </li>
 <li><a href="#%e7%bb%93%e6%9d%9f%e8%af%ad">结束语</a></li>
+<li><a href="#firefox">Firefox</a></li>
 </ul>
 <h2 id="_1">概述</h2>
 <p>问题：</p>
@@ -261,7 +263,12 @@ root@home $ ssh -R 2221:localhost:22 35.194.*.*
 
 <p>上面命令我们添加了动态端口转发参数。此时如果想访问家庭网络中其他主机上的资源的话，只要指定这个代理即可。</p>
 <h2 id="_9">结束语</h2>
-<p>至此，我们已经完成了<a href="http://m.sohu.com/a/272431090_609423">SSH 端口转发</a>的简要介绍，并通过几个实例展示了其在工作生活中的应用。</p></div>
+<p>至此，我们已经完成了<a href="http://m.sohu.com/a/272431090_609423">SSH 端口转发</a>的简要介绍，并通过几个实例展示了其在工作生活中的应用。</p>
+<h2 id="firefox">Firefox</h2>
+<ul>
+<li><a href="https://www.bitvise.com/ssh-web-browsing">Web browsing over SSH</a></li>
+</ul>
+<p>The recommended browser for this purpose is Firefox, because it can be configured to resolve DNS names through the SOCKS proxy, so the names of the websites you're browsing don't leak out through DNS queries.</p></div>
         </div>
 
         <footer class="col-md-12">
