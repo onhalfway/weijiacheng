@@ -81,7 +81,7 @@ him to be allowed to live.
 She now saw the mainland ahead of her, tall blue mountains with white snow gleaming on their summits as if swans were lying there; down by the coast there were lovely green forests, and in front of them lay a church or an abbey, she did not know for sure, but it was definitely a building. Lemon and orange trees grew in the garden, and in front of the gate stood tall palm trees. The shore formed a small bay here where the water was completely still but very deep, all the way to the cliff where fine silver sand had been washed up, she swam over there with the handsome prince and laid him down on the sand, but made sure that his head lay high up in the warm sunshine.
 
 Now the bells in the large white building started to chime, and many young girls came walking through the garden. Then the little mermaid swam further out behind some boulders that stuck up out of the water, placed sea-foam of her hair and breast so that no one could see her small face, and then she watched to see who came out to the poor prince.
-
+
 It did not take long before a young girl came to the spot, she seemed to be quite shocked, but only for a moment, then she fetched some others, and the mermaid saw how the prince recovered and that he smiled to all of those around him, but not out to her, for he did not even know that she had saved him; she felt so sad, and when he was led into the large building, she dived sorrowfully down into the water and sought her way home to her father's palace.
 
 She had always been quiet and thoughtful, but now she was even more so. Her sisters asked her what she had seen the first time up above, but she did not tell them anything.
@@ -269,7 +269,7 @@ him to be allowed to live.
 She now saw the mainland ahead of her, tall blue mountains with white snow gleaming on their summits as if swans were lying there; down by the coast there were lovely green forests, and in front of them lay a church or an abbey, she did not know for sure, but it was definitely a building. Lemon and orange trees grew in the garden, and in front of the gate stood tall palm trees. The shore formed a small bay here where the water was completely still but very deep, all the way to the cliff where fine silver sand had been washed up, she swam over there with the handsome prince and laid him down on the sand, but made sure that his head lay high up in the warm sunshine.
 
 Now the bells in the large white building started to chime, and many young girls came walking through the garden. Then the little mermaid swam further out behind some boulders that stuck up out of the water, placed sea-foam of her hair and breast so that no one could see her small face, and then she watched to see who came out to the poor prince.
-
+
 It did not take long before a young girl came to the spot, she seemed to be quite shocked, but only for a moment, then she fetched some others, and the mermaid saw how the prince recovered and that he smiled to all of those around him, but not out to her, for he did not even know that she had saved him; she felt so sad, and when he was led into the large building, she dived sorrowfully down into the water and sought her way home to her father's palace.
 
 She had always been quiet and thoughtful, but now she was even more so. Her sisters asked her what she had seen the first time up above, but she did not tell them anything.
