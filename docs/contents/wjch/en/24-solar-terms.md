@@ -72,8 +72,11 @@
 
 - [节气](http://tv.cctv.com/special/24jq/jieqi/index.shtml)
 - [节气歌](https://baike.baidu.com/item/%E8%8A%82%E6%B0%94%E6%AD%8C)
+- [二十四节气，七十二候](https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94/191597)
 - [Chinese Solar Terms](https://www.chinatravel.com/facts/chinese-solar-terms.htm)
 - [twenty four solar terms](../../english/twenty-four-solar-term.md)
+- 气候,为什么叫气候?气是什么?候是什么?
+  - 一个地区多年的大气状况、包括平均状态和极端状态。古时五日为候、三候为气,一年二十四节气、七十二候、合称气候。
 
 ### Song of Solar Terms
 

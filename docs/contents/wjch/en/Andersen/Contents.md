@@ -66,9 +66,10 @@ _as is = copy from the book named Andersen's Fairy Tales in Chaoyang Foreign Lan
 
 Hans Christian Andersen Center
 
--   [The Complete Andersen](https://andersen.sdu.dk/vaerk/hersholt/index_e.html)
--   [BBC School Radio](www.bbc.co.uk/schoolradio)
-    -   [See all episodes from Tales of Hans Christian Andersen](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-hans-christian-andersen/z6j2cqt)
+- [The Complete Andersen](https://andersen.sdu.dk/vaerk/hersholt/index_e.html)
+- [BBC School Radio](www.bbc.co.uk/schoolradio)
+  - [See all episodes from Tales of Hans Christian Andersen](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-hans-christian-andersen/z6j2cqt)
+- [Andersen Fairy Tales and Stories English Translation: H. P. Paull (1872)](http://hca.gilead.org.il/)
 
 English KS2: Tales of Hans Christian Andersen
 
