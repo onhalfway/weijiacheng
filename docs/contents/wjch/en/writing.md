@@ -1,6 +1,8 @@
 # Writing Composition
 
 - [Writing Composition](#writing-composition)
+  - [Lesson 22 Colour](#lesson-22-colour)
+  - [travel plan](#travel-plan)
   - [movie transcript](#movie-transcript)
   - [Lesson 17](#lesson-17)
   - [Camping](#camping)
@@ -16,6 +18,23 @@
     - [Excellent](#excellent-2)
     - [Great](#great)
     - [good](#good)
+
+## Lesson 22 Colour
+
+Mr. Tom was a worker in a car factory and had been worked there for 6 years. He worked very hard and carefully. But the NCoV-2019 led his factory loosing lots of money, so Tom and other workers got pink slips.  It's out of the blue when Tom got the news. He went red that he didn't do anything wrong. It's totally unfair. He ask his co-workers and they decided to solve it by law. In the end, the factory apologize and let them continue to work.
+
+## travel plan
+
+Dear Tom,
+I am very glad that you will come to Beijing this summer vacation. Now let me design a one-day tour of Beijing for you.
+
+In the morning, you can go to Beihai park by taking subway or taxi. There is a beautiful lake in the park and you can take a boat to enjoy the wonderful view around it. You can take photos and relax yourself too. Next you can walk to visit the Forbidden City which we chinese call it “Gugong”. It’s royal palace of the Ming and Qing dynasties and one of the largest palaces in the world. At there, you can learn about culture, history and see many relics. Then out of the gate of Gugong, you will come to the Tiananmen Square on feet. You can see the stately flag-raising ceremony and take photos for memory. At last, you can take a bus to the Qianmen Street. There are many old unique shops and restaurants which are all very famous. It’s a really good place for shopping and eating. The foods there are pretty delicious.
+
+Hope you will enjoy your trip and have a good time!
+
+Best wishes
+yours Jeff
+
 
 ## movie transcript
 

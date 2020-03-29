@@ -95,6 +95,7 @@ Refer to Tencent Docs
 - [Notes by Firefox](about:addons)
 - [mind map](https://www.mindmeister.com/)
 - [mind map](https://gitmind.cn/)
+- [mindmap](https://www.kdocs.cn/)
 - [markdown-stack edit](https://stackedit.io/app#)
 - [downloader](https://www.freedownloadmanager.org/)
 - [downloader](https://www.internetdownloadmanager.com/)
