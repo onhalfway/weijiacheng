@@ -161,6 +161,13 @@ Refer to Tencent Docs
 - [中国大学MOOC(慕课)](https://www.icourse163.org/)
 - [爱慕课](http://www.imoocs.org)
 - [慕课网](https://www.imooc.com/)
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+- 判断文件内容是否发生变化
+  - [Linux md5sum](http://blog.sina.com.cn/s/blog_17b6f163b0102x1cp.html)
+  - Python hashlib.md5
+- [subtitle+converter+extract](http://arctime.cn/)
+- [Video Cutter/Joiner/Splitter](http://www.bandicam.com/bandicut-video-cutter/download/)
+- [Total Video Converter](http://www.bigasoft.com/)
 
 ## 文史
 
