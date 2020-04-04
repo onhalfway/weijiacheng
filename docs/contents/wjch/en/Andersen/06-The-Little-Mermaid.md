@@ -19,17 +19,35 @@
 
 ## As-is
 
+- [海的女儿](https://ru.hujiang.com/new/p632899/)
+
 Far out to sea the water is as blue as the petals on the loveliest cornflower and as clear as the purest glass. But it is very deep, deeper than any anchor rope can reach. Many church steeples would have to be placed one on top of the other to stretch from the bottom up to the surface of the water. Down there live the mermen.
+
+- petal /ˈpetl/ n. 花瓣
+- cornflower /ˈkɔːrnflaʊər/ n. 矢车菊
+- church /tʃɜːtʃ/  n. 教堂；礼拜；教派 adj. 教会的；礼拜的 vt. 领…到教堂接受宗教仪式
+- steeple /ˈstiːpl/ n. 尖塔；尖顶 vt. 把…建成尖塔
+- stretch /stretʃ/ v. （柔软或弹性物）伸展；（使）过分延长；延续 dj. 弹性的，可拉伸的
 
 远眺大海，海水像最可爱的矢车菊上的花瓣一样蓝，像最纯净的玻璃一样清。但它非常深，比任何锚索都要深。许多教堂的尖塔必须一个接一个地建起来，从底部一直延伸到水面。下面住着人鱼。
 
+在海的远处，水是那么蓝，像最美丽的矢车菊花瓣，同时又是那么清，像最明亮的玻璃。然而它是很深很深，深得任何锚链都达不到底。要想从海底一直达到水面，必须有许多许多教堂尖塔一个接着一个地联起来才成。海底的人就住在这下面。
+
 Now, it certainly shouldn't be thought that the bottom is only bare and sandy. No, down there grow the strangest trees and plants, which have such flexible stalks and leaves that the slightest movement of the water sets them in motion as if they were alive. All the fish, big and small, slip in and out among the branches just the way the birds do up here in the air. At the very deepest spot lies the castle of the king of the sea. The walls are of coral, and the long tapering windows are of the clearest amber. But the roof is of mussel shells, which open and close with the flow of the water. The effect is lovely, for in each of there is a beautiful pearl, any of which would be highly prized in a queen's crown.
+
+不过人们千万不要以为那儿只是一片铺满了白砂的海底。不是的，那儿生长着最奇异的树木和植物。它们的枝干和叶子是那么柔软，只要水轻微地流动一下，它们就摇动起来，好像它们是活着的东西。所有的大小鱼儿在这些枝子中间游来游去，像是天空的飞鸟。海里最深的地方是海王宫殿所在的处所。它的墙是用珊瑚砌成的，它那些尖顶的高窗子是用最亮的琥珀做成的；不过屋顶上却铺着黑色的蚌壳，它们随着水的流动可以自动地开合。这是怪好看的，国为每一颗蚌壳里面含有亮晶晶的珍珠。随便哪一颗珍珠都可以成为皇后帽子上最主要的装饰品。
 
 For many years the king of the sea had been a widower, and his old mother kept house for him. She was a wise woman and proud of her royal birth, and so she wore twelve oysters on her tail; the others of noble birth had to content themselves with only six. Otherwise she deserved much praise, especially because she was so fond of the little princesses, her grandchildren. There were six lovely children, but the youngest one was the fairest of them all. Her skin was as clear and opalescent as a rose petal. Her eyes as blue as the deepest sea. But like all the others, she had no feet, her body ended in a fishtail.
 
+住在那底下的海王已经做了好多年的鳏夫，但是他有老母亲为他管理家务。她是一个聪明的女人，可是对于自己高贵的出身总是感到不可一世，因此她的尾巴上老戴着一打的牡蛎——其余的显贵只能每人戴上半打。除此以外，她是值得大大的称赞的，特别是因为她非常爱那些小小的海公主——她的一些孙女。她们是六个美丽的孩子，而她们之中，那个顶小的要算是最美丽的了。她的皮肤又光又嫩，像玫瑰的花瓣，她的眼睛是蔚蓝色的，像最深的湖水。不过，跟其他的公主一样，她没有腿：她身体的下部是一条鱼尾。
+
 All day long they could spend playing down in the castle in the great halls where living flowers grew out of the walls. The big amber windows were opened, and then the fish swam into them just as on land the swallows fly in when we open the windows. But the fishes swam right over to the small princesses, ate out of their hands, and allowed themselves to be petted.
 
+她们可以把整个漫长的日子花费在皇宫里，在墙上生有鲜花的大厅里。那些琥珀镶的大窗子是开着的，鱼儿向着她们游来，正如我们打开窗子的时候，燕子会飞进来一样。不过鱼儿一直游向这些小小的公主，在她们的手里找东西吃，让她们来抚摸自己。
+
 Outside the castle was a large garden with trees as red as fire and as blue as night. The fruit shone like gold, and the flowers looked like burning flames, for their stalks and leaves were always in motion. The ground itself was the finest sand, but blue like the flame of brimstone. A strange blue sheen lay over everything down there. It was more like standing high up in the air and seeing only sky above and below than like being at the bottom of the sea. In a dead calm the sun could be glimpsed. It looked like a purple flower from whose chalice the light streamed out.
+
+宫殿外面有一个很大的花园，里边生长着许多火红和深蓝色的树木；树上的果子亮得像黄金，花朵开得像焚烧着的火，花枝和叶子在不停地摇动。地上全是最细的砂子，但是蓝得像硫黄发出的光焰。在那儿，处处都闪着一种奇异的、蓝色的光彩。你很容易以为你是高高地在空中而不是在海底，你的头上和脚下全是一片蓝天。当海是非常沉静的时候，你可瞥见太阳：它像一朵紫色的花，从它的花萼里射出各种色彩的光。
 
 Each of the little princesses had her own tiny plot in the garden where she could dig and plant just as she wished. One made her flower bed in the shape of a whale. Another preferred hers to resemble a little mermaid. But the youngest made hers quite round like the sun and had only flowers that shone red the way it did. She was a strange child, quiet and pensive, and while the other sisters decorated their gardens with the strange things they had found from wrecked ships, the only thing she wanted, besides the rosy-red flowers that resembled the sun high above, was a beautiful marble statue. It was of a handsome boy carved out of clear white stone, and in the shipwreck it had come down to the bottom of the sea. By the pedestal she had planted a rose-colored weeping willow. It grew magnificently, and its fresh branches hung out over the statue and down toward the blue, sandy bottom, where its shadow appeared violet and moved just like the branches. It looked as if the top and its roots played at kissing each other.
 
@@ -397,8 +415,6 @@ And the little mermaid lifted her clear arms towards God's sun, and for the firs
 
 - A fairy tale by Hans Christian Andersen. Translated into English by John Irons in 2014 for the Hans Christian Andersen Centre at the University of Southern Denmark.
 - This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
-
-
 
 ## BBC The Little Mermaid
 
