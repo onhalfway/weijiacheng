@@ -41,7 +41,7 @@
 
 ## Book: Andersen's Fairy Tales
 
-- [Book: Andersen's Fairy Tales](../wjch/en/Andersen/Contents)
+- [Table Of Contents](../wjch/en/Andersen/Contents)
   - [05-The-Talizman](../wjch/en/Andersen/05-The-Talizman)
   - [06-The-Little-Mermaid](../wjch/en/Andersen/06-The-Little-Mermaid)
   - [07-The-Emperor's-New-Clothes](../wjch/en/Andersen/07-The-Emperor's-New-Clothes)
@@ -54,10 +54,10 @@
   - [42-The-Teapot](../wjch/en/Andersen/42-The-Teapot)
 - [Back Cover](../wjch/en/Andersen/Back-Cover)
 - [Thumbelina](../wjch/en/Andersen/Thumbelina)
-- [A Fence or an Ambulance?](http://www.boyds.org/199703FenceOrAmbulance.aspx)
 
 ### Transcript and Information
 
+- [A Fence or an Ambulance?](http://www.boyds.org/199703FenceOrAmbulance.aspx)
 - [The Ugly Duckling Lesson Transcript](../english/ugly-duckling-transcript)
 - [The Ugly Duckling Information](../english/ugly-duckling-info)
 - [The Ugly Duckling Wikipedia](https://en.wikipedia.org/wiki/The_Ugly_Duckling)
