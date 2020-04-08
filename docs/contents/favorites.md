@@ -1,6 +1,7 @@
 # 收藏夹
 
 - [收藏夹](#%e6%94%b6%e8%97%8f%e5%a4%b9)
+  - [ebook](#ebook)
   - [居家](#%e5%b1%85%e5%ae%b6)
   - [中考](#%e4%b8%ad%e8%80%83)
   - [通知](#%e9%80%9a%e7%9f%a5)
@@ -30,6 +31,11 @@
   - [网盘搜索](#%e7%bd%91%e7%9b%98%e6%90%9c%e7%b4%a2)
   - [Driver](#driver)
   - [search](#search)
+
+## ebook
+
+[人教版中小学教材电子版](https://bp.pep.com.cn/jc/)
+[朝阳区初中《目标检测》电子版教材](http://jiaoyan.bjchyedu.cn/zwgk/jwtz/202003/t20200321_50120.html)
 
 ## 居家
 
@@ -81,6 +87,7 @@ Refer to Tencent Docs
 
 ## Tools工具
 
+- [Windows 10 MediaCreationTool](https://www.microsoft.com/zh-cn/software-download/windows10)
 - [Time Is](https://time.is/)
 - [Time and Date](https://www.timeanddate.com/)
 - [zoom us](https://zoom.us/)
