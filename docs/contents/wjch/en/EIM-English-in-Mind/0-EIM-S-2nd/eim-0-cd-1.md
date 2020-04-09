@@ -158,6 +158,7 @@
 - seven door
 - eight window
 - nine notebook
+- ten desk
 
 ## 06 Welcome B - Exercise 4a
 
@@ -227,7 +228,7 @@
 - S s
 - T t
 - U u
-- T t
+- V v
 - W w
 - X x
 - Y y
@@ -1037,6 +1038,9 @@
   - Kate: You're joking! Lamb? Oh, now I feel silly!
   - Mark: Don't worry, Kate. Just enjoy your lunch!
 
+- samosa /səˈmoʊsə/ n. 萨莫萨三角饺 复数 samosas
+- beef /biːf/ n. 牛肉；肌肉；食用牛；牢骚
+- lamb /læm/ n. 羔羊，小羊；羔羊肉
 - silly /ˈsɪli/ adj. 愚蠢的；不明事理的；没头脑的 n. 傻瓜
 
 - Answers: Kate doesn't like lamb.
