@@ -36,6 +36,8 @@
 
 [人教版中小学教材电子版](https://bp.pep.com.cn/jc/)
 [朝阳区初中《目标检测》电子版教材](http://jiaoyan.bjchyedu.cn/zwgk/jwtz/202003/t20200321_50120.html)
+[北京数字学校](https://cache.bdschool.cn/public/bdschool/index/static/migu/w.html?grade=7)
+[北京数字教材](http://bjedu.chineseall.net/zt/act/views/zwzxpd/web/index.html)
 
 ## 居家
 
