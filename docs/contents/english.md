@@ -12,6 +12,22 @@
 - all Headway learning resources in baidu net disk
 - all Headway learning resources in Slim USB disk
 - [NEW HEADWAY ALL LEVELS ALL Editions FULL SETs](http://frenglish.ru/headway.html)
+  - [Download Link](https://www.youtube.com/watch?v=iXZGAWL6ego)
+    - New Headway Student's Book Fourth Edition
+      - Beginner: https://hitfile.net/0X7cm9e
+      - Elementary: https://hitfile.net/1btO
+      - Pre-Inter: https://hitfile.net/26r7
+      - Intermediate: https://hitfile.net/DmOQ03r
+      - Upper-intermediate: https://hitfile.net/2JHq
+      - Advanced: https://hitfile.net/w8xI0s5
+    - New Headway Work's Book Fourth Edition
+      - Beginner: https://hitfile.net/SjO44kd
+      - Elementary: https://hitfile.net/1aL8
+      - Pre-Intermediate: https://hitfile.net/27lG
+      - Intermediate: https://hitfile.net/WAwnqgy
+      - Upper-Intermediate: https://hitfile.net/2JVk
+      - Advanced: https://hitfile.net/KUiJvHS
+
 - [NEW HEADWAY free download](https://kupdf.net/search/New+Headway+4th+Edition)
 
 - New Headway Elementary 4-edition Student’s Book
@@ -24,23 +40,7 @@
 - New Headway Elementary 4-edition Teacher’s Resource Disc
 - New Headway Elementary 4-edition Vocabulary Quizzes
 
-[Download Link](https://www.youtube.com/watch?v=iXZGAWL6ego)
----------------------------
-New Headway Student's Book Fourth Edition
-Beginner: https://hitfile.net/0X7cm9e
-Elementary: https://hitfile.net/1btO
-Pre-Inter: https://hitfile.net/26r7
-Intermediate: https://hitfile.net/DmOQ03r
-Upper-intermediate: https://hitfile.net/2JHq
-Advanced: https://hitfile.net/w8xI0s5
 
-New Headway Work's Book Fourth Edition
-Beginner: https://hitfile.net/SjO44kd
-Elementary: https://hitfile.net/1aL8
-Pre-Intermediate: https://hitfile.net/27lG
-Intermediate: https://hitfile.net/WAwnqgy
-Upper-Intermediate: https://hitfile.net/0kADIi0
-Advanced: https://hitfile.net/NLacz3k
 
 ## EIM-English-In-Mind
 
