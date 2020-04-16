@@ -90,23 +90,23 @@
 - Complete the dialogues with the words in the box.
 - Then listen and check your answers.
 - One
-- Eddie: Hello. My name's Eddie.
-- Alison: Hi, Eddie. I'm Alison, and (this) is Janet.
-- Janet: Hi, Eddie.
-- Eddie: Hi, Alison. Hi Janet.
+  - Eddie: Hello. My name's Eddie.
+  - Alison: Hi, Eddie. I'm Alison, and (this) is Janet.
+  - Janet: Hi, Eddie.
+  - Eddie: Hi, Alison. Hi Janet.
 - Two
-- Paula: Hi, Steve. (How) are you?
-- Steve: Fine, (thanks). And you?
-- Paula: Yeah, I'm OK.
+  - Paula: Hi, Steve. (How) are you?
+  - Steve: Fine, (thanks). And you?
+  - Paula: Yeah, I'm OK.
 - Three
-- Joanne: Good (morning) Mrs Jackson.
-- Mrs Jackson: Hello, Joanne. How are you?
-- Joanne: I'm fine, thank you. Well, goodbye.
-- Mrs Jackson: (Goodbye), Joanne.
+  - Joanne: Good (morning) Mrs Jackson.
+  - Mrs Jackson: Hello, Joanne. How are you?
+  - Joanne: I'm fine, thank you. Well, goodbye.
+  - Mrs Jackson: (Goodbye), Joanne.
 - Four
-- Sally: Bye, Mike.
-- Mike: Bye, Sally. (See you) later.
-- Sally: Yeah, see you.
+  - Sally: Bye, Mike.
+  - Mike: Bye, Sally. (See you) later.
+  - Sally: Yeah, see you.
 
 ## 03 Welcome A - Exercise 2b
 
@@ -114,92 +114,92 @@
 - What are the people saying?
 - Write the numbers in the speech bubbles.
 - Then listen and check your answers.
-- A Good afternoon
-- B Goodbye
-- C Goodnight
-- D Good morning
-- E Good evening
+  - A Good afternoon
+  - B Goodbye
+  - C Goodnight
+  - D Good morning
+  - E Good evening
 
 ## 04 Welcome B - Exercise 1b
 
 - Welcome section B
 - Exercise One B
 - Listen, check and repeat
-- one city
-- two football
-- three airport
-- four computer
-- five sandwich
-- six bus
-- seven music
-- eight taxi
-- nine cinema
-- ten restaurant
-- eleven museum
-- twelve hamburger
-- thirteen DVD
-- fourteen TV
-- fifteen hotel
-- sixteen phone
-- seventeen pizza
-- eighteen cafe
+  - one city
+  - two football
+  - three airport
+  - four computer
+  - five sandwich
+  - six bus
+  - seven music
+  - eight taxi
+  - nine cinema
+  - ten restaurant
+  - eleven museum
+  - twelve hamburger
+  - thirteen DVD
+  - fourteen TV
+  - fifteen hotel
+  - sixteen phone
+  - seventeen pizza
+  - eighteen cafe
 
 ## 05 Welcome B - Exercise 2b
 
 - Welcome section B
 - Exercise two-B
 - Write the words from the box under the pictures in Exercise two-a. Listen, check and repeat.
-- one pen
-- two Book
-- three board
-- four CD
-- five pencil
-- six chair
-- seven door
-- eight window
-- nine notebook
-- ten desk
+  - one pen
+  - two Book
+  - three board
+  - four CD
+  - five pencil
+  - six chair
+  - seven door
+  - eight window
+  - nine notebook
+  - ten desk
 
 ## 06 Welcome B - Exercise 4a
 
 - Welcome section B
 - Exercise four-a
 - Listen and repeat the words in the table.
-- bus
-- phone
-- desk
-- taxi
-- teacher
-- hotel
-- computer
-- cinema
-- hamburger
+  - bus
+  - phone
+  - desk
+  - taxi
+  - teacher
+  - hotel
+  - computer
+  - cinema
+  - hamburger
 
 ## 07 Welcome B - Exercise 4b
 
 - Welcome section B
 - Exercise four-b
 - Listen and write the words under A, B or C.
-- sandwich
-- door
-- museum
-- pen
-- restaurant
-- window
+  - sandwich
+  - door
+  - museum
+  - pen
+  - restaurant
+  - window
 
 ## 08 Welcome C - Exercise 1b
 
 - Welcome section C
 - Exercise one-b
 - Listen, check and repeat.
-- one a cheap computer
-- two an old man
-- three a big TV
-- four a new book
-- five a small hotel
-- six an interesting DVD
-- seven a bad cafe
-- eight a good hamburger
+  - one a cheap computer
+  - two an old man
+  - three a big TV
+  - four a new book
+  - five a small hotel
+  - six an interesting DVD
+  - seven a bad cafe
+  - eight a good hamburger
 
 ## 09 Welcome C - Exercise 3a
 
@@ -240,7 +240,7 @@
 - Exercise three-c
 - Listen, check and repeat.
 - Pronunciation
-- /е/ f, I, m, n, s, x, z
+- /е/ f, l, m, n, s, x, z
 - /ei/ a, h,j, к
 - /i:/ b, c, d, e, g, p, t, v
 - /ai/ i,y
@@ -273,25 +273,25 @@
 - Underline the correct words.
 - Then listen and check your answers.
 - one
-- Teacher: What does this (**mean** / say)?
-- Boy: (**sorry** / Ecuse me), I don't know.
-- Girl: I know, Miss.
+  - Teacher: What does this (**mean** / say)?
+  - Boy: (**sorry** / Excuse me), I don't know.
+  - Girl: I know, Miss.
 - two
-- Alex: I (not / **don't**) understand.
-- Julie: It's OK, Alex. I can help (**you** / it).
-- Alex: Thanks, Julie.
+  - Alex: I (not / **don't**) understand.
+  - Julie: It's OK, Alex. I can help (**you** / it).
+  - Alex: Thanks, Julie.
 - three
-- Girl: (Sorry / **Excuse me**) Can I help you?
-- Woman: Yes, please.
-- Girl: OK?
-- Woman: Yes, great. Thank you!
-- Girl: (**No** / A) problem!
+  - Girl: (Sorry / **Excuse me**) Can I help you?
+  - Woman: Yes, please.
+  - Girl: OK?
+  - Woman: Yes, great. Thank you!
+  - Girl: (**No** / A) problem!
 
 ## 13 Welcome D - Exercise 2a
 
 - Welcome section D
 - Exercise two-a
-- Look at the numbers 0-20. Listen and repeat.
+- Look at the numbers nought to twenty (0-20). Listen and repeat.
 - 0 zero / 'oh'
 - 1 one
 - 2 two
@@ -318,11 +318,11 @@
 
 - Welcome section D
 - Exercise two-c
-- Listen and write down teh phone numbers you hear.
-- One 272 3454. My phone number is two-seven-two three-four-five-four. That's two-seven-two three-four-five-four.
-- Two 681 7595. My phone number is six-eight-one seven-five-nine-five.Once more: six-eight-one seven-five-nine-five.
+- Listen and write down the phone numbers you hear.
+- One 272 3454: My phone number is two-seven-two three-four-five-four. That's two-seven-two three-four-five-four.
+- Two 681 7595: My phone number is six-eight-one seven-five-nine-five. Once more: six-eight-one seven-five-nine-five.
 - Three 923 6931: Hi John? It's Tom. Phone me, can you? It's nine-two-three six-nine-three-one. OK? nine-two-three six-nine-three-one.
-- Four 717 4930. Hi. This is seven-one-seven four-nine-three-oh. Please leave a message after the tone.
+- Four 717 4930: Hi. This is seven-one-seven four-nine-three-oh. Please leave a message after the tone.
 
 ## 15 Welcome D - Exercise 3a
 

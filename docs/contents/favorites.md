@@ -177,6 +177,10 @@ Refer to Tencent Docs
 - [subtitle+converter+extract](http://arctime.cn/)
 - [Video Cutter/Joiner/Splitter](http://www.bandicam.com/bandicut-video-cutter/download/)
 - [Total Video Converter](http://www.bigasoft.com/)
+- [Internet Browser](Google Chrome)
+  - [Chrome保存的HAR文件怎么打开？](https://blog.csdn.net/yeyiqun/article/details/99310869?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5)
+- [Internet Browser](Firefox)
+- [Fiddler - web debugging proxy](https://www.telerik.com/fiddler)
 
 ## 文史
 
@@ -207,6 +211,15 @@ Refer to Tencent Docs
 - [ebook - All IT Book](http://www.allitebooks.org/)
 - [ebook - PDF](https://epdf.pub)
 - [ebook search](https://www.jiumodiary.com/)
+- [ebook search](https://www.kgbook.com/)
+- [ebook search](https://new.shuge.org/)
+- [ebook search](https://gen.lib.rus.ec/)
+- [ebook search](https://epubw.com/)
+- [ebook search](https://cn.epubee.com/books)
+- [ebook search](https://www.d4j.cn/)
+- [ebook search](https://www.zqbook.top/)
+- [ebook search](https://manybooks.net/)
+- [ebook search](https://ebook2.lorefree.com/)
 - [Python进阶](https://mp.weixin.qq.com/s/KVsdLhEdxdSskDtkvTv2VQ)
   - [Intermediate Python](http://book.pythontips.com/en/latest/)
 - [Wiki How](https://www.wikihow.com/)
