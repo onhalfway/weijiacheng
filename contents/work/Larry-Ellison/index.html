@@ -9,72 +9,59 @@
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
         <title>Corporate Broadcast - Jeff Wei分享站点</title>
-        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="../../../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../../../js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="../../.."><img height="25px" src="/weijiacheng/img/bee.png">  Jeff Wei分享站点</a>
-                </div>
+                <a class="navbar-brand" href="../../..">Jeff Wei分享站点</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="../..">站点地图</a>
+                            <li class="navitem">
+                                <a href="../.." class="nav-link">站点地图</a>
                             </li>
-                            <li >
-                                <a href="../../home">首页</a>
+                            <li class="navitem">
+                                <a href="../../home" class="nav-link">首页</a>
                             </li>
-                            <li >
-                                <a href="../../math">数学</a>
+                            <li class="navitem">
+                                <a href="../../math" class="nav-link">数学</a>
                             </li>
-                            <li >
-                                <a href="../../chinese">语文</a>
+                            <li class="navitem">
+                                <a href="../../chinese" class="nav-link">语文</a>
                             </li>
-                            <li >
-                                <a href="../../english">英语</a>
+                            <li class="navitem">
+                                <a href="../../english" class="nav-link">英语</a>
                             </li>
-                            <li >
-                                <a href="../../programming">编程</a>
+                            <li class="navitem">
+                                <a href="../../programming" class="nav-link">编程</a>
                             </li>
-                            <li >
-                                <a href="../../favorites">收藏</a>
+                            <li class="navitem">
+                                <a href="../../favorites" class="nav-link">收藏</a>
                             </li>
-                            <li >
-                                <a href="../../wjch/about-me">About</a>
+                            <li class="navitem">
+                                <a href="../../wjch/about-me" class="nav-link">About</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
@@ -84,23 +71,38 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#corporate-broadcast">Corporate Broadcast</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#corporate-broadcast" class="nav-link">Corporate Broadcast</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <h1 id="corporate-broadcast">Corporate Broadcast</h1>
 <p>Team,</p>
 <p>It is with a profound sense of sadness and loss that I tell everyone here at Oracle that Mark Hurd passed away early this morning.  Mark was my close and irreplaceable friend, and trusted colleague.  Oracle has lost a brilliant and beloved leader who personally touched the lives of so many of us during his decade at Oracle.  All of us will miss Mark’s keen mind and rare ability to analyze, simplify and solve problems quickly.  Some of us will miss his friendship and mentorship.  I will miss his kindness and sense of humor.  Mark leaves his beloved wife Paula, two wonderful daughters who were the joy of his life, and his much larger extended family here at Oracle who came to love him. I know that many of us are inconsolable right now, but we are left with memories and a sense of gratitude...that we had the opportunity to get to know Mark, the opportunity to work with him...and become his friend.</p>
 <p>Larry</p>
 <p>带着深深的悲伤和失落，我告诉甲骨文的每一个人，马克·赫德今天早上去世了。马克是我亲密的、无可替代的朋友和值得信赖的同事。甲骨文失去了一位才华横溢、深受爱戴的领袖，他在甲骨文工作的十年间，亲自触动了我们许多人的生活。我们都会想念马克敏锐的头脑和罕见的快速分析、简化和解决问题的能力。我们中的一些人会想念他的友谊和指导。我会想念他的善良和幽默感。马克离开了他深爱的妻子宝拉，这两个可爱的女儿是他生命中的快乐，还有他在甲骨文的大家庭，他们都爱他。我知道我们中的许多人现在无法安慰，但我们留下了回忆和感激之情……我们有机会认识马克，有机会和他一起工作……成为他的朋友。</p></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
             <hr>
-            <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="/weijiacheng/img/bee.png"></a> website, Powered by Jeff Wei.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
         <script>
             var base_url = "../../..",
@@ -109,19 +111,19 @@
         <script src="../../../js/base.js" defer></script>
         <script src="../../../search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
@@ -132,12 +134,12 @@
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">

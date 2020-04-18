@@ -9,72 +9,59 @@
         
         <link rel="shortcut icon" href="../../img/favicon.ico">
         <title>英语 - Jeff Wei分享站点</title>
-        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="../../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="../.."><img height="25px" src="/weijiacheng/img/bee.png">  Jeff Wei分享站点</a>
-                </div>
+                <a class="navbar-brand" href="../..">Jeff Wei分享站点</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="..">站点地图</a>
+                            <li class="navitem">
+                                <a href=".." class="nav-link">站点地图</a>
                             </li>
-                            <li >
-                                <a href="../home">首页</a>
+                            <li class="navitem">
+                                <a href="../home" class="nav-link">首页</a>
                             </li>
-                            <li >
-                                <a href="../math">数学</a>
+                            <li class="navitem">
+                                <a href="../math" class="nav-link">数学</a>
                             </li>
-                            <li >
-                                <a href="../chinese">语文</a>
+                            <li class="navitem">
+                                <a href="../chinese" class="nav-link">语文</a>
                             </li>
-                            <li >
-                                <a href=".">英语</a>
+                            <li class="navitem">
+                                <a href="." class="nav-link">英语</a>
                             </li>
-                            <li >
-                                <a href="../programming">编程</a>
+                            <li class="navitem">
+                                <a href="../programming" class="nav-link">编程</a>
                             </li>
-                            <li >
-                                <a href="../favorites">收藏</a>
+                            <li class="navitem">
+                                <a href="../favorites" class="nav-link">收藏</a>
                             </li>
-                            <li >
-                                <a href="../wjch/about-me">About</a>
+                            <li class="navitem">
+                                <a href="../wjch/about-me" class="nav-link">About</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
@@ -84,21 +71,62 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#_1">英语</a></li>
-            <li><a href="#_2">晨读</a></li>
-            <li><a href="#headway">Headway</a></li>
-            <li><a href="#eim-english-in-mind">EIM-English-In-Mind</a></li>
-            <li><a href="#book-andersens-fairy-tales">Book: Andersen's Fairy Tales</a></li>
-            <li><a href="#_3">影音</a></li>
-            <li><a href="#_4">英语日积月累</a></li>
-            <li><a href="#study">Study</a></li>
-            <li><a href="#_5">英文新闻网站</a></li>
-            <li><a href="#tools">tools</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#_1" class="nav-link">英语</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#_2" class="nav-link">晨读</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#headway" class="nav-link">Headway</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#eim-english-in-mind" class="nav-link">EIM-English-In-Mind</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#book-andersens-fairy-tales" class="nav-link">Book: Andersen's Fairy Tales</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#_3" class="nav-link">影音</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#_4" class="nav-link">英语日积月累</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#study" class="nav-link">Study</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#_5" class="nav-link">英文新闻网站</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#tools" class="nav-link">tools</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <h1 id="_1">英语</h1>
 <h2 id="_2">晨读</h2>
@@ -106,12 +134,46 @@
 <li><a href="morning-with-reading">Morning With Reading</a></li>
 <li><a href="20191213-recording">3A-B Recording</a></li>
 </ul>
-<h2 id="headway"><a href="../../contents/lib/headway">Headway</a></h2>
+<h2 id="headway"><a href="../../contents/wjch/en/headway">Headway</a></h2>
 <ul>
 <li><a href="https://elt.oup.com/student/headway/?cc=cn&amp;selLanguage=zh">Headway Student's Site</a></li>
 <li>partial Headway learning resources in lib path</li>
 <li>all Headway learning resources in baidu net disk</li>
 <li>all Headway learning resources in Slim USB disk</li>
+<li><a href="http://frenglish.ru/headway.html">NEW HEADWAY ALL LEVELS ALL Editions FULL SETs</a></li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=iXZGAWL6ego">Download Link</a></p>
+<ul>
+<li>New Headway Student's Book Fourth Edition</li>
+<li>Beginner: https://hitfile.net/0X7cm9e</li>
+<li>Elementary: https://hitfile.net/1btO</li>
+<li>Pre-Inter: https://hitfile.net/26r7</li>
+<li>Intermediate: https://hitfile.net/DmOQ03r</li>
+<li>Upper-intermediate: https://hitfile.net/2JHq</li>
+<li>Advanced: https://hitfile.net/w8xI0s5</li>
+<li>New Headway Work's Book Fourth Edition</li>
+<li>Beginner: https://hitfile.net/SjO44kd</li>
+<li>Elementary: https://hitfile.net/1aL8</li>
+<li>Pre-Intermediate: https://hitfile.net/27lG</li>
+<li>Intermediate: https://hitfile.net/WAwnqgy</li>
+<li>Upper-Intermediate: https://hitfile.net/2JVk</li>
+<li>Advanced: https://hitfile.net/KUiJvHS</li>
+</ul>
+</li>
+<li>
+<p><a href="https://kupdf.net/search/New+Headway+4th+Edition">NEW HEADWAY free download</a></p>
+</li>
+<li>
+<p>New Headway Elementary 4-edition Student’s Book</p>
+</li>
+<li>New Headway Elementary 4-edition Class audio Cd’s</li>
+<li>New Headway Elementary 4-edition Workbook with key</li>
+<li>New Headway Elementary 4-edition Workbook Audio Cd</li>
+<li>New Headway Elementary 4-edition Teacher’s Book </li>
+<li>New Headway Elementary 4-edition Teacher’s Resource Disc</li>
+<li>New Headway Elementary 4-edition Culture &amp; Literature Companion</li>
+<li>New Headway Elementary 4-edition Vocabulary Quizzes</li>
+<li>New Headway Elementary 4-edition ITutor (1.28 GB)</li>
 </ul>
 <h2 id="eim-english-in-mind">EIM-English-In-Mind</h2>
 <ul>
@@ -222,11 +284,12 @@
 <li><a href="https://languagetoolplus.com/">Language Check Tool</a></li>
 <li><a href="https://app.grammarly.com/ddocs/715078663">Grammarly tool</a></li>
 </ul></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
             <hr>
-            <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="/weijiacheng/img/bee.png"></a> website, Powered by Jeff Wei.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
         <script>
             var base_url = "../..",
@@ -235,19 +298,19 @@
         <script src="../../js/base.js" defer></script>
         <script src="../../search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
@@ -258,12 +321,12 @@
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">

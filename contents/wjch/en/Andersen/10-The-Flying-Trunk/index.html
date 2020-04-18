@@ -9,72 +9,59 @@
         
         <link rel="shortcut icon" href="../../../../../img/favicon.ico">
         <title>The Flying Trunk - Jeff Wei分享站点</title>
-        <link href="../../../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../../../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="../../../../../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../../../../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../../../../../js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="../../../../.."><img height="25px" src="/weijiacheng/img/bee.png">  Jeff Wei分享站点</a>
-                </div>
+                <a class="navbar-brand" href="../../../../..">Jeff Wei分享站点</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="../../../..">站点地图</a>
+                            <li class="navitem">
+                                <a href="../../../.." class="nav-link">站点地图</a>
                             </li>
-                            <li >
-                                <a href="../../../../home">首页</a>
+                            <li class="navitem">
+                                <a href="../../../../home" class="nav-link">首页</a>
                             </li>
-                            <li >
-                                <a href="../../../../math">数学</a>
+                            <li class="navitem">
+                                <a href="../../../../math" class="nav-link">数学</a>
                             </li>
-                            <li >
-                                <a href="../../../../chinese">语文</a>
+                            <li class="navitem">
+                                <a href="../../../../chinese" class="nav-link">语文</a>
                             </li>
-                            <li >
-                                <a href="../../../../english">英语</a>
+                            <li class="navitem">
+                                <a href="../../../../english" class="nav-link">英语</a>
                             </li>
-                            <li >
-                                <a href="../../../../programming">编程</a>
+                            <li class="navitem">
+                                <a href="../../../../programming" class="nav-link">编程</a>
                             </li>
-                            <li >
-                                <a href="../../../../favorites">收藏</a>
+                            <li class="navitem">
+                                <a href="../../../../favorites" class="nav-link">收藏</a>
                             </li>
-                            <li >
-                                <a href="../../../about-me">About</a>
+                            <li class="navitem">
+                                <a href="../../../about-me" class="nav-link">About</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
@@ -84,16 +71,42 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#the-flying-trunk">The Flying Trunk</a></li>
-            <li><a href="#as-is">As is</a></li>
-            <li><a href="#plotline">Plotline</a></li>
-            <li><a href="#the-flying-trunk-wikipedia">The Flying Trunk wikipedia</a></li>
-            <li><a href="#the-flying-trunk-reference">The Flying Trunk Reference</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#the-flying-trunk" class="nav-link">The Flying Trunk</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#as-is" class="nav-link">As is</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#plotline" class="nav-link">Plotline</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#the-flying-trunk-wikipedia" class="nav-link">The Flying Trunk wikipedia</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#the-flying-trunk-reference" class="nav-link">The Flying Trunk Reference</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <h1 id="the-flying-trunk">The Flying Trunk</h1>
 <ul>
@@ -545,11 +558,12 @@ vt. 使用；改变；做成…的形状</li>
 <p>“是的，”它们说，“当我们在绿枝上的时候，那才真算是在绿枝上啦！每天早上和晚间我们总有珍珠茶喝——这是露珠。太阳只要一出来，我们整天就有太阳光照着，所有的小鸟都来讲故事给我们听。我们可以看得很清楚，我们是非常富有的，因为一般的宽叶树只是在夏天才有衣服穿，而我们家里的人在冬天和夏天都有办法穿上绿衣服。不过，伐木人一来，就要发生一次大的变革：我们的家庭就要破裂。我们的家长成了一条漂亮的船上的主桅——这条船只要它愿意，可以走遍世界。别的枝子就到别的地方去了。而我们的工作却只是一些为平凡的人点火。因此我们这些出自名门的人就到厨房里来了。”</p>
 <p>“我的命运可不同，”站在柴火旁边的老铁罐说。“我一出生到这世界上来，就受到了不少的摩擦和煎熬！我做的是一件实际工作——严格地讲，是这屋子里的第一件工作。我唯一的快乐是在饭后干干净净地，整整齐齐地，躺在架子上，同我的朋友们扯些有道理的闲天。除了那个水罐偶尔到院子里去一下以外，我们老是待在家里的。我们唯一的新闻贩子是那位到市场去买菜的篮子。他常常像煞有介事地报告一些关于政治和老百姓的消息。是的，前天有一个老罐子吓了一跳，跌下来打得粉碎。我可以告诉你，他可是一位喜欢乱讲话的人啦！”</p>
 <p>“你的话讲得未免太多了一点，”打火匣说。这时一块铁在燧石上擦了一下，火星散发出来。“我们不能把这个晚上弄得愉快一点么？”</p></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
             <hr>
-            <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="/weijiacheng/img/bee.png"></a> website, Powered by Jeff Wei.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
         <script>
             var base_url = "../../../../..",
@@ -558,19 +572,19 @@ vt. 使用；改变；做成…的形状</li>
         <script src="../../../../../js/base.js" defer></script>
         <script src="../../../../../search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
@@ -581,12 +595,12 @@ vt. 使用；改变；做成…的形状</li>
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">

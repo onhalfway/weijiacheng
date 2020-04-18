@@ -20,12 +20,6 @@ function applyTopPadding() {
 
 $(document).ready(function() {
 
-    /* No copy. This website is Copyright. */
-    document.oncopy=function(){
-            alert('This website is Copyright.');
-            return false;
-    }
-
     applyTopPadding();
 
     var search_term = getSearchTerm(),
