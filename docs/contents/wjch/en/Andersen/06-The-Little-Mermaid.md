@@ -2,9 +2,9 @@
 
 小美人鱼（又译海的女儿）
 
-![The Nightingale](../06-The-Little-Mermaid.jpg)
+![The Nightingale](./06-The-Little-Mermaid.jpg)
 
-<audio src="../06-The_Little_Mermaid.mp3" controls="controls"></audio>
+<audio src="./06-The_Little_Mermaid.mp3" controls="controls"></audio>
 
 - [The Little Mermaid](#the-little-mermaid)
   - [As-is](#as-is)

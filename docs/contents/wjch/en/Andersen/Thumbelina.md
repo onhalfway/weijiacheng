@@ -1,8 +1,8 @@
 # THUMBELINA
 
-![The Nightingale](../Thumbelina.jpg)
+![The Nightingale](./Thumbelina.jpg)
 
-<audio src="../Thumbelina.mp3" controls="controls"></audio>
+<audio src="./Thumbelina.mp3" controls="controls"></audio>
 
 - [BBC-Thumbelina](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-thumbelina-hans-christian-andersen/zmg2cqt)
 

@@ -490,7 +490,7 @@ Refer to Tencent Docs
 
 ## Driver
 
-- [HP Laser Jet M1005 MFP](h30318.www3.hp.com/pub/softlib/software12/COL51478/ma-124621-1/LJM1005_Full_Solution.exe)
+- [HP Laser Jet M1005 MFP](https://h30318.www3.hp.com/pub/softlib/software12/COL51478/ma-124621-1/LJM1005_Full_Solution.exe)
 
 ## search
 

@@ -53,8 +53,8 @@ The mouse saved the lion from the trap. They became good friends. One day, the m
 
 ## Camping
 
-- [Family Album USA](74_25-2.RM)
-- [NCE 2 - A Wet Night](2_27.rm)
+- Family Album USA: 74_25-2.RM
+- NCE 2 - A Wet Night: 2_27.rm
 
 1.去露营go camping；不是go to camp，也不是go camp  2.回家是gohome/go back home;不是go to home  3.我感到兴奋应该是I feel excited；不是i feel exciting或者I am feel excited。4.我感到放松的应该是I feel relaxed；不是I feel relax；relax是动词；relaxed才是形容词 5.香肠三明治sausage sandwich注意拼写；另外大家可积累一些露营时的常见用品词汇，注意单复数 6.露营地camp site中间有空格  7.enjoy+doing sth  8.感到/感受/感觉是feel，为什么老有同学写成fell呢？
 

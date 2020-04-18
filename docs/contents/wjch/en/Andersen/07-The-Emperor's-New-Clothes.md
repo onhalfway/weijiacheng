@@ -1,8 +1,8 @@
 # The Emperor’s New Clothes
 
-![The Nightingale](../07-The-Emperor's-New-Clothes.jpg)
+![The Nightingale](./07-The-Emperor's-New-Clothes.jpg)
 
-<audio src="../07-The-Emperor's-new-clothes.mp3" controls="controls"></audio>
+<audio src="./07-The-Emperor's-new-clothes.mp3" controls="controls"></audio>
 
 皇帝的新装，是丹麦著名童话作家安徒生(Hans Christian Andersen)的代表作之一。这个有趣的童话为我们描绘了这样一个故事：一位奢侈的国王每天只顾着穿衣服，不管其他任何事，后竟然还受骗，什么都没穿去游行！没有人去揭穿谎言，甚至还夸耀，后一个孩子天真的一句话才结束了这场闹剧。
 

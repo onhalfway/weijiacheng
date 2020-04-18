@@ -1,8 +1,8 @@
 # The Wild Swans
 
-![The Nightingale](../the-wild-swans.jpg)
+![The Nightingale](./the-wild-swans.jpg)
 
-<audio src="../The_Wild_Swans.mp3" controls="controls"></audio>
+<audio src="./The_Wild_Swans.mp3" controls="controls"></audio>
 
 - [BBC The Wild Swans](https://www.bbc.co.uk/teach/school-radio/english-ks1--ks2-the-wild-swans-hans-christian-andersen/zbr2cqt)
 

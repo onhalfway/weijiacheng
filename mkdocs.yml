@@ -1,16 +1,17 @@
+# [Configuration - MkDocs](https://mkdocs.readthedocs.io/en/stable/user-guide/configuration/)
 repo_name: /weijiacheng
 #site_name: My Website
 site_name: Jeff Wei分享站点
 nav:
 #    - Home: index.html
-    - 站点地图: contents
-    - 首页: contents/home
-    - 数学: contents/math
-    - 语文: contents/chinese
-    - 英语: contents/english
-    - 编程: contents/programming
-    - 收藏: contents/favorites
-    - About: contents/wjch/about-me
+    - 地图: contents.md
+    - 首页: contents/home.md
+    - 数学: contents/math.md
+    - 语文: contents/chinese.md
+    - 英语: contents/english.md
+    - 编程: contents/programming.md
+    - 收藏: contents/favorites.md
+    - About: contents/wjch/about-me.md
 #theme: readthedocs
 #repo_url: https://github.com/onhalfway/weijiacheng
 

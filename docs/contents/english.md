@@ -5,7 +5,7 @@
 - [Morning With Reading](morning-with-reading)
 - [3A-B Recording](20191213-recording)
 
-## [Headway](../../contents/lib/headway)
+## [Headway](../../contents/wjch/en/headway)
 
 - [Headway Student's Site](https://elt.oup.com/student/headway/?cc=cn&selLanguage=zh)
 - partial Headway learning resources in lib path
@@ -14,19 +14,19 @@
 - [NEW HEADWAY ALL LEVELS ALL Editions FULL SETs](http://frenglish.ru/headway.html)
   - [Download Link](https://www.youtube.com/watch?v=iXZGAWL6ego)
     - New Headway Student's Book Fourth Edition
-      - Beginner: https://hitfile.net/0X7cm9e
-      - Elementary: https://hitfile.net/1btO
-      - Pre-Inter: https://hitfile.net/26r7
-      - Intermediate: https://hitfile.net/DmOQ03r
-      - Upper-intermediate: https://hitfile.net/2JHq
-      - Advanced: https://hitfile.net/w8xI0s5
+      - [Beginner](https://hitfile.net/0X7cm9e)
+      - [Elementary](https://hitfile.net/1btO)
+      - [Pre-Inter](https://hitfile.net/26r7)
+      - [Intermediate](https://hitfile.net/DmOQ03r)
+      - [Upper-intermediate](https://hitfile.net/2JHq)
+      - [Advanced](https://hitfile.net/w8xI0s5)
     - New Headway Work's Book Fourth Edition
-      - Beginner: https://hitfile.net/SjO44kd
-      - Elementary: https://hitfile.net/1aL8
-      - Pre-Intermediate: https://hitfile.net/27lG
-      - Intermediate: https://hitfile.net/WAwnqgy
-      - Upper-Intermediate: https://hitfile.net/2JVk
-      - Advanced: https://hitfile.net/KUiJvHS
+      - [Beginner](https://hitfile.net/SjO44kd)
+      - [Elementary](https://hitfile.net/1aL8)
+      - [Pre-Intermediate](https://hitfile.net/27lG)
+      - [Intermediate](https://hitfile.net/WAwnqgy)
+      - [Upper-Intermediate](https://hitfile.net/2JVk)
+      - [Advanced](https://hitfile.net/KUiJvHS)
 
 - [NEW HEADWAY free download](https://kupdf.net/search/New+Headway+4th+Edition)
 
@@ -95,13 +95,13 @@
 
 ## 影音
 
-- [ev002_Charlotte’s-Web](ev002_Charlotte’s-Web)
+- [ev002_Charlotte’s-Web](./english/ev002_Charlotte-s-Web.md)
 - [BBC Documentary](https://mp.weixin.qq.com/s/cw9IHp7qoQu8Z7dzXKHMug)
 
 ## 英语日积月累
 
 - [FAQ About English](faq-en)
-- [Word List](word-list)
+- [Word List](./wjch/en/word-list.md)
 - [Grammar](english-grammar)
 - [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
 - [24 Solar Terms](../wjch/en/24-solar-terms)

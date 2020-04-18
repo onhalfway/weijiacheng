@@ -1,37 +1,47 @@
 # [mkdocs](https://www.mkdocs.org/#getting-started)
 
-- Python.md -> MKDocs: build static website with Markdown files
-
-open terminal `Ctrl + \``
-
-`mkdocs --help`
-
-``` cmd
-$ mkdocs --version
-mkdocs, version 1.0.4 from c:\users\kehwei\appdata\local\programs\python\python37\lib\site-packages\mkdocs (Python 3.7)
-```
-
-`mkdocs serve`
-
-`mkdocs build --help`
-
-`mkdocs build [--clean]`
-
-`mkdocs gh-deploy [--clean] [-v]`
-
 - [mkdocs](#mkdocs)
-  - [themes location](#themes-location)
+  - [common commands](#common-commands)
   - [Github Repository](#github-repository)
-  - [native HTML for media](#native-html-for-media)
+  - [modify foot](#modify-foot)
+  - [modify themes](#modify-themes)
   - [Copyright: No copy](#copyright-no-copy)
     - [Javascript](#javascript)
     - [CSS](#css)
+  - [native HTML for media](#native-html-for-media)
 
-## themes location
+## common commands
 
-C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\bootstrap-custom.min.css
+- Refer to: in vscode project named weijiacheng
+  - `Ctrl + \` -> Python.md -> MKDocs: build static website with Markdown files
+- Open terminal in vscode tool `Ctrl + \`
+- `mkdocs --help`
+- `mkdocs --version`
+- `mkdocs serve`
+- `mkdocs build --help`
+- `mkdocs build [--clean]`
+- `mkdocs gh-deploy [--clean] [-v]`
 
-C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\base.css
+## Github Repository
+
+repo_url: https://github.com/onhalfway/weijiacheng
+
+## modify foot
+
+C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\base.html
+
+## modify themes
+
+- mkdocs 1.0.4 
+  - C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\bootstrap-custom.min.css
+    - body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:18px;line-height:1.428571429;color:#555;background-color:#fff}
+    - font-size:14px; -> font-size:18px;
+
+- mkdocs 1.1
+  - C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\bootstrap.min.css
+  - font-size:1rem; -> font-size:18px; or font-size:larger;
+
+- C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\base.css
 - line 101
 pre code {
     background: transparent;
@@ -42,19 +52,6 @@ pre code {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 20px;
 }
-
-## Github Repository
-
-repo_url: https://github.com/onhalfway/weijiacheng
-
-## native HTML for media
-
-<video controls="controls">
-    <source src="../lib/movie.mp4" type="video/mp4" />
-    <source src="../lib/movie.ogg" type="video/ogg" />
-</video>
-
-<audio src="../lib/song.ogg" controls="controls"></audio>
 
 ## Copyright: No copy
 
@@ -86,7 +83,7 @@ $(document).ready(function() {
 
 - [base CSS](C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\base.css)
 
-body {
+html {
     /* No copy. This website is Copyright. */
     -moz-user-select: none;
     -webkit-user-select: none;
@@ -94,3 +91,12 @@ body {
     -khtml-user-select: none;
     user-select: none;
 }
+
+## native HTML for media
+
+<video controls="controls">
+    <source src="../lib/movie.mp4" type="video/mp4" />
+    <source src="../lib/movie.ogg" type="video/ogg" />
+</video>
+
+<audio src="../lib/song.ogg" controls="controls"></audio>

@@ -1,6 +1,6 @@
 # Word List
 
-- [word edition](../../../grade7/wjch/20190901-english-word-list.docx)
+- word edition: grade7/wjch/20190901-english-word-list.docx
 
 - [Word List](#word-list)
   - [The Ugly Duckling](#the-ugly-duckling)

@@ -12,7 +12,7 @@ _as is = copy from the book named Andersen's Fairy Tales in Chaoyang Foreign Lan
 2.  [Little Claus and Big Claus](../02-Little-Claus-and-Big-Claus)
 3.  [The Princess on the Pea](../03-The-Princess-on-the-Pea)
 4.  [The Fable Alludes to You](../04The-Fable-Alludes-to-You)
-5.  [The Talisman](../05-The-Talisman.docx)
+5.  [The Talisman](./05-The-Talisman.docx)
 6.  [The Little Mermaid](../06-The-Little-Mermaid)
 7.  [The Emperor's New Clothes](../07-The-Emperor's-New-Clothes)
 8.  [The Steadfast Tin Soldier](../08-The-Steadfast-Tin-Soldier)
