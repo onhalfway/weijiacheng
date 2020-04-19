@@ -3,7 +3,7 @@
 - [mkdocs](#mkdocs)
   - [common commands](#common-commands)
   - [Github Repository](#github-repository)
-  - [modify foot](#modify-foot)
+  - [modify base](#modify-base)
   - [modify themes](#modify-themes)
   - [Copyright: No copy](#copyright-no-copy)
     - [Javascript](#javascript)
@@ -26,9 +26,20 @@
 
 repo_url: https://github.com/onhalfway/weijiacheng
 
-## modify foot
+## modify base
 
-C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\base.html
+- C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\base.html
+  - navbar
+  
+  ```html
+  <a class="navbar-brand" href="{{ nav.homepage.url|url }}"><img height="25px" src="{{ config.repo_name }}/img/bee.png">{{ config.site_name }}</a>
+  ```
+
+  - foot
+  
+  ```html
+  <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="{{ config.repo_name }}/img/bee.png"></a> website, Powered by Jeff Wei.</p>
+  ```
 
 ## modify themes
 
@@ -41,8 +52,9 @@ C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\
   - C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\bootstrap.min.css
   - font-size:1rem; -> font-size:18px; or font-size:larger;
 
-- C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\base.css
-- line 101
+- mkdocs 1.0.4 
+  - C:\Users\kehwei\AppData\Local\Programs\Python\Python37\Lib\site-packages\mkdocs\themes\mkdocs\css\base.css
+  - line 101
 pre code {
     background: transparent;
     border: none;
