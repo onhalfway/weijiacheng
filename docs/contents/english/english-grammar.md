@@ -3,6 +3,7 @@
 - [English Grammar](#english-grammar)
   - [Personal Pronouns人称代名词](#personal-pronouns%e4%ba%ba%e7%a7%b0%e4%bb%a3%e5%90%8d%e8%af%8d)
   - [发音 pronunciation](#%e5%8f%91%e9%9f%b3-pronunciation)
+  - [现在完成时和过去完成时](#%e7%8e%b0%e5%9c%a8%e5%ae%8c%e6%88%90%e6%97%b6%e5%92%8c%e8%bf%87%e5%8e%bb%e5%ae%8c%e6%88%90%e6%97%b6)
 
 ## Personal Pronouns人称代名词
 
@@ -132,3 +133,19 @@ watched和looked的ed发音是相同的，都发t的音。
 3、在[t][d]后读[id]
 
 如：painted, started, visited等
+
+## 现在完成时和过去完成时
+
+- “现在完成时表示“用一个过去发生的动作来说明现在的情况”，结构为“主语+have/has+过去分词”或者“主语+have/has+not+过去分词”。
+- 过去完成时表示“过去某个时候完成的动作”，结构为“主语 + had + 过去分词”或者“主语 +had + not + 过去分词”。”
+- 现在完成时的动作发生在过去，但是时间参照点是现在
+- 过去完成时的动作发生在过去，但是时间参照点是过去的某一时间。
+- 请看下面两个例句
+  - I have lived in Thailand for five years. 
+    - (我目前在泰国已经住了五年了)
+    - live(居住)是上面例句的谓语，那么这个动作显然是发生在过去(五年前)，但是一直持续到现在，我们的时间参照点是“现在、当下”。
+  - I had lived in Thailand for five years before I went to China.
+    -  (在我来中国之前，我已经在泰国住了五年了)
+    - live 这个动作发生在过去，是前面句子的谓语
+- 以现在完成时谈论的是：“过去的动作对现在的影响，时间参照点是现在”;
+- 过去完成时谈论的是：“发生在过去的两个动作的先后关系，在前的动作加上助动词 had 构成过去完成，在后的动作用一般过去时即可”

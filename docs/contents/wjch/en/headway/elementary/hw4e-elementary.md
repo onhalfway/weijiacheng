@@ -123,28 +123,28 @@ watched interviewed studied talked moved started earned opened
 
 ### T6.5
 
-- 1 
+- 1
   - Where did her father work?
   - In a coal mine.
-- 2 
+- 2
   - What did her mother do?
   - She cleaned houses.
-- 3 
+- 3
   - Who did Oprah live with?
   - Her grandmother.
-- 4 
+- 4
   - What did she study?
   - Drama.
-- 5 
+- 5
   - When did she interview Michael Jackson?
   - In 1993.
-- 6 
+- 6
   - How much did she earn last year?
   - $260 million.
-- 7 
+- 7
   - When did she open the girls' school?
   - ln 2007.
-- 8 
+- 8
   - Did her parents earn much money?
   - No, they didn't.
 
@@ -254,11 +254,14 @@ cleaned received studied wanted moved talked watched interviewed opened decided
 - 1 I went to bed late last night, so I'm very tired today.
 - 2 My football team lost again. I'm really annoyed!
 - 3 I won €20,000 in the lottery! I'm so excited!
-- 4 I cant find my house keys. I'm really worried.
+  - lottery /ˈlɒtəri/ n. 彩票；碰运气的事
+- 4 I can't find my house keys. I'm really worried.
 - 5 I have nothing to do and nowhere to go. I am so bored!
 - 6 The professor gave a great lecture. I was really interested.
+  - lecture /ˈlektʃə(r)/ n. 演讲；讲稿；教训
 
 ### T6.13
+
 - 1
   - A Did you enjoy the film?
   - B No, I didn't. It was boring.
@@ -386,25 +389,31 @@ cleaned received studied wanted moved talked watched interviewed opened decided
 
 ### T7.6 Alisa's life
 
-- A=Alisa F=Freddy
-- F You aren't English, are you, Alisa? Where are you from?
-- A No, I'm Russian. I was born in St Petersburg.
-- F Is that where you grew up?
-- A Yes, I lived with my parents and two sisters in a house near the university. My father worked at the university.
-- F Oh, how interesting! What was his job? Was he a teacher?
-- A Yes, he was a professor of psychology.
-- F Really? And what did your mother do?
-- A She was a doctor. She worked in a hospital.
-- F So, where did you go to school?
-- A I went to a Catholic High School. I was there for ten years, then, when I was 18, I went to university.
-- F What did you study?
-- A I studied philosophy and education at university in Moscow. I was there for four years.
-- F Wow! And did you start work after that?
-- A No, I travelled in the States for six months. I worked in a summer camp near Yellowstone National Park. It was amazing!
-- F It sounds great! And what's your job now?
-- A I work in a junior high school in Paris. I teach Russian and English.
-- F Your English is really good! Well, it was very nice to meet you, Alisa!
-- A Nice to meet you too. Bye!
+- A=Alisa /ə'lisə/ n. 艾丽莎（女子名） F=Freddy n. 弗雷迪（男子名）
+- F: You aren't English, are you, Alisa? Where are you from?
+- A: No, I'm Russian. I was born in St Petersburg.
+  - Russian /ˈrʌʃn/ adj. 俄国的；俄语的 n. 俄语；俄国人
+  - St Petersburg /st'pi:təzbə:ɡ/ 圣彼得堡（俄罗斯第二大城市）
+- F: Is that where you grew up?
+- A: Yes, I lived with my parents and two sisters in a house near the university. My father worked at the university.
+- F: Oh, how interesting! What was his job? Was he a teacher?
+- A: Yes, he was a professor of psychology.
+  - psychology /saɪˈkɒlədʒi/ n. 心理学;
+- F: Really? And what did your mother do?
+- A: She was a doctor. She worked in a hospital.
+- F: So, where did you go to school?
+- A: I went to a Catholic High School. I was there for ten years, then, when I was 18, I went to university.
+  - Catholic /ˈkæθlɪk/ adj. 天主教的；宽宏大量的 n. 天主教徒；罗马天主教
+- F: What did you study?
+- A: I studied philosophy and education at university in Moscow. I was there for four years.
+  - philosophy /fəˈlɒsəfi/ n. 哲学;
+  - Moscow /'mɔskəʊ/ n. 莫斯科（俄罗斯首都）
+- F: Wow! And did you start work after that?
+- A: No, I travelled in the States for six months. I worked in a summer camp near Yellowstone National Park. It was amazing!
+- F: It sounds great! And what's your job now?
+- A: I work in a junior high school in Paris. I teach Russian and English.
+- F: Your English is really good! Well, it was very nice to meet you, Alisa!
+- A: Nice to meet you too. Bye!
 
 ### T7.7
 
@@ -685,25 +694,25 @@ It was about two o'clock in the morning, and ... suddenly I woke up. I heard a n
 - 5 I think the buildings in Paris are more beautiful.
 - 6 I think the people in London are nicer.
 
-### T9.4 
+### T9.4
 
 Well, I like both London and Paris. But they are very different cities. Take transport for example. The Metro is cheaper and easier to use than the Underground. And the weather ... well, Paris is certainly hotter than London. And Paris, in fact, is wetter than London; but in London there are more wet days. What about the buildings? Well, ... people say that the architecture in Paris is more beautiful, but the buildings in London are more interesting. And living in the two cities? Well . .. life is faster in London. And the people? ... Mmm, Londoners are generally more polite than Parisians. People in London work harder, and they earn more. In Paris, having a good time is more important.
 
 ### T9.5 Comparing cities
 
-- I 
+- I
   - A New York is older than London.
   - B No, it isn't! New York is much more modern!
-- 2 
+- 2
   - A Tokyo is cheaper than Bangkok.
   - B No, it isn't! Tokyo's much more expensive!
-- 3 
+- 3
   - A Seoul is bigger than Beijing.
   - B No, it isn't! Seoul is much smaller!
-- 4 
+- 4
   - A Johannesburg is safer than Cape Town.
   - B No, it isn't! It's much more dangerous!
-- 5 
+- 5
   - A Taxi drivers in New York are better than taxi drivers in London.
   - B No, they aren't! They're much worse!
 
@@ -739,7 +748,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T9.8 Camden
 
-- It's got the largest street market in the UK.     
+- It's got the largest street market in the UK.
 - The market's busiest at the weekend.
 - The food is the cheapest in north London.
 - It's got the most amazing clothes.
@@ -817,19 +826,19 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
 
 ### T10.3
 
-- 1 
+- 1
   - What's Tony doing?
   - He's reading the paper.
-- 2 
+- 2
   - What's Alice doing?
   - She's doing something on her laptop.
-- 3 
+- 3
   - Where are Tony and Alice going?
   - They're going to Birmingham.
-- 4 
+- 4
   - What's Fiona cooking?
   - She's cooking dinner.
-- 5 
+- 5
   - What's Tim watching?
   - He's watching the football.
 
@@ -885,14 +894,14 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
   - B Everything was too expensive.
   - A What a pity!
   - B But I bought something for you. Happy Birthday!
-- 2 
+- 2
   - C Did you talk to anybody interesting at the party?
   - D No. Nobody.
   - C Why not?
   - D Everybody was dancing and the music was really loud!
   - C Oh.
   - D But I danced with somebody beautiful - a girl called Kate.
-- 3 
+- 3
   - E Did you go anywhere on Saturday night?
   - F No. Nowhere.
   - E Why not?
@@ -1040,19 +1049,19 @@ I What a pity! It's going to rain. He cant play tennis.
 - 1
   - A Where are they going?
   - B To the South ofFrance.
-- 2 
+- 2
   - A When are they going?
   - B On May the 2lst.
-- 3 
+- 3
   - A How are they travelling?
   - B By plane and hired car.
-- 4 
+- 4
   - A How long are they staying?
   - B For ten days.
-- 5 
+- 5
   - A Where are they staying?
   - B In a house in a village.
-- 6 
+- 6
   - A What are they going to do?
   - B They're going to swim, go shopping in the markets, read and relax, and eat in good restaurants.
 
@@ -1082,7 +1091,7 @@ I What a pity! It's going to rain. He cant play tennis.
 ### T11.9 What's the weather like?
 
 - Presenter: Here's Fiona with the weather for Europe for the next 24 hours.
-- Fiona: 
+- Fiona:
   - Hello there.
   - Here's the forecast for Europe today. At the moment there's some wet and windy weather over the UK and Scandinavia. and this is going to move south and east over Poland and Germany. Temperatures in Berlin and Warsaw are now about 20°C but it's cooler in London. 19°C, and cooler still in Oslo, l7°C. To the south it's a bit warmer, in Budapest, 23°C, but to the east, cool and cloudy in Moscow where the temperature is a welcome 15°C after all that extreme summer heat. Moving south it's getting warmer,24°C in Rome, but it's going to be cloudy and showery across much of Italy and also over northern Turkey, with heavy rain in Istanbul and a temperature of 2l°C. Most other Mediterranean countries are going to be warm and dry. Greece will be hot and sunny with a lot of late summer sunshine, 28°C in Athens and warmer still in Portugal and Spain with temperatures up to 32°C. France is going to be cool and cloudy in the north, 20°C in Paris, and hot and stormy in the south with a high of 29°C in Nice.
   - And that's your European weather for today. I'll be back at lunchtime with an update.
@@ -1105,7 +1114,7 @@ I What a pity! It's going to rain. He cant play tennis.
   - A What a lovely day!
   - B Yeah! It's really warm and sunny. What shall we do?
   - A Let's go for a walk!
-- 2 
+- 2
   - A What an awful day! It's raining again.
   - B I know. It's so cold and wet! What shall we do?
   - A Let's stay in and watch a DVD.
@@ -1119,7 +1128,7 @@ I What a pity! It's going to rain. He cant play tennis.
   - B Oh no! It's too hot to walk.
   - A OK, let's go to the beach.
   - B Good idea! Why don't we take a picnic?
-- 2 
+- 2
   - A What an awful day! It's raining again.
   - B I know It's so cold and wet! What shall wc do?
   - A Let's stay in and watch a DVD.
@@ -1180,7 +1189,7 @@ I What a pity! It's going to rain. He cant play tennis.
 
 ### T12.5 Tense revision
 
-- Lara 
+- Lara
 - I'm really excited about my trip to Europe. I haven't travelled much outside Australia before. Just once, two years ago, I went on holiday to Bali with my family but I've never been to Europe or the US. I often travel inside Australia. Last year I flew to Perth to visit my cousin, who lives there. It's a five-hour flight from Sydney, where I live. Australia's a big country! Also, I've been up to Cairns in the north three times. I learned to scuba dive there on the Great Barrier Reef.
 - We've just finished packing, and now we're waiting for the taxi to take us to the airport. I've never flown on a 747 before.It's a very long flight. It takes 20 hours to get to Rome. I'm going to watch films all the way. I can't wait!
 
@@ -1226,20 +1235,20 @@ I What a pity! It's going to rain. He cant play tennis.
 - 1
   - A Ugh! It's really hot in here.
   - B Why don t you take off your jumper?
-- 2 
+- 2
   - A Is your office near where you live?
   - B No, it takes a long time to get to work.
-- 3 
+- 3
   - A What are your work colleagues like?
   - B Great! We all get on really well.
-- 4 
+- 4
   - A How often are there exhibitions in the museum?
   - B They take place regularly, every two months.
-- 5 
+- 5
   - A Do you like learning English?
   - B It's OK, but sometimes I get really bored!
 
-### T12.10 
+### T12.10
 
 - 1 The best way to get to the airport is to take a taxi.
 - 2 How long does it take if you go by train?
