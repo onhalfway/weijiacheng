@@ -32,7 +32,7 @@ localhost:mypython kehuawei$
 
 - [Find your IP address: search <what is my ip> on google.com](https://www.google.com/search?q=what+is+my+ip)
 - [what is my ip](https://www.whatismyip.com/)
-- [curl -s -m 10](http://whatismyip.akamai.com/)
+- [curl -s -m 10 http://whatismyip.akamai.com/](http://whatismyip.akamai.com/)
 - [search ip](https://ipleak.com/)
 - [GeoIP](https://ip.cn/)
 - [baidu ip](http://www.ip138.com/)

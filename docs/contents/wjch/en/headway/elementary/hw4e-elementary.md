@@ -291,11 +291,11 @@ cleaned received studied wanted moved talked watched interviewed opened decided
 
 1 The first of April. April the first.
 2 The second of March. March the second.
-3 The seventeenth ofSeptember. September the seventeenth.
+3 The seventeenth of September. September the seventeenth.
 4 The ninth of November. November the ninth
-5 The 29th ofFebruary 1976.
+5 The 29th of February 1976.
 6 December the nineteenth, 1983.
-7 The third ofOctober, 1999.
+7 The third of October, 1999.
 8 May the 3lst, 2005.
 9 July 15th, 2015.
 
@@ -305,8 +305,8 @@ cleaned received studied wanted moved talked watched interviewed opened decided
 - 2 the 23rd of June.
 - 3 July the 15th.
 - 4 March the 4th,2012.
-- 5 The l8th ofFebruary, 2020.
-- 6 The lTth ofSeptember, 1960.
+- 5 The l8th of February, 2020.
+- 6 The l7th of September, 1960.
 
 ## Unit 7 Dates to remember
 
