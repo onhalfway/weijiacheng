@@ -1,5 +1,7 @@
 # New Headway Elementary Fourth Edition
 
+The Copyright belongs to the author
+
 - [New Headway Elementary Fourth Edition](#new-headway-elementary-fourth-edition)
   - [Tapescripts](#tapescripts)
   - [Unit 6 Life's ups and downs](#unit-6-lifes-ups-and-downs)
@@ -27,6 +29,9 @@
     - [T7.5 Listening and pronunciation](#t75-listening-and-pronunciation)
     - [T7.6 Alisa's life](#t76-alisas-life)
     - [T7.7](#t77)
+    - [ROCKETS IN SIXTY YEARS](#rockets-in-sixty-years)
+      - [Air Journey](#air-journey)
+      - [Man on the moon](#man-on-the-moon)
     - [T7.8 Noises in the night](#t78-noises-in-the-night)
     - [T7.9 Special occasions](#t79-special-occasions)
   - [Unit 8 Eat in or out](#unit-8-eat-in-or-out)
@@ -431,6 +436,57 @@ cleaned received studied wanted moved talked watched interviewed opened decided
   - Six hundred million people watched on TV.
   - Neil Armstrong said,'That's one small step for man, one giant leap for mankind.'
   - Thb astronauts spent 22 hours on the moon.
+
+### ROCKETS IN SIXTY YEARS
+
+page 59 flight and the first man on the moon. In the 20th century, progress in aviation was phenomenal.
+
+#### Air Journey
+
+- unit07_reading_air journey.mp3
+- On July 25 1909, a Frenchman, Louis Bleriot, became the first man to complete an air journey when he flew from Calais, in the north of France, to Dover in the south of England. Bleriot's flight amazed the whole of Europe. People thought that such a journey was impossible.
+  - Louis Bleriot /'lu:i/ /'bleriəʊ/ 路易斯•布莱里奥特（人名）
+  - Calais /'kælei/ n. 加来（法国城市）
+  - amaze /əˈmeɪz/ vt. 使吃惊
+  - Dover /'dəuvə/ n. 多佛（英国东南部的港口）
+- THE FLIGHT
+  - The flight wasn't easy. Mr Bleriot, a 37-year-old engineer, couldn't swim, so he didn't want to come down in the Channel. He couldn't walk very well because of an injury to his leg, and he didn't have a compass.
+  - On the morning of the 25th, he took off at 4.30 from a field at the edge of a cliff. It took 37 minutes to complete the 22-mile journey. The plane flew at 40 miles per hour at an altitude of 250 feet.
+  - Everything went well until he flew into fog. 'l continued flying for ten minutes, but I couldn't see the land, only the sky and the sea. It was the most dangerous part of the flight. I wasn't worried about the machine. It flew beautifully. Finally, I saw the land,' he told reporters.
+    - altitude /ˈæltɪtjuːd/ n. 高地；高度；海拔
+- LANDING IN ENGLAND
+  - When he got to Dover, he saw a French journalist waving a flag. He cut the engine at 60 feet and crashed into a field.
+    - journalist /ˈdʒɜːnəlɪst/ n. 新闻工作者；报人；记日志者
+    - crash /kræʃ/ v. 碰撞；（使）坠毁；
+  - The news quickly went round the world, and Mr Bleriot's flight was celebrated in London and Paris. He won a prize of £1,000.
+  - 'The crossing was the start of modern aviation,' said Louis Bleriot, the grandson of the pioneer.
+    - aviation /ˌeɪviˈeɪʃn/ n. 航空；飞行术；飞机制造业
+    - pioneer /ˌpaɪəˈnɪə(r)/ n. 先锋；拓荒者;先驱者
+
+#### Man on the moon
+
+- unit07_reading_man on the moon.mp3
+- On 16 July, 1969, at 9.30 in the morning, Apollo 11 lifted off from the Kennedy Space Center in Florida. There were three astronauts - Neil Armstrong, Buzz Aldrin, and Michael Collins. The enormous rocket took three days to complete the 250,000 miles to the moon, travelling at six miles per second (21,600m miles an hour). Then it circled the moon 30 times, giving time to prepare for the landing.
+  - Kennedy /'kenidi/ n. 肯尼迪（姓氏，美国第35任总统）
+  - Florida /'flɔridə/ n. 佛罗里达（美国东南部的州）
+  - Neil /ni:l/ Armstrong /'ɑːmstrɒŋ/ 尼尔·阿姆斯特朗（第一个离开地球踏上月球的人）
+  - Buzz Aldrin 巴兹·奥尔德林
+    - Buzz /bʌz/ n. （美、印、俄）巴兹（人名）
+    - Aldrin /'ɔːldrɪn/ n. 人名；(德、瑞典)阿尔德林；(法)阿尔德兰；(英)奥尔德林
+  - Michael /'maɪkl/ Collins /'kɔlinz/ 迈克尔·柯林斯
+  - enormous /ɪˈnɔːməs/ adj. 庞大的，巨大的；凶暴的，极恶的
+- THE LUNAR LANDING
+  - The lunar module landed on a part of the moon called the Sea of Tranquillity at 8.17 in the evening on 20 July. It was time for the astronauts to rest, but they were too excited to sleep. At 3.00 in the morning on July 21, Neil Armstrong became the first man to walk on the moon. Six hundred million people all over the world watched on TV. As Armstrong took his first steps, he said the famous words, 'That's one small step for man, one giant leap for mankind.'
+    - lunar module n. [航] 登月舱
+    - the Sea of Tranquillity 静海（地名，指美国阿波罗11号飞船在月球着陆的地点）
+      - tranquility /træŋ'kwɪlətɪ/ n. 宁静；平静
+    - giant /ˈdʒaɪənt/ adj. 巨大的；巨人般的；伟大的
+    - leap /liːp/ n. 飞跃；跳跃，跳高；骤变；剧增；
+- WALKING ON THE MOON
+  - Armstrong and Aldrin spent two and a half hours walking on the moon. They collected samples and set up scientific equipment. Finally, they put up a US flag. After 22 hours on the moon, the lunar module lifted off and flew up to join the rocket that took them back to Earth. They left an inscription: **HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON, JULY 1969. WE CAME IN PEACE FOR ALL MANKIND.**
+  - This flight wast he beginning of man's exploration of space.
+
+- inscription /ɪnˈskrɪpʃn/ n. 题词；铭文；刻印
 
 ### T7.8 Noises in the night
 

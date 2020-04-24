@@ -13,14 +13,17 @@
 ## common commands
 
 - Refer to: in vscode project named weijiacheng
-  - `Ctrl + \` -> Python.md -> MKDocs: build static website with Markdown files
-- Open terminal in vscode tool `Ctrl + \`
-- `mkdocs --help`
-- `mkdocs --version`
-- `mkdocs serve`
-- `mkdocs build --help`
-- `mkdocs build [--clean]`
-- `mkdocs gh-deploy [--clean] [-v]`
+  - **Ctrl + p** -> Python.md -> MKDocs: build static website with Markdown files
+- Open terminal in vscode tool **Ctrl + `**
+- Git bash terminal
+  - install/upgrade pip: `python -m pip install --upgrade pip`
+  - install/upgrade mkdocs: `python -m pip install --upgrade mkdocs`
+  - `mkdocs --help`
+  - `mkdocs --version`
+  - `mkdocs serve`
+  - `mkdocs build --help`
+  - `mkdocs build [--clean]`
+  - `mkdocs gh-deploy [--clean] [-v]`
 
 ## Github Repository
 
