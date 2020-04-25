@@ -386,7 +386,7 @@ CD one
   - 7 Vegetarian curry and rice (√)
 - Desserts
   - 8 Yoghurt (various fruit flavours)
-  - 9 Ice crream
+  - 9 Ice cream
   - 10 Cheese
 
 ## 39 Unit 6 - Exercise 6b
