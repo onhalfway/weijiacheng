@@ -33,6 +33,7 @@ The Copyright belongs to the author
       - [The First Air Journey](#the-first-air-journey)
       - [The First Man On The Moon](#the-first-man-on-the-moon)
     - [T7.8 Noises in the night](#t78-noises-in-the-night)
+    - [CHRISTOPHER COLUMBUS](#christopher-columbus)
     - [T7.9 Special occasions](#t79-special-occasions)
   - [Unit 8 Eat in or out](#unit-8-eat-in-or-out)
     - [T8.1 see p62](#t81-see-p62)
@@ -458,8 +459,9 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
   - On the morning of the 25th, he took off at 4.30 from a field at the edge of a cliff. It took 37 minutes to complete the 22-mile journey. The plane flew at 40 miles per hour at an altitude of 250 feet.
     - altitude /ˈæltɪtjuːd/ n. 高地；高度；海拔
   - Everything went well until he flew into fog. 'I continued flying for ten minutes, but I couldn't see the land, only the sky and the sea. It was the most dangerous part of the flight. I **wasn't worried about** the machine. It flew beautifully. Finally, I saw the land,' he told reporters.
+    - reporter n.	记者; 通讯员;
 - LANDING IN ENGLAND
-  - When he got to Dover, he saw a French journalist waving a flag. He cut the engine at 60 feet and crashed into a field.
+  - When he got to Dover, he saw a French journalist waving a flag. He **cut** the engine at 60 feet and crashed into a field.
     - journalist /ˈdʒɜːnəlɪst/ n. 新闻工作者；报人；记日志者
     - crash /kræʃ/ v. 碰撞；（使）坠毁；
   - The news quickly went round the world, and Mr Bleriot's flight was celebrated in London and Paris. He won a prize of £1,000.
@@ -473,6 +475,7 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
 - On 16 July, 1969, at 9.30 in the morning, Apollo 11 lifted off from the Kennedy Space Center in Florida. There were three astronauts - Neil Armstrong, Buzz Aldrin, and Michael Collins. The enormous rocket took three days to complete the 250,000 miles to the moon, travelling at six miles per second (21,600m miles an hour). Then it circled the moon 30 times, giving time to prepare for the landing.
   - On 16 July, 1969, at 9.30: On the sixteenth of July, nineteen-sixty-nine, at nine-thirty
   - Apollo /ə'pɒləʊ/ n. 阿波罗（太阳神）；美男子
+  - lift off （飞机、火箭等） 起飞，升空，发射;
   - Kennedy /'kenidi/ n. 肯尼迪（姓氏，美国第35任总统）
   - Florida /'flɔridə/ n. 佛罗里达（美国东南部的州）
   - astronaut /ˈæstrənɔːt/ n. 宇航员，航天员；太空旅行者
@@ -482,8 +485,9 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
     - Aldrin /'ɔːldrɪn/ n. 人名；(德、瑞典)阿尔德林；(法)阿尔德兰；(英)奥尔德林
   - Michael /'maɪkl/ Collins /'kɔlinz/ 迈克尔·柯林斯
   - enormous /ɪˈnɔːməs/ adj. 庞大的，巨大的；凶暴的，极恶的
+  - 250,000 miles: two-fifty-thousand miles
 - THE LUNAR LANDING
-  - The lunar module landed on a part of the moon called the Sea of Tranquillity at 8.17 in the evening on 20 July. It was time for the astronauts to rest, but they were **too excited to sleep**. At 3.00 in the morning on July 21, Neil Armstrong became the first man to walk on the moon. Six hundred million people all over the world watched on TV. As Armstrong took his first steps, he said the famous words, '**That's one small step for man, one giant leap for mankind.**'
+  - The lunar module landed on a part of the moon called the Sea of Tranquillity at 8.17 in the evening on 20 July. It was time for the astronauts to rest, but they were **too excited to sleep**. At 3.00 in the morning on July 21, Neil Armstrong became the first man to walk on the moon. Six hundred million people all over the world watched on TV. As Armstrong **took** his first steps, he said the famous words, '**That's one small step for man, one giant leap for mankind.**'
     - lunar module n. [航] 登月舱
     - the Sea of Tranquillity 静海（地名，指美国阿波罗11号飞船在月球着陆的地点）
       - tranquility /træŋ'kwɪlətɪ/ n. 宁静；平静
@@ -493,12 +497,62 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
     - leap /liːp/ n. 飞跃；跳跃，跳高；骤变；剧增；
 - WALKING ON THE MOON
   - Armstrong and Aldrin spent two and a half hours walking on the moon. They collected samples and set up scientific equipment. Finally, they put up a US flag. After 22 hours on the moon, the lunar module lifted off and flew up to join the rocket that took them back to Earth. They left an inscription: **HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON, JULY 1969. WE CAME IN PEACE FOR ALL MANKIND.**
+    - fly up 向上飞【向北飞】; 上升;
     - inscription /ɪnˈskrɪpʃn/ n. 题词；铭文；刻印
   - This flight was the beginning of man's exploration of space.
 
 ### T7.8 Noises in the night
 
-It was about two o'clock in the morning, and ... suddenly I woke up. I heard a noise. I got out of bed and went slowly downstairs. There was a light on in the living room. I listened carefully. I could hear two men speaking very quietly. 'Burglars!'I thought. Immediately I ran back upstairs and phoned the police. I was really frightened. Fortunately the police arrived quickly. They opened the front door and went into the living room. Then they came upstairs to see me. 'It's all right now, sir,' they explained. 'We turned the television off for you!'
+- It was about two o'clock in the morning, and ... suddenly I woke up. I heard a noise. I got out of bed and went slowly downstairs. There was a light on in the living room. I listened carefully. I could hear two men speaking very quietly. 'Burglars!' I thought. Immediately I ran back upstairs and phoned the police. I was really frightened. Fortunately the police arrived quickly. They opened the front door and went into the living room. Then they came upstairs to see me. 'It's all right now, sir,' they explained. 'We turned the television off for you!'
+  - burglar 英/ˈbɜːɡlə(r)/ 美/ˈbɜːrɡlər/n. 破门盗贼; 入室窃贼; 复数burglars 英/ˈbɜːgləz/ 美/ˈbɜrglərz/
+
+### CHRISTOPHER COLUMBUS
+
+SB p61: WRITING Telling a story p111
+
+- Christopher Columbus was a great explorer. For a long time people believed that he discovered America. However. we now know that (the Norseman, Leif Ericson, landed there 500 years before Columbus.)
+  - Christopher /'krɪstəfə(r)/ n. 克里斯多夫（男子名）
+  - Columbus /kəˈlʌmbəs/ n. 哥伦布（美国一座城市）；哥伦布（意大利航海家）
+  - explorer /ɪkˈsplɔːrə(r)/ n. 探险家；勘探者；探测器；[医]探针
+  - Norseman /'nɔ:smən/ n. 古代挪威人；古代斯堪地那维亚人 (an ancient Scandinavian, especially a Viking)
+  - Leif /li:f/ n. 列夫（挪威大众情人）
+  - Ericson n. 人名；(英)埃里克森；(瑞典、芬、法)埃里克松
+- EARLY LIFE
+  - Columbus was born in 1451 in Genoa, Italy. He was one of five children. He didn't go to school, (he worked with his father. who was a wool worker.) However, he always wanted to go to sea.
+    - Genoa /'dʒenəʊə; dʒe'nəʊə/ n. 热那亚（意大利西北部港市）
+    - Italy /'ɪtəlɪ/ n.	意大利（欧洲）
+    - wool /wʊl/ n. 羊毛；毛线；绒线；毛织品；毛料衣物
+- LIFE AT SEA
+  - He became a sailor. Between 1477 and 1485 he visited many countries, including Spain, Iceland, Ireland, Madeira, and West Africa. (He learned to read and write Spanish during his early travels.)
+    - Spain /speɪn/ n. 西班牙
+    - Iceland /ˈaɪslənd/ n. 冰岛（欧洲岛名，在大西洋北部，近北极圈）
+    - Ireland /'aɪələnd/ n. 爱尔兰
+    - Madeira /məˈdɪərə/ n. 马德拉群岛（大西洋的群岛名）；马得拉白葡萄酒
+    - Spanish /ˈspænɪʃ/ adj. 西班牙的；西班牙语的；西班牙人的 n. 西班牙语；西班牙人
+  - Columbus wanted to be rich and famous. For eight years (he begged King Ferdinand and Queen Isabella of Spain to give him money to discover new lands.)
+    - beg /beɡ/ vt. 乞讨；恳求；回避正题 vi. 乞讨；请求
+    - Ferdinand 英/ˈfɜːd(ə)nænd/ 美/ˈfɜrdɪˌnænd/ n. 斐迪南（男子名）
+    - Isabella /izə'belə/ n. （意、英）伊莎贝拉（人名）（西班牙女王）
+  - Finally they agreed and he got three ships, the Santa Maria, the Pinta, and the Nina, and enough food for a voyage of one year.
+    - Santa /'sæntə/ n. 圣诞老人（等于Santa Claus）
+    - Maria /'mærɪə/ n. （美、西、阿根廷、巴）玛利亚（人名）; maria n. 母马；母驴；月球（或火星）表面的阴暗部；
+    - Pinta /ˈpaɪntə/ n. 人名 (英、西、葡、芬、捷)平塔;
+    - Nina /'ni:nə/ n. 尼娜（女名）
+    - voyage /ˈvɔɪɪdʒ/ n. 航行；航程；旅行记 vi. 航行；航海 vt. 飞过；渡过
+  - He left Spain on 3 August, 1492 and sailed west. After three months at sea, (his sailors became tired and ill.)
+  - They wanted to go home. 'Give me just three more days,' said Columbus. Two days later, they saw land. It was an island. (Columbus named it San Salvador, and its people, Indians.)
+    - San /sæn/ n. (San) （美、印度、俄）圣（人名）
+    - Salvador /'sælvədɔ:/ n. 萨尔瓦多（巴西东部港市）
+  - Next, they sailed to Cuba. Columbus thought he was in China or Japan. The world was a lot bigger than he thought. 
+    - Cuba 英/ˈkjuːbə/ 美/ˈkjubə/ n. 古巴（西印度群岛中最大之岛国，首都Havana）
+  - Then, unfortunately, near Haiti the Santa Maria hit rocks, so Columbus returned to Spain on the Nina, leaving 40 sailors on the island to look for gold. (The Spanish people gave Columbus a hero's welcome.)
+    - Haiti /ˈheɪti/ n. 海地
+- FINAL YEARS
+  - Between 1492 and 1504 Columbus made three more voyages across the Atlantic. He took his 13-year-old son Ferdinand with him on the last voyage. He became famous, but not very rich. In the last years of his life, (he was in great pain with arthritis and couldn't leave his bed.)
+    - Atlantic 英 /æt'læntɪk/  美 /ət'læntɪk/ n. 大西洋 adj. 大西洋的
+    - Ferdinand 英/ˈfɜːd(ə)nænd/ 美/ˈfɜrdɪˌnænd/ n. 斐迪南（男子名）
+    - arthritis /ɑːˈθraɪtɪs/ n. [外科] 关节炎
+  - He died on 20 May, 1506.
 
 ### T7.9 Special occasions
 
