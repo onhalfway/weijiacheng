@@ -277,12 +277,11 @@ cleaned received studied wanted moved talked watched interviewed opened decided
   - C How was your exam?
   - D Awful. I'm very worried
   - C But you worked really hard.
-  - D I know I studied until two in the morning, but then I was so tired today, I - couldn't read the questions.
+  - D I know I studied until two in the morning, but then I was so tired today, I couldn't read the questions.
   - C Don't worry. I'm sure you'll be OK.
 - 3
   - E That was a great match! Really exciting!
-  - F Only because your team won. I was
-  - bored.
+  - F Only because your team won. I was bored.
   - E But it wasn't boring at all! It was a fantastic game!
   - F Well, I didn't enjoy it, and now I'm annoyed because I paid €45 for my ticket.
 - 4
@@ -293,24 +292,38 @@ cleaned received studied wanted moved talked watched interviewed opened decided
 
 ### T6.14 see p53
 
+- 1st: first
+- 2nd: second
+- 3rd: third
+- 4th: fourth
+- 6th: sixth
+- 10th: tenth
+- 12th: twelfth
+- 16th: sixteenth
+- 17th: seventeenth
+- 20th: twentieth
+- 22nd: twenty-second
+- 30th: thirtieth
+- 31st: thirty-first
+
 ### T6.15 What's the date?
 
 1 The first of April. April the first.
 2 The second of March. March the second.
 3 The seventeenth of September. September the seventeenth.
 4 The ninth of November. November the ninth
-5 The 29th of February 1976.
-6 December the nineteenth, 1983.
-7 The third of October, 1999.
-8 May the 3lst, 2005.
-9 July 15th, 2015.
+5 The 29th of February 1976. (The twenty-ninth of February nineteen-seventy-six)
+6 December the nineteenth, 1983. (nineteen-eighty-three)
+7 The third of October, 1999. (nineteen-ninety-nine)
+8 May the 3lst, 2005. (May the thirty-first, two-thousand-five)
+9 July 15th, 2015. (July the fifteenth, twenty-fifteen)
 
 ### T6.16
 
 - 1 October the 3lst.
 - 2 the 23rd of June.
 - 3 July the 15th.
-- 4 March the 4th,2012.
+- 4 March the 4th, 2012.
 - 5 The l8th of February, 2020.
 - 6 The l7th of September, 1960.
 
@@ -319,41 +332,44 @@ cleaned received studied wanted moved talked watched interviewed opened decided
 ### T7.1 20th Century Quiz
 
 - 1 Henry Ford sold the first Model-T in 1908.
-- 2 The first talking movie, The Jazz Singer, was in 1927.
+- 2 The first **talking movie**, The Jazz Singer, was in 1927.
 - 3 Einstein published his theory of relativity about 100 years ago.
 - 4 The Russian Revolution was in 1917.
-- 5 The first non-stop flight around the world was about 60 years ago.
+- 5 The first non-stop **flight around** the world was about 60 years ago.
 - 6 About 60 million people died in the Second World War.
-- 7 The Berlin Wall came down in 1989.
+- 7 The Berlin Wall **came down** in 1989.
 - 8 Man first landed on the moon on July 20, 1969.
-- 9 The Beatles had 17 number 1 hits in the UK.
+- 9 The Beatles had 17 number 1 **hits** in the UK.
 - l0 The twentieth century ended at midnight on 3l<sup>st</sup> December, 2000.
 
 ### T7.2 The good old days
+
+- The Good Old Days 过去的好时光; 再见艳阳天;
+- THE GOLDEN GOOD OLD DAYS 流金岁月
 
 - T=Tommy B=Bill
 - T Grandad, when you were a boy did you have television?
 - B Of course we had television! But it wasn't a colour TV like now, it was black and white.
 - T And were there lots and lots of channels? How many TV channels were there?
-- B Only two. But that was enough! We loved it! And there weren't programmes all day long. Nothing in the morning and nothing in the afternoon!
+- B Only two. But that was enough! We loved it! And there weren't programmes **all day long**. Nothing in the morning and nothing in the afternoon!
 - T Oh, no! What time did programmes begin?
 - B At 4.30. when children's TV started. There were some great programmes for us children, I can tell you! We had real stories in those days!
-- T Did your mum and dad give you pocket money?
-- B Yes, but I worked for it! I cleaned the kitchen and did the washing-up. We didn't have dishwashers in those days!
+- T Did your mum and dad give you **pocket money**?
+- B Yes, but I worked for it! I cleaned the kitchen and did the **washing-up**. We didn't have dishwashers in those days!
 - T That's terrible! How much pocket money did you get?
-- B My dad gave me sixpence a week. That's two and a half p these days! He didn't give me much, did he? But we bought comics and sweets.
+- B My dad gave me sixpence a week. That's two and a half p (pence/penny) these days! He didn't give me much, did he? But we bought comics and sweets.
 - T What sort of comics did you buy?
-- B Well, I bought a comic called the Eagle, and it was full of adventure stories. And Superman! That was really exciting!
+- B Well, I bought a comic called the Eagle, and **it was full of adventure stories.** And Superman! That was really exciting!
 - T Wow! Did you have holidays?
-- B Yes, but not like nowadays. People didn't go abroad. I never took a plane like people do now! It was too expensive!
+- B Yes, but not like nowadays. People didn't **go abroad**. I never took a plane like people do now! It was too expensive!
 - T Where did you go on holiday?
-- B To the seaside,i n England.
+- B To the seaside, in England.
 - T How did you get there?
 - B My father drove. We had a Ford car, a Ford Prefect it was. We went to the same place every year.
 - T Why did you go to the same place? Why didn't you go somewhere different?
 - B Because we all liked it there!
-- T I'm pleased I wasn't alive then! It sounds really boring!
-- B Oh, no! That's where you're wrong! It was the best fun ever!
+- T **I'm pleased I wasn't alive then!** It sounds really boring!
+- B Oh, no! **That's where you're wrong! It was the best fun ever!**
 
 ### T7.3
 
@@ -458,10 +474,10 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
     - compass /ˈkʌmpəs/ n. 指南针，罗盘；圆规
   - On the morning of the 25th, he took off at 4.30 from a field at the edge of a cliff. It took 37 minutes to complete the 22-mile journey. The plane flew at 40 miles per hour at an altitude of 250 feet.
     - altitude /ˈæltɪtjuːd/ n. 高地；高度；海拔
-  - Everything went well until he flew into fog. 'I continued flying for ten minutes, but I couldn't see the land, only the sky and the sea. It was the most dangerous part of the flight. I **wasn't worried about** the machine. It flew beautifully. Finally, I saw the land,' he told reporters.
+  - Everything went well until he flew into fog. 'I continued flying for ten minutes, but I couldn't see the land, only the sky and the sea. It was the most dangerous part of the flight. I **wasn't worried about** the machine. It flew **beautifully**. Finally, I saw the land,' he told reporters.
     - reporter n.	记者; 通讯员;
 - LANDING IN ENGLAND
-  - When he got to Dover, he saw a French journalist waving a flag. He **cut** the engine at 60 feet and crashed into a field.
+  - When he got to Dover, he saw a French journalist waving a flag. He **cut** the engine at 60 feet and **crashed into** a field.
     - journalist /ˈdʒɜːnəlɪst/ n. 新闻工作者；报人；记日志者
     - crash /kræʃ/ v. 碰撞；（使）坠毁；
   - The news quickly went round the world, and Mr Bleriot's flight was celebrated in London and Paris. He won a prize of £1,000.
@@ -472,7 +488,7 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
 #### The First Man On The Moon
 
 - unit07_reading_man on the moon.mp3
-- On 16 July, 1969, at 9.30 in the morning, Apollo 11 lifted off from the Kennedy Space Center in Florida. There were three astronauts - Neil Armstrong, Buzz Aldrin, and Michael Collins. The enormous rocket took three days to complete the 250,000 miles to the moon, travelling at six miles per second (21,600m miles an hour). Then it circled the moon 30 times, giving time to prepare for the landing.
+- **On** 16 July, 1969, **at** 9.30 **in** the morning, Apollo 11 **lifted off** **from** the Kennedy Space Center in Florida. There were three astronauts - Neil Armstrong, Buzz Aldrin, and Michael Collins. The enormous rocket **took** three days **to complete** the 250,000 miles **to** the moon, travelling **at** six miles **per** second (21,600m miles an hour). Then it circled the moon 30 times, **giving** time to prepare for the landing.
   - On 16 July, 1969, at 9.30: On the sixteenth of July, nineteen-sixty-nine, at nine-thirty
   - Apollo /ə'pɒləʊ/ n. 阿波罗（太阳神）；美男子
   - lift off （飞机、火箭等） 起飞，升空，发射;
@@ -487,7 +503,7 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
   - enormous /ɪˈnɔːməs/ adj. 庞大的，巨大的；凶暴的，极恶的
   - 250,000 miles: two-fifty-thousand miles
 - THE LUNAR LANDING
-  - The lunar module landed on a part of the moon called the Sea of Tranquillity at 8.17 in the evening on 20 July. It was time for the astronauts to rest, but they were **too excited to sleep**. At 3.00 in the morning on July 21, Neil Armstrong became the first man to walk on the moon. Six hundred million people all over the world watched on TV. As Armstrong **took** his first steps, he said the famous words, '**That's one small step for man, one giant leap for mankind.**'
+  - The lunar module **landed on** a part of the moon **called** the Sea of Tranquillity at 8.17 in the evening on 20 July. It was time for the astronauts to rest, but they were **too excited to sleep**. At 3.00 in the morning on July 21, Neil Armstrong became the first man to walk on the moon. Six hundred million people all over the world watched on TV. As Armstrong **took** his first steps, he said the famous words, '**That's one small step for man, one giant leap for mankind.**'
     - lunar module n. [航] 登月舱
     - the Sea of Tranquillity 静海（地名，指美国阿波罗11号飞船在月球着陆的地点）
       - tranquility /træŋ'kwɪlətɪ/ n. 宁静；平静
@@ -496,14 +512,14 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
     - giant /ˈdʒaɪənt/ adj. 巨大的；巨人般的；伟大的
     - leap /liːp/ n. 飞跃；跳跃，跳高；骤变；剧增；
 - WALKING ON THE MOON
-  - Armstrong and Aldrin spent two and a half hours walking on the moon. They collected samples and set up scientific equipment. Finally, they put up a US flag. After 22 hours on the moon, the lunar module lifted off and flew up to join the rocket that took them back to Earth. They left an inscription: **HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON, JULY 1969. WE CAME IN PEACE FOR ALL MANKIND.**
+  - Armstrong and Aldrin **spent** two and a half hours **walking** on the moon. They collected samples and **set up** scientific equipment. Finally, they **put up** a US flag. After 22 hours on the moon, the lunar module lifted off and **flew up** to join the rocket that took them **back to Earth**. They left an inscription: **HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON, JULY 1969. WE CAME IN PEACE FOR ALL MANKIND.**
     - fly up 向上飞【向北飞】; 上升;
     - inscription /ɪnˈskrɪpʃn/ n. 题词；铭文；刻印
   - This flight was the beginning of man's exploration of space.
 
 ### T7.8 Noises in the night
 
-- It was about two o'clock in the morning, and ... suddenly I woke up. I heard a noise. I got out of bed and went slowly downstairs. There was a light on in the living room. I listened carefully. I could hear two men speaking very quietly. 'Burglars!' I thought. Immediately I ran back upstairs and phoned the police. I was really frightened. Fortunately the police arrived quickly. They opened the front door and went into the living room. Then they came upstairs to see me. 'It's all right now, sir,' they explained. 'We turned the television off for you!'
+- It was about two o'clock in the morning, and ... suddenly I **woke up**. I heard a noise. I **got out of bed** and **went slowly downstairs**. There was **a light on** in the living room. I listened carefully. I could **hear two men speaking** very quietly. 'Burglars!' I thought. Immediately I **ran back upstairs** and phoned the police. I **was really frightened**. Fortunately the police arrived quickly. They opened the front door and **went into** the living room. Then they **came upstairs to see** me. 'It's all right now, sir,' they explained. 'We **turned the television off** for you!'
   - burglar 英/ˈbɜːɡlə(r)/ 美/ˈbɜːrɡlər/n. 破门盗贼; 入室窃贼; 复数burglars 英/ˈbɜːgləz/ 美/ˈbɜrglərz/
 
 ### CHRISTOPHER COLUMBUS
