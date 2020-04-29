@@ -477,7 +477,7 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
   - Everything went well until he flew into fog. 'I continued flying for ten minutes, but I couldn't see the land, only the sky and the sea. It was the most dangerous part of the flight. I **wasn't worried about** the machine. It flew **beautifully**. Finally, I saw the land,' he told reporters.
     - reporter n.	记者; 通讯员;
 - LANDING IN ENGLAND
-  - When he got to Dover, he saw a French journalist waving a flag. He **cut** the engine at 60 feet and **crashed into** a field.
+  - When he got to Dover, he saw a French journalist **waving** a flag. He **cut** the engine at 60 feet and **crashed into** a field.
     - journalist /ˈdʒɜːnəlɪst/ n. 新闻工作者；报人；记日志者
     - crash /kræʃ/ v. 碰撞；（使）坠毁；
   - The news quickly went round the world, and Mr Bleriot's flight was celebrated in London and Paris. He won a prize of £1,000.
@@ -559,7 +559,7 @@ SB p61: WRITING Telling a story p111
   - They wanted to go home. 'Give me just three more days,' said Columbus. Two days later, they saw land. It was an island. (Columbus named it San Salvador, and its people, Indians.)
     - San /sæn/ n. (San) （美、印度、俄）圣（人名）
     - Salvador /'sælvədɔ:/ n. 萨尔瓦多（巴西东部港市）
-  - Next, they sailed to Cuba. Columbus thought he was in China or Japan. The world was a lot bigger than he thought. 
+  - Next, they sailed to Cuba. Columbus thought he was in China or Japan. The world was a lot bigger than he thought.
     - Cuba 英/ˈkjuːbə/ 美/ˈkjubə/ n. 古巴（西印度群岛中最大之岛国，首都Havana）
   - Then, unfortunately, near Haiti the Santa Maria hit rocks, so Columbus returned to Spain on the Nina, leaving 40 sailors on the island to look for gold. (The Spanish people gave Columbus a hero's welcome.)
     - Haiti /ˈheɪti/ n. 海地
@@ -614,7 +614,24 @@ SB p61: WRITING Telling a story p111
 
 ### T8.1 see p62
 
+- A
+  - I tea w ice-cream
+  - p coffee k apple juice
+  - j wine h bread
+  - v cheese u milk
+  - n yoghurt o chocolate
+  - d pasta 5 broccoli
+- B
+  - i bananas e onions
+  - a apples c tomatoes
+  - f strawberries q eggs
+  - t potatoes b biscuits
+  - r carrots I crisps
+  - x peas m chips
+
 ### T8.2 Who's a fussy eater?
+
+- fussy /ˈfʌsi/ adj. 爱挑剔的，难取悦的；易烦恼的
 
 - D=Duncan N=Nick
 - N Oh, good, we have some tomatoes.
@@ -637,7 +654,36 @@ SB p61: WRITING Telling a story p111
 - D Tomato sauce is different. Hey, let's not eat in tonight. Let's go out to Romano's.
 - N Romano's - a great idea! It's my favourite Italian restaurant.
 
+- Who is the fussy eater?
+  - Duncan is the fussy eater.
+- What didn't Duncan like when he was a kid? What did he like?
+  - He didn't like green vegetables, other vegetables (apart from potatoes), bananas, coffee, or tea.
+  - He liked chips, fruit juice, ice-cream, chocolate, crisps, biscuits, and pasta.
+- Where do they go to eat?
+  - They go to Romano's to eat.
+
+- 1 Oh, good, we have (some) tomatoes.
+- 2 I didn't like a (lot) of things when I was a kid.
+- 3 I didn't like (any) green vegetables.
+- 4 Did you like (any) vegetables at all?
+- 5 I liked (some) fruit, but not all.
+- 6 I drank a (lot) of apple juice.
+- 7 I liked (all) the usual things kids like.
+
 ### T8.3 see p63
+
+- W Good evening, guys. Are you ready to order?
+- D I think we are. What would you like, Nick?
+- N Pasta, of course. I love pasta. I'd like the spaghetti Bolognese.
+- D Same for me, please. I really like spaghetti.
+- W Great! And would you like the wine list?
+- D No, thanks. Just a glass of red for me. Would you like some wine, Nick?
+- N Yes, but I don't like red wine. I'd like a glass of dry white, if that's OK.
+- W That's fine.
+- N Oh, and can we have some water too, please?
+- W Of course. Would you like sparkling or still?
+- D Just some tap water, thanks.
+- W No problem.
 
 ### T8.4
 
