@@ -477,10 +477,10 @@ page 59 flight and the first man on the moon. In the 20th century, progress in a
   - Everything went well until he flew into fog. 'I continued flying for ten minutes, but I couldn't see the land, only the sky and the sea. It was the most dangerous part of the flight. I **wasn't worried about** the machine. It flew **beautifully**. Finally, I saw the land,' he told reporters.
     - reporter n.	记者; 通讯员;
 - LANDING IN ENGLAND
-  - When he got to Dover, he saw a French journalist **waving** a flag. He **cut** the engine at 60 feet and **crashed into** a field.
+  - When he **got to** Dover, he saw a French journalist **waving** a flag. He **cut** the engine at 60 feet and **crashed into** a field.
     - journalist /ˈdʒɜːnəlɪst/ n. 新闻工作者；报人；记日志者
     - crash /kræʃ/ v. 碰撞；（使）坠毁；
-  - The news quickly went round the world, and Mr Bleriot's flight was celebrated in London and Paris. He won a prize of £1,000.
+  - The news quickly **went round** the world, and Mr Bleriot's flight was celebrated in London and Paris. He won a prize of £1,000.
   - 'The crossing was the start of modern aviation,' said Louis Bleriot, the grandson of the pioneer.
     - aviation /ˌeɪviˈeɪʃn/ n. 航空；飞行术；飞机制造业
     - pioneer /ˌpaɪəˈnɪə(r)/ n. 先锋；拓荒者;先驱者
@@ -629,6 +629,9 @@ SB p61: WRITING Telling a story p111
   - r carrots I crisps
   - x peas m chips
 
+- pasta 英 /ˈpæstə/  美 /ˈpɑːstə/ n. 意大利面食；面团
+- broccoli /ˈbrɒkəli/ n. 花椰菜；西兰花
+
 ### T8.2 Who's a fussy eater?
 
 - fussy /ˈfʌsi/ adj. 爱挑剔的，难取悦的；易烦恼的
@@ -672,18 +675,26 @@ SB p61: WRITING Telling a story p111
 
 ### T8.3 see p63
 
+- W=Waitress D=Duncan N=Nick
 - W Good evening, guys. Are you ready to order?
 - D I think we are. What would you like, Nick?
 - N Pasta, of course. I love pasta. I'd like the spaghetti Bolognese.
 - D Same for me, please. I really like spaghetti.
 - W Great! And would you like the wine list?
-- D No, thanks. Just a glass of red for me. Would you like some wine, Nick?
-- N Yes, but I don't like red wine. I'd like a glass of dry white, if that's OK.
+- D No, thanks. Just a glass of **red** for me. Would you like some wine, Nick?
+- N Yes, but I don't like **red wine**. I'd like a glass of **dry white**, if that's OK.
 - W That's fine.
 - N Oh, and can we have some water too, please?
-- W Of course. Would you like sparkling or still?
-- D Just some tap water, thanks.
+- W Of course. Would you like **sparkling** or **still**?
+- D Just some **tap water**, thanks.
 - W No problem.
+
+- spaghetti /spəˈɡeti/ n. 意大利式细面条
+- Bolognese /,bəulə'ni:z/ n. （肉馅和西红柿做成的）波隆那肉酱
+- Spaghetti Bolognese 意大利肉酱面
+- sparkling /ˈspɑːklɪŋ/ adj. 闪闪发光的，闪烁的；**起泡沫的** v. 闪耀；发出火花；**起泡沫（sparkle的ing形式）**
+- still /stɪl/ adv. 仍然；更；静止地 adj. 静止的，不动的；寂静的，平静的；**不起泡的** n. 寂静；剧照；蒸馏室 conj. 仍然；但是；尽管如此
+- tap water 自来水；非蒸馏水
 
 ### T8.4
 
