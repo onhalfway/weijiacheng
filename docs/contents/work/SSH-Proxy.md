@@ -25,6 +25,13 @@ TOC
     - [使用优化](#%e4%bd%bf%e7%94%a8%e4%bc%98%e5%8c%96)
     - [功能对比](#%e5%8a%9f%e8%83%bd%e5%af%b9%e6%af%94)
     - [iptable port-forwarding](#iptable-port-forwarding)
+  - [Dynamic port forwarding using SSH, SOCKS5](#dynamic-port-forwarding-using-ssh-socks5)
+    - [SSH Server /etc/ssh/sshd_config](#ssh-server-etcsshsshdconfig)
+  - [SSH Client](#ssh-client)
+    - [ssh command with arguments](#ssh-command-with-arguments)
+    - [check proxy](#check-proxy)
+    - [Firefox Browser](#firefox-browser)
+    - [command with /etc/ssh/ssh_config or ~./ssh/config](#command-with-etcsshsshconfig-or-sshconfig)
 
 ## 概述
 
@@ -365,3 +372,373 @@ PortForward2 192.168.1.2 8765 202.115.8.2 8765
 那么任何访问本机 192.168.1.2 这个地址 8765 端口，都会被转发到 202.115.8.2:8765
 
 这个 iptable 的 port forwarding 是内核层运行的，性能极好，只不过每次重启都需要重新设置下。
+
+## [Dynamic port forwarding using SSH, SOCKS5](https://www.tuicool.com/articles/ZjE3Ubr)
+
+```text
+Dynamic port forwarding using SSH, SOCKS5 and a VPS
+时间 2015-07-01 06:08:42  Hacker News
+原文  http://medium.com/@antoniogioia/all-you-need-to-know-about-dynamic-port-forwarding-using-ssh-socks5-proxy-and-a-linux-debian-vps-c4503921400f
+主题 SSH VPS socks
+All you need to know about dynamic port forwarding using SSH, SOCKS5 proxy and a Linux Debian VPS
+
+In this article i collected all the necessary information and useful tips to create SSH tunnels between hosts in order to protect internet traffic with an encrypted layer.
+
+Contents:
+
+What is SSH
+Why you need to use a SSH tunnel
+Public and private key pair
+VPS setup and firewall
+Dynamic port forwarding in details
+Configure browser, email, instant messages
+Optional configurations
+Security considerations
+What is SSH
+SSH stands for Secure Shell and is described on Wikipedia as “a cryptographic (encrypted) network protocol for initiating text-based shell sessions on remote machines in a secure way”.
+
+In other words SSH allows to connect to a port of a remote host using an encrypted link and through authentication you are able to run commands remotely using your own computer.
+
+Basically you can run commands on a terminal of a computer located in New York sitting in your home in Paris.
+
+SSH can do much more than this. For example you can copy files from local to remote host (local forward) or mount a remote file system on your computer (remote forward) or tunnel all traffic from a local SOCKS proxy (dynamic forward).
+
+In this article i will explain how to forward unencrypted network traffic to a local SOCKS5 proxy and tunnel it to internet with SSH through a VPS (virtual private server).
+
+SSH enables port forwarding with encrypted tunnel
+SOCKS5 (Socket Secure) provides a proxy server to route traffic between client and server using authentication
+VPS is our remote server that drives us out to internet
+If you read till the end you’ll notice that everything falls into a couple of commands. In order to create a SSH tunnel described in the article are required:
+
+Linux Debian on your machine, actually this method would work on any computer with SSH installed
+VPS (a remote server) running Linux Debian 8, search on internet for a cheap and reliable one. With small syntax changes this method would work on any linux distribution
+It is assumed you are familiar with terminal, SSH and Linux in general.
+
+Why you need a SSH tunnel
+The answer is simple: SSH dynamic port forwarding is the fastest and cheapest way to protect your traffic from undesired eyes.
+
+Perhaps you are reading this article because you are concerned about your privacy or you are connecting from an open network without a VPN and you are scared that your passwords can be extracted with network analysis (spoiler: yes it’s very easy) or you just want to know more about alternative safe means of communications.
+
+Governments, secret agencies, corporations, lamers and a bunch of other nasty entities are out there, avid of your personal data, to reuse, manipulate, sell it as they please. This is not lame conspiracy theories, it is actually proven facts and it’s time for everyone to wake up and be constantly aware of it. Use of SSH, VPNs, Tor and other tools can help you if used properly. The extensive collecting of data can turn problematic if not impossible to anyone interested in your identity.
+
+SSH dynamic forward can help to protect your privacy.It is not intended to keep you anonymous and protect your identity. In conjunction with other tools you might actually protect your identity as well: it requires good technical skills, smart moves and proper tools.
+
+Protection requires control and knowledge. It only takes learning a few commands and tweak some configuration file to achieve something huge in terms of protection of your data:
+
+An additional layer to protect your identity
+An encrypted channel of internet traffic
+A less risky communication environment for your privacy
+A few practical examples:
+
+You can connect to open networks and no one can read in clear your network packets, assuming you carefully protect your private key
+You can reach content blocked because of your location.
+If you get a VPS located in the USA you can reach content blocked to IPs from outside the country
+You can circumvent company firewall restrictions
+Why not just use a VPN? If you are using a VPN (virtual private network) that’s great, you should always use it. VPN operates on a lower level and the routing part is taken care by OS. If configured properly encrypts communications between your networks around the globe and works great to protect your privacy. VPN configurations are easy to share between clients of different platforms as well. It suits well for home networks and businesses, easier to configure and relatively cheap.
+
+Compared to a proper VPN, a SSH tunnel seems like VPN with less options and more difficult to handle on complex networks.Must be said that SSH is not a tool meant to build VPNs, as said earlier it’s used to securely obtain a prompt shell on a remote host. The options available is SSH for port forwarding makes it versatile to use as a simplified version of a VPN, working on TCP layer only.
+
+If you are familiar with SSH sessions, setting up a SSH tunnel will result an easy and fast task that can turn useful in mobility or stealth mode without the need of a VPN.
+
+Private and public key pair
+The very first thing you need to setup is a private and public key pair.
+
+With this keys you can authenticate your client (your machine) on your remote server. The mechanism is simple and effective:
+
+Generate both keys, private and public, on your computer
+Protect private key with long, possibly complex pass phrase. You need to enter it every time you want to create a SSH connection
+Copy the public key on the server you want to log in
+SSH opens a connection only to clients matching the server public key with the right client private key
+This process ensures a higher level of security compared to passwords protected accounts vulnerable to brute force attacks.
+
+You need to protect your private key and do not lose any backup. Anyone owning your private key can authenticate himself as you on every server that can match relative public key.
+
+You can create a different keys pair for every service you intend to use with SSH. If one private key gets compromised you have then an isolated case.
+
+Let’s create SSH keys. On your computer terminal type:
+
+# ssh-keygen -t rsa
+Next step is to choose a name for the keys. If you would just press enter it would assign the default name id_rsa and id_rsa.pub and those would became your default keys. I prefer instead to define a custom name for a pair used only for SSH tunnel: id_rsa_tunnel as private key and id_rsa_tunnel.pub as public one.
+
+# Enter file in which to save the key (/home/user/.ssh/id_rsa): id_rsa_tunnel
+Enter two times the pass phrase you want to use for your private key and you are done. Your keys are located in your home directory, /.ssh/ folder: /home/user/.ssh/id_rsa_tunnel (private) and /home/user/.ssh/id_rsa_tunnel.pub (public) where /user/ is the user you are logged in.
+
+VPS setup and firewall
+Your remote host, a VPS in this case, is going to route your traffic to internet. Choose the right VPS provider according to your needs. A monthly subscription can be as cheap as 5 dollars and allows you to create servers in real time, choose where to locate it, the OS to install (choose last Debian version) and the public key associated with root account. This few steps usually take up to 2 minutes to complete. At the end of process you should receive the public IP of the server. This is enough to connect with SSH.
+
+On your computer it’s now convenient to change your hosts file, assuming the public IP of your VPS is 34.86.122.31 (i invented it) you can add this line to file /etc/hosts naming it “tunnel”:
+
+# 34.86.122.31 tunnel
+Save (you need to be root) and quit. From now on your system will recognize your VPS public IP with the word “tunnel”. You can now SSH to your remote host. Open a terminal and run:
+
+# ssh root@tunnel
+You’ll need to enter the passphrase to unlock connection.Enter it and if correct you’ll get into the VPS logged in as root.
+
+If you didn’t associate your public key to root account during install process of your VPS you will be provided instead with a password and that’s not enough to protect your account. You will need to install SSH server and add your public key to authorized_keys file in /root/.ssh/ . There’s plenty of tutorials on the web that can help you.
+
+You would assume the fresh OS install is up to date but to be 100% sure run:
+
+# apt-get update && upgrade
+and install new packages if any. Now you can install the tools needed:
+
+# apt-get install sudo ufw
+Sudo, you probably know it, is a package that grants administrative permissions to regular users and Ufw stands for Uncomplicated Firewall. Advanced linux users might want to install iptables instead, Uwf is easy to use and fits well for the task.
+
+It’s time to create a regular user account and say goodbye to root. Go for a generic name like “sshuser” instead of your actual name or nickname and choose a password easy to remember and difficult to brute force, finally add user to sudo:
+
+# useradd -s /bin/bash -m -d /home/sshuser -c "sshuser" sshuser
+# passwd sshuser
+# usermod -aG sudo sshuser
+You can now exit and log out from root session.It’s now time to SSH into the VPS using the user account you just created but first you have to associate your public key with the new user account. There is a tool called ssh-copy-id that will help with this. You just have to run:
+
+# ssh-copy-id sshuser@tunnel
+and your default public key will be automatically copied securely to remote host (use option -i to define a custom public key). If you created the key pair following the article you have to type:
+
+# ssh-copy-id -i ~/.ssh/id_rsa_tunnel.pub sshuser@tunnel
+Now you can log in into your VPS with:
+
+# ssh sshuser@tunnel
+Enter the pass phrase and you are in.
+
+It’s time to change the server SSH configuration in /etc/ssh/sshd_config
+
+Open file with sudo and check the following lines, if not there add them:
+
+Port 5432
+Protocol 2
+UsePrivilegeSeparation yes
+PermitRootLogin no
+StrictModes yes
+PubkeyAuthentication yes
+AuthorizedKeysFile      %h/.ssh/authorized_keys
+PasswordAuthentication no
+X11Forwarding no
+TCPKeepAlive yes
+AllowUsers sshuser
+AllowTcpForwarding yes
+SSH default port is 22. No one force you to use the default port and to obfuscate a little the traffic to potential attackers you can use port 5432 usually adopted by PostgreSQL.With PermitRootLogin and PasswordAuthentication we block possible easy attacks and with AllowUsers you restrict access even more to only your user.
+
+Last step to strengthen your server is to configure a firewall. UFW, installed earlier, is quite simple firewall front end for the infamous iptables.All you have to do is allowing connections only to the port you want to connect and limit possible brute force attacks.
+
+# sudo ufw allow 5432/tcp# ssh-copy-id sshuser@tunnel
+Opens the TCP port 5432 from outside connections.
+
+# sudo ufw limit 5432/tcp
+Limits password log in attempts. Consider the use of SSHguard or fail2ban for a definitive solution to brute force attacks.
+
+# sudo service ufw restart
+Restart firewall to enable changes.Your remote server is now ready.
+
+Dynamic port forwarding in details
+You have now everything ready to create a SSH tunnel.
+
+Open a terminal on your computer and type:
+
+# ssh -D 8080 -N -p 5432 sshuser@tunnel -vv
+If everything works as expected the tunnel is created after you type the pass phrase. That’s it.
+
+The command in details:
+
+-D enables dynamic forwarding
+8080 is the port of localhost you are going to listen with proxy, can be any port open of your computer
+-N stops SSH from executing commands
+-p is the port of the remote host you connect to, you configured the firewall server to keep port 5432 open
+-vv is very verbose output on console (-v and -vvv are less and more verbose). I suggest to keep this option the very first times to have a better idea of what’s going on with the SSH connection and remove it later on.
+You can fork the process in the background and keep SSH quiet with the options -f and -q.
+
+# ssh -D 8080 -fNq -p 5432 sshuser@tunnel
+Tunnel is now up. All traffic can now be routed trough your localhost (or 127.0.0.1) from port 8080 to your VPS and then to internet.
+
+Note this will work using your default private key.To specify the private key you created earlier use the option -i:
+
+# ssh -i ~/.ssh/id_rsa_tunnel -D 8080 -fNq -p 5432 sshuser@tunnel
+You SSH connection is now in the background. To close it you have to terminate the process; use htop to find and terminate it.
+
+You need now to configure applications to make use of the tunnel.
+
+Configure browser, email, instant messages
+The connection reaches the VPS with the help of SOCKS protocol if your applications listen on port 8080 (or any port you have chosen).
+
+All applications that create traffic not listening on SOCKS proxy will leak packets out of the tunnel. It’s important you configure all applications you normally use for internet to make use of the proxy.
+
+Browser
+Tunnel is created so let’s open a browser to access internet. You can open Chromium from terminal typing:
+
+# chromium --temp-profile --proxy-server="socks5://localhost:8080"
+Note the flag — proxy-server that tells Chromium where is located the proxy. This is enough to browse using the SSH tunnel.
+
+You can add more flags to a Chromium session, there is plenty listed here . Why not running incognito mode and disable most functionalities you don’t use:
+
+# chromium --temp-profile --incognito --no-referrers --enable-strict-mixed-content-checking --disable-java --disable-extensions --disable-plugins --no-experiments --no-pings --disable-preconnect --disable-translate --dns-prefetch-disable --disable-background-mode --proxy-server="socks5://localhost:8080"
+Add or remove flags depending on your needs.
+
+To configure Firefox (or Iceweasel) click on the menu icon and go to Preferences. Click on the tab Advanced and on the inner tab Network. Finally click on Settings button and click on “Manual proxy configuration” typing “localhost” in the field next to SOCKS Host, port 8080. Click on SOCKS v5 if not selected. Click on OK and your browsing should now be encrypted.
+
+Watch out for DNS leaks using Firefox (or Iceweasel). Open the config window typing about:config where you would type a URL and press enter. Search for network.proxy.socks_remote_dns and set it to true. Test results before and after the changes on dnsleaktest.com .
+
+E-mail
+The procedure to enable SOCKS proxy on Thunderbird (or Icedove) is similar as for Firefox described above. Menu, Preferences, Preferences, Advanced, Network and Disk Space, Settings and then configure proxy same way.
+
+Instant messaging
+Pigdin is a universal chat client that supports most common protocols and social network chats. In one application you can chat over many networks and in combination with OTR plugin you can encrypt your messages over not secure networks. You can configure Pidgin to use the proxy as well, just open Preferences and under Network label you can set the Proxy Server as SOCKS5, host is “localhost” and port 8080.
+
+If you are more old school and chat over IRC with irssi client, type within the console:
+
+/set proxy_address 127.0.0.1
+/set proxy_port 8080
+/set use_proxy ON
+Note that 127.0.0.1 is the address of localhost.
+
+Optional configurations
+You now have a working SSH tunnel. You can now create a shortcut for future sessions. You can also run a script at boot time that opens a tunnel in background. You can find many examples on internet about it. I personally prefer to create and delete tunnels as i need it, without any automation.
+
+Remember the command to open a tunnel:
+
+# ssh -i ~/.ssh/id_rsa_tunnel -D 8080 -fNq -p 5432 sshuser@tunnel
+To create a shortcut to this command edit or create a config file on your computer at: /home/user/.ssh/config and add the lines:
+
+Host tunnel
+    HostName 34.86.122.31
+    Port 5432
+    User sshuser
+    IdentityFile ~/.ssh/id_rsa_tunnel.pub
+And to open a SSH tunnel you can type:
+
+# ssh -fNq tunnel
+Security considerations
+Leaking your traffic and IP trough applications, misconfigurations and low focus is very easy.
+
+The use of Linux helps to have better control over applications running. This would be a hell on Windows machines with so many hidden connections. In order to have a successful SSH tunnel use it’s essential that every application connecting to internet is configured to use SOCKS proxy.
+
+Do not forget that when the modem drops the connection to internet the tunnel is deleted as well. If applications are configured to automatically connect to internet as soon signal is back and you are not there to bring the tunnel up, they would connect without the tunnel, leaking your IP.
+
+If your intention is to hide your identity do not forget that the traffic of a SSH tunnel is encrypted until goes out of your remote host. This means that if your identity is associated with the public IP of your VPS it’s possible to match all your traffic and your possible sins.
+
+VPN, VPS and Tor exit nodes might be flagged by ISP and communication filtered or monitored. In our setup the VPS is the weakest point regarding trust, you should change often provider and check if your IP is in black lists.
+
+In case of investigations your ISP and your VPS provider might handle the logs relative your connection and server, if you pay the VPS services using your credit card you cannot really hide. Keep this in mind and think of counter measures actively. You should consider the use of Tor to protect your identity.
+
+If hiding your identity is not your primary concern and you own a remote host that you can trust, SSH dynamic port forwarding is a valid option to protect your privacy on your local network without VPN infrastructure.
+
+Feel free to correct me if the information is not correct or outdated.
+```
+
+### SSH Server /etc/ssh/sshd_config
+
+- https://www.ssh.com/ssh/config/
+- https://www.ssh.com/ssh/tunneling/example
+- https://gist.github.com/kjellski/5940875
+- https://unix.stackexchange.com/questions/344444/match-multiple-users-in-sshd-config
+
+```text
+# linux-6$ /etc/init.d/sshd restart
+# linux-6$ service sshd restart
+# linux-7$ systemctl restart sshd.service
+# Example of overriding settings on a per-user basis
+Match User opc
+    AllowTcpForwarding yes
+    AllowStreamLocalForwarding yes
+    GatewayPorts yes
+    PermitTunnel yes
+#   optional
+#   X11Forwarding yes
+#   AllowAgentForwarding yes
+#   PermitTTY no
+#   ForceCommand cvs server
+#   PermitListen 127.0.0.1:2223
+#   AcceptEnv RESTIC_REPOSITORY RESTIC_PASSWORD
+#   ForceCommand /bin/echo 'We talked about this guys. No SSH for you!'
+#Match Address 172.22.100.0/24,172.22.5.0/24,127.0.0.1
+#    PermitRootLogin without-password
+#    PasswordAuthentication yes
+#Match Group users_with_no_ssh
+#    PasswordAuthentication yes
+#    AllowTCPForwarding yes
+#    ForceCommand /bin/echo 'We talked about this guys. No SSH for you!'
+```
+
+## SSH Client
+
+### ssh command with arguments
+
+- LocalForward
+  - ssh -i ~/.ssh/ssh-private.openssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null opc@132.145.83.209 -gL 3389:10.0.0.3:3389 [-vvv]
+    - exit
+- DynamicForward
+  - ssh -i ~/.ssh/ssh-private.openssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null opc@132.145.83.209 -gD 1080 [-vvv]
+    - exit
+  - nohup ssh localhost -N -o "DynamicForward 1080" > socks.log&
+  - ssh -D 1080 -fNq -p 5432 sshuser@tunnel
+    - -N stops SSH from executing commands
+    - -vv is very verbose output on console (-v and -vvv are less and more verbose).
+    - You can fork the process in the background and keep SSH quiet with the options -f and -q.
+    - You SSH connection is now in the background. To close it you have to terminate the process; use htop to find and terminate it.
+
+### check proxy
+
+  - netstat -nalt | grep 1080
+  - curl --socks5-hostname 127.0.0.1:1080 www.google.com
+  - curl --socks5-hostname 127.0.0.1:1080 https://www.google.com
+  - [whatismyip: SSH-Client-IP](curl -s -m 10 http://whatismyip.akamai.com/)
+  - [whatismyip: SSH-Server-IP](https://www.whatismyip.com/)
+
+### Firefox Browser
+
+- [URL](about:preferences#general) or [search: proxy](about:preferences#searchResults)
+  - Network Settings
+    - Manual proxy configuration
+      - Must leave HTTP Proxy blank
+      - Socks Host: 127.0.0.0
+      - Port: 1080
+      - Checked: Socks v5
+    - Checked: Proxy DNS when using SOCKS v5
+    - Checked: Enable DNS over HTTPS
+- [whatismyip: SSH-Client-IP](curl -s -m 10 http://whatismyip.akamai.com/)
+- [whatismyip: SSH-Server-IP](https://www.whatismyip.com/)
+
+### command with /etc/ssh/ssh_config or ~./ssh/config
+
+```text
+# ~/.ssh/config
+Host *
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host proxy
+  HostName 132.145.83.209
+  User opc
+  Port 22
+  IdentityFile ~/.ssh/ssh-private.openssh
+  DynamicForward 1080
+```
+
+TODO verify ~/.ssh/config for client
+#https://www.ssh.com/ssh/config/
+Host *
+  ForwardAgent no
+  ForwardX11 no
+  ForwardX11Trusted yes
+  User opc
+  Port 22
+  Protocol 2
+  ServerAliveInterval 60
+  ServerAliveCountMax 30
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+#https://www.ssh.com/ssh/tunneling/example
+#https://stackoverflow.com/questions/18704195/how-to-add-socks-proxy-to-ssh-config-file
+#touch ~/.ssh/config
+#chmod 600 ~/.ssh/config
+#chmod 600 <~/.ssh/OpenSSH-Private-Key>
+#execute `ssh proxy` on local-host
+#netstat -nalt | grep <local-host-port>
+#curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
+Host proxy
+  HostName <ssh-server>
+  User <username>
+  Port <ssh-server-port>
+  IdentityFile <~/.ssh/OpenSSH-Private-Key>
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+  #LocalForward <local-host-port> <remote-host>:<remote-host-port>
+  #RemoteForward <ssh-server-port> <local-host>:<local-host-port>
+  DynamicForward <local-host-port>
