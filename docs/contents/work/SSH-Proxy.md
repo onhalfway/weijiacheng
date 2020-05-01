@@ -710,6 +710,7 @@ Host proxy
   Port 22
   IdentityFile ~/.ssh/ssh-private.openssh
   DynamicForward 1080
+  LocalForward 3389 10.0.0.3:3389
 ```
 
 TODO verify ~/.ssh/config for client
