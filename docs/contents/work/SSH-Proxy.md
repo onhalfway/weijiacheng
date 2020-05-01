@@ -640,6 +640,7 @@ Match User opc
     AllowStreamLocalForwarding yes
     GatewayPorts yes
     PermitTunnel yes
+    PermitOpen yes
 #   optional
 #   X11Forwarding yes
 #   AllowAgentForwarding yes
