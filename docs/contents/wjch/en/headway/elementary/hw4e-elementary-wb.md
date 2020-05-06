@@ -1,5 +1,9 @@
 # New Headway Elementary Fourth Edition Workbook
 
+- [New Headway Elementary Fourth Edition Workbook](#new-headway-elementary-fourth-edition-workbook)
+  - [Unit 8 Eat in or out](#unit-8-eat-in-or-out)
+    - [6 In a restaurant](#6-in-a-restaurant)
+
 ## Unit 8 Eat in or out
 
 ### 6 In a restaurant
