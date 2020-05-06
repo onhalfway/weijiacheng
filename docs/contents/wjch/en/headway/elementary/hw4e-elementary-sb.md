@@ -1,8 +1,8 @@
-# New Headway Elementary Fourth Edition
+# New Headway Elementary Fourth Edition Student Book
 
 The Copyright belongs to the author
 
-- [New Headway Elementary Fourth Edition](#new-headway-elementary-fourth-edition)
+- [New Headway Elementary Fourth Edition Student Book](#new-headway-elementary-fourth-edition-student-book)
   - [Tapescripts](#tapescripts)
   - [Unit 6 Life's ups and downs](#unit-6-lifes-ups-and-downs)
     - [T6.1 Oprah - TV Star and Billionaire](#t61-oprah---tv-star-and-billionaire)
@@ -15,7 +15,7 @@ The Copyright belongs to the author
     - [T6.8 Interview with Ben Way](#t68-interview-with-ben-way)
     - [T6.9 Regular and irregular verbs](#t69-regular-and-irregular-verbs)
     - [T6.10 A biography](#t610-a-biography)
-    - [T6.11 The businessman ant the fisherman](#t611-the-businessman-ant-the-fisherman)
+    - [T6.11 The businessman and the fisherman](#t611-the-businessman-and-the-fisherman)
     - [T6.12 Describing feelings](#t612-describing-feelings)
     - [T6.13](#t613)
     - [T6.14 see p53](#t614-see-p53)
@@ -122,10 +122,19 @@ watched interviewed studied talked moved started earned opened
 ### T6.4
 
 - C Her success
-  - In 1984, Oprah moved to Chicago to work on a TV talk show called A.M. Chicago. She talked to lots of interesting people about their problems. Oprah says,'People's problems are my problems.' The show was very successful, so in 1985, it was renamed The Oprah Winfrey Show. 49 million people in 134 countries watched it every week. In 1993, she interviewed Michael Jackson and 100 million people watched the programme. Last year, she earned $260,000,000.
+  - In 1984, Oprah moved to Chicago to **work on** a TV **talk show** called A.M. Chicago. She talked to lots of interesting people about their problems. Oprah says,"People's problems are my problems." The show was very successful, so in 1985, it was renamed The Oprah Winfrey Show. 49 million people in 134 countries watched it every week. In 1993, she interviewed Michael Jackson and 100 million people watched the programme. Last year, she earned $260,000,000.
+    - Oprah Winfrey  奥普拉·温弗瑞（美国著名女脱口秀主持人）
+    - programme /ˈprəʊɡræm/ n. 计划，规划；节目；程序 vi. 编程序；制作节目 vt. 规划；拟…计划
 
-- Her charity work
-  - In 1998, Oprah started the charity Oprah's Angel Network to help poor children all over the world. In 2007, she opened a special school in Johannesburg, The Oprah Winfrey Academy for Girls. She says,'When I was a kid, we were poor and we didn't have much money. So what did I do? I studied hard.' There are 152 girls at the school, and Oprah calls them her daughters - the children she didn't have in real life.
+- Her **charity** work
+  - In 1998, Oprah started the charity Oprah's Angel Network to help poor children all over the world. In 2007, she opened a special school in Johannesburg, The Oprah Winfrey Academy for Girls. She says,"When I was a kid, we were poor and we didn't have much money. So what did I do? I studied hard." There are 152 girls at the school, and Oprah calls them her daughters - the children she didn't have in real life.
+    - charity /ˈtʃærəti/ . 慈善；施舍；慈善团体；宽容；施舍物
+    - angel /ˈeɪndʒl/ n. 天使；守护神；善人 vt. 出钱支持
+    - Johannesburg /dʒəu'hænisbə:ɡ/ n. 约翰尼斯堡（位于南非东北部）
+    - academy /əˈkædəmi/ n. 学院；研究院；学会；专科院校 复数 academies
+    - interview /ˈɪntəvjuː/ n. 接见，采访；面试，面谈 vt. 采访；接见；对…进行面谈；对某人进行面试
+      - invite /ɪnˈvaɪt/ vt. 邀请，招待；招致 n. 邀请
+      - interrupt /ˌɪntəˈrʌpt/ vt. 中断；打断；插嘴；妨碍 vi. 打断；打扰 n. 中断
 
 ### T6.5
 
@@ -202,7 +211,7 @@ cleaned received studied wanted moved talked watched interviewed opened decided
 - The multi-millionaire Ben Way
   - Ben Way is 35 years old and he runs a company called 'Rainmakers. Ben's a computer millionaire. However, he wasn't always so successful. A s a child, he was dyslexic so he didn't do well at school. He didn't read or write until he was nine and his father gave him a computer. He wrote his first software program when he was 11. He didn't go to university because at l5 he started his own company. He first became a millionaire when he was just 17. He continued to be very successful until he was 21. He won a business award in 2000, but then in 2001 he lost it all. One year later he started 'Rainmakers' nd now he's a millionaire again.
 
-### T6.11 The businessman ant the fisherman
+### T6.11 The businessman and the fisherman
 
 - SB.page 51
 - LISTENING AND READING: The meaning of life
@@ -693,6 +702,7 @@ SB p61: WRITING Telling a story p111
 - Bolognese /,bəulə'ni:z/ n. （肉馅和西红柿做成的）波隆那肉酱
 - Spaghetti Bolognese 意大利肉酱面
 - sparkling /ˈspɑːklɪŋ/ adj. 闪闪发光的，闪烁的；**起泡沫的** v. 闪耀；发出火花；**起泡沫（sparkle的ing形式）**
+  - fizzy /ˈfɪzi/ adj. 起泡沫的；嘶嘶作响的 比较级 fizzier最高级 fizziest
 - still /stɪl/ adv. 仍然；更；静止地 adj. 静止的，不动的；寂静的，平静的；**不起泡的** n. 寂静；剧照；蒸馏室 conj. 仍然；但是；尽管如此
 - tap water 自来水；非蒸馏水
 

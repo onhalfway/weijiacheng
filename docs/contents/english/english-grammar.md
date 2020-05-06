@@ -6,6 +6,9 @@
   - [现在完成时和过去完成时](#%e7%8e%b0%e5%9c%a8%e5%ae%8c%e6%88%90%e6%97%b6%e5%92%8c%e8%bf%87%e5%8e%bb%e5%ae%8c%e6%88%90%e6%97%b6)
   - [like](#like)
   - [词根2020/4/2](#%e8%af%8d%e6%a0%b9202042)
+  - [tense](#tense)
+  - [Acronym](#acronym)
+  - [adjectives with -ing or -ed](#adjectives-with--ing-or--ed)
 
 ## Personal Pronouns人称代名词
 
@@ -181,3 +184,40 @@ watched和looked的ed发音是相同的，都发t的音。
   - mammal /ˈmæml/ n. [脊椎] 哺乳动物
 - predator /ˈpredətə(r)/ n.[动] 捕食者；食肉动物；掠夺者
 - scavenger /ˈskævɪndʒə(r)/ n. 食腐动物；清道夫；[助剂]清除剂；拾荒者
+
+## tense
+
+[16种时态 tense](https://bkimg.cdn.bcebos.com/pic/fd039245d688d43f61917b67771ed21b0ef43b6f?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U5Mg==,xp_5,yp_5)
+
+## Acronym
+
+- 常见的英语缩写：
+- ICYMI= In Case You Missed It 释义： 以防万一；万一你错过了。
+- AMA – ask me anything 随便问。
+- BRB – be right back 马上回来。
+- BTW – by the way 顺便问一下。
+- FYI – for your information 仅供参考。
+- GG – good game 认输退出。
+- IDC – I don’t care 无所谓。
+- IDK – I don’t know 不知道。
+- IKR – I know right? (This is an emphatic expression of agreement.) 同意，中枪。
+- ILY – I love you 我爱你！
+- IMO – in my opinion 我认为。
+- JK – just kidding 开个玩笑。
+- LOL – laugh out loud 大声笑。
+- LMAO – Laugh my ass off 笑死我了！
+- OMG – oh my god 哦，我的天！
+- PPL – people 人们。
+- TGIF – thank God it’s Friday 感谢老天，总算到星期五了！
+- THX – thanks 谢谢！
+- TBH – to be honest 老实说。
+- WTF – what the f*ck (This is an emphatic expression of surprise or anger.) 这TMD怎么回事！
+- YOLO – you only live once 你只活一次，想做什么就做什么吧。
+
+## adjectives with -ing or -ed
+
+- adjectives with -ing are the cause of the feeling/situation
+- adjectives with -ed are the feelings of the person/animal affected
+
+Column A and Column B
+

@@ -8,7 +8,10 @@ Refer to USB disk and Net disk
 
 ---
 
-## [Elementary](./elementary/hw4e-elementary)
+## Elementary
+
+- [Elementary Student Book](./elementary/hw4e-elementary-sb)
+- [Elementary Workbook](./elementary/hw4e-elementary-wb)
 
 ### Workbook Audio
 
