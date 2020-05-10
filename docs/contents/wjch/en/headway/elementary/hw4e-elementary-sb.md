@@ -807,31 +807,63 @@ SB p61: WRITING Telling a story p111
 
 ### T8.9 What's your favourite sandwich
 
+- sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ n. 三明治（状物）；夹心面包片；（奶油）夹心蛋糕；教学与实习交替培训课程 v. 夹入（或挤进）……中间；粘合；把..……做成三明治 复数 sandwiches过去式 sandwiched过去分词 sandwiched现在分词 sandwiching第三人称单数 sandwiches
+
 - Angus
   - I come from the north of England and we often call sandwiches 'butties. My favourite butty is made with thick slices of white bread and thick slices of warm ham with hot mustard. Yes, warm ham! Mmmm, delicious. Would you like to try one?
+    - Angus /'æŋgəs/ n. 安格斯（男子名）
+    - butty /ˈbʌti/ n. （英）三明治；伙伴；监工 n. (Butty)人名；(西、匈)布蒂; 复数 butties
+    - thick /θɪk/ adj. 厚的
+    - slice /slaɪs/ n. 薄片；部分；菜刀，火铲 vt. 切下；把…分成部分；将…切成薄片 vi. 切开；割破; 复数slices /'slaɪsɪz/
+    - ham /hæm/ n. 火腿；业余无线电爱好者；蹩脚演员 vi. 表演过火 vt. 演得过火 adj. 过火的；做作的
+    - hot /hɒt/ adj. 热的；辣的；热情的；激动的；紧迫的; adv. 热；紧迫地; vi. 变热; vt. 增加；给…加温
+    - mustard /ˈmʌstəd/ n. 芥末；芥菜；深黄色；强烈的兴趣
+    - delicious /dɪˈlɪʃəs/ adj. 美味的；可口的 比较级 more delicious最高级 most delicious
 - Ulla
   - I'm from Denmark, so for me it's the open sandwich - of course, and my favourite is with beef - thin slices of beef, rare beef, with some crispy fried onions on the top. I love this!
+    - n. (Ulla)人名；(德、芬、丹、瑞典)乌拉；(西)乌利亚；(法、荷)于拉
+    - Denmark 英 /ˈdenmɑːk/  美 /ˈdenmɑːrk/ n. 丹麦（欧洲国家）
+    - open sandwich 单片三明治；外馅三明治
+    - crispy /ˈkrɪspi/ adj. 酥脆的；易碎的；干净利落的；生气勃勃的
+    - fried /fraɪd/ adj. 油炸的，油煎的；喝醉了的 v. 油炸（fry的过去分词）
 - Tom
-  - Oh, the best sandwich in the world is definitely a bacon sandwich. Hot bacon between thin slices of white bread, and with lots of tomato ketchup. Simple, and very, very tasty. There's a cafd near where I work in London, I sometimes buy one for breakfast - mm, Id like one right now.
+  - Oh, the best sandwich in the world is definitely a bacon sandwich. Hot bacon between thin slices of white bread, and with lots of tomato ketchup. Simple, and very, very tasty. There's a cafe near where I work in London, I sometimes buy one for breakfast - mm, I'd like one right now.
+    - bacon /ˈbeɪkən/ n. 咸肉；腌肉；熏猪肉
+    - bacon sandwich 培根三明治
+    - ketchup /ˈketʃəp/ n. 番茄酱
+    - tasty /ˈteɪsti/ adj. 美味的；高雅的；有趣的; n. 可口的东西；引人入胜的东西; 复数 tasties比较级 tastier最高级 tastiest
 - Marianne
   - I live in Italy so my best is Italian - a ciabatta with chopped tomatoes, mozzarella cheese - with black olives, and basil. Mozzarella's my favourite cheese and I like cooking with it, I make my own pizza.
+    - Marianne /ˌmεəri'æn/ n. 玛丽安（法兰西共和国或其政府的绰号，因以女性为其化身，故名）
+    - ciabatta /tʃəˈbætə; tʃəˈbɑːtə/ n. 拖鞋面包（意大利扁平长面包）；拖鞋三明治
+    - chopped /tʃɒpt/ 切碎的; chop的过去分词
+    - mozzarella /ˌmɒtsəˈrelə/ n. 马苏里拉奶酪 复数 mozzarelle
+    - basil 英 /ˈbæzl/ 美 /ˈbeɪzl/ n. 罗勒属植物（用于调味）；斜刃面; 复数 basils
+    - olive /ˈɒlɪv/ n. 橄榄；橄榄树；橄榄绿；adj. 橄榄绿的；（面色、肤色）黄棕色的
+    - pizza /ˈpiːtsə/ n. 比萨饼（一种涂有乳酪和番茄酱的意大利式有馅烘饼）
 - John
   - I was in Turkey by the sea, and a fisherman called to me 'Come, try a 'Balik Ekmek.' I think this means 'fish in bread'. He gave me a sandwich - it was fresh mackerel grilled and in a bread roll with raw onions. Fabulous!
+    - Turkey /ˈtɜːki/ 土耳其; 火鸡; 火鸡肉
+    - mackerel /ˈmækrəl/ n. 鲭（产于北大西洋）；马鲛鱼; 复数 mackerel或mackerels
+    - grill /ɡrɪl/ n. 烤炉；烤架；烧烤的菜肴（尤指烤肉）；烧烤店；（门或窗的）护栏；金属格栅 v. （在烤架上）炙烤；（非正式）严厉盘问
+    - roll 卷 with
+    - onion /ˈʌnjən/ n. 洋葱；洋葱头; 复数 onions
+    - fabulous /ˈfæbjələs/ adj. 难以置信的；传说的，寓言中的；极好的
 
 ### T8.10 Daily needs
 
-- aspirin
+- aspirin /ˈæsprɪn; ˈæspərɪn/ n. 阿司匹林（解热镇痛药）
 - chocolate
 - notebook
 - scissors
 - adaptor
 - envelopes
-- plasters
-- sellotape
-- toothpaste
-- shampoo
-- batteries
-- screwdriver
+- plasters n. 膏药（plaster /ˈplɑːstə(r)/ 的复数形式）；石膏
+- sellotape /ˈseləteɪp/ n. 透明胶带，塑料胶带（商标名称）
+- toothpaste /ˈtuːθpeɪst/ n. 牙膏
+- shampoo /ʃæmˈpuː/ n. 洗发；洗发精 vt. 洗发
+- batteries /'bætəris/ n. [电] 电池（battery的复数形式）
+- screwdriver /ˈskruːdraɪvə(r)/ n. 螺丝刀
 - magazine
 - newspaper
 

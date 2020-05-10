@@ -47,7 +47,7 @@ Refer to USB disk and Net disk
 
 ---
 
-## resource site
+## Resource Sites
 
 - [Headway Student's Site](https://elt.oup.com/student/headway/?cc=cn&selLanguage=zh)
 - partial Headway learning resources in lib path
