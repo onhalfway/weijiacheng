@@ -44,6 +44,7 @@ The Copyright belongs to the author
     - [T8.6](#t86)
     - [T8.7 Eating in](#t87-eating-in)
     - [T8.8 much or many?](#t88-much-or-many)
+    - [Reading: The History of the Sandwich](#reading-the-history-of-the-sandwich)
     - [T8.9 What's your favourite sandwich](#t89-whats-your-favourite-sandwich)
     - [T8.10 Daily needs](#t810-daily-needs)
     - [T8.11 Shopping in the High Street](#t811-shopping-in-the-high-street)
@@ -805,6 +806,34 @@ SB p61: WRITING Telling a story p111
   - A How much time do you need for this exercise?
   - B Two more minutes.
 
+### Reading: The History of the Sandwich
+
+- Page 66
+- 1st Century BC to the eighteenth Century
+- 1st Century BC
+  - A famous rabbi, Hillel the Etder, made the first recorded sandwich. He mixed some nuts, apples, and spices with some wine, and put it between two matzohs (pieces of flat bread).
+    - spice /spaɪs/ n. **香料**；情趣；**调味品**；少许
+    - matzoh 英 /ˈmætsəʊ/ n. (犹太人在逾越节吃的)未发酵的面包=matzo.
+- 6th - 16th Century
+  - People used bread as plates. They put meat and vegetables onto some bread and ate with their fingers. These were the first open sandwiches, and they called them 'trenchers'.
+    - trencher /ˈtrentʃə(r)/ n. 挖沟者；**木盘**；战壕兵 adj. 木制食盘的；有关膳食的
+- 18th Century
+  - The name 'sandwich' first appeared. An Englishman, John Montague (1718-1792), the Fourth Earl of *Sandwich, liked to eat and gamble at London's Beef Steak Club. Sometimes he stayed 24 hours at the gaming table. He was hungry, but he didn't want to stop gambling, so the chefs from the club put some beef between two pieces of bread, and he ate while he gambled. This new meal became very fashionable **with** other men in the club, and they called it the 'sandwich' after the Earl.
+    - earl /ɜːl/ n. (英)伯爵
+    - *Sandwich is a town in the South of England.
+    - gamble /ˈɡæmbl/ v. 赌博；打赌；冒险，投机；孤注一掷；冒险假设 n. 冒险；赌博；打赌
+- Nineteenth Century to the twenty-first Century
+- 19th Century
+  - An American writer, Eliza Leslie, introduced sandwiches to America. In 1837, she wrote a cookbook, 'Directions for Cookery'. In it she had a recipe for ham sandwiches:'Cut some thin slices of bread and ham. Butter the bread and put the ham between two slices with some mustard. Eat for lunch or supper'. Americans loved them.
+    - Eliza /i'laizə/ n. 伊莱扎（女子名，Elizabeth的昵称）
+    - Leslie /'lɛz/ n. 莱斯利（男子名）
+- 20th - 21st Century
+  - Sandwiches became very popular indeed. They were easy to make and they were a wonderful, cheap, portable meal for workers and school children.
+- Did you know...?
+  - The 'Dagwood' sandwich is the sandwich to top all sandwiches. It is enormous! Name after the American cartoon character Dagwood Bumstead, it is made with a great many layers of meat, cheese, tomatoes, egg, salad, and vegetabtes.
+    - dagwood /'dægwud/ n. 多层三明治；多层夹肉面包
+    - character /ˈkærəktə(r)/ n. 性格，品质；特性；角色；[计] 字符
+
 ### T8.9 What's your favourite sandwich
 
 - sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ n. 三明治（状物）；夹心面包片；（奶油）夹心蛋糕；教学与实习交替培训课程 v. 夹入（或挤进）……中间；粘合；把..……做成三明治 复数 sandwiches过去式 sandwiched过去分词 sandwiched现在分词 sandwiching第三人称单数 sandwiches
@@ -818,7 +847,7 @@ SB p61: WRITING Telling a story p111
     - ham /hæm/ n. 火腿；业余无线电爱好者；蹩脚演员 vi. 表演过火 vt. 演得过火 adj. 过火的；做作的
     - hot /hɒt/ adj. 热的；辣的；热情的；激动的；紧迫的; adv. 热；紧迫地; vi. 变热; vt. 增加；给…加温
     - mustard /ˈmʌstəd/ n. 芥末；芥菜；深黄色；强烈的兴趣
-    - delicious /dɪˈlɪʃəs/ adj. 美味的；可口的 比较级 more delicious最高级 most delicious
+    - delicious /dɪˈlɪʃəs/ adj. 美味的；可口的; 比较级 more delicious; 最高级 most delicious
 - Ulla
   - I'm from Denmark, so for me it's the open sandwich - of course, and my favourite is with beef - thin slices of beef, rare beef, with some crispy fried onions on the top. I love this!
     - n. (Ulla)人名；(德、芬、丹、瑞典)乌拉；(西)乌利亚；(法、荷)于拉
