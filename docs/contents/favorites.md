@@ -110,6 +110,7 @@ Refer to Tencent Docs
 - [downloader](https://www.internetdownloadmanager.com/)
 - [downloader](https://www.bittorrent.com)
 - [downloader](https://www.bitcomet.com)
+- [Motrix A full-featured download manager](https://motrix.app/)
 - [DownThemAll-Firefox add-on/Chrome extension]()
 - [Video Downloader Professional]()
 - [PotPlayer for Windows]()

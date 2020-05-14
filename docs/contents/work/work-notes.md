@@ -6,6 +6,7 @@
   - [tools](#tools)
   - [常见 DNS 记录的类型](#%e5%b8%b8%e8%a7%81-dns-%e8%ae%b0%e5%bd%95%e7%9a%84%e7%b1%bb%e5%9e%8b)
   - [Oracle WiFi Hotspot AP Access Point](#oracle-wifi-hotspot-ap-access-point)
+  - [Acronym](#acronym)
 
 ## 十大ISP服务商分为
 
@@ -22,11 +23,11 @@
 
 ## MacOS
 
-MacOS->VS Code->Terminal
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-localhost:mypython kehuawei$
+- MacOS->VS Code->Terminal
+- The default interactive shell is now zsh.
+- To update your account to use zsh, please run `chsh -s /bin/zsh`.
+- For more details, please visit https://support.apple.com/kb/HT208050.
+- localhost:mypython kehuawei$
 
 ## tools
 
@@ -42,33 +43,33 @@ localhost:mypython kehuawei$
 
 ## [常见 DNS 记录的类型](https://www.imooc.com/article/26971?block_id=tuijian_wz)
 
-类型: 目的
-A: 地址记录，用来指定域名的 IPv4 地址，如果需要将域名指向一个 IP 地址，就需要添加 A 记录。
-AAAA: 用来指定主机名(或域名)对应的 IPv6 地址记录。
-CNAME: 如果需要将域名指向另一个域名，再由另一个域名提供 ip 地址，就需要添加 CNAME 记录。
-MX: 如果需要设置邮箱，让邮箱能够收到邮件，需要添加 MX 记录。
-NS: 域名服务器记录，如果需要把子域名交给其他 DNS 服务器解析，就需要添加 NS 记录。
-SOA: SOA 这种记录是所有区域性文件中的强制性记录。它必须是一个文件中的第一个记录。
-TXT: 可以写任何东西，长度限制为 255。绝大多数的 TXT记录是用来做 SPF 记录(反垃圾邮件)。
+- 类型: 目的
+- A: 地址记录，用来指定域名的 IPv4 地址，如果需要将域名指向一个 IP 地址，就需要添加 A 记录。
+- AAAA: 用来指定主机名(或域名)对应的 IPv6 地址记录。
+- CNAME: 如果需要将域名指向另一个域名，再由另一个域名提供 ip 地址，就需要添加 CNAME 记录。
+- MX: 如果需要设置邮箱，让邮箱能够收到邮件，需要添加 MX 记录。
+- NS: 域名服务器记录，如果需要把子域名交给其他 DNS 服务器解析，就需要添加 NS 记录。
+- SOA: SOA 这种记录是所有区域性文件中的强制性记录。它必须是一个文件中的第一个记录。
+- TXT: 可以写任何东西，长度限制为 255。绝大多数的 TXT记录是用来做 SPF 记录(反垃圾邮件)。
 
 ## Oracle WiFi Hotspot AP Access Point
 
 - [windows system proxy for socks address](http://socks=127.0.0.1)
 - IE setting: http=localhost:1080;https=localhost:1080;ftp=localhost:1080;socks=localhost:1080
-Windows不支持socks5代理，只支持socks4/4a代理，放弃吧……用chrome+switchyomega或者firefox
+- Windows不支持socks5代理，只支持socks4/4a代理，放弃吧……用chrome+switchyomega或者firefox
 - [如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）](https://program-think.blogspot.com/2019/04/Proxy-Tricks.html)
 - [System proxy proxifier](https://www.proxifier.com/)
-L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C (Portable Edition)
-5EZ8G-C3WL5-B56YG-SCXM9-6QZAP (Standard Edition)
-P427L-9Y552-5433E-8DSR3-58Z68 (MAC)
+  - L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C (Portable Edition)
+  - 5EZ8G-C3WL5-B56YG-SCXM9-6QZAP (Standard Edition)
+  - P427L-9Y552-5433E-8DSR3-58Z68 (MAC)
 
-Rule:
-~~Localhost: localhost; 127.0.0.1; %ComputerName%; ::1~~
-proxy: 140.238.11.194:22;
+- Rule:
+- ~~Localhost: localhost; 127.0.0.1; %ComputerName%; ::1~~
+- proxy: 140.238.11.194:22;
 
-Under Windows 10 System Proxy is disabled and proxifier checker testing www.google.com:80 passed:
-Chrome V78 SwitchyOmega direct don't use proxifier as proxy, seems connect by itself.
-Firefox V71 SwitchyOmega direct/System Proxy do use proxifier as proxy and can access most website, but receive:
+- Under Windows 10 System Proxy is disabled and proxifier checker testing www.google.com:80 passed:
+- Chrome V78 SwitchyOmega direct don't use proxifier as proxy, seems connect by itself.
+- Firefox V71 SwitchyOmega direct/System Proxy do use proxifier as proxy and can access most website, but receive:
 
 ```log
 firefox.exe *64 - www.google.com:443 error : Could not connect through proxy 127.0.0.1:1080 - Proxy closed the connection unexpectedly.
@@ -87,6 +88,7 @@ firefox.exe *64 - r6---sn-n4v7sn7y.googlevideo.com:443 open through proxy 127.0.
 [12.10 09:32:11] firefox.exe *64 - ocsp.pki.goog:80 close, 1214 bytes (1.18 KB) sent, 2105 bytes (2.05 KB) received, lifetime 03:39
 ```
 
+```txt
 If asking as developer there are lot of ways to do this.
 
     You can hook all winsocket functions in all applications and wrote your own app to route them through a socks proxy.
@@ -102,8 +104,9 @@ But from user perspective you can use:
     Applications which control winsocket using LSP like Proxifier (Commercial) http://www.proxifier.com/
 
     Using OpenVPN Tap Adapter to create a virtual TAP adapter along with Tun2Socks to redirect traffics to a socks proxy and routing table to send traffics to adapter. (Completely Open Source) http://code.google.com/p/badvpn/wiki/tun2socks
+```
 
-```git-bash
+```bash
 $ nslookup www.google.com
 $ curl --socks5-hostname 127.0.0.1:1080 www.baidu.com
 $ curl --socks5-hostname 127.0.0.1:1080 www.google.com
@@ -335,3 +338,8 @@ PS C:\WINDOWS\system32> netsh wlan show hostednetwork
 
 PS C:\WINDOWS\system32>
 ```
+
+## Acronym
+
+- SCIM: System for Cross-domain Identity Management
+- Application Binary Interface，ABI

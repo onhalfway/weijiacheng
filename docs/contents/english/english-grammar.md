@@ -177,6 +177,7 @@ watched和looked的ed发音是相同的，都发t的音。
 ## 词根2020/4/2
 
 - herbivore /ˈhɜːbɪvɔː(r)/ n. [动] 食草动物 N. an animal that feeds on plants. (注意词根herb意思)
+  - vegetarian /ˌvedʒəˈteəriən/ n. 素食主义者；食草动物 adj. 素食的；素的
 - carnivore /ˈkɑːnɪvɔː(r)/ n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
 - biped /ˈbaɪped/ adj. 有两足的 n. 两足动物 an animal that uses two legs for walking
 - quadruped /ˈkwɒdruped/ n. [脊椎] 四足动物 adj. 有四足的 an animal which has four feet, especially an ungulate mammal

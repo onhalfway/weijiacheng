@@ -50,6 +50,7 @@ The Copyright belongs to the author
     - [T8.11 Shopping in the High Street](#t811-shopping-in-the-high-street)
     - [T8.12 see p69](#t812-see-p69)
     - [T8.13 Sounding polite](#t813-sounding-polite)
+    - [Unit 8 TWOE MAILS - Inform了and more formal](#unit-8-twoe-mails---inform%e4%ba%86and-more-formal)
   - [Unit 9 City living](#unit-9-city-living)
     - [T9.1 City living](#t91-city-living)
     - [T9.2 see p70](#t92-see-p70)
@@ -641,15 +642,19 @@ SB p61: WRITING Telling a story p111
 
 - pasta 英 /ˈpæstə/  美 /ˈpɑːstə/ n. 意大利面食；面团
 - broccoli /ˈbrɒkəli/ n. 花椰菜；西兰花
+- peas n. [作物] 豌豆（pea /piː/ 的复数） 
+- raspberry, mulberry, strawberry
 
 ### T8.2 Who's a fussy eater?
 
 - fussy /ˈfʌsi/ adj. 爱挑剔的，难取悦的；易烦恼的
+- fussy eater挑食的人
 
 - D=Duncan N=Nick
 - N Oh, good, we have some tomatoes.
 - D Sorry Nick. I don't like them.
 - N Come on Duncan! Tomatoes are good for you. I didn't like them much when I was a child, but I love them now.
+  - be good for 对...有好处
 - D Hmm - I didn't like a lot of things when I was a kid.
 - N Ah - you were a fussy eater! What didn't you like?
 - D I didn't like any green vegetables.
@@ -657,15 +662,19 @@ SB p61: WRITING Telling a story p111
 - D Only potatoes. I loved chips.
 - N What about fruit? Did you like fruit?
 - D I liked some fruit, but not all. I didn't like bananas. I liked fruit juice. I drank a lot of apple juice.
+  - fruit juice 果汁
 - N And now you drink beer and wine!
 - D Yeah - and coffee. But I didn't like coffee or tea when I was a kid.
+  - not...or...
 - N So what were your favourite foods?
 - D I liked ice-cream, chocolate, crisps, biscuits, especially chocolate biscuits. -er- you know, I liked all the usual things kids like.
 - N All the unhealthy things!
 - D I liked pasta too. Pasta with tomato sauce. I love that!
+  - tomato sauce 番茄酱
 - N Tomato sauce!? But you don't like tomatoes.
 - D Tomato sauce is different. Hey, let's not eat in tonight. Let's go out to Romano's.
 - N Romano's - a great idea! It's my favourite Italian restaurant.
+  - Italian restaurant 意大利餐厅
 
 - Who is the fussy eater?
   - Duncan is the fussy eater.
@@ -687,10 +696,13 @@ SB p61: WRITING Telling a story p111
 
 - W=Waitress D=Duncan N=Nick
 - W Good evening, guys. Are you ready to order?
+  - be ready to order 准备好点餐
 - D I think we are. What would you like, Nick?
+  - would like sth. 想要
 - N Pasta, of course. I love pasta. I'd like the spaghetti Bolognese.
 - D Same for me, please. I really like spaghetti.
 - W Great! And would you like the wine list?
+  - wine list酒单
 - D No, thanks. Just a glass of **red** for me. Would you like some wine, Nick?
 - N Yes, but I don't like **red wine**. I'd like a glass of **dry white**, if that's OK.
 - W That's fine.
@@ -732,6 +744,7 @@ SB p61: WRITING Telling a story p111
 
 - 1 What kind of wine do you like?
 - 2 Would you like a cheese and ham sandwich?
+  - cheese and ham sandwich 芝士火腿三明治
 - 3 Who's your favourite author?
 - 4 What do you want for your birthday?
 - 5 Do you have any pets?
@@ -779,6 +792,22 @@ SB p61: WRITING Telling a story p111
 - D Id like that. I hope the girls like Cottage Pie.
 - N Everyone likes Cottage Pie!
 
+- recipe  /ˈresəpi/ n. 食谱; 处方
+- cottage pie 上面铺一层捣碎的马铃薯的肉饼；农家肉馅派
+- mince  /mɪns/ v.  剁碎; 绞碎; 用绞肉机绞
+- thyme /taɪm/ n.（用以调味的）百里香
+- g = gram 克
+- ml = milliliter n. 毫升
+- tbsp = tablespoon  n. 汤匙；一餐匙的量
+- herb n. 香草；药草
+  - herbivore /ˈhɜːbɪvɔː(r)/ n. [动] 食草动物 N. an animal that feeds on plants. (注意词根herb意思)
+  - carnivore /ˈkɑːnɪvɔː(r)/ n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
+- ovenproof adj. 耐热的
+- stock cube 浓缩固体汤料
+- grated adj. 搓碎的
+- season v. 调味
+
+
 ### T8.8 much or many?
 
 - 1
@@ -787,6 +816,7 @@ SB p61: WRITING Telling a story p111
 - 2
   - A How much yoghurt do we have left?
   - B Not a lot. Just one strawberry and one raspberry.
+    - raspberry 英 /ˈrɑːzbəri/  美 /ˈræzberi/ n. 覆盆子；木莓（树）；舌头放在唇间发出的声音；（表示轻蔑，嘲笑等的）咂舌声
 - 3
   - A How many people were at the wedding?
   - B About 150.
@@ -812,6 +842,7 @@ SB p61: WRITING Telling a story p111
 - 1st Century BC to the eighteenth Century
 - 1st Century BC
   - A famous rabbi, Hillel the Etder, made the first recorded sandwich. He mixed some nuts, apples, and spices with some wine, and put it between two matzohs (pieces of flat bread).
+    - rabbi /ˈræbaɪ/ n. 拉比（犹太人的学者）；法师；犹太教律法专家；先生
     - spice /spaɪs/ n. **香料**；情趣；**调味品**；少许
     - matzoh 英 /ˈmætsəʊ/ n. (犹太人在逾越节吃的)未发酵的面包=matzo.
 - 6th - 16th Century
@@ -819,9 +850,11 @@ SB p61: WRITING Telling a story p111
     - trencher /ˈtrentʃə(r)/ n. 挖沟者；**木盘**；战壕兵 adj. 木制食盘的；有关膳食的
 - 18th Century
   - The name 'sandwich' first appeared. An Englishman, John Montague (1718-1792), the Fourth Earl of *Sandwich, liked to eat and gamble at London's Beef Steak Club. Sometimes he stayed 24 hours at the gaming table. He was hungry, but he didn't want to stop gambling, so the chefs from the club put some beef between two pieces of bread, and he ate while he gambled. This new meal became very fashionable **with** other men in the club, and they called it the 'sandwich' after the Earl.
+    - Montague /'mɔntəɡju:/ n. 蒙塔古（男子名）
     - earl /ɜːl/ n. (英)伯爵
     - *Sandwich is a town in the South of England.
     - gamble /ˈɡæmbl/ v. 赌博；打赌；冒险，投机；孤注一掷；冒险假设 n. 冒险；赌博；打赌
+    - call/name sth after sb 以某人的名字给 (某物/某地/某人)命名
 - Nineteenth Century to the twenty-first Century
 - 19th Century
   - An American writer, Eliza Leslie, introduced sandwiches to America. In 1837, she wrote a cookbook, 'Directions for Cookery'. In it she had a recipe for ham sandwiches:'Cut some thin slices of bread and ham. Butter the bread and put the ham between two slices with some mustard. Eat for lunch or supper'. Americans loved them.
@@ -937,6 +970,38 @@ SB p61: WRITING Telling a story p111
 - A No problem.
 - B Can I have some honey with the toast?
 - A Sure. Take a seat, and I'll brine it over.
+
+- have in  在餐馆进餐
+- take away  外带进餐
+- croissant /kwɑːˈsɑːnt,krəˈsɑːnt/ n.羊角面包
+
+
+### Unit 8 TWOE MAILS - Inform了and more formal
+
+- Page 112
+- Hi Duncan.
+- Thanks for last weekend. It was really great. The meal was fantastic - didn't know you could cook! Just kidding ;-) Email me the recipe. I'd like to make c ottage pie for my friends here - they're always starving hungry!
+- The journey was sooooooooooo long and boring - the coach stopped at a motorway service station where I had a disgusting cheeses andwich and a cold coffee.Yuk!
+  - motorway /ˈməʊtəweɪ/ n. 高速公路，汽车高速公路
+  - disgusting /dɪsˈɡʌstɪŋ/ adj. 令人厌恶的; 令人极不能接受的
+  - Yuk /jʌk/ n. 引起大笑的趣事；（因有趣而发出的）咯咯大笑
+- I slept for the rest of the journey - not surprising really - we did dance ALL night! House Rules was a brilliant club, but going to bed at 4 and getting up at 8 to go back to Edinburgh was awful! You're a star for getting up early to take me to the coach station!
+- Everyone here is worried about the exams. They start next week, like yours. It was good to forget about them for the weekend! I miss you a lot. Come and visit me soon - it's cheap on the coach.
+- Can't wait to see you again. Email me, or send a text.
+- Lots of love
+- Sal xxxx
+
+- Page 113
+- Dear Mr and Mrs Owen.
+- I'd like to thank you so much for having me to stay last weekend. I had a really lovely time, and I was so pleased to meet you at last. The meal you made was delicious. Duncan told me that his mother was an excellent cook - and he was right. I also enjoyed our walk - the countryside and woods near your house are beautiful.
+- The journey back was long and I slept for most of the way. lt was very kind of you to drive me to the station so early in the morning. I was very grateful!
+- It's good to be back at university. I have a lot of work at the moment before the exams start. I know Duncan has exams too, so we can't see each other until the end of June - we are just too busy!
+- I'd love to visit again in the summer holidays with Duncan.
+- Thank you again for everything.
+- Best wishes,
+- Sally
+
+- It is very kind of you to Vb “你/您能够…真的太好了。”
 
 ## Unit 9 City living
 
@@ -1488,6 +1553,8 @@ I What a pity! It's going to rain. He cant play tennis.
 
 - 1 Elsa from Birmingham, England
   - OK, I've been to Glastonbury five times now. My highlights this year were: pear cider to drink, and the American diner van with the best sausages and chips ever. However, I was very disappointed with the music on Saturday night. Dls played House music all night. I love House but this was rubbish. I got really bored, so I went back to my tent to finish a bottle of pear cider with friends!
+    - cider /ˈsaɪdə(r)/ n. 苹果酒；苹果汁; 复数 ciders
+    - Pear Cider 梨酒, 青梨苹果酒, 梨子酒
 
 - 2 Daniel Evans from Wales
   - Last Wednesday at 2.30 in the afternoon, I decided that I wanted to go to Glastonbury. I was lucky! I found a ticket on the Glastonbury message boards. I'm so glad I went. The music was brilliant. Sometimes it took a long time to get to the stages.The queues were long but always friendly. In the busy "real world" it's difficult to have good conversations with people. At Glastonbury you can do this. It's a great festival, with a great crowd of people. What more could you want? 100,000 friendly people. I wish the rest of life was the same! Four days out of 365 is a good start!

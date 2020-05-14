@@ -21,8 +21,8 @@
     - well done 全熟; medium well 七分度熟; medium 五分熟; medium rare 四分熟; rare 三分熟; Blue 近生牛排; Raw 全生牛排
     - How would you like your steak cooked? 你的牛排要几版分熟？
     - I'd like a ribeye done medium rare. 我要肋眼牛排，四分熟.
-    - I'll have a well-done sirloin steak, please. 我要沙朗牛排，全熟，谢谢权！
-- 美国就餐规则一般是，先上starter&appetizer /ˈæpɪtaɪzə(r)/ 开胃盘，一般多是油腻小品，本人吃个开胃盘就饱了，后上main course 正餐，特点，量大，多肉类，最后吃完后，还会有花样dessert, 甜品，冰激凌，蛋糕，奶酪和巧克力最火。
+    - I'll have a well-done sirloin steak, please. 我要沙朗牛排，全熟，谢谢！
+- 美国就餐规则一般是，先上starter&appetizer /ˈæpɪtaɪzə(r)/ 开胃盘，一般多是油腻小品，本人吃个开胃盘就饱了，后上main course 正餐，特点，量大，多肉类，最后吃完后，还会有花样dessert 甜品，冰激凌，蛋糕，奶酪和巧克力最火。
 
 - Is there a table free? 有空位吗?
 - Is this seat taken? 这座位有人吗？
@@ -84,15 +84,32 @@
 
 ## 8.9 The chef who can't eat his own food
 
+- Page 52
 - A chef with a fear of food eats only biscuits.
 
 - ANDREW FORSTER is a chef in an Italian restaurant in the north of England.
-- He makes delicious food - fish dishes, sauces, pasta, and desserts - but he can't eat any of it. He has a fear of food . 'When I was 18 months old I stopped eating,' says Andrew, the 27-year-old chef at the Sale Pepe Restaurant in County Durham. 'Doctors told my mother to give me nothing to see what I would eat, but I only ate biscuits.'
+- He makes delicious food - fish dishes, sauces, pasta, and desserts - but he can't eat any of it. He has a fear of food. 'When I was 18 months old I stopped eating,' says Andrew, the 27-year-old chef at the Sale Pepe Restaurant in County Durham. 'Doctors told my mother to give me nothing to see what I would eat, but I only ate biscuits.'
+  - durham 英[ˈdʌrəm] 美[ˈdɜrəm] 【体】打滚; 杜伦大学（Durham University），又称达勒姆大学，世界百强名校，在英国国内多个大学排名中长期处于前6名
+  - county 英[ˈkaʊnti] 美[ˈkaʊnti] n.	(英国、爱尔兰的) 郡; (美国的) 县; adj.	典型英国上流社会人物的; 世家子弟的;
 - He eats two packets of biscuits a day and sometimes some toast, some crisps, and some cereal for breakfast. 'If I just think of eating other food, I feel anxious, then I feel sick.'
+  - cereal 英[ˈsɪəriəl] n.	谷类植物; 谷物; (常加牛奶作早餐用的) 谷类食物; 麦片;
+  - anxious /ˈæŋkʃəs/ adj. 焦虑的；担忧的；渴望的；急切的
 - Andrew trained for years to be a chef. 'I know exactly what foods go well together. When I'm in my kitchen and I make something, I think 'Mmm! This smells delicious!' I'd love to taste what I cook, but I can't,' he says. 'Other chefs tell me if it needs more salt or more sugar.'
+  - 我很清楚什么食物配在一起最好吃。
 - This fear makes life difficult for Andrew and his girlfriend, Caroline Lister. 'We can't go out for meals with friends,' she says. 'And we can't go to friends' weddings either. Andrew would like to eat everything like other people, but it's not possible.'
+  - Caroline /'kærəlɪn/ n. 凯若琳（女子名）
+  - lister /'lɪstə/ n. 双臂开沟犁，双耕犁；制表人 n. (Lister) （美、英、加、澳）利斯特（人名）
 - Andrew appeared on a TV programme called Freaky Eaters. He is now getting help from a psychologist and a food expert to help him try different foods.
-- Also on the programme was a man who only likes eating meat. Unfortunately, his girlfriend is a vegetarian. He can't kiss her unless he brushes his teeth. Other people include a man who doesn't like eating hot food, a woman who only likes eating chips, and a boy who lives on iam sandwiches.
+  - appear /əˈpɪə(r)/ vi. 出现；显得；似乎；出庭；登场
+  - freaky /ˈfriːki/ adj. 畸形的；捉摸不定的（等于freakish）
+    - fussy eater 挑食的人
+  - psychologist /saɪˈkɒlədʒɪst/ n. 心理学家，心理学者
+- Also on the programme was a man who only likes eating meat. Unfortunately, his girlfriend is a vegetarian. He can't kiss her unless he brushes his teeth. Other people include a man who doesn't like eating hot food, a woman who only likes eating chips, and a boy who lives on jam sandwiches.
+  - vegetarian /ˌvedʒəˈteəriən/ n. 素食主义者；食草动物 adj. 素食的；素的
+    - herbivore /ˈhɜːbɪvɔː(r)/ n. [动] 食草动物 N. an animal that feeds on plants. (注意词根herb意思)
+    - carnivore /ˈkɑːnɪvɔː(r)/ n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
+    - scavenger /ˈskævɪndʒə(r)/ n. 食腐动物；清道夫；[助剂]清除剂；拾荒者
+  - live /lɪv; laɪv/ on vi. 以...为食；靠...生活
 
 ## Going to a restaurant (Chaowai)
 
