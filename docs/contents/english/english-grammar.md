@@ -9,6 +9,8 @@
   - [tense](#tense)
   - [Acronym](#acronym)
   - [adjectives with -ing or -ed](#adjectives-with--ing-or--ed)
+    - [Compare Column A and B](#compare-column-a-and-b)
+    - [Complete the following sentences with correct words.](#complete-the-following-sentences-with-correct-words)
 
 ## Personal Pronouns人称代名词
 
@@ -220,5 +222,27 @@ watched和looked的ed发音是相同的，都发t的音。
 - adjectives with -ing are the cause of the feeling/situation
 - adjectives with -ed are the feelings of the person/animal affected
 
-Column A and Column B
+### Compare Column A and B
+
+|Column A | Column B|
+|---|---|
+|1 She is shocked to find mayonnaise in her hot dog.|2 A hot dog with mayonnaise on it is shocking.|
+|3 I was confused by the judge.|4 The judge was confusing.|
+|5 John is tired after a long day at work.|6 A long way at work is tiring.|
+|7 We were excited to play extreme sports.|8 Extreme sports are exciting.|
+|9 My grandmother is bored.|10 My grandmother is boring.|
+|||
+
+### Complete the following sentences with correct words.
+
+- I love listening to (~~relaxed/~~relaxing) music at home.
+- I was very (bored~~/boring~~) in class yesterday.
+- That test was very (~~challenged/~~challenging)
+- Action movies are (exciting~~/excited~~).
+- My friend was (entertained~~/entertaining~~) when she watched the show.
+- I'm very (disappointed~~/disappointing~~) with my results.
+- I read some (startling~~/startled~~) statistics recently.
+- I saw an (amazing~~/amazed~~) concert recently.
+- I'm so (frustrated~~/frustrating~~) with my stupid husband!
+- English is a very (interesting~~/interested~~) language!
 
