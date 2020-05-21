@@ -11,7 +11,11 @@
   - [adjectives with -ing or -ed](#adjectives-with--ing-or--ed)
     - [Compare Column A and B](#compare-column-a-and-b)
     - [Complete the following sentences with correct words.](#complete-the-following-sentences-with-correct-words)
-  - [](#)
+  - [Countable and Uncountable (also non-count) noun](#countable-and-uncountable-also-non-count-noun)
+  - [2020-05-20 testing](#2020-05-20-testing)
+    - [Single Choice](#single-choice)
+    - [Cloze](#cloze)
+    - [Reading](#reading)
 
 ## Personal Pronouns人称代名词
 
@@ -126,21 +130,14 @@
 
 ![International Phonetic Alphabet Symbols](../International&#32;Phonetic&#32;Alphabet&#32;Symbols.png)
 
-watched和looked的ed发音是相同的，都发t的音。
-
-加ed以后的发音有如下三种：
-
-1、以清辅音结尾，[p][t][k][f][s][h]等字母结尾的单词＋ed是发[ t ]音
-
-如：helped, washed, watched, marked, finished, stopped, skipped, cooked, worked等
-
-2、以浊辅音结尾，[g][v][z][r][m][n]等字母后和元音后＋ed读[d]
-
-如：cleaned, played, prepared等
-
-3、在[t][d]后读[id]
-
-如：painted, started, visited等
+- watched和looked的ed发音是相同的，都发t的音。
+- 加ed以后的发音有如下三种：
+  - 1、以清辅音结尾，[p][t][k][f][s][h]等字母结尾的单词＋ed是发[ t ]音
+    - 如：helped, washed, watched, marked, finished, stopped, skipped, cooked, worked等
+  - 2、以浊辅音结尾，[g][v][z][r][m][n]等字母后和元音后＋ed读[d]
+    - 如：cleaned, played, prepared等
+  - 3、在[t][d]后读[id]
+    - 如：painted, started, visited等
 
 ## 现在完成时和过去完成时
 
@@ -247,4 +244,74 @@ watched和looked的ed发音是相同的，都发t的音。
 - I'm so (frustrated~~/frustrating~~) with my stupid husband!
 - English is a very (interesting~~/interested~~) language!
 
-## 
+## Countable and Uncountable (also non-count) noun
+
+- 可数: biscuit；cookie；spice；cake; ingredient
+  - Is cake countable or uncountable?
+    - If you are talking about part of an object, the noun is often uncountable。
+    - cakes. You are talking about two whole cakes, so the noun 'cake' is countable.
+- 不可数: broccoli；pasta；bread；toast；yoghurt；cheese；butter；petrol
+  - Why is bread a Noncount noun?
+    - Bread and meat are uncountable nouns because they are "mass nouns", i.e. they can't be divided into single units (we can't say one bread, two meats). To do so we have to use another type of nouns called Partitive nouns (a kilo of meat, a loaf of bread).
+
+## 2020-05-20 testing
+
+### Single Choice
+
+- What () your sister () **this Saturday**? Something special, because it's her birthday.
+  - A. are...going to do     [√]B. is...going to do    C. does...do     [×]D. did...do
+- David () at home when I called at seven o'clock yesterday evening?
+  - [×]A. didn't     B. doesn't      [√]C. wasn't      D. isn't
+
+### Cloze
+
+- [Mother's Day](https://wenku.baidu.com/view/c6054d0e3968011ca3009175.html)
+- means /miːnz/ n. 手段；方法；财产 v. 意思是；打算（mean的第三人称单数） 
+  - But the price - five dollars - was far beyond his means.
+- feed and clothe 供吃穿
+  - His mother, Dora, tried hard to feed and clothe their five children.
+  - She was on her own with two kids to feed and clothe. 她独自一人要供两个孩子吃穿。
+- shopkeeper 店主、老板
+- Reuben respectfully touched his worn cap. 鲁宾恭恭敬敬地碰了碰他那顶破帽子。
+  - respectfully /rɪˈspektfəli/ adv. 尊敬地
+  - worn /wɔːn/ adj. 疲倦的；用旧的 v. 穿；磨损（wear的过去分词）；佩戴
+- Hearing the sound of hammering from a side street 听到从小巷传来的敲击声
+- He ran towards the sound and stopped at a construction site (建筑工地).
+- The shadows were lengthening 影子拉长
+- Why do you need this money so **badly**? 你为什么这么需要这点儿钱？
+  - badly adv. **非常，很**；严重地，厉害地；恶劣地
+    - want/need sth. badly 非常需要
+  - hurriedly /ˈhʌrɪdli/ adv. 匆忙地；仓促地
+  - immediately adv. 立即，立刻；直接地; conj. 一…就
+- head for 前往；出发；取向于
+  - Clutching the can tightly, Reuben **headed for** the shop.
+    - clutch /klʌtʃ/ v. 紧握；（因害怕或痛苦）突然抓住；突然感到恐惧; n. 离合器（踏板）；一群；控制；紧握；一窝蛋；女式无带手提包; adj. 紧要关头的
+- solemnly 英 /ˈsɒləmli/ 美 /ˈsɑːləmli/ adv. 庄严地；严肃地
+- He placed a small box in her work roughened hand. 他把一个小盒子放在她因劳作而变得粗糙的手上。
+- velvet /ˈvelvɪt/ n. 天鹅绒，丝绒；天鹅绒似的东西; adj. 天鹅绒的; 复数 velvets
+- lift the lid 掀开盖子; 揭开盖子
+- Tears began to blur her vision. 泪水模糊了她的视线。
+- In gold lettering on a small, almond-shaped brooch was the word Mother. 在一枚小巧的杏仁形胸针上刻着金字:母亲。
+  - almond  /ˈɑːmənd/ n. 扁桃仁；扁桃树; 复数 almonds
+  - brooch 英 /brəʊtʃ/ 美 /broʊtʃ,bruːtʃ/ n.（女用的）胸针，领针; 复数 brooches
+
+### Reading 
+
+- Catalina Sea Camp
+- catalina n. 远程轰炸机 n. (Catalina)人名；(法、西)卡塔利娜；(英)卡塔莉娜
+  - Santa Catalina Island 圣卡塔利娜岛另一为圣塔卡特莱那岛纳岛卡塔琳娜岛
+- Camp /kæmp/ n. 露营；营地；度假营；拘留营；兵营；阵营；放牧区；年度短期兵役；史前古营垒遗址；造作的举止; v. 露营；扎营；（牲畜）集中休息；扎围栏; adj. 女性化的；夸张的，（服饰）稀奇古怪的
+  - camper n. 露营者，野营者
+- marine science 海洋科学
+  - marine /məˈriːn/ adj. 船舶的；海生的；海产的；航海的，海运的;  n. 海运业；舰队；水兵；（海军）士兵或军官
+  - Marine Biology [生物] 海洋生物学
+- cookery /ˈkʊkəri/ n. 烹饪术；烹饪；烹调；（北美）烹饪处，厨房; 复数 cookeries
+- windsurfing /ˈwɪndsɜːfɪŋ/ n. 帆板运动; v. 风帆冲浪（windsurf的ing形式）
+
+- northeast, northwest, southeast, southwest
+- looked for
+- They discovered that he **had fallen apart**. (fall apart)
+- The stones that made his face **sank down** the mountain. (sink down)
+- they **had to** **give up**.
+- They **figured out (断定)** that the damage from the weather was just too bad.
+
