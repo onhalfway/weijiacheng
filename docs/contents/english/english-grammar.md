@@ -315,3 +315,22 @@
 - they **had to** **give up**.
 - They **figured out (断定)** that the damage from the weather was just too bad.
 
+- journey /ˈdʒɜːni/ n. 旅行；行程; vi. 旅行
+- journal /ˈdʒɜːnl/ n. 日报，杂志；日记；分类账; 复数 journals
+- Tangier /tæn'dʒiə/ n. 丹吉尔（摩洛哥港口城市，等于Tangiers）
+- Mecca /ˈmekə/ n. 麦加（沙特阿拉伯一座城市）；众人渴望去的地方
+- abandon /əˈbændən/ v. 遗弃；离开；放弃；终止；陷入; n. 放任，狂热
+- manuscript ˈmænjuskrɪpt/ n. [图情] 手稿；原稿; adj. 手写的; 复数 manuscripts
+- Ibn Battuta 伊本·白图泰(旅行家)
+- Columbus /kəˈlʌmbəs/ n. 哥伦布（美国一座城市）；哥伦布（意大利航海家）
+- Moroccan /məˈrɑːkən/ adj. 摩洛哥的; n. 摩洛哥人
+- set off for 出发；开始；赛跑；动身前往
+- out of curiosity 出于好奇心
+  - out of 由于；缺乏；自…离开；用…（材料）
+    - out of breath 喘不过气来, 上气不接下气, 喘不过起来
+  - curiosity /ˌkjʊəriˈɒsəti/ n. 好奇，好奇心；珍品，古董，古玩; 复数 curiosities
+- Islamic /ɪzˈlæmɪk; ɪzˈlɑːmɪk/ adj. 伊斯兰教的；穆斯林的
+  - Islamic world 伊斯兰世界
+- Arab /ˈærəb/ n. 阿拉伯人；adj. 阿拉伯的；阿拉伯人的，与阿拉伯人有关的；复数 Arabs
+- Arabia /ə'reibiə/ n. 阿拉伯半岛（亚洲西南部，等于Arabian Peninsula）
+- 
