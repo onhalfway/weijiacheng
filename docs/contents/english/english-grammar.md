@@ -181,7 +181,7 @@
 - carnivore /ˈkɑːnɪvɔː(r)/ n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
 - biped /ˈbaɪped/ adj. 有两足的 n. 两足动物 an animal that uses two legs for walking
 - quadruped /ˈkwɒdruped/ n. [脊椎] 四足动物 adj. 有四足的 an animal which has four feet, especially an ungulate mammal
-  - ungulate /ˈʌŋɡjuleɪt/ adj. 有蹄的；像蹄子的 n. 有蹄类动物 
+  - ungulate /ˈʌŋɡjuleɪt/ adj. 有蹄的；像蹄子的 n. 有蹄类动物
   - mammal /ˈmæml/ n. [脊椎] 哺乳动物
 - predator /ˈpredətə(r)/ n.[动] 捕食者；食肉动物；掠夺者
 - scavenger /ˈskævɪndʒə(r)/ n. 食腐动物；清道夫；[助剂]清除剂；拾荒者
@@ -261,12 +261,13 @@
 - What () your sister () **this Saturday**? Something special, because it's her birthday.
   - A. are...going to do     [√]B. is...going to do    C. does...do     [×]D. did...do
 - David () at home when I called at seven o'clock yesterday evening?
-  - [×]A. didn't     B. doesn't      [√]C. wasn't      D. isn't
+  - [×]A. didn't 助动词无实际词义，不是动词     B. doesn't      [√]C. wasn't系动词      D. isn't
 
 ### Cloze
 
 - [Mother's Day](https://wenku.baidu.com/view/c6054d0e3968011ca3009175.html)
-- means /miːnz/ n. 手段；方法；财产 v. 意思是；打算（mean的第三人称单数） 
+- 12-year-old
+- means /miːnz/ n. 手段；方法；**财产** v. 意思是；打算（mean的第三人称单数）
   - But the price - five dollars - was far beyond his means.
 - feed and clothe 供吃穿
   - His mother, Dora, tried hard to feed and clothe their five children.
@@ -292,10 +293,10 @@
 - lift the lid 掀开盖子; 揭开盖子
 - Tears began to blur her vision. 泪水模糊了她的视线。
 - In gold lettering on a small, almond-shaped brooch was the word Mother. 在一枚小巧的杏仁形胸针上刻着金字:母亲。
-  - almond  /ˈɑːmənd/ n. 扁桃仁；扁桃树; 复数 almonds
+  - almond /ˈɑːmənd/ n. 扁桃仁；扁桃树; 复数 almonds
   - brooch 英 /brəʊtʃ/ 美 /broʊtʃ,bruːtʃ/ n.（女用的）胸针，领针; 复数 brooches
 
-### Reading 
+### Reading
 
 - Catalina Sea Camp
 - catalina n. 远程轰炸机 n. (Catalina)人名；(法、西)卡塔利娜；(英)卡塔莉娜
@@ -333,4 +334,5 @@
   - Islamic world 伊斯兰世界
 - Arab /ˈærəb/ n. 阿拉伯人；adj. 阿拉伯的；阿拉伯人的，与阿拉伯人有关的；复数 Arabs
 - Arabia /ə'reibiə/ n. 阿拉伯半岛（亚洲西南部，等于Arabian Peninsula）
-- 
+- Arabian /əˈreɪbiən/ adj. 阿拉伯（人）的，（与）阿拉伯（有关）的; n. （史）阿拉伯人（或居民）; 复数 Arabians
+- Peninsula 英 /pəˈnɪnsjələ/ 美 /pəˈnɪnsələ/ n. 半岛; 复数 peninsulas
