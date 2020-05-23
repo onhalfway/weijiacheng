@@ -12,6 +12,7 @@
     - [Compare Column A and B](#compare-column-a-and-b)
     - [Complete the following sentences with correct words.](#complete-the-following-sentences-with-correct-words)
   - [Countable and Uncountable (also non-count) noun](#countable-and-uncountable-also-non-count-noun)
+  - [some vs any](#some-vs-any)
   - [2020-05-20 testing](#2020-05-20-testing)
     - [Single Choice](#single-choice)
     - [Cloze](#cloze)
@@ -254,6 +255,54 @@
   - Why is bread a Noncount noun?
     - Bread and meat are uncountable nouns because they are "mass nouns", i.e. they can't be divided into single units (we can't say one bread, two meats). To do so we have to use another type of nouns called Partitive nouns (a kilo of meat, a loaf of bread).
 
+## some vs any
+
+- [some和any的用法区别]](https://baijiahao.baidu.com/s?id=1650976374357211905&wfr=spider&for=pc)
+- 一、some的用法：
+  - 1、用在肯定句中，意为“一些（a few / a little）”
+    - We love taking some photos when seeing sights. 我们喜欢在观光时拍些照片。
+    - There are always some friends who I can turn to in trouble. 总有一些朋友，在有困难时我可以求助于他们。
+    - I need some advice on how to improve my English. 我需要一些如何提高英语水平的建议。
+    - What you need is just some confidence and courage. 你需要的只是一些自信和勇气。
+  - 2、用在疑问句中，意为“一些（a few / a little）”
+    - 1）表示请求，邀请，或建议的一般疑问句。
+      - Would you like some wine first? 你想先喝点酒吗？
+      - Would you like some more cake? 还想再来点蛋糕吗？
+      - May I ask you some questions? 我可以问你几个问题吗？
+    - 2）提问人预计得到回答是肯定的一般疑问句。
+      - Are there some eggs in the fridge? 冰箱里有鸡蛋吗？
+      - Have you got some cash? 你有现金吗？
+      - Can you take some measures to stop it? 你们能采取措施阻止它吗？
+      - 这种情况和any很难区别，考试时为了保险还是用any吧。老师不会和你理论是否想得到肯定回答。
+    - 3）特殊疑问句及选择疑问句。
+      - 因为并不是对some所修饰或代替的名词表示疑问。
+      - Where can I get some travel information? 我在哪里可以得到一些旅游信息？
+      - Why do some people disagree with the plan? 为什么有些人不同意这个计划？
+      - Do you have some pens or pencils? 你有钢笔或铅笔吗？
+- 二、any的用法
+  - 1、any用在一般疑问句中，意为“一些（a few / a little）”
+    - Are there any trains to Beijing at night? 晚上有去北京的火车吗？
+    - Is there any news about them? 有他们的消息吗？
+    - Have you been to any interesting places? 你去过什么有趣的地方吗？
+  - 2、any用在否定句中，意为“没有一个/点; 没有人（none）”
+    - There isn’t any money in my wallet. 我的钱包里没有钱。
+    - There aren’t any students” in the classroom. 教室里没有学生。
+    - “not any” 相当于“no”.
+    - I don't like any of them. 我一个都不喜欢。
+    - He has two sisters but I haven’t any. 他有两个妹妹，但我没有。
+  - 3、any也可以肯定句中，意为“任何”
+    - You can read any book in our library. 你可以读我们图书馆的任何一本书。
+    - Any of the four seasons is warm here. 这里四季如春。（任何季节都很温暖）
+- 注：由some-和any-构成的复合不定代词和不定副词，其用法区别多与some和any相同。
+  - If there's anything I can do to help, please let me know. 如果有什么我能帮忙的，请告诉我。
+  - Is there anything I can do to help? 有什么我能帮忙的吗？
+  - Something is wrong with the car. 这辆车出毛病了。
+  - There is not anybody except two waitresses in the restaurant. 餐馆里除了两个女招待外没有其他人。
+  - Have you met her anywhere before? 你以前在哪儿见过她吗？
+  - You can drop by anytime. 你可以随时来玩。
+  - Haven't you forgotten something? 你是不是忘了什么？
+    - （肯定态度，提醒对方）
+
 ## 2020-05-20 testing
 
 ### Single Choice
@@ -266,7 +315,7 @@
 ### Cloze
 
 - [Mother's Day](https://wenku.baidu.com/view/c6054d0e3968011ca3009175.html)
-- 12-year-old
+- 12-year-old, 12-yr-old, 12 years old, 12 yrs old
 - means /miːnz/ n. 手段；方法；**财产** v. 意思是；打算（mean的第三人称单数）
   - But the price - five dollars - was far beyond his means.
 - feed and clothe 供吃穿
@@ -325,6 +374,7 @@
 - Ibn Battuta 伊本·白图泰(旅行家)
 - Columbus /kəˈlʌmbəs/ n. 哥伦布（美国一座城市）；哥伦布（意大利航海家）
 - Moroccan /məˈrɑːkən/ adj. 摩洛哥的; n. 摩洛哥人
+- Morocco /məˈrɒkəʊ/ n. 摩洛哥（非洲一国家名）；[皮革] 摩洛哥皮革
 - set off for 出发；开始；赛跑；动身前往
 - out of curiosity 出于好奇心
   - out of 由于；缺乏；自…离开；用…（材料）
@@ -336,3 +386,82 @@
 - Arabia /ə'reibiə/ n. 阿拉伯半岛（亚洲西南部，等于Arabian Peninsula）
 - Arabian /əˈreɪbiən/ adj. 阿拉伯（人）的，（与）阿拉伯（有关）的; n. （史）阿拉伯人（或居民）; 复数 Arabians
 - Peninsula 英 /pəˈnɪnsjələ/ 美 /pəˈnɪnsələ/ n. 半岛; 复数 peninsulas
+- sultan /ˈsʌltən/ n. 苏丹（某些伊斯兰国家统治者的称号）
+- attack (袭击) /əˈtæk/ n. 攻击；抨击；疾病发作; vt. 攻击；抨击；动手干; vi. 攻击；腐蚀
+- unpredictable (难以捉摸的) character
+- on shore
+- a sudden storm grounded(使…搁浅) and broke up two ships.
+- drown /draʊn/ vt. 淹没；把…淹死; vi. 淹死；溺死
+- After a life time of incredible adventures, 在经历了一生难以置信的冒险之后，
+  - incredible /ɪnˈkredəbl/ adj. 不能相信的，难以置信的；极好的，极大的; 比较级 more incredible最高级 most incredible
+  - adventure /ədˈventʃə(r)/ n. 冒险；冒险精神；投机活动; vt. 冒险；大胆说出; vi. 冒险
+    - adventurous  /ədˈventʃərəs/ adj. 爱冒险的；大胆的；充满危险的
+- wisdom /ˈwɪzdəm/ n. 智慧，才智；明智；学识；至理名言; n. (Wisdom)人名；(英)威兹德姆; 复数 wisdoms
+- fortunately /ˈfɔːtʃənətli/ adv. 幸运地
+- translate into 翻译成
+- Which phrase is closest in meaning to set off for in paragraph 2?
+  - left to go to
+
+- researcher /rɪˈsɜːtʃə(r); ˈriːsɜːtʃə(r)/ n. 研究员; 复数 researchers
+- discover /dɪˈskʌvə(r)/ vt. 发现；发觉; vi. 发现
+  - discovery n. 发现，发觉；被发现的事物; 复数 discoveries
+- marshall /'mɑ:ʃl/ n. 元帅；典礼官；执法官；法官的随行官员（等于judge's marshal）; vt. 安排；引领；统帅; vi. 各就各位；按次序排列成形（等于marshal）; (Marshall 人名)马歇尔
+- 英 /djuːk/  美 /duːk/ n. 公爵，（公国的）君主；公爵（种）樱桃; n. (Duke)人名；(西、俄、瑞典、英)杜克
+- Emory /'eməri/ University 埃默里大学, 美国艾莫利大学
+- challenge (挑战)
+- workmate, classmate, schoolmate, roommate, teammate, intimate n. 知己；至交
+- degree /dɪˈɡriː/ n. 程度，等级；度；学位；阶层; 复数 degrees
+- set out to 打算, 着手, 开始, 出发去
+- conclusion(结论)
+- psychological (心理学的)
+- sense of control over their lives 对自己生活的掌控感
+  - sense /sens/ n. 感觉，官能；观念；道理；理智; vt. 感觉到；检测
+- self-respect /ˌself rɪˈspekt/ n. 自重，自尊
+- from generation to generation (代代传承)
+- intergenerational /,ɪntədʒenə'reɪʃ(ə)n(ə)l/ adj. （与）几代人（有关）的；影响几代人的；代与代之间的
+- intergenerational self
+- sense of history 历史感
+- blow /bləʊ/ away 吹走, 吹散, 刮走, 卷走; 过去式 blew; 过去分词 blown; 现在分词 blowing; 复数 blows
+- tradition /trəˈdɪʃn/ n. 惯例，**传统**；传说; 复数 traditions
+- positive /ˈpɒzətɪv/ ( 正面的) story
+- That act alone may prove the fact that your family will thrive (兴旺) for many generations
+to come.
+
+Researchers have recently discovered how to make families work more successfully. A surprising idea has appeared: the single most important thing you can do for your family, it seems, is to develop a family story.
+
+I first heard this idea in the mid-1990s from Marshall Duke, a professor at Emory University. Duke was studying stories in families when his wife, a children’s learning specialist, made a discovery: “The students who know a lot about their families will do better when they face challenges (挑战),” Sara said.
+
+Interested, Duke set out to test her conclusion(结论). He and Emory’s workmate Robyn Fivush developed a method called the “Do You Know?” degree that asked children to answer 20 questions such as: Do you know where your grandparents grew up? Do you know where your mum and dad went to high school? Do you know about an illness or something really terrible that happened in your family?
+
+Duke and Fivush asked those questions to members of four dozen families in 2001. They then compared the children’s results with a group of psychological (心理学的) tests the children had taken and reached a conclusion that agreed to Sara’s theory. The more children knew about their families’ histories, the stronger their sense of control over their lives, the higher their self-respect, and the more successfully they believed their families worked from generation to generation (代代传承).
+
+“**We were blown away**,” Duke said. The researchers mentioned the children after the terrible events of September 11, 2001. “Once again,” Duke said, “the ones who knew more about their families proved to be stronger.”
+
+Why does knowing where her grandmother went to school help a child overcome something terrible and difficult? Duke said that children who have the most **self-confidence** have what he calls “**a strong intergenerational self**”. They know that they come from something bigger than themselves.
+
+Duke suggested that parents do the same activities with their children again and again. Any kind of activities work to teach the sense of history: holidays, vacations, big family get-togethers, even a drive to the shop. “These traditions become part of your family,” Duke said.
+
+Years of research have shown that most happy families also communicate successfully, but it’s not simply a matter of talking through problems. Talking also means telling a positive ( 正面的) story about yourselves. When faced with a challenge, happy families, like happy people, just add a new chapter (章) to their life story that shows them overcoming the difficulty. This skill is very important for children when they are growing up.
+
+The bottom lines: if you want a happier family, create, refine and retell the story of your family’s best moments and your relations’ ability to overcome difficulty. That act alone may prove the fact that your family will thrive (兴旺) for many generations to come.
+
+- What does the passage mainly tell us? [D]
+  - A. Happy children are usually brought up in happy families.
+  - B. Our family is the most important place to teach children.
+  - C. There are many things for the young to learn from the old.
+  - D. Family history plays an important part when children grow up.
+- What can the “Do you know?” degree tell us? [D]
+  - A. What relation in one’s family is. 
+  - B. What story one’s family has had.
+  - C. How much one knows his family. 
+  - D. How much one loves his family.
+- The underlined sentence “We were blown away” in the passage may mean “______.” [A]
+  - A. We were surprised very much 
+  - B. We were deeply moved
+  - C. We were punished seriously 
+  - D. We were completely lost
+- Which of the following is true, according to the passage? [C]
+  - A. The event of September 11, 2001 helped Duke draw his conclusion.
+  - B. Duke thinks that a strong intergenerational self is the most important.
+  - C. Duke and Sara’s research work led us to an unexpected conclusion.
+  - D. According to Duke, positive talks will add new chapters to one’s life.
