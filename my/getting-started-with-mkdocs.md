@@ -16,6 +16,7 @@
   - **Ctrl + p** -> Python.md -> MKDocs: build static website with Markdown files
 - Open terminal in vscode tool **Ctrl + `**
 - Git bash terminal
+  - update git: `git update-git-for-windows`
   - install/upgrade pip: `python -m pip install --upgrade pip`
   - install/upgrade mkdocs: `python -m pip install --upgrade mkdocs`
   - `mkdocs --help`
@@ -38,7 +39,7 @@ repo_url: https://github.com/onhalfway/weijiacheng
   <a class="navbar-brand" href="{{ nav.homepage.url|url }}"><img height="25px" src="{{ config.repo_name }}/img/bee.png">{{ config.site_name }}</a>
   ```
 
-  - foot
+  - footer
   
   ```html
   <p>Welcome to visit <a href="https://onhalfway.github.io/weijiacheng/"><img height="50px" src="{{ config.repo_name }}/img/bee.png"></a> website, Powered by Jeff Wei.</p>
