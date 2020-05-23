@@ -4,6 +4,12 @@ html {
        main container. */
     scroll-padding-top: calc(3.5rem + 20px);
     /* csslint ignore:end */
+    /* No copy. This website is Copyright. */
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
 }
 
 /* Replacement for `body { background-attachment: fixed; }`, which has
