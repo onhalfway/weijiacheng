@@ -69,7 +69,7 @@
 
 - [FAQ About English](faq-en)
 - [Word List](./wjch/en/word-list.md)
-- [Grammar](english-grammar)
+- [Grammar](english-note)
 - [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
 - [24 Solar Terms](../wjch/en/24-solar-terms)
 - [Writing](../wjch/en/writing)
