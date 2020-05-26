@@ -113,10 +113,20 @@ The Copyright belongs to the author
 ### T6.1 Oprah - TV Star and Billionaire
 
 - A The woman
-- Oprah Winfrey is a famous American TV star. She lives in California but she also has an apartment in Chicago, where she works. Oprah is one of the richest women in America. She earns millions of dollars every year. She gives a lot of money to charity.
+- Oprah Winfrey (is) a famous American TV star. She (lives) in California but she also (has) an apartment in Chicago, where she (works). Oprah is one of the richest women in America. She (earns) millions of dollars every year. She (gives) a lot of money to charity.
   - Oprah Winfrey  奥普拉·温弗瑞（美国著名女脱口秀主持人）
+  - charity ˈtʃærəti/ n. 慈善；施舍；慈善团体；宽容；施舍物; 复数 charities
 
 ### T6.2 see p46
+
+- B HER CHILDHOOD
+- Oprah was born on January 29, 1954, in Kosciusko, Mississippi. Her parents were very poor. Her father, Vernon, worked in a **coal mine** and her mother, Vernita, **cleaned houses**. They couldn't **look after** Oprah, so she **lived with** her grandmother, Hattie Mae. Oprah was clever. She could read before she was three. When she was 17, she received a **scholarship to** Tennessee State University, where she studied drama. She also **started reading** the news **at** the local radio station.
+  - kosciusko /kɔsiˈʌskəu/ n. 科修斯科山（位于澳大利亚东南部）
+  - Mississippi /ˌmisiˈsipi/ n. 密西西比河（美国河流，世界上最大的河流之一）；密西西比州（美国州名）
+  - Vernon /'və:nən/ n. 弗农（男子名）
+  - scholarship /ˈskɒləʃɪp/ n. 奖学金；学识，学问; 复数 scholarships
+  - tennessee /ˌtenə'siː/ n. 田纳西州（美国州名）
+  - drama /ˈdrɑːmə/ n. 戏剧，戏剧艺术；剧本；戏剧性事件
 
 ### T6.3
 
@@ -128,7 +138,6 @@ watched interviewed studied talked moved started earned opened
   - In 1984, Oprah moved to Chicago to **work on** a TV **talk show** called A.M. Chicago. She talked to lots of interesting people about their problems. Oprah says,"People's problems are my problems." The show was very successful, so in 1985, it was renamed The Oprah Winfrey Show. 49 million people in 134 countries watched it every week. In 1993, she interviewed Michael Jackson and 100 million people watched the programme. Last year, she earned $260,000,000.
     - Oprah Winfrey  奥普拉·温弗瑞（美国著名女脱口秀主持人）
     - programme /ˈprəʊɡræm/ n. 计划，规划；节目；程序 vi. 编程序；制作节目 vt. 规划；拟…计划
-
 - Her **charity** work
   - In 1998, Oprah started the charity Oprah's Angel Network to help poor children all over the world. In 2007, she opened a special school in Johannesburg, The Oprah Winfrey Academy for Girls. She says,"When I was a kid, we were poor and we didn't have much money. So what did I do? I studied hard." There are 152 girls at the school, and Oprah calls them her daughters - the children she didn't have in real life.
     - charity /ˈtʃærəti/ . 慈善；施舍；慈善团体；宽容；施舍物
