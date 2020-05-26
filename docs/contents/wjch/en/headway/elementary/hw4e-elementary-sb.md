@@ -50,7 +50,7 @@ The Copyright belongs to the author
     - [T8.11 Shopping in the High Street](#t811-shopping-in-the-high-street)
     - [T8.12 see p69](#t812-see-p69)
     - [T8.13 Sounding polite](#t813-sounding-polite)
-    - [Unit 8 TWOE MAILS - Inform了and more formal](#unit-8-twoe-mails---inform%e4%ba%86and-more-formal)
+    - [Unit 8 TWOE MAILS - Informal and more formal](#unit-8-twoe-mails---informal-and-more-formal)
   - [Unit 9 City living](#unit-9-city-living)
     - [T9.1 City living](#t91-city-living)
     - [T9.2 see p70](#t92-see-p70)
@@ -114,6 +114,7 @@ The Copyright belongs to the author
 
 - A The woman
 - Oprah Winfrey is a famous American TV star. She lives in California but she also has an apartment in Chicago, where she works. Oprah is one of the richest women in America. She earns millions of dollars every year. She gives a lot of money to charity.
+  - Oprah Winfrey  奥普拉·温弗瑞（美国著名女脱口秀主持人）
 
 ### T6.2 see p46
 
@@ -976,7 +977,7 @@ SB p61: WRITING Telling a story p111
 - croissant /kwɑːˈsɑːnt,krəˈsɑːnt/ n.羊角面包
 
 
-### Unit 8 TWOE MAILS - Inform了and more formal
+### Unit 8 TWOE MAILS - Informal and more formal
 
 - Page 112
 - Hi Duncan.
@@ -1045,6 +1046,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T9.6 A Parisian in London
 
+- parisian /pə'rizjən/ adj. 巴黎的；巴黎人的; n. 巴黎人
 - I = Interviewer C= Chantal
 - I Hello Chantal!
 - C Hi!

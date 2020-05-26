@@ -1,11 +1,11 @@
 # English Note
 
 - [English Note](#english-note)
-  - [Personal Pronouns人称代名词](#personal-pronouns%e4%ba%ba%e7%a7%b0%e4%bb%a3%e5%90%8d%e8%af%8d)
-  - [发音 pronunciation](#%e5%8f%91%e9%9f%b3-pronunciation)
-  - [现在完成时和过去完成时](#%e7%8e%b0%e5%9c%a8%e5%ae%8c%e6%88%90%e6%97%b6%e5%92%8c%e8%bf%87%e5%8e%bb%e5%ae%8c%e6%88%90%e6%97%b6)
+  - [Personal Pronouns人称代名词](#personal-pronouns人称代名词)
+  - [发音 pronunciation](#发音-pronunciation)
+  - [现在完成时和过去完成时](#现在完成时和过去完成时)
   - [like](#like)
-  - [词根2020/4/2](#%e8%af%8d%e6%a0%b9202042)
+  - [词根2020/4/2](#词根202042)
   - [tense](#tense)
   - [Acronym](#acronym)
   - [adjectives with -ing or -ed](#adjectives-with--ing-or--ed)
@@ -17,6 +17,7 @@
     - [Single Choice](#single-choice)
     - [Cloze](#cloze)
     - [Reading](#reading)
+  - [](#)
 
 ## Personal Pronouns人称代名词
 
@@ -257,7 +258,7 @@
 
 ## some vs any
 
-- [some和any的用法区别]](https://baijiahao.baidu.com/s?id=1650976374357211905&wfr=spider&for=pc)
+- [some和any的用法区别](https://baijiahao.baidu.com/s?id=1650976374357211905&wfr=spider&for=pc)
 - 一、some的用法：
   - 1、用在肯定句中，意为“一些（a few / a little）”
     - We love taking some photos when seeing sights. 我们喜欢在观光时拍些照片。
@@ -302,6 +303,7 @@
   - You can drop by anytime. 你可以随时来玩。
   - Haven't you forgotten something? 你是不是忘了什么？
     - （肯定态度，提醒对方）
+  - Do you like (~~an ice cream/some ice cream/~~ice cream)?
 
 ## 2020-05-20 testing
 
@@ -354,27 +356,25 @@
   - camper n. 露营者，野营者
 - marine science 海洋科学
   - marine /məˈriːn/ adj. 船舶的；海生的；海产的；航海的，海运的;  n. 海运业；舰队；水兵；（海军）士兵或军官
-  - Marine Biology [生物] 海洋生物学
+  - Marine Biology (生物) 海洋生物学
 - cookery /ˈkʊkəri/ n. 烹饪术；烹饪；烹调；（北美）烹饪处，厨房; 复数 cookeries
 - windsurfing /ˈwɪndsɜːfɪŋ/ n. 帆板运动; v. 风帆冲浪（windsurf的ing形式）
-
 - northeast, northwest, southeast, southwest
 - looked for
 - They discovered that he **had fallen apart**. (fall apart)
 - The stones that made his face **sank down** the mountain. (sink down)
 - they **had to** **give up**.
 - They **figured out (断定)** that the damage from the weather was just too bad.
-
 - journey /ˈdʒɜːni/ n. 旅行；行程; vi. 旅行
 - journal /ˈdʒɜːnl/ n. 日报，杂志；日记；分类账; 复数 journals
 - Tangier /tæn'dʒiə/ n. 丹吉尔（摩洛哥港口城市，等于Tangiers）
 - Mecca /ˈmekə/ n. 麦加（沙特阿拉伯一座城市）；众人渴望去的地方
 - abandon /əˈbændən/ v. 遗弃；离开；放弃；终止；陷入; n. 放任，狂热
-- manuscript ˈmænjuskrɪpt/ n. [图情] 手稿；原稿; adj. 手写的; 复数 manuscripts
+- manuscript ˈmænjuskrɪpt/ n. (图情) 手稿；原稿; adj. 手写的; 复数 manuscripts
 - Ibn Battuta 伊本·白图泰(旅行家)
 - Columbus /kəˈlʌmbəs/ n. 哥伦布（美国一座城市）；哥伦布（意大利航海家）
 - Moroccan /məˈrɑːkən/ adj. 摩洛哥的; n. 摩洛哥人
-- Morocco /məˈrɒkəʊ/ n. 摩洛哥（非洲一国家名）；[皮革] 摩洛哥皮革
+- Morocco /məˈrɒkəʊ/ n. 摩洛哥（非洲一国家名）；摩洛哥皮革
 - set off for 出发；开始；赛跑；动身前往
 - out of curiosity 出于好奇心
   - out of 由于；缺乏；自…离开；用…（材料）
@@ -401,7 +401,6 @@
 - translate into 翻译成
 - Which phrase is closest in meaning to set off for in paragraph 2?
   - left to go to
-
 - researcher /rɪˈsɜːtʃə(r); ˈriːsɜːtʃə(r)/ n. 研究员; 复数 researchers
 - discover /dɪˈskʌvə(r)/ vt. 发现；发觉; vi. 发现
   - discovery n. 发现，发觉；被发现的事物; 复数 discoveries
@@ -424,44 +423,36 @@
 - blow /bləʊ/ away 吹走, 吹散, 刮走, 卷走; 过去式 blew; 过去分词 blown; 现在分词 blowing; 复数 blows
 - tradition /trəˈdɪʃn/ n. 惯例，**传统**；传说; 复数 traditions
 - positive /ˈpɒzətɪv/ ( 正面的) story
-- That act alone may prove the fact that your family will thrive (兴旺) for many generations
-to come.
-
-Researchers have recently discovered how to make families work more successfully. A surprising idea has appeared: the single most important thing you can do for your family, it seems, is to develop a family story.
-
-I first heard this idea in the mid-1990s from Marshall Duke, a professor at Emory University. Duke was studying stories in families when his wife, a children’s learning specialist, made a discovery: “The students who know a lot about their families will do better when they face challenges (挑战),” Sara said.
-
-Interested, Duke set out to test her conclusion(结论). He and Emory’s workmate Robyn Fivush developed a method called the “Do You Know?” degree that asked children to answer 20 questions such as: Do you know where your grandparents grew up? Do you know where your mum and dad went to high school? Do you know about an illness or something really terrible that happened in your family?
-
-Duke and Fivush asked those questions to members of four dozen families in 2001. They then compared the children’s results with a group of psychological (心理学的) tests the children had taken and reached a conclusion that agreed to Sara’s theory. The more children knew about their families’ histories, the stronger their sense of control over their lives, the higher their self-respect, and the more successfully they believed their families worked from generation to generation (代代传承).
-
-“**We were blown away**,” Duke said. The researchers mentioned the children after the terrible events of September 11, 2001. “Once again,” Duke said, “the ones who knew more about their families proved to be stronger.”
-
-Why does knowing where her grandmother went to school help a child overcome something terrible and difficult? Duke said that children who have the most **self-confidence** have what he calls “**a strong intergenerational self**”. They know that they come from something bigger than themselves.
-
-Duke suggested that parents do the same activities with their children again and again. Any kind of activities work to teach the sense of history: holidays, vacations, big family get-togethers, even a drive to the shop. “These traditions become part of your family,” Duke said.
-
-Years of research have shown that most happy families also communicate successfully, but it’s not simply a matter of talking through problems. Talking also means telling a positive ( 正面的) story about yourselves. When faced with a challenge, happy families, like happy people, just add a new chapter (章) to their life story that shows them overcoming the difficulty. This skill is very important for children when they are growing up.
-
-The bottom lines: if you want a happier family, create, refine and retell the story of your family’s best moments and your relations’ ability to overcome difficulty. That act alone may prove the fact that your family will thrive (兴旺) for many generations to come.
-
-- What does the passage mainly tell us? [D]
+- That act alone may prove the fact that your family will thrive (兴旺) for many generations to come.
+- Reading Comprehension
+  - Researchers have recently discovered how to make families work more successfully. A surprising idea has appeared: the single most important thing you can do for your family, it seems, is to develop a family story.
+  - I first heard this idea in the mid-1990s from Marshall Duke, a professor at Emory University. Duke was studying stories in families when his wife, a children’s learning specialist, made a discovery: “The students who know a lot about their families will do better when they face challenges (挑战),” Sara said.
+  - Interested, Duke set out to test her conclusion(结论). He and Emory’s workmate Robyn Fivush developed a method called the “Do You Know?” degree that asked children to answer 20 questions such as: Do you know where your grandparents grew up? Do you know where your mum and dad went to high school? Do you know about an illness or something really terrible that happened in your family?
+  - Duke and Fivush asked those questions to members of four dozen families in 2001. They then compared the children’s results with a group of psychological (心理学的) tests the children had taken and reached a conclusion that agreed to Sara’s theory. The more children knew about their families’ histories, the stronger their sense of control over their lives, the higher their self-respect, and the more successfully they believed their families worked from generation to generation (代代传承).
+  - “**We were blown away**,” Duke said. The researchers mentioned the children after the terrible events of September 11, 2001. “Once again,” Duke said, “the ones who knew more about their families proved to be stronger.”
+  - Why does knowing where her grandmother went to school help a child overcome something terrible and difficult? Duke said that children who have the most **self-confidence** have what he calls “**a strong intergenerational self**”. They know that they come from something bigger than themselves.
+  - Duke suggested that parents do the same activities with their children again and again. Any kind of activities work to teach the sense of history: holidays, vacations, big family get-togethers, even a drive to the shop. “These traditions become part of your family,” Duke said.
+  - Years of research have shown that most happy families also communicate successfully, but it’s not simply a matter of talking through problems. Talking also means telling a positive ( 正面的) story about yourselves. When faced with a challenge, happy families, like happy people, just add a new chapter (章) to their life story that shows them overcoming the difficulty. This skill is very important for children when they are growing up.
+  - The bottom lines: if you want a happier family, create, refine and retell the story of your family’s best moments and your relations’ ability to overcome difficulty. That act alone may prove the fact that your family will thrive (兴旺) for many generations to come.
+- What does the passage mainly tell us? (D)
   - A. Happy children are usually brought up in happy families.
   - B. Our family is the most important place to teach children.
   - C. There are many things for the young to learn from the old.
   - D. Family history plays an important part when children grow up.
-- What can the “Do you know?” degree tell us? [D]
-  - A. What relation in one’s family is. 
+- What can the “Do you know?” degree tell us? (C)
+  - A. What relation in one’s family is.
   - B. What story one’s family has had.
-  - C. How much one knows his family. 
+  - C. How much one knows his family.
   - D. How much one loves his family.
-- The underlined sentence “We were blown away” in the passage may mean “______.” [A]
-  - A. We were surprised very much 
+- The underlined sentence “We were blown away” in the passage may mean “___.” (A)
+  - A. We were surprised very much
   - B. We were deeply moved
-  - C. We were punished seriously 
+  - C. We were punished seriously
   - D. We were completely lost
-- Which of the following is true, according to the passage? [C]
+- Which of the following is true, according to the passage? (C)
   - A. The event of September 11, 2001 helped Duke draw his conclusion.
   - B. Duke thinks that a strong intergenerational self is the most important.
   - C. Duke and Sara’s research work led us to an unexpected conclusion.
   - D. According to Duke, positive talks will add new chapters to one’s life.
+
+## 
