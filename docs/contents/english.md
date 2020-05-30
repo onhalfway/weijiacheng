@@ -5,34 +5,22 @@
 - [Morning With Reading](morning-with-reading)
 - [3A-B Recording](20191213-recording)
 
-## EIM-English-In-Mind
-
-- [EIM-English In Mind](../wjch/en/EIM-English-in-Mind/eim)
-  - EIM Starter 2nd
-    - [EIM Starter 2nd CD1](../wjch/en/EIM-English-in-Mind/0-EIM-S-2nd/eim-0-cd-1)
-    - [EIM Starter 2nd CD2](../wjch/en/EIM-English-in-Mind/0-EIM-S-2nd/eim-0-cd-2)
-    - [EIM Starter 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-S-2nd/eim-0-cd-3)
-  - EIM Book One 2nd
-    - [EIM Book One 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-1-2nd/eim-1-cd-1)
-    - [EIM Book One 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-1-2nd/eim-1-cd-2)
-  - EIM Book Two 2nd
-    - [EIM Book Two 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-2-2nd/eim-2-cd-1)
-    - [EIM Book Two 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-2-2nd/eim-2-cd-2)
-    - [EIM Book Two 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-2-2nd/eim-2-cd-3)
-  - EIM Book Three 2nd
-    - [EIM Book Three 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-3-2nd/eim-3-cd-1)
-    - [EIM Book Three 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-3-2nd/eim-3-cd-2)
-    - [EIM Book Three 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-3-2nd/eim-3-cd-3)
-  - EIM Book Four 2nd
-    - [EIM Book Four 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-4-2nd/eim-4-cd-1)
-    - [EIM Book Four 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-4-2nd/eim-4-cd-2)
-    - [EIM Book Four 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-4-2nd/eim-4-cd-3)
-  - EIM Book Five 2nd
-    - [EIM Book Five 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-5-2nd/eim-5-cd-1)
-    - [EIM Book Five 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-5-2nd/eim-5-cd-2)
-    - [EIM Book Five 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-5-2nd/eim-5-cd-3)
-
 ## [Headway](../../contents/wjch/en/headway)
+
+## 英语日积月累
+
+- [FAQ About English](faq-en)
+- [Word List](./wjch/en/word-list.md)
+- [English Note](english-note)
+- [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
+- [24 Solar Terms](../wjch/en/24-solar-terms)
+- [Writing](../wjch/en/writing)
+- [Spoken English](../wjch/en/spoken)
+- [Surfing the Internet](../wjch/en/resource)
+
+## Franklin
+
+- [Franklin 1](../../contents/wjch/en/Franklin/franklin-1)
 
 ## Book: Andersen's Fairy Tales
 
@@ -65,16 +53,32 @@
 - [ev002_Charlotte’s-Web](./english/ev002_Charlotte-s-Web.md)
 - [BBC Documentary](https://mp.weixin.qq.com/s/cw9IHp7qoQu8Z7dzXKHMug)
 
-## 英语日积月累
+## EIM-English-In-Mind
 
-- [FAQ About English](faq-en)
-- [Word List](./wjch/en/word-list.md)
-- [English Note](english-note)
-- [二十四节气 Twenty-four Solar Terms](twenty-four-solar-term)
-- [24 Solar Terms](../wjch/en/24-solar-terms)
-- [Writing](../wjch/en/writing)
-- [Spoken English](../wjch/en/spoken)
-- [Surfing the Internet](../wjch/en/resource)
+- [EIM-English In Mind](../wjch/en/EIM-English-in-Mind/eim)
+  - EIM Starter 2nd
+    - [EIM Starter 2nd CD1](../wjch/en/EIM-English-in-Mind/0-EIM-S-2nd/eim-0-cd-1)
+    - [EIM Starter 2nd CD2](../wjch/en/EIM-English-in-Mind/0-EIM-S-2nd/eim-0-cd-2)
+    - [EIM Starter 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-S-2nd/eim-0-cd-3)
+  - EIM Book One 2nd
+    - [EIM Book One 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-1-2nd/eim-1-cd-1)
+    - [EIM Book One 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-1-2nd/eim-1-cd-2)
+  - EIM Book Two 2nd
+    - [EIM Book Two 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-2-2nd/eim-2-cd-1)
+    - [EIM Book Two 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-2-2nd/eim-2-cd-2)
+    - [EIM Book Two 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-2-2nd/eim-2-cd-3)
+  - EIM Book Three 2nd
+    - [EIM Book Three 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-3-2nd/eim-3-cd-1)
+    - [EIM Book Three 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-3-2nd/eim-3-cd-2)
+    - [EIM Book Three 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-3-2nd/eim-3-cd-3)
+  - EIM Book Four 2nd
+    - [EIM Book Four 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-4-2nd/eim-4-cd-1)
+    - [EIM Book Four 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-4-2nd/eim-4-cd-2)
+    - [EIM Book Four 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-4-2nd/eim-4-cd-3)
+  - EIM Book Five 2nd
+    - [EIM Book Five 2nd CD1](../wjch/en/EIM-English-in-Mind/1-EIM-5-2nd/eim-5-cd-1)
+    - [EIM Book Five 2nd CD2](../wjch/en/EIM-English-in-Mind/1-EIM-5-2nd/eim-5-cd-2)
+    - [EIM Book Five 2nd CD3](../wjch/en/EIM-English-in-Mind/0-EIM-5-2nd/eim-5-cd-3)
 
 ## Study
 

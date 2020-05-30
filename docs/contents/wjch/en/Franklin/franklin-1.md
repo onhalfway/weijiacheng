@@ -1,9 +1,11 @@
-# Franklin's TEST
+# Franklin Episode 1
+
+- [Franklin Episode 1](#franklin-episode-1)
+  - [Franklin's TEST](#franklins-test)
+
+## Franklin's TEST
 
 富兰克林的考试
-
-## Transcript
-
 well done
 very good, goose
 wow, look at those
