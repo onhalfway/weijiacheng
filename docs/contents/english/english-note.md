@@ -1,23 +1,23 @@
-# English Note
+tt# English Note
 
-- [English Note](#english-note)
-  - [Personal Pronouns人称代名词](#personal-pronouns人称代名词)
-  - [发音 pronunciation](#发音-pronunciation)
-  - [现在完成时和过去完成时](#现在完成时和过去完成时)
-  - [like](#like)
-  - [词根2020/4/2](#词根202042)
-  - [tense](#tense)
-  - [Acronym](#acronym)
-  - [adjectives with -ing or -ed](#adjectives-with--ing-or--ed)
-    - [Compare Column A and B](#compare-column-a-and-b)
-    - [Complete the following sentences with correct words.](#complete-the-following-sentences-with-correct-words)
-  - [Countable and Uncountable (also non-count) noun](#countable-and-uncountable-also-non-count-noun)
-  - [some vs any](#some-vs-any)
-  - [2020-05-20 testing](#2020-05-20-testing)
-    - [Single Choice](#single-choice)
-    - [Cloze](#cloze)
-    - [Reading](#reading)
-  - [](#)
+- [Personal Pronouns人称代名词](#personal-pronouns人称代名词)
+- [发音 pronunciation](#发音-pronunciation)
+- [现在完成时和过去完成时](#现在完成时和过去完成时)
+- [like](#like)
+- [词根2020/4/2](#词根202042)
+- [tense](#tense)
+- [Acronym](#acronym)
+- [adjectives with -ing or -ed](#adjectives-with--ing-or--ed)
+  - [Compare Column A and B](#compare-column-a-and-b)
+  - [Complete the following sentences with correct words.](#complete-the-following-sentences-with-correct-words)
+- [Countable and Uncountable (also non-count) noun](#countable-and-uncountable-also-non-count-noun)
+- [some vs any](#some-vs-any)
+- [2020-05-20 testing](#2020-05-20-testing)
+  - [Single Choice](#single-choice)
+  - [Cloze](#cloze)
+  - [Reading](#reading)
+- [have和have got](#have和have-got)
+- [](#)
 
 ## Personal Pronouns人称代名词
 
@@ -127,6 +127,138 @@
 </tr>
 </tbody>
 </table>
+
+- [代词](https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a96604d7e61c178a82b90114f8?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5)
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">序号</th>
+<th colspan="2">数</th>
+<th colspan="3">单数</th>
+<th colspan="3">复数</th>
+</tr>
+<tr>
+<th>种类</th>
+<th>人称</th>
+<th>一</th>
+<th>二</th>
+<th colspan="3">三</th>
+<th>一</th>
+<th>二</th>
+<th>三</th>
+</tr>
+<tr>
+<th rowspan="2">1</th>
+<th rowspan="2">人称代词</th>
+<th>主格</th>
+<td>I</td>
+<td>you</td>
+<td>he</td>
+<td>she</td>
+<td>it</td>
+<td>we</td>
+<td>you</td>
+<td>they</td>
+</tr>
+</tr>
+<tr>
+<th>宾格</th>
+<td>me</td>
+<td>you</td>
+<td>him</td>
+<td>her</td>
+<td>it</td>
+<td>us</td>
+<td>you</td>
+<td>them</td>
+</tr>
+<tr>
+<th rowspan="2">2</th>
+<th rowspan="2">物主代词</th>
+<th>形容词性</th>
+<td>my</td>
+<td>your</td>
+<td>his</td>
+<td>her</td>
+<td>its</td>
+<td>our</td>
+<td>your</td>
+<td>their</td>
+</tr>
+</tr>
+<tr>
+<th>名词性</th>
+<td>mine</td>
+<td>yours</td>
+<td>his</td>
+<td>hers</td>
+<td>its</td>
+<td>ours</td>
+<td>yours</td>
+<td>theirs</td>
+</tr>
+<tr>
+<th>3</th>
+<th colspan="2">反身代词</th>
+<td>myself</td>
+<td>yourself</td>
+<td>himself</td>
+<td>herself</td>
+<td>itself</td>
+<td>ourselves</td>
+<td>yourselves</td>
+<td>themselves</td>
+</tr>
+<tr>
+<th>4</th>
+<th colspan="2">指示代词</th>
+<td colspan="5">this; that</td>
+<td colspan="3">these; those</td>
+</tr>
+<tr>
+<th rowspan="4">5</th>
+<th rowspan="4">不定代词</th>
+<th>指代人</th>
+<td colspan="5">somebody; someone; anybody, anyone; nobody; no one; everybody; everyone</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<th>事物</th>
+<td colspan="5">something; anything; nothing; everything;</td>
+<td colspan="3"></td>
+</tr>
+</tr>
+<tr>
+<th rowspan="2">指代人或事物</th>
+<td colspan="5">one; another; each; every; much; either; neither; little; a little;</td>
+<td colspan="3">ones; others; the others; both; few; a few; many; several;</td>
+</tr>
+<tr>
+<td colspan="8">some; any; no; all; other; the other; none; a lot (of); such;</td>
+</tr>
+<tr>
+<th>6</th>
+<th colspan="2">相互代词</th>
+<td colspan="8">each other; one another; each other's; one another's;</td>
+</tr>
+<tr>
+<th>7</th>
+<th colspan="2">疑问代词</th>
+<td colspan="8">who(ever); whom(ever); whose(ever); which(ever); what(ever);</td>
+</tr>
+<tr>
+<th>8</th>
+<th colspan="2">连接代词</th>
+<td colspan="8">who(ever); whom(ever); whose(ever); which(ever); what(ever);</td>
+</tr>
+<tr>
+<th>9</th>
+<th colspan="2">关系代词</th>
+<td colspan="8">who; whom; whose; which; that; as;</td>
+</tr>
+</tbody>
+<table>
 
 ## 发音 pronunciation
 
@@ -454,5 +586,37 @@
   - B. Duke thinks that a strong intergenerational self is the most important.
   - C. Duke and Sara’s research work led us to an unexpected conclusion.
   - D. According to Duke, positive talks will add new chapters to one’s life.
+
+## have和have got
+
+- 一、have和have got的区别
+  - 1.have (has) [formal]
+    - 肯定句：主语 + have/has + 其他
+    - 否定句：主语 + don't/doesn't have  +其他
+    - 一般疑问句：Do/Does + 主语 + have + 其他？
+  - 2.have got (has got) [informal]
+    - 肯定句：主语 + have (has) got + 其他
+    - 否定句：主语 + haven't (hasn't) got + 其他
+    - 一般疑问句：Haven't / Hasn't + 主语 + got + 其他？
+- 二、注意：在下列情况下不能用have got来代替have。
+  - 1.在情态动词，助动词或动词不定式之后，只能用have，不用have got。
+    - 如：May I have some more tea? 我可以再喝点茶吗？
+    - Would you like to have another apple? 你想再吃一个苹果吗？
+  - 2.在过去时，完成时或进行时中，不用have got，而用have。
+    - 如：Li Hong had a problem. 李红有一个问题。
+    - I have had the bike for three years. 我买这辆自行车已经3年了。
+  - 3.固定短语中不用have got。
+    - have a rest/a swim/a wash/a drink/a meeting/lunch
+- 综上：
+  - 1.have got首先它是一般现在时，并不是现在完成时，have只是助动词，它的问句和否定句都是借助have去构成问句和否定。
+  - 2.have got可以用的语境非常少，他只表示informal的“拥有”，多用于一般现在时，进行时过去时完成时它都用不了
+- New Headway Unit 9 City Living T9.6
+  - Grammar Spot
+    - 1 Have and have got both express possession. We use have got more in spoken English.
+      - I (have) a good job. = I('ve got) a good job.
+      - (Do) you (have) a nice flat? = (Have) you (got) a nice flat?
+      - She (doesn't have) a car. = She (hasn't got) a car.
+    - 2 The past of have and have got is had.
+      - I had a boring job, so I left.
 
 ## 

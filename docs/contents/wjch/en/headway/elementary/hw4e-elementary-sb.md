@@ -63,6 +63,7 @@ The Copyright belongs to the author
     - [T9.9 It's the biggest](#t99-its-the-biggest)
     - [T9.10](#t910)
     - [T9.11](#t911)
+    - [City living](#city-living)
     - [T9.12 Directions](#t912-directions)
     - [T9.13](#t913)
   - [Unit 10 Where on earth are you?](#unit-10-where-on-earth-are-you)
@@ -194,29 +195,35 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 
 ### T6.8 Interview with Ben Way
 
-- I = Interviewer B =BenWay
+- I = Interviewer B =Ben Way
 - I Hi Ben. Nice to meet you. Can you tell us a bit about your life?
 - B Well, I was born on September 28th 1980 in Devon in the south-west of England.
 - I And what did your parents do?
-- B My dad was an accountant and my mum was an artist.
+- B My dad was an **accountant** and my mum was an artist.
 - I Did you go to school in Devon?
 - B Yes, I did. I went to a small village school.
 - I Did you enjoy school?
-- B No, I didn't enjoy it at all. I had problems because I was dyslexic and couldn't read and write ...
-- I Ah, that's difficult . ..
+- B No, I didn't enjoy it at all. I had problems because I was **dyslexic** and couldn't read and write ...
+- I Ah, that's difficult ...
 - B Yes, but when I was nine, my dad gave me a computer and it changed my life. I loved it, I took it everywhere with me. I helped my friends and my parents' friends with their computers.
 - I Very good - and then ...?
-- B Then, I wrote my first software programme when I was just I l, and when I was 15, I began my own computer company.
+- B Then, I wrote my first software programme when I was just 11, and when I was 15, I began my own computer company.
 - I That's fantastic! Was it successful?
 - B Yes, very successful - so successful that, I left school at 16 and ...
 - I Yes, I know ... you were a millionaire at 17!
 - B Yes, I made my first million at 17 and at 19, I had €18.5 million.
-- I And at 20 you won 'Young Entrepreneur of the Year'.
+- I And at 20 you won 'Young **Entrepreneur** of the Year'.
 - B Yes, I did. I often went on TV and radio and talked about it. It was amazing!
 - I And then one year later ...?
-- B Yes, and then just a year later, when I was 21, I lost everything. Disaster! Dotcom businesses everywhere went down.
+- B Yes, and then just a year later, when I was 21, I lost everything. **Disaster**! Dotcom businesses everywhere went down.
 - I Yeah, but now you're up again! Another company, another €1 million!
 - B I know. I work hard but I'm also very lucky!
+  - Devon /'devən/ n. 德文郡（等于Devon shire，英国郡名）；德文岛（加拿大北部）
+  - accountant /əˈkaʊntənt/ n. 会计师；会计人员; 复数 accountants
+  - dyslexic /dɪsˈleksɪk/ adj. 诵读困难的; n. 诵读困难者
+  - entrepreneur /ˌɒntrəprəˈnɜː(r)/ n. 企业家；承包人；主办者; 复数 entrepreneurs
+    - enterprise /ˈentəpraɪz/ n. 企业；事业；进取心；事业心; 复数 enterprises
+  - disaster /dɪˈzɑːstə(r)/ n. 灾难，灾祸；不幸; 复数 disasters
 
 ### T6.9 Regular and irregular verbs
 
@@ -1049,17 +1056,21 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 ### T9.5 Comparing cities
 
 - I
-  - A New York is older than London.
-  - B No, it isn't! New York is much more modern!
+  - A New York is (older) than London.
+  - B No, it isn't! New York is much (more modern)!
 - 2
-  - A Tokyo is cheaper than Bangkok.
-  - B No, it isn't! Tokyo's much more expensive!
+  - A Tokyo is (cheaper) than Bangkok.
+    - Tokyo /ˈtəʊkjəʊ/ n. 东京（日本首都）
+    - Bangkok /bæŋˈkɔk/ n. 曼谷（泰国首都）
+  - B No, it isn't! Tokyo's (much more expensive)!
 - 3
   - A Seoul is bigger than Beijing.
-  - B No, it isn't! Seoul is much smaller!
+  - B No, it isn't! Seoul is (much smaller)!
 - 4
   - A Johannesburg is safer than Cape Town.
-  - B No, it isn't! It's much more dangerous!
+    - Johannesburg /dʒəu'hænisbə:ɡ/ n. 约翰尼斯堡（位于南非东北部）
+    - Cape Town 开普敦（等于Capetown /'keip,taun/ ，南非西南部港市）
+  - B No, it isn't! It's (much more dangerous)!
 - 5
   - A Taxi drivers in New York are better than taxi drivers in London.
   - B No, they aren't! They're much worse!
@@ -1075,14 +1086,17 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - I And are you ... on your own here in London?
 - C No, no! I'm here with my husband, Andre.
 - I Ah, OK. Do you work in London?
-- C Yes, I do. I've got a good job. I work in a bank.
-- I And ...Where do you live in London? Have you got a flat?
-- C Yes. We've got a nice flat in Camden.
-- I Oh, great! Has Andre got a job?
-- C Yes, he has. He's got a shop in Camden. He sells French cheese!
-- I Wow, that's good! And tell me, have you got a car here?
-- C No, I haven't got a car. I go everywhere on public transport. It's much easier.
+- C Yes, I do. I('ve got) a good job. I work in a bank.
+- I And ...Where do you live in London? (Have) you (got) a flat?
+- C Yes. We('ve got) a nice flat in Camden.
+- I Oh, great! (Has) Andre (got) a job?
+- C Yes, he has. He('s got) a shop in Camden. He sells French cheese!
+- I Wow, that's good! And tell me, (have) you (got) a car here?
+- C No, I (haven't got) a car. I go everywhere on public transport. It's much easier.
 - I OK! Thank you very much! I hope you enjoy your stay here!
+  - Andre /'ændrei/ n. 安德烈（男子名，等于Andrew）
+  - Camden /ˈkæmdən/ n. 卡姆登（英国城市名）n. (Camden) 卡姆登（人名）
+  - flat /flæt/ adj. 平的；单调的；adv. 平直地；水平地；n. 平地；**公寓**；平面; vt. 使变平；vi. 逐渐变平；
 
 ### T9.7
 
@@ -1136,6 +1150,90 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - Lourdes from Mexico City
   - There are three things I like about living in Mexico City. First, the weather. It is warm and sunny most of the year. The second is the fresh fruit and vegetables - the markets are wonderful, the colours and smells are great! And the third is that I'm never bored because there is so much to see and do! We have museums, theatres, art exhibitions, parks, restaurants, bars ... everything!
   - My favourite time of year in Mexico City is the end of December, from the l6th to the 3lst. The city is full of lights, there are parties everywhere, and we eat and drink and give presents. Everyone's really happy! I love it!
+
+### City living
+
+- TOKYO
+- Tokyo 英 /ˈtəʊkjəʊ/ 美 /'tokjo/ n. 东京（日本首都）
+  - HIGH-SPEED
+    - Tokyo has a **population** of 35 million people. It is the largest city in the world. It is also one of the most exciting. Everything moves fast here. It has one of the biggest and busiest railway systems in the world. Every day, 11 million **commuters** use it to get to and from work. People earn the highest **salaries**, and they spend the most money. They wear the latest **fashions**, and have the most up-to-date phones. It is the world's most expensive city.
+      - population 英 /ˌpɒpjuˈleɪʃn/  美 /ˌpɑːpjuˈleɪʃn/ n. 人口；[生物] 种群，[生物] 群体；全体居民；[统计学] 总体
+      - commuter /kəˈmjuːtə(r)/ n. 通勤者，经常乘公共车辆往返者；[交] 月季票乘客; 复数 commuters
+      - salary /ˈsæləri/ n. 薪水，工资; v. 给……薪金; 复数 salaries
+      - fashion /ˈfæʃn/ n. 时尚；时装；样式；方式；时髦人物; vt. 使用；改变；做成…的形状
+      - up-to-date /ˌʌp tə ˈdeɪt/ adj. 最新的，最近的；现代的，新式的
+  - Old and new
+    - Tokyo was originally a small fishing village called Edo. The name changed in 1868 when the Emperor moved there.
+      - originally /əˈrɪdʒənəli/ adv. 最初，起初；本来; 
+      - Edo castle 江户城堡
+    - The **architecture** is very modern. There are not many old buildings because of the 1923 earthquake and the Second World War. But traditional Japan is always near, with many **Shinto shrines** and public baths around the city.
+      - architecture /ˈɑːkɪtektʃə(r)/ n. 建筑学；建筑风格；建筑式样；架构
+      - Shinto /ˈʃɪntoʊ/ n. 日本的神道教(1945年前为日本国教)
+      - shrine /ʃraɪn/ n. 圣地；神殿；神龛；圣祠; vt. 将…置于神龛内；把…奉为神圣; 过去式 shrined; 过去分词 shrined; 现在分词 shrining; 复数 shrines
+  - Visiting Tokyo
+    - Tokyo is on the east **coast** of Japan. The summers are hot and **humid**. The most beautiful time of year is spring, when the famous **cherry blossom** is on the trees. The city is huge, but it is one of the safest cities in the world.
+      - coast /kəʊst/ n. 海岸；滑行; v. 滑行；（交通工具）快速平稳地移动；得过且过，做事不费力；沿岸航行; 复数 coasts过去式 coasted过去分词 coasted现在分词 coasting第三人称单数 coasts
+      - humid /ˈhjuːmɪd/ adj. 潮湿的；湿润的；多湿气的;
+      - cherry /ˈtʃeri/ n. 樱桃；樱桃树；如樱桃的鲜红色；复数 cherries
+      - blossom /ˈblɒsəm/ n. 花；开花期；兴旺期；花开的状态；漂亮的人; v. 开花；兴旺；成功发展; n. (Blossom) 布洛瑟姆（人名）
+    - Japan is mysterious. It is difficult for foreigners to understand.
+      - mysterious /mɪˈstɪəriəs/ adj. 神秘的；不可思议的；难解的
+      - foreigner /ˈfɒrənə(r)/ n. 外地人，外国人; 复数 foreigners
+- MUMBAI
+  - A CITY OF EXTREMES
+    - Mumbai is India's largest city with a population of 22.8 million. It is also India's most important **commercial** centre. Mumbai was part of **the British Empire** until **independence** in 1947. It was called Bombay until 1995, when it was renamed Mumbai after a **goddess**, Mumba Devi.
+      - Mumbai /mʌm'bai/ n. 孟买（印度城市）
+      - extreme /ɪkˈstriːm/ adj. 极端的；极度的；偏激的；尽头的; n. 极端；末端；最大程度；极端的事物; 比较级 extremer最高级 extremest复数: n. 狂热分子，极端条件;
+      - commercial /kəˈmɜːʃl/ adj. 商业的；营利的；靠广告收入的; n. 商业广告; 复数 commercials
+      - british /ˈbrɪtɪʃ/ adj. 英国的；英国人的；大不列颠的; n. 英国人
+      - empire /ˈempaɪə(r)/ n. 帝国；帝王统治，君权; n. (Empire)人名；(法)昂皮尔; 复数 empires
+      - independence /ˌɪndɪˈpendəns/ n. 独立性，自立性；自主
+      - Bombay /bɔm'bei/ n. 孟买
+      - goddess /ˈɡɑːdəs/ n. 女神，受崇拜的女性; 复数 goddesses
+      - Devi /ˈdeɪvi/ n. 提毗（梵语中“女神”的意思）；井斜（测井曲线代号）
+  - Rich and poor
+    - Mumbai is both old and modern, rich and poor. The streets are full of people doing business, selling snacks and clothes, or just living there. 
+    - Money is everywhere in modern Mumbai. India's most important businesses and banks havet heir **headquarters** there. The Bollywood film industry produces more films than Hollywood in Los Angeles.
+      - headquarter /'hedkwɔːtə/ 总部
+      - Bollywood /ˈbɑːliwʊd/ n. 宝莱坞（位于印度孟买的电影制作中心）
+      - Hollywood /ˈhɒliwʊd/ n. 好莱坞
+      - Los Angeles /lɒs ˈændʒɪˌliːz/ 洛杉矶
+    - Modern **skyscrapers** and new shopping malls are right next to slums. Sixty percent of the population live with no **running water**, no **electricity**, and no **sanitation**.
+      - /ˈskaɪskreɪpə(r)/ n. 摩天楼，超高层大楼；特别高的东西; 复数 skyscrapers
+        - scraper n. 刮刀；铲土机；守财奴; 复数 scrapers
+      - electricity /ɪˌlekˈtrɪsəti/ n. 电力；电流；强烈的紧张情绪
+      - sanitation /ˌsænɪˈteɪʃn/ n. [医] 环境卫生；卫生设备；下水道设施
+  - Visiting Mumbai
+    - Mumbai is on the west coast. The wet season is from June to September. Between November and February it is a little cooler and dryer.
+      - The wet season [气候] 湿季；雨季
+    - The city is **best at sunrise and sunset**, when the colour of the stone buildings changes from gold to orange and pink.
+    - The cheapest and easiest transport is by bus. Trains can be **crowded** and dangerous.
+    - Because of its **poverty**, Mumbai can be a difficult place to live, but the experience is unique.
+      - poverty /ˈpɒvəti/ n. 贫困；困难；缺少；低劣
+      - unique /juˈniːk/ adj. 独特的，稀罕的；[数] 唯一的，独一无二的; n. 独一无二的人或物
+- MEXICO CITY
+  - MULTICULTURAL
+    - Mexico City has a population of 23.4 million. It is the largest city in both North and South America. The Aztecs called it Tenochtitlan, and it was already an important city when the Spanish invaded in 1521. The country became **independent** in 1821.
+      - Aztecs n. 阿芝特克人; adj. 阿芝特克人的
+      - Tenochtitlan 特诺奇蒂特兰城（墨西哥古都）
+      - invade /ɪnˈveɪd/ vt. 侵略；侵袭；侵扰；涌入; vi. 侵略；侵入；侵袭；侵犯
+      - independent /ˌɪndɪˈpendənt/ adj. 独立的；单独的；无党派的；不受约束的; n. 独立自主者；无党派者
+  - Indian and European
+    - Mexico City offers **a variety of** experiences. In the Zócalo, the main square, you can see the Spanish **cathedral**, an Aztec **temple**, and a modern skyscraper. The city has a lot of museums and theatres. European squares and **colonial** houses sit next to busy markets selling Mexican food and Indian **handicrafts**.
+      - variety /vəˈraɪəti/ n. 多样；种类；杂耍；变化，多样化; 复数 varieties
+      - cathedral /kəˈθiːdrəl/ n. 大教堂; 复数 cathedrals
+      - temple /ˈtempl/ n. 庙宇；寺院；神殿；太阳穴
+      - colonial /kəˈləʊniəl/ adj. 殖民的，殖民地的；（建筑，家具）殖民地时期式样的；（动物，植物）群体的；受英国殖民统治时期的; n. 殖民地居民；殖民地时期式样的房屋; 复数 colonials
+      - Mexican /ˈmeksɪkən/ adj. 墨西哥的，墨西哥人的; n. 墨西哥人; 复数 Mexicans
+      - handicraft /ˈhændikrɑːft/ n. 手工艺；手工艺品; 复数 handicrafts
+    - It is the richest city in Latin America. There are **elegant** shops selling high-class goods, expensive restaurants, and **supercool** bars. There are also many people who live in poor houses.
+      - elegant /ˈelɪɡənt/ adj. 高雅的，优雅的；讲究的；简炼的；简洁的
+      - supercool v. 使过冷，使（液体）冷却到凝固点以下而不凝固；（活生物体）体温降到零度以下仍存活; adj. **超酷的，极有魅力的**；令人印象深刻的；非常冷静的
+  - Visiting Mexico City
+    - Mexico City is in a **valley** in the south central area of the country. It is surrounded by mountains. The rainy season is from June to October. The warmest months are April and May. It has the largest and **cheapest** subway system in Latin America. Traffic moves so slowly that it is often faster to walk. The air **quality** is not good, and visitors need to be careful, but the city offers a rich cultural mix.
+      - valley /ˈvæli/ n. 山谷；流域；溪谷; 复数 valleys
+      - cheapest /tʃi:pɪst/ adj. 最便宜的（cheap的最高级形式）
+      - quality /ˈkwɒləti/ n. 质量，[统计] 品质；特性；才能; adj. 优质的；高品质的；<英俚>棒极了
 
 ### T9.12 Directions
 
