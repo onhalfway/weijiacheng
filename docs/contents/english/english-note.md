@@ -2,6 +2,7 @@
 
 - [English Note](#english-note)
   - [Personal Pronouns人称代名词](#personal-pronouns人称代名词)
+  - [代词 pronoun](#代词-pronoun)
   - [发音 pronunciation](#发音-pronunciation)
   - [现在完成时和过去完成时](#现在完成时和过去完成时)
   - [like](#like)
@@ -129,7 +130,7 @@
 </tbody>
 </table>
 
-- [代词](https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a96604d7e61c178a82b90114f8?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5)
+## [代词 pronoun](https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a96604d7e61c178a82b90114f8?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5)
 
 <table>
 <tbody>
@@ -151,8 +152,8 @@
 </tr>
 <tr>
 <th rowspan="2">1</th>
-<th rowspan="2">人称代词</th>
-<th>主格</th>
+<th rowspan="2">人称代词 personal pronoun</th>
+<th>主格 nominative case</th>
 <td>I</td>
 <td>you</td>
 <td>he</td>
@@ -164,7 +165,7 @@
 </tr>
 </tr>
 <tr>
-<th>宾格</th>
+<th>宾格 objective case</th>
 <td>me</td>
 <td>you</td>
 <td>him</td>
@@ -176,8 +177,8 @@
 </tr>
 <tr>
 <th rowspan="2">2</th>
-<th rowspan="2">物主代词</th>
-<th>形容词性</th>
+<th rowspan="2">物主代词 possessive pronoun</th>
+<th>形容词性 adjectival</th>
 <td>my</td>
 <td>your</td>
 <td>his</td>
@@ -189,7 +190,7 @@
 </tr>
 </tr>
 <tr>
-<th>名词性</th>
+<th>名词性 nominal</th>
 <td>mine</td>
 <td>yours</td>
 <td>his</td>
@@ -201,7 +202,7 @@
 </tr>
 <tr>
 <th>3</th>
-<th colspan="2">反身代词</th>
+<th colspan="2">反身代词 reflexive</th>
 <td>myself</td>
 <td>yourself</td>
 <td>himself</td>
@@ -213,13 +214,13 @@
 </tr>
 <tr>
 <th>4</th>
-<th colspan="2">指示代词</th>
+<th colspan="2">指示代词 demonstrative</th>
 <td colspan="5">this; that</td>
 <td colspan="3">these; those</td>
 </tr>
 <tr>
 <th rowspan="4">5</th>
-<th rowspan="4">不定代词</th>
+<th rowspan="4">不定代词 indefinite pronoun</th>
 <th>指代人</th>
 <td colspan="5">somebody; someone; anybody, anyone; nobody; no one; everybody; everyone</td>
 <td colspan="3"></td>
@@ -240,22 +241,22 @@
 </tr>
 <tr>
 <th>6</th>
-<th colspan="2">相互代词</th>
+<th colspan="2">相互代词 reciprocal /rɪˈsɪprəkl/ pronoun</th>
 <td colspan="8">each other; one another; each other's; one another's;</td>
 </tr>
 <tr>
 <th>7</th>
-<th colspan="2">疑问代词</th>
+<th colspan="2">疑问代词 interrogative /ˌɪntəˈrɒɡətɪv/ </th>
 <td colspan="8">who(ever); whom(ever); whose(ever); which(ever); what(ever);</td>
 </tr>
 <tr>
 <th>8</th>
-<th colspan="2">连接代词</th>
+<th colspan="2">连接代词 conjunctional</th>
 <td colspan="8">who(ever); whom(ever); whose(ever); which(ever); what(ever);</td>
 </tr>
 <tr>
 <th>9</th>
-<th colspan="2">关系代词</th>
+<th colspan="2">关系代词 relative</th>
 <td colspan="8">who; whom; whose; which; that; as;</td>
 </tr>
 </tbody>
@@ -263,8 +264,8 @@
 
 ## 发音 pronunciation
 
-![International Phonetic Alphabet Symbols](../International&#32;Phonetic&#32;Alphabet&#32;Symbols.png)
-
+- pronunciation /prəˌnʌnsiˈeɪʃn/
+- ![International Phonetic Alphabet Symbols](../International&#32;Phonetic&#32;Alphabet&#32;Symbols.png)
 - watched和looked的ed发音是相同的，都发t的音。
 - 加ed以后的发音有如下三种：
   - 1、以清辅音结尾，[p][t][k][f][s][h]等字母结尾的单词＋ed是发[ t ]音

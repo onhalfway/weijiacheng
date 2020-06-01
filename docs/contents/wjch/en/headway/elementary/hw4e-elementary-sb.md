@@ -303,6 +303,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - 4 I can't find my house keys. I'm really worried.
 - 5 I have nothing to do and nowhere to go. I am so bored!
 - 6 The professor gave a great lecture. I was really interested.
+  - professor /prəˈfesə(r)/ n. 教授；教师；公开表示信仰的人
   - lecture /ˈlektʃə(r)/ n. 演讲；讲稿；教训
 
 ### T6.13
@@ -1237,15 +1238,27 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T9.12 Directions
 
-Go along George Street, past the Bristol Hotel on your left, and over the bridge. At the roundabout turn left and go up Park Avenue. Go round the corner, through the wood, and down the hill. Then go under the railway bridge and you are on the A312 to Dorchester.
+- **Go along** George Street, **past** the Bristol Hotel **on** your left, and **over** the bridge. **At** the **roundabout** turn left and **go up** Park Avenue. **Go round** the corner, **through** the wood, and **down** the hill. Then go under the railway bridge and you are on the A312 to Dorchester.
+  - Bristol /'brɪst(ə)l/ n. 布里斯托尔（英国西部的港口城市）
+  - roundabout /ˈraʊndəbaʊt/ n. （交通）环岛，环状交叉路口；（游乐设施）旋转平台，旋转木马（同 merry-go-round）；（公园、学校的）转椅；迂回路线; adj. （说话）迂回的；绕道的；圆形的
+  - avenue /ˈævənjuː/ n. 大街；林荫大道；[比喻](达到某物的)途径，手段，方法，渠道
+  - Dorchester /'dɔ:tʃəstə/ n. 多尔切斯特（英国英格兰南部城市）
 
 ### T9.13
 
-- 1 Go along George Street, past the hotel and over the River Sherwell. Go straight over the roundabout, and it's in front of you on the hill to your left.
-- 2 Go straight past the hotel and over the bridge until you get to a roundabout. At the roundabout follow signs to the town centre. Go past a petrol station on your left, over a pedestrian crossing, and past a set of traffic lights. At the roundabout turn right. You're in ... Street.
-- 3 Go over the bridge, the River Sherwell, and turn right into the town centre. Go straight on, past the traffic lights, and over a roundabout. When you are in the square, it's on the left-hand side, next to the museum, opposite the Town Hall.
+- 1 Go along George Street, past the hotel and over the River Sherwell. **Go straight over** the roundabout, and it's **in front of** you **on** the hill **to** your left.
+- 2 Go straight past the hotel and over the bridge until you get to a roundabout. At the roundabout follow signs to the town centre. **Go past** a petrol station **on** your left, over a **pedestrian crossing**, and past **a set of** traffic lights. At the roundabout turn right. You're in ... Street.
+  - town centre 市中心；镇上的主要商业区
+  - petrol /ˈpetrəl/ n. （英）汽油; 复数 petrols
+  - pedestrian /pəˈdestriən/ adj. 徒步的；缺乏想像力的; n. **行人**；步行者
+  - pedestrian crossing 人行横道
+- 3 Go over the bridge, the River Sherwell, and turn right into the town centre. **Go straight on**, past the traffic lights, and over a roundabout. When you are in the square, it's **on** the left-hand side, next to the museum, **opposite** the Town Hall.
+  - on your lelf是静止的，在左边
+  - to your left是动态的，向左边
 
 ## Unit 10 Where on earth are you?
+
+- on earth 究竟，到底
 
 ### T10.1
 
@@ -1253,6 +1266,7 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
 - 2 'I'm reading the paper.'
 - 3 'I'm watching the football.'
 - 4 'I'm working on my laptop.'
+  - laptop /ˈlæptɒp/ n. 膝上型轻便电脑，笔记本电脑; 复数 laptops
 
 ### T10.2 I'm sitting on the train
 
@@ -1260,10 +1274,11 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
   - T Hello?
   - N Hi, Tony! It's Nina. Where are you?
   - T We're on the train. We're going to Birmingham for the weekend.
+    - Birmingham /'bɜ:mɪŋˌhæm/ n. 伯明翰（英国一座城市; 美国阿拉巴马州一座城市）
   - N Oh, great! How's the journey?
   - T Fine. I'm reading the paper, and Alice is doing something on her laptop ...
 
-- 2 F=Fiona P=Pete
+- 2 F=Fiona n. 菲奥纳（女子名） P=Pete n. 皮特（等于Peter，男子名）
   - F Hello?
   - P Fiona, hi! It's Pete. How are you? What are you doing?
   - F Fine. We're at home. I'm just cooking some dinner.
@@ -1308,9 +1323,11 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
 
 - 1 Alice is sleeping.
 - 2 Alice and Tony are going to Manchester.
+  - Manchester /ˈmæntʃestə(r)/ n. 曼彻斯特（英格兰西北部一大城市）
 - 3 Fiona's cooking lunch.
 - 4 Tim's watching a film.
 - 5 Beth's doing her homework.
+  - Beth /beiθ; beθ/ n. 贝丝（女子名，等于Elizabeth /ɪ'lɪzəbəθ/ n. 伊丽莎白（女子名））
 - 6 Beth and Ellie are sitting in Ellie's bedroom.
 
 ### T10.6 Who's who?
@@ -1319,12 +1336,18 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
 - B Don't worry. They're all very nice, I'll tell you who everybody is. Can you see that man over there?
 - A The man near the window?
 - B Yes. That's Paul. He's talking to Sophie. He's a banker. Very rich. And very funny. He works in New York.
+  - Sophie /'səʊfɪ/n. 索菲（女子名）
 - A Wow! So he's Paul. OK. And that's Sophie next to him?
-- B Yes.She's laughing at Paul's jokes. She's lovely. She's a professor at Bristol University. She teaches business studies.
+- B Yes. She's **laughing at** Paul's jokes. She's lovely. She's a professor at Bristol University. She teaches business studies.
+  - laugh at 嘲笑；**因…而发笑**
+  - joke /dʒəʊk/ n. 玩笑，笑话；笑柄; vt. 开…的玩笑; vi. 开玩笑
 - A And who's that woman on the left?
-- B That's Helena. She's drinking champagne. She's a writer. She writes stories for children. They're excellent. A very nice lady.
+- B That's Helena. She's drinking **champagne**. She's a writer. She writes stories for children. They're excellent. A very nice lady.
+  - Helena /hɛ'linɚ/ n. 海伦娜（女子名）
+  - champagne /ʃæmˈpeɪn/ n. 香槟酒；香槟酒色; 复数 champagnes
 - A And who's that man she's talking to?
-- B Helena's talking to Roger. Roger's eating crisps. He's an interesting man. He's an art dealer. He works for the British Museum.
+- B Helena's talking to Roger. Roger's eating crisps. He's an interesting man. He's an art **dealer**. He works for the British Museum.
+  - dealer /ˈdiːlə(r)/ n. 经销商；商人; n. 发牌员; n. [俚语]毒品贩子，贩毒者
 - A Really? Wow! What a job! So that's Paul and Sophie ... Helena and Roger ... Now there are two more. Who are they?
 - B They're Sam and Penny. They're looking at a photo on Sam's phone.
 - A And what do they do?
@@ -1340,6 +1363,7 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
   - A Why not?
   - B Everything was too expensive.
   - A What a pity!
+    - pity n. 怜悯，同情；**遗憾**; vt. 对……表示怜悯；对……感到同情; 复数 pities
   - B But I bought something for you. Happy Birthday!
 - 2
   - C Did you talk to anybody interesting at the party?
@@ -1350,10 +1374,12 @@ Go along George Street, past the Bristol Hotel on your left, and over the bridge
   - D But I danced with somebody beautiful - a girl called Kate.
 - 3
   - E Did you go anywhere on Saturday night?
-  - F No. Nowhere.
+  - F No. **Nowhere**.
+    - nowhere /ˈnəʊweə(r)/ adv. 无处；任何地方都不；毫无结果; n. 无处；任何地方；无名之地; adj. 不存在的；毫无结果的；不知名的
   - E Why not?
   - F Everywhere was closed. There wasn't one club open.
-  - E That's incredible!
+  - E That's **incredible**!
+    - incredible /ɪnˈkredəbl/ adj. 不能相信的，难以置信的；极好的，极大的
   - F So next weekend Im going somewhere more interesting.
 
 ### T10.8 An interview with an astronaut
