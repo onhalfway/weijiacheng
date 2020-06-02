@@ -49,6 +49,10 @@ Refer to USB disk and Net disk
 
 ## Resource Sites
 
+- [Headway Teacher's Site](https://www.oup.com/elt/teacher/headway)
+  - account: 139email
+  - [Headway Fourth Edition Recommended Readers](https://fdslive.oup.com/www.oup.com/elt/teachers/headway/headway_recommended_readers.pdf)
+- [Headway Student's Site](https://www.oup.com/elt/headway)
 - [Headway Student's Site](https://elt.oup.com/student/headway/?cc=cn&selLanguage=zh)
 - partial Headway learning resources in lib path
 - all Headway learning resources in baidu net disk

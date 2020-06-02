@@ -1167,10 +1167,13 @@ Well, I like both London and Paris. But they are very different cities. Take tra
     - Tokyo was originally a small fishing village called Edo. The name changed in 1868 when the Emperor moved there.
       - originally /əˈrɪdʒənəli/ adv. 最初，起初；本来; 
       - Edo castle 江户城堡
+      - emperor /ˈempərə(r)/ n. 皇帝，君主
     - The **architecture** is very modern. There are not many old buildings because of the 1923 earthquake and the Second World War. But traditional Japan is always near, with many **Shinto shrines** and public baths around the city.
       - architecture /ˈɑːkɪtektʃə(r)/ n. 建筑学；建筑风格；建筑式样；架构
+      - modern 英 /ˈmɒdn/ 美 /ˈmɑːdərn/ adj. 现代的，近代的；时髦的; n. 现代人；有思想的人; 比较级 more modern; 最高级 most modern; 复数 moderns
       - Shinto /ˈʃɪntoʊ/ n. 日本的神道教(1945年前为日本国教)
       - shrine /ʃraɪn/ n. 圣地；神殿；神龛；圣祠; vt. 将…置于神龛内；把…奉为神圣; 过去式 shrined; 过去分词 shrined; 现在分词 shrining; 复数 shrines
+      - baths /bɑːðz/ n. 洗澡；浴缸（bath的复数形式）; v. 给…洗澡
   - Visiting Tokyo
     - Tokyo is on the east **coast** of Japan. The summers are hot and **humid**. The most beautiful time of year is spring, when the famous **cherry blossom** is on the trees. The city is huge, but it is one of the safest cities in the world.
       - coast /kəʊst/ n. 海岸；滑行; v. 滑行；（交通工具）快速平稳地移动；得过且过，做事不费力；沿岸航行; 复数 coasts过去式 coasted过去分词 coasted现在分词 coasting第三人称单数 coasts
@@ -1380,13 +1383,15 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - F Everywhere was closed. There wasn't one club open.
   - E That's **incredible**!
     - incredible /ɪnˈkredəbl/ adj. 不能相信的，难以置信的；极好的，极大的
-  - F So next weekend Im going somewhere more interesting.
+  - F So next weekend I'm going somewhere more interesting.
 
 ### T10.8 An interview with an astronaut
 
 - I =Interviewer S =Soichi
 - I Soichi, what exactly is your job?
 - S I'm an aeronautical engineer, and I'm a JAXA astronaut.
+  - aeronautical /ˌeərəˈnɔːtɪkl/ adj. 航空的；航空学的；飞机驾驶员的（等于aeronautic）
+  - astronaut /ˈæstrənɔːt/ n. 宇航员，航天员；太空旅行者
 - I What is JAXA?
 - S JAXA is the Japan Aerospace Exploration Agency.
 - I What did you study at university?
@@ -1395,62 +1400,87 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - S I studied at the University of Tokyo, and I graduated in 1991.
 - I Which part of Japan are you from?
 - S I'm from Yokohama, Kanagawa, which is part of Tokyo.
+  - Yokohama /,jəukə'hɑ:mə; 'jɔ:kɔ:'hɑ:mɑ:/ n. 横滨（日本一城市名）
+  - Kanagawa /kə'nɑ:ɡəwə/ n. 神奈川（日本一个县）
 - I Are you married?
 - S Yes. and I have three children.
 - I What do you like doing when you're on Earth?
 - S Well, I guess my hobbies are jogging and basketball. And I like skiing and camping with my kids.
+  - jogging /ˈdʒɒɡɪŋ/ n. 慢跑; v. 慢跑（jog的ing形式）；轻推；唤起
 - I What are you doing on the space station at the moment?
 - S I'm doing quite a few space walks. I'm going out into space, and I'm checking the instruments on the outside of the space station, to make sure they're working properly.
+  - instrument /ˈɪnstrəmənt/ n. 仪器；工具；乐器；手段；器械; v. 给……装测量仪器
 - I You're part of the Russian crew. What does this mean?
+  - crew /kruː/ n. 队，组；全体人员，全体船员; vi. 一起工作; vt. 使当船员; 复数 crews;
 - S It means that my commander is OIeg Kotov, from Roscosmos, and I'm working in his team. We're studying weather conditions in space, and we're doing experiments with plants to see how they grow in zero gravity.
+  - 俄罗斯联邦航天局 Russian Federal Space Agency 简称RKA，通称Roskosmos
+  - conditions n. （生活或工作等的）条件；（影响某事发生的）物质环境；（**天气、地面等的）情况**; n. 疾病；条款；先决条件;（condition 的复数）
+    - weather conditions 天气状况；气象条件；气象状态
+  - experiment /ɪkˈsperɪmənt/ n. 实验，试验；尝试; v. 尝试；试验；进行实验; 复数 experiments
+  - gravity /ˈɡrævəti/ n. 重力，地心引力；严重性；庄严; 复数 gravities
 - I What do you do when you aren't working?
 - S Well, I spend a lot of time just looking down at you on Earth! And I think how lucky I am to be here. And I wish that everyone could see the Earth from space. Maybe people would stop fighting if they could see how beautiful our planet is.
 
 ### T10.9 Who is it?
 
-- 1 She's got dark brown hair and she's quite pretty. She's wearing boots, and a hat, and a red scarf, and she's jumping in the air. She looks really happy!
+- 1 She('s got) dark brown hair and she's quite pretty. She's wearing boots, and a hat, and a red scarf, and she's jumping in the air. She looks really happy!
+  - brown /braʊn/ adj. 棕色的，褐色的；太阳晒黑的; vi. 变成褐色; n. 褐色，棕色; vt. 使变成褐色
+  - scarf /skɑːf/ n. 围巾；嵌接，嵌接处；头巾领巾; vt. 披嵌接；用围巾围;  复数 scarfs或scarves;
 - 2 He's got short dark hair. He's wearing trainers, and a purple T-shirt, and he's carrying a ball. He isn' t very tall.
+  - trainers /'treɪnəz/ n. 运动鞋；[劳经] 训练员；练习器（trainer的复数）
 - 3 She's wearing a scarf. She's pretty, and she's got long, blond hair, and blue eyes. She isn't smiling. She doesn't look very friendly.
+  - blond /blɒnd/ adj. 金发的; n. 白肤碧眼金发的人
 - 4 He doesn't look very happy. Perhaps he's a businessman. He's wearing a white shirt and a striped tie. He's also wearing black glasses.
+  - striped /straɪpt/ adj. 有条纹的；有斑纹的; v. 被剥去（strip的过去分词）
 
 ### T10.10 Social expressions
 
+- 社交用语
 - 1
   - A Patrick and I are getting married.
+    - Patrick /'pætrɪk/ n. 帕特里克（男子名）
   - B Wow! That's fantastic! Congratulations!
+    - fantastic /fænˈtæstɪk/ adj. 奇异的；空想的；异想天开的；古怪的；**极好的，极出色的**；不可思议的；不切实际的; n. 古怪的人
+    - congratulations /kənˌgrætjʊˈleɪʃənz/ n. 祝贺；恭喜；贺词（congratulation的复数形式）
   - A Thanks. We're both very excited. And a bit nervous.
+    - nervous /ˈnɜːvəs/ adj. 神经的；紧张不安的；强健有力的; 比较级 more nervous; 最高级 most nervous
 - 2
   - C Can I help you?
   - D No, I'm just looking, thanks.
-  - C |ust tell me if you need anything.
+  - C Just tell me if you need anything.
   - D That's very kind.
 - 3
   - E Don't forget it's a Bank Holiday on Monday.
   - F Sorry, what does that mean?
-  - E It means itt a national holiday. The garage is closed - most places are closed.
+  - E It means it's a national holiday. The garage is closed - most places are closed.
+    - garage 英 /ˈɡærɑːʒ; ˈɡærɑːdʒ; ˈɡærɪdʒ/  美 /ɡəˈrɑːʒ,ɡəˈrɑːdʒ/ n. 车库；汽车修理厂；飞机库; vt. 把……送入车库；把（汽车）开进车库
 - 4
   - G We're going to the cinema tonight.
-  - H Oh, lovely! Well, I hope you enjoy the film!
+  - H Oh, **lovely**! Well, I hope you enjoy the film!
+    - lovely adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的; n. 美女；可爱的东西
   - G Thanks. I'll tell you all about it.
   - H Great!
 - 5
   - I Excuse me! This machine isn't working.
-  - J I'm sorry. Let me have a look. Ah! It isn't switched on. That's why!
+  - J I'm sorry. Let me have a look. Ah! It isn't **switched on**. That's why!
   - I Oh, great! Thank you very much.
   - J No problem.
 - 6
   - K Hi. Can I speak to Dave, please?
   - L I'm afraid he isn't here at the moment. Can I take a message?
   - K Yes. Could you ask him to phone Kevin?
+    - Kevin 英 /'kɛvɪn/  美 /'kevɪn/ n. 凯文（男子名）
   - L Sure. I'll do that.
 - 7
-  - M Thanks for the invitation to your party, but Im afraid I cant come.
+  - M Thanks for the invitation to your party, but I'm afraid I can't come.
   - N What a pity! Never mind!
   - M I'm going away that weekend.
   - N It's OK. Another time.
 - 8
   - O/P Bye! Have a safe journey!
   - Q/R Thanks. We'll see you in a couple of days!
+    - a couple of days 一两天两天几天两三天
+    - a couple of times 若干次,好几次,几次, 两下子
   - O/P I hope you have a good time.
   - Q/R We'll try.
 
