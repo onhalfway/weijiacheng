@@ -3,7 +3,7 @@
 - [New Headway Elementary Fourth Edition Workbook](#new-headway-elementary-fourth-edition-workbook)
   - [Unit 8 Eat in or out](#unit-8-eat-in-or-out)
     - [8.6 In a restaurant](#86-in-a-restaurant)
-  - [Sandwich Week 学案 (Chaowai)](#sandwich-week-%e5%ad%a6%e6%a1%88-chaowai)
+  - [Sandwich Week 学案 (Chaowai)](#sandwich-week-学案-chaowai)
   - [8.9 The chef who can't eat his own food](#89-the-chef-who-cant-eat-his-own-food)
   - [Going to a restaurant (Chaowai)](#going-to-a-restaurant-chaowai)
     - [Part one: Choosing a restaurant](#part-one-choosing-a-restaurant)
@@ -114,6 +114,7 @@
 ## Going to a restaurant (Chaowai)
 
 - Daniel去餐厅.mp4
+- hw4e_elem_sbu08-Daniel去餐厅.mp3
 - All right, hello everyone, today's topic, rather this week's topic is 'Going to a restaurant'. You can see, this is Part one. We have five parts. Now over these videos, I will give you a little of sample sentences. I hope that you will write these sentences down and learn them. All right, that is your homework, I trust you to do it. All right, so in the first part, we will talk about how to choose a restaurant. So, how to talk to a friend and decide which restaurant would you like to go to. There are three ways that we do this.
 
 ### Part one: Choosing a restaurant
@@ -186,7 +187,7 @@
 - R: OK. Can I have a name for the reservation, please?
 - H: Harold. Harold Jones.
 - H: Oh, I almost forgot. Can we have a table near a window, please? And in a non-smoking section?
-- R: Our restaurant is entirely non somking. We can't promise you a window seat, but we'll do our best.
+- R: Our restaurant is entirely non smoking. We can't promise you a window seat, but we'll do our best.
 - H: Thank you. If a window seat is unavailable, then anything that's not too close to the kitchen will be fine.
 - H: One last question: what's parking like at the restaurant?
 - R: We have a parking lot behind the restaurant, and there's also space on the street for parking if you need it. Do any of the guests have special needs?

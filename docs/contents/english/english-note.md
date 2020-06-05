@@ -153,7 +153,7 @@
 <tr>
 <th rowspan="2">1</th>
 <th rowspan="2">人称代词 personal pronoun</th>
-<th>主格 nominative case</th>
+<th>主格 Subject pronoun / nominative case</th>
 <td>I</td>
 <td>you</td>
 <td>he</td>
@@ -165,7 +165,7 @@
 </tr>
 </tr>
 <tr>
-<th>宾格 objective case</th>
+<th>宾格 Object pronoun / objective case</th>
 <td>me</td>
 <td>you</td>
 <td>him</td>

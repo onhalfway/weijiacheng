@@ -202,6 +202,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - B My dad was an **accountant** and my mum was an artist.
 - I Did you go to school in Devon?
 - B Yes, I did. I went to a small village school.
+  - village /ˈvɪlɪdʒ/ n. 村庄；村民；（动物的）群落； 复数 villages
 - I Did you enjoy school?
 - B No, I didn't enjoy it at all. I had problems because I was **dyslexic** and couldn't read and write ...
 - I Ah, that's difficult ...
@@ -229,6 +230,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 
 - 1 My grandad was born in 1932. He died in 2009.
 - 2 My parents met in London in 1983. They got married in 1985.
+  - London /ˈlʌndən/ n. 伦敦
 - 3 I arrived late for the lesson. It began at 2 o'clock.
 - 4 I caught the bus to school today. It took just 40 minutes.
 - 5 I had a very busy morning. I sent 30 emails before 10 o'clock.
@@ -474,6 +476,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - A: No, I travelled in the States for six months. I worked in a summer camp near Yellowstone National Park. It was amazing!
 - F: It sounds great! And what's your job now?
 - A: I work in a junior high school in Paris. I teach Russian and English.
+  - Paris /'pærɪs/ n. 巴黎（法国首都）；帕里斯（特洛伊王子）
 - F: Your English is really good! Well, it was very nice to meet you, Alisa!
 - A: Nice to meet you too. Bye!
 
@@ -1052,7 +1055,7 @@ SB p61: WRITING Telling a story p111
 
 ### T9.4
 
-Well, I like both London and Paris. But they are very different cities. Take transport for example. The Metro is cheaper and easier to use than the Underground. And the weather ... well, Paris is certainly hotter than London. And Paris, in fact, is wetter than London; but in London there are more wet days. What about the buildings? Well, ... people say that the architecture in Paris is more beautiful, but the buildings in London are more interesting. And living in the two cities? Well . .. life is faster in London. And the people? ... Mmm, Londoners are generally more polite than Parisians. People in London work harder, and they earn more. In Paris, having a good time is more important.
+Well, I like both London and Paris. But they are very different cities. Take transport for example. The Metro is cheaper and easier to use than the Underground. And the weather ... well, Paris is certainly hotter than London. And Paris, in fact, is wetter than London; but in London there are more wet days. What about the buildings? Well, ... people say that the architecture in Paris is more beautiful, but the buildings in London are more interesting. And living in the two cities? Well . .. life is faster in London. And the people? ... Mmm, **Londoners** are generally more polite than Parisians. People in London work harder, and they earn more. In Paris, having a good time is more important.
 
 ### T9.5 Comparing cities
 
@@ -1488,11 +1491,17 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T11.1 Planning my future
 
-- 1 When I get home, I'm going to relax with my wife.
+- 1 When I get home, I'm going to **relax with** my wife.
+  - relax /rɪˈlæks/ vi. 放松，休息；松懈，松弛；变从容；休养; vt. 放松；使休息；使松弛；缓和；使松懈; relaxing第三人称单数 relaxes
+  - 
 - 2 When I grow up, I'm going to be a racing driver.
-- 3 When the kids are in bed, I m going to sit down and have a glass of wine.
-- 4 When I get a pay rise, I'm going to buy my girlfriend a ring.
+  - racing /ˈreɪsɪŋ/ n. 赛马；竞赛; vi. 赛马（race的ing形式）；竞赛; adj. 比赛的
+- 3 When the kids are in bed, I'm going to sit down and have a glass of wine.
+- 4 When I get **a pay rise**, I'm going to buy my girlfriend a ring.
+  - rise /raɪz/ v. 攀升；起床；升起；休会；（数量）增加；变得更成功；（声响）提高；（风）刮起来；（情感）增强；（毛发）竖起；（土地）凸起；起源；发酵; n. （数量或水平的）增加；**加薪**；（权利等）增强；上升；小丘；（诱饵）游上水面；源头；（楼梯的）级高；晋升；出现
 - 5 When I arrive on Koh Samui Island, I'm going to lie on the beach.
+  - Koh /kəʊ/ n. 鸟叫声; n. (Koh)人名；(泰)谷；(塞)科赫；(柬)戈；(朝)高
+  - Samui 泰国苏梅岛
 - 6 When I retire, I'm going to learn to play golf.
 - 7 When this lesson ends, I'm going to meet my friends for coffee.
 
@@ -1503,46 +1512,72 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - 1 When I get home, I'm going to relax with my wife. I'm not going to talk about work.
 - 2 When I grow up, I'm going to be a racing driver. I'm not going to work in an office like my dad.
 - 3 When the kids are in bed, I'm going to sit down and have a glass of wine. I'm not going to do the washing.
-- 4 When I get a pay rise, I'm going to buy my girlfriend a ring. I'm not going to buy a new
+- 4 When I get a pay rise, I'm going to buy my girlfriend a ring. I'm not going to buy a new car.
 - 5 When I arrive on Koh Samui Island, I'm going to lie on the beach. I'm not going to check emails for a week.
 - 6 When I retire, I'm going to learn to play golf. I'm not going to stay at home and do nothing.
 - 7 When this lesson ends, I'm going to meet my friends for coffee. I'm not going to do my homework.
 
 ### T11.4 Careful! You're going to drop it!
 
-I What a pity! It's going to rain. He cant play tennis.
-2 Look at the time. He's going to be late for his meeting.
-3 Come on! Come on! She's going to win. Fantastic!
-4 Oh no! Jack's on top of the wall! He's going to fall.
-5 Careful! She's going to drop the vase. Too late!
-6 They're so excited. They're going to have a baby. It's due in July.
-7 There's my sister and her boyfriend! Yuk! They're going to kiss.
-8 He's going to sneeze. 'Aaattishooo!' 'Bless you!'
+- 1 What a pity! It's going to rain. He can't play tennis.
+  - pity /ˈpɪti/ n. 怜悯，同情；**遗憾**; vt. 对……表示怜悯；对……感到同情; 复数 pities
+- 2 Look at the time. He's going to be late for his meeting.
+- 3 Come on! Come on! She's going to win. Fantastic!
+- 4 Oh no! Jack's on top of the wall! He's going to fall.
+- 5 Careful! She's going to drop the vase. Too late!
+  - vase /vɑːz/ n. 瓶；花瓶
+- 6 They're so excited. They're going to have a baby. It's **due** in July.
+  - due /djuː/ adj. 到期的；**预期的**；应付的；应得的; n. 应付款；应得之物; adv. 正（置于方位词前）
+- 7 There's my sister and her boyfriend! Yuk! They're going to kiss.
+- 8 He's going to sneeze. 'Aaattishooo!' 'Bless you!'
+  - sneeze /sniːz/ vi. 打喷嚏; n. 喷嚏; 现在分词 sneezing
+  - atishoo /əˈtɪʃuː/ int. 阿嚏（指喷嚏声）; 复数 atishoos
+    - int.是interjection的缩写,感叹词
+  - bless /bles/ vt. 祝福；**保佑**；赞美; n. (Bless)人名；(英、意、德、匈)布莱斯; 过去式 blessed 或blest; 过去分词 blessed 或blest; 现在分词 blessing; 第三人称单数 blesses
 
 ### T11.5 see p89
 
 ### T11.6
 
-- R=Rob F=Friend B=BeckI
-- R First we're going to Eg1pt.
-- F Why? To see the pyramids?
-- B Well, yes, but also we want to take a cruise down the Nile.
+- R=Rob F=Friend B=Becky
+- R First we're going to **Egypt**.
+  - Egypt /ˈiːdʒɪpt/ n. 埃及（非洲国家）
+- F Why? To see the **pyramids**?
+  - pyramids /'pɪrəmɪdz/ n. （埃及）[建] 金字塔（pyramid的复数）；[解剖] 锥体
+- B Well, yes, but also we want to take a **cruise** **down** the **Nile**.
+  -  /kruːz/ v. 乘船游览；以平稳的速度行驶；巡航，巡游，漫游；开车兜风；轻而易举赢得；猎艳（非正式）; n. **乘船游览，游船度假**；巡航，巡游
+  -  Nile /naɪl/ n. 尼罗河（位于非洲）
 - F Fantastic! Where are you going after that?
-- R Well, then we're going to Tanzania to ...
-- F Wow! You're going to climb Kilimanjaro.
+- R Well, then we're going to **Tanzania** to ...
+  - Tanzania /ˌtænzəˈni:ə/ n. 坦桑尼亚（东非国家）
+- F Wow! You're going to climb **Kilimanjaro**.
+  - Kilimanjaro /,kilimən'dʒɑ:rəu/ n. 乞力马扎罗山（非洲最高峰）
 - R Yes, and then we're flying to India.
-- F Are you going to visit the Taj Mahal?
-- B Of course, but we're also going on a tiger safari.
+- F Are you going to visit the **Taj Mahal**?
+  - Taj /tɑːdʒ/ n. 印度泰姬陵；（伊斯兰托钵僧戴的）圆锥形高帽
+  - Mahal /məˈhɑːl/ n. 马哈尔（姓氏）；**宫殿**
+- B Of course, but we're also going **on** a tiger **safari**.
+  - safari /səˈfɑːri/ n. **狩猎远征，游猎**；长途旅行；旅游期间；外出期间
 - F You're going to see tigers!
-- R Well, we hope so. Then we're going to Cambodia to visit the temples of Angkor Wat and ...
-- B ... then to Australia to see Ayers Rock. We want to take photographs of it at sunset. Did you know it turns from pink to purple at sunset?
-- F Really! And are you going to Sydney?
-- R Oh, yes we're taking a flight from Sydney to Antarctica.
+- R Well, we hope so. Then we're going to **Cambodia** to visit the **temples** of **Angkor Wat** and ...
+  - Cambodia /kæmˈbəʊdiə/ n. 柬埔寨（位于亚洲）
+  - Angkor /'æŋkɔ:/ n. 吴哥（柬埔寨的古都） 
+  - Wat n. 英 /wat/  美 /wɑt/ （泰国、柬埔寨及老挝的）佛寺
+  - Angkor Wat 吴哥窟（位于柬埔寨）
+- B ... then to **Australia** to see **Ayers Rock**. We want to take photographs of it at sunset. Did you know it turns from pink to purple at sunset?
+  - Ayers Rock 艾尔斯山（澳大利亚）
+- F Really! And are you going to **Sydney**?
+  - Sydney /ˈsɪdni/ n. 悉尼（澳大利亚港市）
+- R Oh, yes we're taking a flight from Sydney to **Antarctica**.
+  - Antarctica /ænˈtɑːktɪkə/ n. 南极洲
 - B Yeah, it's a day trip to see the coldest place on earth.
-- F I cant believe this. How many more places?
-- R Two. We're flying from Sydney to Peru to ...
+- F I can't believe this. How many more places?
+- R Two. We're flying from Sydney to **Peru** to ...
+  - Peru /pəˈruː/ n. 秘鲁（拉丁美洲国家名）
 - F ... to see Machu Picchu of course.
-- R Yes, and then from Peru to the US to Yellowstone Park to see the supervolcano and perhaps some grizzly bears.
+  - Machu Picchu 马丘比丘（古城，位于秘鲁中部偏南）
+- R Yes, and then from Peru to the US to Yellowstone Park to see the **supervolcano** and perhaps some **grizzly** bears.
+  - grizzly /'grɪzlɪ/ adj. 灰色的; n. 灰熊; 复数 grizzlies比较级 grizzlier最高级 grizzliest
 - B Then home!
 - F Amazing! What a trip! How long is it going to take?
 - R Nine months to a year - we think.
@@ -1551,13 +1586,13 @@ I What a pity! It's going to rain. He cant play tennis.
 
 - 1
   - A Where are they going?
-  - B To the South ofFrance.
+  - B To the South of France.
 - 2
   - A When are they going?
-  - B On May the 2lst.
+  - B **On** May the 2lst.
 - 3
   - A How are they travelling?
-  - B By plane and hired car.
+  - B **By plane** and **hired car**.
 - 4
   - A How long are they staying?
   - B For ten days.
@@ -1570,20 +1605,28 @@ I What a pity! It's going to rain. He cant play tennis.
 
 ### T11.8 Song: Ed, Will, and Ginger - Oats and beans
 
+- ginger /ˈdʒɪndʒə(r)/ n. 姜；姜黄色；精力；有姜味; vt. 用姜给…调味；使某人有活力; adj. 姜黄色的
 - Oats and beans and barley grow
+  - oats /əʊts/ n. 燕麦；燕麦片（oat的复数）；燕麦粥
+  - barley /ˈbɑːli/ n. 大麦
 - As you and I and everyone knows,
 - Oats and beans and barley grows
 - As you and I and everyone knows,
 - A-waiting for a partner.
 - First the farmer sows his seeds,
+  - sow /səʊ/ v. 播种
 - Then he stands and takes his ease.
 - Stamps his feet and claps his hands
+  - stamp n. 邮票；印记；标志；跺脚; vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏; vi. **跺脚**；捣碎；毁掉
+  - clap /klæp/ vi. 鼓掌，拍手；啪地关上; vt. **拍手**，鼓掌；轻轻拍打某人; n. 鼓掌；拍手声
 - And turns around to view his lands
 - A-waiting for a partner
 - Now you're married you must obey,
+  - obey /əˈbeɪ/ vt. 服从，听从；按照……行动; vi. 服从，顺从；听话
 - Must be true in all you say,
 - Must be kind and must be good
 - And help your wife to chop the wood,
+  - chop 英 /tʃɒp/  美 /tʃɑːp/ v. 剁碎，**砍**；降低，削减；向下猛击；削（球）；终止，取消；变化无常; n. （猪、羊等）排骨；砍；掌劈；（复数）腭，下巴；商标；动物饲料；碎浪；（非正式）应得的一份
 - A-waiting for a partner
 - Oats and beans and barley grow
 - As you and I and everyone knows,
@@ -1595,10 +1638,29 @@ I What a pity! It's going to rain. He cant play tennis.
 
 - Presenter: Here's Fiona with the weather for Europe for the next 24 hours.
 - Fiona:
-  - Hello there.
-  - Here's the forecast for Europe today. At the moment there's some wet and windy weather over the UK and Scandinavia. and this is going to move south and east over Poland and Germany. Temperatures in Berlin and Warsaw are now about 20°C but it's cooler in London. 19°C, and cooler still in Oslo, l7°C. To the south it's a bit warmer, in Budapest, 23°C, but to the east, cool and cloudy in Moscow where the temperature is a welcome 15°C after all that extreme summer heat. Moving south it's getting warmer,24°C in Rome, but it's going to be cloudy and showery across much of Italy and also over northern Turkey, with heavy rain in Istanbul and a temperature of 2l°C. Most other Mediterranean countries are going to be warm and dry. Greece will be hot and sunny with a lot of late summer sunshine, 28°C in Athens and warmer still in Portugal and Spain with temperatures up to 32°C. France is going to be cool and cloudy in the north, 20°C in Paris, and hot and stormy in the south with a high of 29°C in Nice.
+  - **Hello there**.
+  - Here's the **forecast** for Europe today. At the moment there's some wet and windy weather **over** the UK and Scandinavia. and this is going to move south and east over **Poland** and Germany. Temperatures in **Berlin** and **Warsaw** are now about 20°C but it's cooler in London. 19°C, and cooler still in **Oslo**, l7°C. To the south it's a bit warmer, in **Budapest**, 23°C, but to the east, cool and cloudy in **Moscow** where the temperature is a welcome 15°C after all that **extreme** summer heat. Moving south it's getting warmer,24°C in **Rome**, but it's going to be cloudy and **showery** **across** much of Italy and also over northern Turkey, with heavy rain in **Istanbul** and a temperature of 2l°C. Most other **Mediterranean** countries are going to be warm and dry. **Greece** will be hot and sunny with a lot of late summer sunshine, 28°C in **Athens** and warmer still in **Portugal** and Spain with temperatures **up to** 32°C. France is going to be cool and cloudy in the north, 20°C in Paris, and hot and **stormy** in the south with a high of 29°C in Nice.
+    - forecast /ˈfɔːkɑːst/ n. （天气、财经等的）预测，预报；预想; v. 预报，预测；预示；预言；进行预报，作预测
+    - Europe /ˈjʊərəp/ n. 欧洲 
+      - european /ˌjʊərəˈpiːən/ adj. 欧洲的；欧洲人的; n. 欧洲人
+    - Scandinavia /ˌskændɪˈneɪviə/ n. 斯堪的纳维亚（半岛）
+    - Poland /ˈpəʊlənd/ n. 波兰（欧洲国家）
+    - Germany /ˈdʒɜːməni/ n. 德国
+    - Berlin /bɝ'lɪn/ n. 柏林
+    - Warsaw /'wɔ:sɔ:/ n. 华沙（波兰首都）
+    - Oslo /ˈɒzləʊ/ n. 奥斯陆（挪威首都）
+    - Budapest /'bju:dəpest/ n. 布达佩斯（匈牙利的首都）
+    - Moscow /'mɔskəʊ/ n. 莫斯科（俄罗斯首都）
+    - Rome /rəʊm/ n. 罗马（意大利首都）
+    - showery /ˈʃaʊəri/ adj. 阵雨的；多阵雨的
+    - Italy /'ɪtəlɪ/ n.	意大利（欧洲）
+    - Istanbul /ˌɪstænˈbul/ n. 伊斯坦布尔（土耳其城市）
+    - Mediterranean /ˌmedɪtəˈreɪniən/ n. (Mediterranean) 地中海地区；地中海沿岸国家居民; adj. (Mediterranean) 地中海的，地中海沿岸的；地中海沿岸国家居民的；（肤色）浅黑的
+    - Greece /ɡriːs/ n. 希腊（欧州南部国家）
+    - Athens /ˈæθɪnz/ n. 雅典（希腊首都）
+    - Portugal /ˈpɔːtʃʊɡl/ n. 葡萄牙（欧洲西南部国家）
   - And that's your European weather for today. I'll be back at lunchtime with an update.
-- PresenterT: hanky ou Fiona,a nd now ...
+- Presenter: Thank you Fiona, and now ...
 
 ### T11.10 see p92
 
@@ -1633,68 +1695,99 @@ I What a pity! It's going to rain. He cant play tennis.
   - B Good idea! Why don't we take a picnic?
 - 2
   - A What an awful day! It's raining again.
-  - B I know It's so cold and wet! What shall wc do?
-  - A Let's stay in and watch a DVD.
+  - B I know It's so cold and wet! What shall we do?
+  - A Let's **stay in** and watch a DVD.
+    - stay in 呆在家里；不外出
   - B Oh no, that's boring! We did that last night.
   - A OK then, shall we go out for a coffee?
-  - B Great! I'll get my coat and an umbrella!
+  - B Great! I'll **get** my coat and an umbrella!
 
 ## Unit 12 Never ever
 
 ### T12.1 Been there! Done that!
 
-- K=Kyle L=Lara
+- K=Kyle /kaɪl/ n. （苏）狭海峡，海峡；n. (Kyle)人名；(英)凯尔；(瑞典)许勒；(西)基莱 L=Lara /'lærə; 'lɑ:rə/ n. 拉腊（Laura的异体，女子名）
 - K Hi Lara! Are you and Mel ready for your trip?
-- L Yeah, nearly, we leave next Monday for Rome.
-- K Ah, Rome, I ve been to Rome many times.
+- L Yeah, **nearly**, we leave next Monday for Rome.
+  - Rome /rəʊm/ n. 罗马（意大利首都）
+- K Ah, Rome, I've been to Rome many times.
 - L Well, I've never been there. It's my first time in Europe.
 - K Really? What about your friend, Mel?
 - L She's been to London and Paris, but she hasn't been to Rome.
-- K Ah, London and Paris. Ive been there, too.
+- K Ah, London and Paris. I've been there, too.
 - I studied in Paris for a year before I went to work in New York. Have you ever been to the US?
 - L No, I haven't, I haven't travelled much at all, so I'm really excited.
-- K Oh. I ve been to North and South America so many times, and I've ...
+- K Oh. I've been to North and South America so many times, and I've ...
 - L I'm sure you have, Kyle. Oh dear, look at the time! Mel's waiting for me. We've got so much to do. Bye Kyle, we'll send you a postcard.
 
 ### T12.2 see p94
 
+I've = I have; She's = She has
+
 ### T12.3
 
 - A Have you ever been to Greece?
+  - Greece /ɡriːs/ n. 希腊（欧州南部国家）
 - B No, I haven't.
 - A Have you ever been to Italy?
+  - Italy /'ɪtəlɪ/ n.	意大利（欧洲）
 - B Yes, I have.
-- A When did you go?
+- A When did you **go**?
 - B Two years ago.
 - A Where did you go?
 - B Rome, Florence, and Venice.
-- A FantasticD! id you have a good time?
+  - Florence /'flɔrəns/ n. 佛罗伦萨（意大利都市名）；弗洛伦斯（女子名）
+  - Venice /ˈvɛnɪs/ n. 威尼斯（意大利港市）
+- A Fantastic! Did you have a good time?
 - B Yes, I did. It was great!
 
 ### T12.4 Getting ready to go!
 
 - L=Lara M=Mel
 - L Where's the list?
-- M I ve got it. OK, let's check through. Er- we've bought new backpacks, we did that a while ago.
+- M I've got it. OK, let's **check through**. Er- we've bought new backpacks, we did that a while ago.
+  - backpack /ˈbækpæk/ n. **双肩背包，背包；远足用的背包**; vt. 挑运；把…放入背包; vi. 背负简便行李旅行；挑运; 复数 backpacks
 - L They look quite big. I hope we can carry them.
-- M No worries. I haven't finished packing mine yet. Have you?
-- L Not yet, just one or two more things to go in. Oh, have you collected the euros from the bank?
+- M **No worries**. I haven't finished packing mine yet. Have you?
+  - no worry 一无挂虑；无需烦恼
+- L Not yet, just one or two more things to **go in**. Oh, have you **collected** the euros **from** the bank?
+  - collect /kəˈlekt/ vt. 收集；募捐; vi. 收集；聚集；募捐; adv. 由收件人付款地; adj. 由收件人付款的 (collect call 对方付费电话); collected 领取(工资等)
+  - euros /'ju:rəus/ n. 欧元；欧洛斯风；带雨东南暴风（euro复数）
 - M Yup. I ve just collected five hundred for you and five hundred for me.
-- L All our savings. I hope it's enough!
+- L All our **savings**. I hope it's enough!
+  - savings /'sevɪŋz/ n. 储蓄；存款；救助；节省物（saving的复数形式）
 - M No worries. We can stay with my aunt in London.
 - L Have you emailed her yet?
-- M Yeah,s he's just emailed back. She's going to meet us at the airport when we fly in to London from Rome.
-- L Fantastic. Hey, look, I've just found out the weather in Rome for next week. Hot and sunny!
-- M Yeah, it's going to be so good. We're going to leave winter here, and arrive in the middle of summer in Europe.
+- M Yeah,she's just emailed **back**. She's going to meet us at the airport when we **fly in** to London from Rome.
+- L Fantastic. Hey, look, I've just **found out** the weather in Rome for next week. Hot and sunny!
+  - find out v. **找出，查明**；发现，揭发
+- M Yeah, it's going to be so good. We're going to leave winter here, and arrive **in the middle of summer** in Europe.
+  - 我们将离开这里的冬天，来到欧洲的仲夏。
 - L What about the tickets?
-- M I think we only need passports, but I've printed e-tickets just in case, but I haven't checked in online yet. You can only do that 24 hours before the flight.
-- L Oh MeM am so excited. I cant wait.
+- M I think we only need passports, but I've printed e-tickets **just in case**, but I haven't **checked in** online yet. You can only do that 24 hours before the flight.
+  - just in case 以防万一
+  - check in 报到，记录；到达并登记
+    - check in办理登记手续 check out结帐后离开
+- L Oh Mel! I am so excited. I cant wait.
 
 ### T12.5 Tense revision
 
+- tense  /tens/ adj. 紧张的；拉紧的; vt. 变得紧张；使拉紧; vi. 拉紧，变得紧张; n. **时态**
+- revision /rɪˈvɪʒn/ n. [印刷] 修正；**复习**；修订本; 复数 revisions
 - Lara
-- I'm really excited about my trip to Europe. I haven't travelled much outside Australia before. Just once, two years ago, I went on holiday to Bali with my family but I've never been to Europe or the US. I often travel inside Australia. Last year I flew to Perth to visit my cousin, who lives there. It's a five-hour flight from Sydney, where I live. Australia's a big country! Also, I've been up to Cairns in the north three times. I learned to scuba dive there on the Great Barrier Reef.
-- We've just finished packing, and now we're waiting for the taxi to take us to the airport. I've never flown on a 747 before.It's a very long flight. It takes 20 hours to get to Rome. I'm going to watch films all the way. I can't wait!
+- I'm really excited about my trip to Europe. I haven't travelled **much** outside Australia before. Just once, two years ago, I went on holiday to Bali with my family but I've never been to Europe or the US. I often travel inside Australia. Last year I flew to Perth to visit my cousin, who lives there. It's a five-hour flight from Sydney, where I live. Australia's a big country! Also, I've been **up** to Cairns in the north three times. I **learned to** scuba dive there **on** the Great Barrier Reef.
+  - Bali /'bɑ:li/ n. (Bali) （印度尼西亚）巴厘岛
+  - Perth 英 /pɜːθ/  美 /pɜːrθ/ n. 珀斯，佩斯（澳大利亚城市）
+  - cousin /ˈkʌzn/ n. 堂兄弟姊妹；表兄弟姊妹; 复数 cousins
+  - Cairns /kernz/ n. 凯恩斯（澳大利亚港口）
+  - scuba  /'skuːbə; 'skjuːbə/ n. 水肺；水中呼吸器; 复数 scubas
+  - scuba dive 水肺潜水，蛙潜
+  - barrier /ˈbæriə(r)/ n. 障碍物，屏障；界线; vt. 把……关入栅栏
+  - reef /riːf/ n. 暗礁；[地质] 矿脉；收帆; vt. 收帆；缩帆; vi. 缩帆；收帆
+  - Great Barrier Reef 大堡礁
+- We've just finished packing, and now we're waiting for the taxi to take us to the airport. I've never flown **on** a 747 before. It's a very long flight. It takes 20 hours to **get to** Rome. I'm going to watch films **all the way**. I can't wait!
+  - fly 复数 flies; 过去式 flew; 过去分词 flown; 现在分词 flying
+  - all the way 一路上；自始至终
 
 ### T12.6 No, not yet!
 
@@ -1728,27 +1821,40 @@ I What a pity! It's going to rain. He cant play tennis.
 ### T12.8
 
 - 1 Elsa from Birmingham, England
-  - OK, I've been to Glastonbury five times now. My highlights this year were: pear cider to drink, and the American diner van with the best sausages and chips ever. However, I was very disappointed with the music on Saturday night. Dls played House music all night. I love House but this was rubbish. I got really bored, so I went back to my tent to finish a bottle of pear cider with friends!
+  - OK, I've been to Glastonbury five times now. My highlights this year were: pear cider to drink, and the **American diner van** with the best sausages and chips ever. However, I was very disappointed with the music on Saturday night. DJs played House music all night. I love House but this was rubbish. I got really bored, so I went back to my tent to **finish** a bottle of pear cider with friends!
+    - Glastonbury n. 格拉斯顿堡（位于英国英格兰西南）；摇滚世代（电影名）；英国格拉斯顿伯里音乐节
     - cider /ˈsaɪdə(r)/ n. 苹果酒；苹果汁; 复数 ciders
     - Pear Cider 梨酒, 青梨苹果酒, 梨子酒
+    - diner /ˈdaɪnə(r)/ n. 用餐者；路边小饭店；餐车式简便餐厅
+    - van /væn/ n. 先锋；厢式货车；增值网; vt. 用车搬运; n. (Van)人名；(老、泰、柬、缅)万; 过去式 vanned过去分词 vanned现在分词 vanning复数 vans
+    - DJ abbr. 流行音乐播音员，流行音乐节目主持人（disc jockey）
+    - House music 家庭音乐, 电子乐的一种, 大众化舞曲
 
 - 2 Daniel Evans from Wales
-  - Last Wednesday at 2.30 in the afternoon, I decided that I wanted to go to Glastonbury. I was lucky! I found a ticket on the Glastonbury message boards. I'm so glad I went. The music was brilliant. Sometimes it took a long time to get to the stages.The queues were long but always friendly. In the busy "real world" it's difficult to have good conversations with people. At Glastonbury you can do this. It's a great festival, with a great crowd of people. What more could you want? 100,000 friendly people. I wish the rest of life was the same! Four days out of 365 is a good start!
+  - Last Wednesday at 2.30 in the afternoon, I decided that I wanted to go to Glastonbury. I was lucky! I found a ticket on the Glastonbury message boards. I'm so glad I went. The music was brilliant. Sometimes it took a long time to **get to** the stages. The queues were long but always **friendly**. In the busy "real world" it's difficult to have good conversations with people. At Glastonbury you can do this. It's a great festival, with a great crowd of people. **What more could you want?** 100,000 friendly people. I wish the rest of life was the same! Four days out of 365 is a good start!
+    - Daniel /'dænjəl/ n. 丹尼尔（男子名）
+    - Evans /'evənz/ n. 埃文斯（姓氏）
+    - Wales /weɪlz/ n. 威尔士（英国大不列颠岛西南部地区）
+    - queue /kjuː/ n. 队列；长队；辫子; vi. 排队；排队等候; vt. 将…梳成辫子；使…排队; 过去式 queued; 过去分词 queued; 现在分词 queuing 或 queueing; 复数 queues; 第三人称单数 queues
 
 ### T12.9 Take and get
 
 - 1
   - A Ugh! It's really hot in here.
-  - B Why don t you take off your jumper?
+  - B Why don't you take off your jumper?
+    - jumper /ˈdʒʌmpə(r)/ n. 跳高运动员；跳跃者；工作服；**妇女穿的套头外衣**
 - 2
   - A Is your office near where you live?
-  - B No, it takes a long time to get to work.
+  - B No, it takes a long time to **get to work**.
 - 3
-  - A What are your work colleagues like?
-  - B Great! We all get on really well.
+  - A What are your work colleagues **like**?
+  - B Great! We all **get on really well**.
 - 4
-  - A How often are there exhibitions in the museum?
-  - B They take place regularly, every two months.
+  - A **How often** are there exhibitions in the museum?
+    - exhibition /ˌeksɪˈbɪʃn/ n. 展览，显示；展览会；展览品; 复数 exhibitions
+  - B They **take place** regularly, **every two months**.
+    - take place 发生；举行
+    - regularly /ˈreɡjələli/ adv. 定期地；有规律地；整齐地；匀称地
 - 5
   - A Do you like learning English?
   - B It's OK, but sometimes I get really bored!
@@ -1756,28 +1862,39 @@ I What a pity! It's going to rain. He cant play tennis.
 ### T12.10
 
 - 1 The best way to get to the airport is to take a taxi.
-- 2 How long does it take if you go by train?
+- 2 How long does it take if you **go by train**?
 - 3 I haven't got a camera. I take photos with my iPhone.
-- 4 Sue has taken her driving test three times, and she's failed every time.
-- 5 Are you still getting ready? We're going to be so late!
-- 6 The doctor told me to take it easy if I want to get better soon.
+- 4 Sue has **taken** her driving test three times, and she's failed every time.
+- 5 Are you still **getting ready**? We're going to be so late!
+- 6 The doctor told me to **take it easy** if I want to get better soon.
 - 7 It rained on the day we got married. We got very wet, but still had a great day.
-- 8 You can t get on the bus with that big dog. Please, get off!
+- 8 You can't **get on** the bus with that big dog. Please, **get off**!
 
 ### T12.11 Travel announcements
 
-- 1 The 11.55 for Newcastles topping at Peterborough, York and Darlington is now ready to board on Platform 10. There is a buffet car on this train. Please check that you have all your luggage with you.
+- announcements n. 公告；注意事项（announcement的复数）
+- 1 The 11.55 for Newcastle stopping at Peterborough, York and Darlington is now ready to **board** on Platform 10. There is a **buffet car** on this train. Please check that you **have** all your luggage with you.
+  - Newcastle /ˈnjuːkɑːsl/ n. 纽卡斯尔（英国港市）
+  - Peterborough 英 /ˈpiːtəbʌrə/ 美 /ˈpiːtərbəroʊ/ n. 彼得伯勒（加拿大城市名）
+  - York /jɔːk/ n. 约克郡；约克王朝
+  - Darlington /'dɑ:liŋtən/
+  - buffet n. 自助餐；小卖部；打击；猛烈冲击; vt. 与…搏斗；连续猛击; vi. 斗争；奋勇前进; adj. 自助的；自助餐的英 /ˈbʊfeɪ;ˈbʌfɪt/  美 /bəˈfe; bʌfɪt/ 
+  - luggage /ˈlʌɡɪdʒ/ n. 行李；皮箱
 - 2 This is the number 22 for Piccadilly Circus. Next stop Green Park. Stand back from the doors, please.
-- 3 Flight 8A.1536t o New York is now ready for boarding at Gate 58. Will passengers in rows 12 to 20 please board first. Passengers are reminded to keep their hand luggage with them at all times.
+  - Piccadilly /,pikə'dili/ n. 皮卡迪利大街（伦敦的繁华街道）
+  - circus 英 /ˈsɜːkəs/  美 /ˈsɜːrkəs/ n. 马戏；马戏团; 复数 circuses
+- 3 Flight BA1536 to New York is now ready for boarding at Gate 58. **Will passengers in rows 12 to 20 please board first. Passengers are reminded to keep their hand luggage with them at all times.**
+  - passenger /ˈpæsɪndʒə(r)/ n. 旅客；乘客；过路人；碍手碍脚的人; 复数 passengers
 
 ### T12.12
 
-- Conversation I
+- Conversation 1
   - A Next, please!
-  - B A day return to Oxford, please.
+  - B A day **return** to Oxford, please.
   - A That's €12.70.
   - B Thank you. What time does the next train leave?
-  - A At 9.55. The platform number has just gone up on the departures board.
+  - A At 9.55. The platform number has just **gone up** on the departures board.
+    - departure /dɪˈpɑːtʃə(r)/ n. 离开；出发；违背; 复数 departures
   - B Oh, yes. I can see. Thank you very much.
   - A Have a good journey!
 
@@ -1786,23 +1903,26 @@ I What a pity! It's going to rain. He cant play tennis.
   - B No, it doesn't. You need the 360.
   - A Where can I get it?
   - B From that bus stop over there.
-  - A Oh, thanks for your help
+  - A Oh, thanks for your help.
   - B Don't mention it.
 
 ### T12.13
 
-- A=Assistant L=Lara M=Mel
+- A=Assistant  /əˈsɪstənt/  L=Lara M=Mel
+- assistant n. 助手，助理，助教; adj. 辅助的，助理的；有帮助的; 复数 assistants
 - A Have you checked in online?
-- M Yes,we have.
-- A Fine. How many suitcases have you got?
+- M Yes, we have.
+- A Fine. How many suitcases (have) you (got)?
 - L We haven't got suitcases, just backpacks.
 - A Oh, yes. Can you put them on the scales?
+  - scales /skeilz/ n. 天平；磅秤；鳞屑；缩放
 - M Here you are ...
-- A They're fine. And how many pieces of hand luggage?
+- A They're fine. And how many **pieces** of hand luggage?
+  - piece n. 块；**件**；篇；硬币; vt. 修补；接合；凑合; 过去式 pieced; 过去分词 pieced; 现在分词 piecing; 复数 pieces; 第三人称单数 pieces
 - L Just these bags.
 - A. They're fine, too. You board from Gate 9 at 10.20.
 - L Where do we go now?
-- A To the departure gate and security check they're over there. Have a nice flight!
+- A To the departure gate and security check they're over there. **Have a nice flight!**
 - M Thanks very much. Goodbye.
 
 ### T12.14 see pll7
