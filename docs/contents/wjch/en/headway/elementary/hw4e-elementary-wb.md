@@ -115,7 +115,8 @@
 
 - Daniel去餐厅.mp4
 - hw4e_elem_sbu08-Daniel去餐厅.mp3
-- All right, hello everyone, today's topic, rather this week's topic is 'Going to a restaurant'. You can see, this is Part one. We have five parts. Now over these videos, I will give you a little of sample sentences. I hope that you will write these sentences down and learn them. All right, that is your homework, I trust you to do it. All right, so in the first part, we will talk about how to choose a restaurant. So, how to talk to a friend and decide which restaurant would you like to go to. There are three ways that we do this.
+- All right, hello everyone, today's topic, **rather** this week's topic is 'Going to a restaurant'. You can see, this is Part one. We have five parts. Now over these videos, I will give you a little of sample sentences. I hope that you will write these sentences down and learn them. All right, that is your homework, I trust you to do it. All right, so in the first part, we will talk about how to choose a restaurant. So, how to talk to a friend and decide which restaurant would you like to go to. There are three ways that we do this.
+  - rather /ˈrɑːðə(r)/ adv. 宁可，宁愿；相当；**准确地说**；或多或少地; conj. 而不是; int. 当然啦（回答问题时用）
 
 ### Part one: Choosing a restaurant
 
@@ -141,7 +142,7 @@
     - hit the spot 使人满足；正合需要；恰到好处
 
 - We need some examples. You can put almost (here list) into these gaps.
-  - Fried chicken, Omelet, Pizza, Kebab, Fish, Steak, Pasta, Rice, Soup, Broth, Tossed salad, Dressing
+  - Fried chicken, Omelet n. 煎蛋卷；炒鸡蛋；鸡蛋烧, Pizza, Kebab 英 /kɪˈbæb/  美 /kɪˈbɑːb/ n. （印）烤肉串；烤腌羊肉串（等于kabob）；复数 kebabs, Fish, Steak, Pasta, Rice, Soup, Broth /brɔːθ/ n. 肉汤；液体培养基；复数 brothes, Tossed salad, Dressing
 
 - Page 3
 - 2 Choosing a country/area whose food we want to eat.
