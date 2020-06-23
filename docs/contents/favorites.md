@@ -185,6 +185,11 @@ Refer to Tencent Docs
   - [Chrome保存的HAR文件怎么打开？](https://blog.csdn.net/yeyiqun/article/details/99310869?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5)
 - [Internet Browser](Firefox)
 - [Fiddler - web debugging proxy](https://www.telerik.com/fiddler)
+- [database-tool]
+  - [DataGrip](https://www.jetbrains.com/datagrip/)
+  - [Navicat](https://www.navicat.com/en/)
+  - [Oracle SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
+  - [SQuirreL SQL Client](http://squirrel-sql.sourceforge.net/)
 
 ## 文史
 
