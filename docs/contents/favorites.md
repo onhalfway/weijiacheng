@@ -398,6 +398,7 @@ Refer to Tencent Docs
 
 ## Work
 
+- [CIDR calculator](https://www.ipaddressguide.com/cidr)
 - [Oralce Database Blog](https://mikedietrichde.com/)
 - [jobs - indeed.com](https://www.indeed.com/)
 - [indeed.com](https://cn.indeed.com)
