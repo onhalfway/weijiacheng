@@ -1,6 +1,7 @@
 # Writing Composition
 
 - [Writing Composition](#writing-composition)
+  - [online shopping](#online-shopping)
   - [Lesson 22 Colour](#lesson-22-colour)
   - [travel plan](#travel-plan)
   - [movie transcript](#movie-transcript)
@@ -13,11 +14,20 @@
     - [Jeff: 2019 new Coronavirus](#jeff-2019-new-coronavirus)
   - [Self-nominations](#self-nominations)
     - [Jeff](#jeff)
-    - [Excellent:](#excellent)
-    - [Excellent:](#excellent-1)
+    - [Excellent](#excellent)
+    - [Excellent](#excellent-1)
     - [Excellent](#excellent-2)
     - [Great](#great)
     - [good](#good)
+
+## online shopping
+
+- 网购已经成为了人们生活的一个重要组成部分。报刊Teens 举办了一个征文活动，邀请大家就网购谈谈自己的看法。请你根据提示问题，写一篇英文短文参加此次活动。
+  - 提示词：convenient, compare, save money, dangerous
+  - What are the advantages of online shopping?
+  - What are the disadvantages of online shopping?
+  - What do you think of online shopping?
+- Online shopping is a very important part of our life. It has several advantages. It’s convenient because you can shop at any time and only need a computer. Also, you can compare the prices of the same product to save money. On the other side online shopping has some disadvantages. We can’t see the real goods. They may not be the same as what you think. I think it’ll become the main trend of shopping. Online shopping is more and more popular. It’s changing our life.
 
 ## Lesson 22 Colour
 
@@ -34,7 +44,6 @@ Hope you will enjoy your trip and have a good time!
 
 Best wishes
 yours Jeff
-
 
 ## movie transcript
 
@@ -113,7 +122,7 @@ I have many hobbies and interests. Besides studying hard, I also like Math, prog
 
 I hope to join the club and waiting for the good news. Thanks!
 
-### Excellent:
+### Excellent
 
 Dear club president,
 
@@ -123,7 +132,7 @@ I'm in seventh grade now, what I want to join most is the tennis club. I'm good 
 
 The above is my introduction to myself, I would like to join the club very much.
 
-### Excellent:
+### Excellent
 
 Dear club president,
 
