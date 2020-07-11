@@ -2,12 +2,12 @@
 
 [Back to TOC](../)
 
-> Hello everyone, welcome to the video instruction of New Concept English book two. I’m Hou Yinglin from the English department of Beijing Foreign University. It’s my great pleasure to be involved in the lecturing of this wonderful English textbook, and I hope all of you will enjoy the lessons and will make remarkable progress in your English language learning. We’re following all that this course has to offer.
-> Key words and expressions
-> Questions on the text
-> Language points
-> Key structures and usage
-> At attach interest. Rome is not built in one day.
+Hello everyone, welcome to the video instruction of New Concept English book two. I’m Hou Yinglin from the English department of Beijing Foreign University. It’s my great pleasure to be involved in the lecturing of this wonderful English textbook, and I hope all of you will enjoy the lessons and will make remarkable progress in your English language learning. We’re following all that this course has to offer.
+Key words and expressions;
+Questions on the text;
+Language points;
+Key structures and usage;
+At attach interest. Rome is not built in one day.
 
 - [Lesson 1 A private conversation 私人谈话](./nce2-lession-01.md)
 - [](./nce2-lession-02.md)

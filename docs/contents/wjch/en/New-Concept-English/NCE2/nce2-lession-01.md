@@ -48,16 +48,17 @@ Last week I went to the theatre. I had a very good seat. The play was very inter
 
 ## 课文详注Further notes on the text
 
-- Ok, that’s it for the questions and answers. Now, let’s look at the language points.
+Ok, that’s it for the questions and answers. Now, let’s look at the language points.
+
 - Language points:
-- go to the cinema / show, go to the bank / post office
-- I did not enjoy the meal / book.
-- The food is getting cold.
-- Do you hear me?
-- He’s not listening to me.
-- Did you see Sam yesterday?
-- She’s watching TV.
-- Please pay attention to that picture on the wall.
+  - go to the cinema / show, go to the bank / post office
+  - I did not enjoy the meal / book.
+  - The food is getting cold.
+  - Do you hear me?
+  - He’s not listening to me.
+  - Did you see Sam yesterday?
+  - She’s watching TV.
+  - Please pay attention to that picture on the wall.
 
 ## Conclusion (Complimentary Close)
 

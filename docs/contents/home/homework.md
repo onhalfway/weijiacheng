@@ -18,6 +18,7 @@
 
 ## Social Practice
 
+- refer to onhalfway repository
 - [2-class](https://www.2-class.com/): weijiacheng2918
 - [volunteer-110105105148907-志愿者-北京市志愿服务联合会](https://www.bv2008.cn/show/272570.html)
 - [垃圾分类之有害垃圾篇](https://r.xiumi.us/board/v5/4qwRy/170511844)
