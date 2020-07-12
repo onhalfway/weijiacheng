@@ -31,6 +31,7 @@ private, conversation, go to the theatre, talk loudly, angry angrily, turn round
   - He said ‘It’s none of your business. It’s a private conversation’.
 
 ## 课文
+
 Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it (the play). A young man and a young woman were sitting behind me. They were talking loudly. I got very angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention (to me). In the end (at last), I could not bear (/ stand) it. I turned round again. 'I can't hear a word!' I said angrily. ‘It’s none of your business,' the young man said rudely. 'This is a private conversation!'
 
 ## 单词和短语
