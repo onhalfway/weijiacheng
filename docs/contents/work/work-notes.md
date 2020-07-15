@@ -1,10 +1,10 @@
 # TOC of Notes
 
 - [TOC of Notes](#toc-of-notes)
-  - [十大ISP服务商分为](#%e5%8d%81%e5%a4%a7isp%e6%9c%8d%e5%8a%a1%e5%95%86%e5%88%86%e4%b8%ba)
+  - [十大ISP服务商分为](#十大isp服务商分为)
   - [MacOS](#macos)
   - [tools](#tools)
-  - [常见 DNS 记录的类型](#%e5%b8%b8%e8%a7%81-dns-%e8%ae%b0%e5%bd%95%e7%9a%84%e7%b1%bb%e5%9e%8b)
+  - [常见 DNS 记录的类型](#常见-dns-记录的类型)
   - [Oracle WiFi Hotspot AP Access Point](#oracle-wifi-hotspot-ap-access-point)
   - [Acronym](#acronym)
 
@@ -31,12 +31,15 @@
 
 ## tools
 
-- [Find your IP address: search <what is my ip> on google.com](https://www.google.com/search?q=what+is+my+ip)
-- [what is my ip](https://www.whatismyip.com/)
-- [curl -s -m 10 http://whatismyip.akamai.com/](http://whatismyip.akamai.com/)
-- [search ip](https://ipleak.com/)
-- [GeoIP](https://ip.cn/)
-- [baidu ip](http://www.ip138.com/)
+- IP Address Lookup
+  - [Find your IP address: search <what is my ip> on google.com](https://www.google.com/search?q=what+is+my+ip)
+  - [what is my ip](https://www.whatismyip.com/)
+  - [curl -s -m 10 http://whatismyip.akamai.com/](http://whatismyip.akamai.com/)
+  - [search ip](https://ipleak.com/)
+  - [GeoIP](https://ip.cn/)
+  - [baidu ip](http://www.ip138.com/)
+  - [ipdata](https://ipdata.co/?ref=whatismyip.com)
+  - [ip2location](http://www.ip2location.com/)
 - [Deli Vault](http://www.nbdeli.com/service/down_search_list.php?id=13916)
 - [Deli Vault](http://www.nbdeli.com/images/goods_file0/2019/09/15681863106151.pdf)
 - [Deli Vault](https://raw.githubusercontent.com/onhalfway/weijiacheng/master/my/deli-4055.pdf)
