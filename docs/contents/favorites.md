@@ -132,6 +132,7 @@ Refer to Tencent Docs
 - [IDE - Eclipse](https://www.eclipse.org/)
 - [IDE - IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
+  - [MobaXterm Home Edition](https://mobaxterm.mobatek.net/download-home-edition.html)
 - [NetSarang](C:\Users\kehwei\AppData\Local\Temp\Patches\xshell.exe)
 - [calibre ebook reader](https://calibre-ebook.com/download_portable)
 - [百度短网址](http://dwz.cn/)
@@ -233,6 +234,7 @@ Refer to Tencent Docs
 - [Python进阶](https://mp.weixin.qq.com/s/KVsdLhEdxdSskDtkvTv2VQ)
   - [Intermediate Python](http://book.pythontips.com/en/latest/)
 - [Wiki How](https://www.wikihow.com/)
+- [17 Best Sites to Download Free Books in 2020](https://www.lifewire.com/download-free-books-3482754)
 
 ## 英文新闻网站
 
