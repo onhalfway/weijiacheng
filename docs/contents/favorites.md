@@ -192,6 +192,8 @@ Refer to Tencent Docs
   - [Navicat](https://www.navicat.com/en/)
   - [Oracle SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
   - [SQuirreL SQL Client](http://squirrel-sql.sourceforge.net/)
+- [True Ping](https://sourceforge.net/projects/tping/)
+  - 可能依赖先前的vc++运行库msvcr71.dll。把msvcr71.dll和tping.exe复制到%SystemRoot%目录下. http://blog.sina.com.cn/s/blog_60a4fcef01019rpd.html
 
 ## 文史
 
