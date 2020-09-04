@@ -195,6 +195,7 @@ Refer to Tencent Docs
   - [SQuirreL SQL Client](http://squirrel-sql.sourceforge.net/)
 - [True Ping](https://sourceforge.net/projects/tping/)
   - 可能依赖先前的vc++运行库msvcr71.dll。把msvcr71.dll和tping.exe复制到%SystemRoot%目录下. http://blog.sina.com.cn/s/blog_60a4fcef01019rpd.html
+- 
 
 ## 文史
 
@@ -385,6 +386,7 @@ Refer to Tencent Docs
 - [XShell](https://www.netsarang.com/)
 - [Royal TSX](https://www.royalapps.com/ts/mac/features)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
+- [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 
 ## Security
 
