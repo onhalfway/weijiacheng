@@ -384,6 +384,7 @@ Refer to Tencent Docs
   - [Bitvise SSH Server](https://www.bitvise.com/ssh-server-download)
 - [WinSCP](https://winscp.net/eng/index.php)
 - [XShell](https://www.netsarang.com/)
+  - https://www.netsarang.com/en/free-for-home-school/
 - [Royal TSX](https://www.royalapps.com/ts/mac/features)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
