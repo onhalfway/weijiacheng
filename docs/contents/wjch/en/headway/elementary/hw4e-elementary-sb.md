@@ -3,7 +3,92 @@
 The Copyright belongs to the author
 
 - [New Headway Elementary Fourth Edition Student Book](#new-headway-elementary-fourth-edition-student-book)
-  - [Tape scripts](#tape-scripts)
+  - [Tapescript](#tapescript)
+  - [Unit 1 You and me](#unit-1-you-and-me)
+    - [T1.1 The alphabet](#t11-the-alphabet)
+    - [T1.2 Hello!](#t12-hello)
+    - [T1.3](#t13)
+    - [T1.4](#t14)
+    - [T1.5](#t15)
+    - [T1.6 Rick's family](#t16-ricks-family)
+    - [T1.7](#t17)
+    - [T1.8](#t18)
+    - [T1.9](#t19)
+    - [T1.10 Spelling](#t110-spelling)
+    - [T1.11 ANNALISA's BLOG](#t111-annalisas-blog)
+    - [T1.12](#t112)
+    - [T1.13](#t113)
+    - [T1.14](#t114)
+    - [T1.15](#t115)
+    - [T1.16](#t116)
+  - [Unit 2 A good job!](#unit-2-a-good-job)
+    - [T2.1 TWO OUTDOOR JOBS](#t21-two-outdoor-jobs)
+    - [T2.2](#t22)
+    - [T2.3](#t23)
+    - [T2.4 Questions and negatives](#t24-questions-and-negatives)
+    - [T2.5](#t25)
+    - [T2.6](#t26)
+    - [T2.7 Stress and intonation /ˌɪntəˈneɪʃn/ n. 声调，语调；语音的抑扬](#t27-stress-and-intonation-ˌɪntəˈneɪʃn-n-声调语调语音的抑扬)
+    - [T2.8](#t28)
+    - [T2.9 Talking about family and friends](#t29-talking-about-family-and-friends)
+    - [T2.10](#t210)
+    - [T2.11 Improving style](#t211-improving-style)
+    - [T2.12](#t212)
+    - [T2.13 An interview](#t213-an-interview)
+    - [T2.14 Jobs](#t214-jobs)
+    - [T2.15](#t215)
+    - [T2.16 what time is it?](#t216-what-time-is-it)
+    - [T2.17](#t217)
+    - [T2.18](#t218)
+  - [Unit 3 Work hard, play hard!](#unit-3-work-hard-play-hard)
+    - [T3.1 Lisa's two jobs!](#t31-lisas-two-jobs)
+    - [T3.2](#t32)
+    - [T3.3](#t33)
+    - [T3.4](#t34)
+    - [T3.5 Talking about you](#t35-talking-about-you)
+    - [T3.6 In my free time](#t36-in-my-free-time)
+    - [T3.7](#t37)
+    - [T3.8 Song Extract from 20-something by Jamie Cullum](#t38-song-extract-from-20-something-by-jamie-cullum)
+    - [T3.9 Dr Susan Hall - The work-life balance](#t39-dr-susan-hall---the-work-life-balance)
+    - [T3.10 Social expressions](#t310-social-expressions)
+    - [T3.11](#t311)
+  - [Unit 4 Somewhere to live](#unit-4-somewhere-to-live)
+    - [T4.1](#t41)
+    - [T4.2 A flat to rent](#t42-a-flat-to-rent)
+    - [T4.3](#t43)
+    - [T4.4 Prepositions 介词](#t44-prepositions-介词)
+    - [T4.5 What's in your picture?](#t45-whats-in-your-picture)
+    - [T4.6 A new flat](#t46-a-new-flat)
+    - [T4.7 /this/that/these/those](#t47-thisthatthesethose)
+    - [T4.8 What's in your bag?](#t48-whats-in-your-bag)
+    - [T4.9 Describing your home](#t49-describing-your-home)
+    - [T4.10](#t410)
+    - [T4.11](#t411)
+    - [T4.12 Adverb + adjective](#t412-adverb--adjective)
+    - [T4.13](#t413)
+    - [T4.14](#t414)
+    - [T4.15](#t415)
+    - [T4.16 Numbers and prices](#t416-numbers-and-prices)
+  - [Unit 5 Super me!](#unit-5-super-me)
+    - [T5.1 Superman!](#t51-superman)
+    - [T5.2 Superman is fantastic!](#t52-superman-is-fantastic)
+    - [T5.3](#t53)
+    - [T5.4](#t54)
+    - [T5.5](#t55)
+    - [T5.6 Ivy can't cook. Can you?](#t56-ivy-cant-cook-can-you)
+    - [T5.7](#t57)
+    - [T5.8 can or can't?](#t58-can-or-cant)
+    - [T5.9 Present vs. Past](#t59-present-vs-past)
+    - [T5.10 Pronunciation](#t510-pronunciation)
+    - [T5.11 Marc Yu - Pianist](#t511-marc-yu---pianist)
+    - [T5.12 Cleopatra Stratan - Singer](#t512-cleopatra-stratan---singer)
+    - [T5.13 Pablo Picasso](#t513-pablo-picasso)
+    - [T5.14 Noun + noun](#t514-noun--noun)
+    - [T5.15 Verb + noun](#t515-verb--noun)
+    - [T5.16 Prepositions](#t516-prepositions)
+    - [T5.17 Polite requests](#t517-polite-requests)
+    - [T5.18](#t518)
+    - [T5.19](#t519)
   - [Unit 6 Life's ups and downs](#unit-6-lifes-ups-and-downs)
     - [T6.1 Oprah - TV Star and Billionaire](#t61-oprah---tv-star-and-billionaire)
     - [T6.2 see p46](#t62-see-p46)
@@ -80,10 +165,10 @@ The Copyright belongs to the author
   - [Unit 11 Going far](#unit-11-going-far)
     - [T11.1 Planning my future](#t111-planning-my-future)
     - [T11.2 see p87](#t112-see-p87)
-    - [T11.3](#t113)
+    - [T11.3](#t113-1)
     - [T11.4 Careful! You're going to drop it!](#t114-careful-youre-going-to-drop-it)
     - [T11.5 see p89](#t115-see-p89)
-    - [T11.6](#t116)
+    - [T11.6](#t116-1)
     - [T11.7 Describing a holiday](#t117-describing-a-holiday)
     - [T11.8 Song: Ed, Will, and Ginger - Oats and beans](#t118-song-ed-will-and-ginger---oats-and-beans)
     - [T11.9 What's the weather like?](#t119-whats-the-weather-like)
@@ -108,10 +193,1086 @@ The Copyright belongs to the author
     - [T12.14 see pll7](#t1214-see-pll7)
   - [Youtube Transcript](#youtube-transcript)
 
-## Tape scripts
+## Tapescript
 
 new headway elementary fourth edition by Liz and John's sores plus CD published and copyright
 Oxford University Press 2011
+
+## Unit 1 You and me
+
+### T1.1 The alphabet
+
+A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z
+
+### T1.2 Hello!
+
+- A Hello. What's your first name?
+- B My name'sB ill.
+- A And what's your surname?
+- B Frasier.
+- A How do you spell that?
+- B F-R-A-S-I-E-R.
+- A And where are you from, Bill?
+- B I'm from Chicago. I'm American.
+- A Thank you very much.
+
+### T1.3
+
+- C=Carla D=David
+- C Hello. My (name's) Carla. What's (your) name?
+- D David.
+- C (Where) are you from, David?
+- D (I'm) from Bristol. Where (are) you from?
+- C (I'm) (from) Bristol, too!
+- D Oh! Nice to meet you!
+
+### T1.4
+
+- 1 What's (his) surname?
+  - Frasier
+- 2 (What's) his first name?
+  - Bill
+- 3 Where('s) he from?
+  - Chicago
+- 4 How old (is) he?
+  - 30
+- 5 What's (his) phone number?
+  - 312 555 0749 three-one-two five-double-five oh-seven-four-nine
+- 6 (What's) (his) email address?
+  - bfrasier@gmail.com
+- 7 Is (he) married?
+  - No, he isn't.
+
+### T1.5
+
+- 1 What's her surname?
+- 2 What's her first name?
+- 3 Where's she from?
+- 4 How old is she?
+- 5 What's her phone number?
+- 6 What's her email address?
+- 7 Is she married?
+
+### T1.6 Rick's family
+
+My name's Rick Wilson, and I'm from London.
+I'm 19 years old, and I'm a student. I go to Kingston University. I have a brother and a sister. My brother's name is Edward. He's 16 and he's at school. My sister's name is Rosie. She's 23, and she's married. I live with my parents and my brother in a house in West London. My father, Peter, is a salesman, and my mother, Helen, is a teacher. I'm not married, but I have a girlfriend. Her name's Lily. She's lovely! My family really like her!
+
+### T1.7
+
+- 1 I go to Kingston University.
+- 2 I have a brother and a sister.
+- 3 I live with my parents in a house in West London.
+- 4 My family really like Lily!
+
+### T1.8
+
+- 1 Where are you from?
+- 2 'Are you from London?' 'Yes, I am.'
+- 3 'How old are you?' 'I m 15.'
+- 4 'Are your sisters married?' 'No, they aren't.'
+- 5 I like you. You're my friend.
+- 6 Hans isn't from Germany, he's from Switzerland.
+- 7 'Is your mother a doctor?' 'No, she isn't'
+- 8 I'm not Italian. I'm French.
+
+### T1.9
+
+- 1 She's from Italy.
+- 2 What's his name?
+- 3 Your English is good.
+- 4 Where's she from?
+- 5 He's a teacher from England.
+- 6 We aren't English.
+
+### T1.10 Spelling
+
+- 1 My name's Vanessa. That's V-A-N-E-S-S-A.
+  - Vanessa.
+- 2 My first name's Joseph. That's J-O-S-E-P-H. 英 /ˈdʒəuzif/  美 /ˈdʒozəf, -səf/ n. 约瑟夫（男子名）；约瑟（圣经中雅各的第十一子）
+  - My surname's Bowen. That's B-O-W-E-N.
+  - Joseph Bowen.
+- 3 My name's Katie Matthews. That's Katie,
+  - K-A-T-I-E, Matthews M-A-T-T-H-E-W-S.
+- 4 My email address is g.hunt8@yahoo.com.
+  - That's G dot H-U-N-T eight at yahoo dot com.
+- 5 My email address is zac.yates@gmail.co.uk.
+  - That's Zac, Z-A-C, dot Yates, Y-A-T-E-S, at gmail dot co dot UK.
+
+### T1.11 ANNALISA's BLOG
+
+- DAY 1: Welcome to my blog! It's in English!!
+  - POSTED ON APRIL 6TH BY ANNALISA
+  - Hello! I'm an Italian student. I'm in Notting Hill, London, England! I'm here to learn English.
+  - My English family are the Wilsons. Peter (the husband) and Helen (the wife) have three children: Edward, 16, Rick, 19, and Rosie, 23. Rosie's married. They're very friendly, but they speak very fast! It's difficult to understand them.
+- DAY 3: My first day at school!
+  - POSTED ON APRIL 8TH BY ANNALISA
+  - Today is my first English class at St Martin's College.
+  - It's a big school in the centre - in Covent Garden. It's near a lot of shops, cafes, and theatres. It's great!
+  - My class is very international! The students are from Mexico, Japan, Egypt, Spain, Hungary, and Switzerland. Our teacher's name is Charlotte. She's very young and she's very nice. I really like her. She's a good teacher.
+- DAY 10: I love London!!
+  - POSTED ON APRIL 15TH BY ANNALISA
+  - Hello again! It's great here. I love London! It's big, but interesting. I like shopping, but it's very expensive. I go to the parks. They are really beautiful. And I go to museums and galleries. The National Gallery is free! I go by bus or by Underground- it's very easy.
+  - The weather's OK, cold but sunny. The food is OK, too! And the coffee is great! There are a lot of Italian coffee bars in London! Check out my photos!
+- Annalisa is a student in London. Read and listen to her blog. Are the sentences true (√) or false(×)? Correct the false sentences.
+  - 1 Annalisa is from Italy. (√)
+  - 2 She's in Rome. (×) She isn't in Rome. She's in London.
+  - 3 Peter and Helen have two sons. (√)
+  - 4 She's in a small school. (×) She isn't in a small school. She's in a big school.
+  - 5 Her school is in the centre. (√) 
+  - 6 The students in her class are all from Europe. (×) They aren't all from Europe. They're from Mexico, Japan and Egypt too.
+  - 7 Rosie is Annalisa's teacher. (×) She isn't Annalisa's teacher. She's Rick's sister.
+  - 8 The National Gallery is expensive. (×) It isn't expensive. It's free.
+  - 9 The Underground is difficult to use. (×) It isn't difficult. It's easy.
+  - 10 The coffee is good. (√)
+
+### T1.12
+
+- 1 Where's Annalisa from? Italy.
+- 2 Where's her school? In the centre of London.
+- 3 What's her teacher's name? Charlotte.
+- 4 What's her family's name? Wilson.
+- 5 Where's their house? In Notting Hill, in West London.
+- 6 How old are the two brothers? Edward's 16 and Rick's 19.
+- 7 Is the weather OK? Yes. it is. It's cold and sunny.
+
+### T1.13
+
+- 1 P Goodbye, Annalisa! Have a good day at school!
+  - A Thank you, Peter. And you have a good day at work!
+- 2 C Good morning, Annalisa. Where's your homework?
+  - A It's here. Charlotte.
+- 3 A Hello, Cristo. Where are you from?
+  - C I'm from Mexico.
+- 4 A ticket, please.
+  - B The National Gallery is free.
+  - A Oh, good! Thank you!
+- 5 A A coffee, please.
+  - B Certainly. Here you are.
+
+### T1.14
+
+- Joseph My family isn't very big. I have a sister, Andrea, she's 18, and a brother Richard, he's 25. They're not married. I'm married, erm, my wife's name is Isabel. We have two children, a daughter, Nancy, that's N-A-N-C-Y, she's 4, and a son, Tom, he's only six months old. We live near my parents. My dad's name is John, and my mum's is Odile, that's O-D-I-L-E. She's French. My grandmother lives with them, her name's Marie. She's my mum's mum.
+- Isabel /ˈɪzəbel/ n. 伊莎贝尔（人名）
+
+### T1.15
+
+- 1 A Hello, Sally. How are you?
+  - B OK, thank you. And you?
+  - A Fine, thanks.
+- 2 A Hi, Pete. How are you?
+  - B All right, thanks. And you?
+  - A Not bad, thank you.
+- 3 A Good morning, Mr Simpson. How are you?
+  - B Very well, thank you. And you?
+  - A Fine, thank you.
+- 4 A Hello, Mrs Brown. How are you?
+  - B Fine, thank you. And you?
+  - A Not bad.
+
+### T1.16
+
+- 1 A Bye, Mum! It's time for school.
+  - B Goodbye darling. Have a good day!
+- A Thanks. See you later.
+  - 2 C Good morning!
+- D Good morning! Can I have a coffee, an espresso, please? /eˈspresəʊ/ n. （用汽加压煮出的）浓咖啡
+  - C Yes, of course! Anything else?
+  - D No, thank you.
+- 3 E Good afternoon! Can I help you?
+  - F No, thank you. We're just looking.
+  - E That's OK.
+- 4 G Frank. This is Gina. She's from our New York office.
+  - H Hello, Gina. Nice to meet you.
+  - I Hello, Frank. Pleased to meet you, too.
+- 5 J Thank goodness it's Friday! Bye, Ian.  /'iən/ n. 伊恩（男子名）
+  - K Bye, Derek. Have a good weekend. /ˈderɪk/ n. 德里克（男名）
+  - J Thanks. Same to you.
+  - K See you on Monday!
+- 6 L Good night! Sleep well.
+  - M Good night! See you in the morning.
+
+## Unit 2 A good job!
+
+### T2.1 TWO OUTDOOR JOBS
+
+- ENGINEER Andrew Johnson
+  - Andrew, 30, is an engineer. He comes from New Zealand, but now he lives in Scotland. He works on an oil rig 440 km from the coast of Aberdeen. He works 12 hours a day for two weeks, and then he has two weeks' holiday. He earns £200 a day. In his free time he goes to the gym and plays snooker. He isn't married.
+    - oil rig 石油钻塔,钻油平台; 
+    - rig 钻探设备
+    - snooker n. 斯诺克台球
+- ZOOLOGIST  /zuˈɑːlədʒɪst/ n. 动物学家 Claudia Luke
+  - Claudia,41, is American. She's a zoologist and she teaches at a university. She lives in California and works with her husband, Jim, at the Research Centre in the Mojave Desert where she studies snakes and other animals. She likes working in the desert. In her free time she writes songs and walks her dog, Brewer. She earns about $60,000 a year.
+
+### T2.2
+
+/s/ likes works writes walks
+/z/ comes goes earns plays
+/tz/ teaches
+
+### T2.3
+
+- 1 Andrew is an engineer. Claudia is a zoologist.
+- 2 She comes from the US. He comes from New Zealand.
+- 3 He lives in Scotland. She lives in California.
+- 4 She works in the desert. He works on an oil rig.
+- 5 He earns £200 a day. She earns $60,000 a year.
+- 6 She likes her job, and he likes his job, too.
+- 7 He goes to the gym in his free time. She walks her dog. Her dog's name is Brewer.
+- 8 She's married. Her husband's name is Jim. Andrew isn't married.
+
+### T2.4 Questions and negatives
+
+- What does Andrew do? He's an (engineer).
+- Where does he come from? New (Zealand).
+- Does he live in Scotland? (Yes), he does.
+- Does he live in New Zealand? (No), he doesn't.
+- He (isn't) married. He doesn't have any children.
+
+### T2.5
+
+Does he play football? Yes, he does. No, he doesn't.
+
+### T2.6
+
+- 1 Where does Andrew work?
+  - On an oil rig.
+- 2 Does he work hard?
+  - Yes, he does.
+- 3 How much does he earn?
+  - £200 a day.
+- 4 What does he do in his free time?
+  - He goes to the gym and he plays snooker.
+- 5 Does he like his job?
+  - Yes, he does.
+- 6 Does he have a dog?
+  - No, he doesn't.
+
+### T2.7 Stress and intonation /ˌɪntəˈneɪʃn/ n. 声调，语调；语音的抑扬
+
+- 1 Darcey comes from London.
+- 2 She lives in England.
+- 3 She has two children.
+- 4 She plays tennis a lot.
+- 5 David's English.
+- 6 He works in Paris.
+- 7 His wife comes from Miami.
+- 8 He writes songs in his free time.
+
+### T2.8
+
+- I A Darcey comes from London.
+  - B Yes, that's right.
+- 2 A She lives in England.
+  - B No, she doesn't. She lives in Australia.
+- 3 A She has two sons.
+  - B No, she doesn't. She has two daughters.
+- 4 A She writes stories for children.
+  - B Yes, that's right.
+- 5 A David's English.
+  - B No, he isn't. He's French.
+- 6 A He works all over the world.
+  - B Yes, that's right.
+- 7 A His wife comes from Miami.
+  - B No, she doesn't. She comes from Senegal. /ˌsenɪˈɡɔːl/ n. 塞内加尔（非洲国家）
+- 8 A He writes songs in his free time.
+  - B Yes, that's right.
+
+### T2.9 Talking about family and friends
+
+- 1 A My husband comes from Belgium. /ˈbeldʒəm/ n. 比利时（西欧国家，首都布鲁塞尔Brussels）
+  - B Where exactly in Belgium?
+  - A From the capital, Brussels.
+- 2 A My grandmother lives in the next town.
+  - B Does she visit you often?
+  - A Yes, she does. Every Sunday.
+- 3 A My mother loves reading.
+  - B What does she read?
+  - A Detective stories.
+- 4 A My father travels a lot in his job.
+  - B Where does he go?
+  - A He's in Berlin this week.
+- 5 A My sister speaks Spanish very well. She wants to learn French too.
+  - B Does she want to be an interpreter?
+  - A No, she doesn't. She wants to be a teacher.
+- 6 A My little brother watches TV a lot.
+  - B What does he like watching?
+  - A Sport, sport, sport and er- football!
+- 7 A My friend Tom writes a blog on the Internet.
+  - B What does he write about?
+  - A Everything and everybody!
+
+### T2.10
+
+- 1 A What does your sister do?
+  - B She's a student. She wants to be a doctor so she studies a lot.
+- 2 A Does Peter like his new job?
+  - B No, he doesn't. He works very hard and he doesn't earn a lot of money.
+- 3 A Is that your dog?
+  - B No, he isn't. He's my mother's. He goes with her everywhere. She loves him a lot. His name's Boris.
+- 4 A Your friend Ella speaks English very well.
+  - B Yes, she does. She goes to England every summer.
+- 5 A What does your grandfather do all the time?
+  - B Well, he watches TV a lot, but on Saturdays he plays golf with friends, and on Sundays he visits us.
+
+### T2.11 Improving style
+
+- 1 He likes his iob.
+- 2 She loves working.
+- 3 He isn't married.
+- 4 Does he have three children?
+- 5 Where does he go?
+
+### T2.12
+
+- David Guetta - The superstar DJ with 70-million hits on YouTube!
+  - David Guetta is French. He lives in Paris, but he works all over the world. He's a very famous DJ. He's number 3 in the "Top 100 DJs" poll. 
+  - He works with a lot of pop stars, such as Britney Spears, Celine Dion, and Madonna.
+  - He sometimes writes songs for them. He really likes Lady Gaga, and he wants to work with her. His job's very exciting, and he likes it a lot. He's married to Cathy. She comes from Senegal. She's a businesswoman and an actress.
+    - Senegal /ˌsenɪˈɡɔːl/ n. 塞内加尔（非洲国家）
+  - They often go to Ibiza. Every year, they have parties there. People love their parties. Cathy and David have two young children, and they love to spend time with them.
+
+### T2.13 An interview
+
+- I = Interviewer S= Student
+- I Can I ask you some questions about your school?
+- S Yes, of course.
+- I How many students are in your school?
+- S There are 650 now.
+- I That's quite a lot. And how many teachers?
+- S Ten teachers.
+- I And what time do your classes start?
+- S Five o'clock every day.
+- I How much does it cost?
+- S Oh, the school is free.
+- I Very good! And your teacher, what's your teacher's name?
+- S Babur Ali. He's only sixteen.
+- I Sixteen! That's amazing! Is he a good teacher?
+- S He is very good indeed.
+- I What does he teach?
+- S He teaches English, Bengali, history, and maths.
+  - Bengali /beŋˈɡɑːli/ adj. 孟加拉的；孟加拉语的; n. 孟加拉语；孟加拉人
+- I That's a lot of subjects. Does he work hard?
+- S Oh, yes, very hard. He studies all day and he teaches us every evening. He's the best teacher in the world!
+
+### T2.14 Jobs
+
+- 1 She's a hairdresser. She cuts hair.
+- 2 He's a pilot. He flies from Heathrow airport.
+  - Heathrow /'hi:θrəu/ n. 希思罗机场（位于英国伦敦）
+- 3 She's a receptionist. She works in a hotel.
+  - receptionist /rɪˈsepʃənɪst/ n. 接待员；传达员
+- 4 He's an architect. He designs buildings.
+- 5 She's a lawyer. She works for a family law firm.
+- 6 He's a taxi driver. He knows all the streets of London.
+- 7 She's a journalist. She writes news stories.
+- 8 He's a dentist. He looks after people's teeth.
+- 9 She's a nurse. She works in the City Hospital.
+- 10 He's an accountant. He likes working with money.
+
+### T2.15
+
+- 1 A What does your brother do?
+  - B He's a journalist. He writes for The Times newspaper.
+  - A Oh, that's a good job.
+- 2 C What does your father do?
+  - D Heb an accountant. He works for a big firm in the city.
+  - C And your mother? What does she do?
+  - D She's a teacher. She teaches French and Spanish.
+- 3 E Does your sister work in the centre of town?
+  - F Yes, she does. She's a receptionist. She works in the Ritz Hotel.
+  - E Oh. that's near where I work.
+- 4 G Are you a doctor?
+  - H No, I'm not. I'm a nurse.
+  - G Oh, but I want to see a doctor.
+- 5 I I want to be a pilot when I'm big.
+  - K I want to be a lawyer. They earn lots of money.
+  - I Pilots earn a lot too, and they travel the world.
+
+### T2.16 what time is it?
+
+- It's five o'clock.
+- It's eight o'clock.
+- It's half past five.
+- It's half past eleven.
+- It's quarter past five.
+- It's quarter past two.
+- It's quarter to six.
+- It's quarter to nine.
+- It's five past five.
+- It's ten past five.
+- It's twenty past five.
+- It's twenty-five past five.
+- It's twenty-five to six.
+- It's twenty to six.
+- It's ten to six.
+- It's five to six.
+
+### T2.17
+
+- 1 It's nearly three o'clock.
+- 2 It's just after five o'clock.
+- 3 It's about half past two.
+
+### T2.18
+
+- 1 A Excuse me. Can you tell me the time, please?
+  - B Yes, of course. It's just after six o'clock.
+  - A Thank you very much.
+- 2 C Excuse me. Can you tell me the time, please?
+  - D I'm sorry. I don't have a watch.
+  - C Never mind.
+- 3 E Excuse me. What time does the bus leave?
+  - F At ten past ten.
+  - E Thank you. What time is it now?
+  - F It's about five past.
+  - E Five past ten?!
+  - F No, no, five past nine. You're OK. No need to hurry.
+- 4 G When does this lesson end?
+  - H At four o'clock.
+  - G Oh dear! It's only quarter past three!
+
+## Unit 3 Work hard, play hard!
+
+### T3.1 Lisa's two jobs!
+
+'Hi, I'm Lisa Parsons. I'm 24 years old and I live in New York City. I'm always very busy, but I'm very happy. From Monday to Friday I work in a bookstore, the Strand Bookstore in Manhattan. Then on Saturdays I have another job - I'm a singer with a band. It's great because I love books and I love singing.
+On weekdays I usually finish work at 6 o'clock, but sometimes I stay late, until 9 or 10 o'clock at night. On Saturday evenings, I sing in nightclubs in all parts of the city, I don't go to bed until 3 or 4 o'clock in the morning. On Sundays, I don't do much at all. I often eat in a little restaurant near my apartment. I never cook on a Sunday. I'm too tired.'
+
+### T3.2
+
+- 1 Where do you live?
+  - In New York.
+- 2 Do you like your job?
+  - Yes. I do.
+- 3 Do you relax at weekends?
+  - No. I don't.
+- 4 Why don't you relax at weekends?
+  - Because I sing in nightclubs.
+
+### T3.3
+
+- I=Interviewer L=Lisa
+- I Hi, Lisa. Nice to meet you.
+- L Nice to meet you too.
+- I Now I hear you often sing in nightclubs here in New York.
+- L That's right. I love singing.
+- I And how old are you Lisa?
+- L I'm 24.
+- I And do you live in New York?
+- L Yes, I do. I live downtown near the river.
+- I And where do you work?
+- L I work in a bookstore. The Strand Bookstore in Manhattan.
+- I What time do you finish work?
+- L Well, I usually finish at 6 o'clock but sometimes I stay late, until 9 or l0 o'clock, but I always finish at 6 on Saturdays because I sing in the evening.
+- I How many jobs do you have?
+- L Just two! The bookstore and singing.
+- I And do you like your jobs?
+- L Oh, yes! I love them both.
+- I Why do you like them?
+- L Because I love singing and I love books. I'm lucky. I love my work.
+- I What do you do on Sundays?
+- L I don't do much at all. I often eat in a little restaurant near my apartment.
+- I Do you sometimes cook on Sundays?
+- L Never! I'm too tired.
+- I I understand that! Thank you very much for your time, Lisa.
+- L My pleasure.
+
+### T3.4
+
+- 1 Lisa, why do you like your job?
+- 2 Where do you live in New York?
+- 3 What do you do on Tuesday evenings?
+- 4 She really loves singing.
+- 5 She eats a lot.
+- 6 What does she do on Sundays?
+
+### T3.5 Talking about you
+
+- 1 What time do you get up?
+  - At about 7 o'clock on weekdays.
+- 2 Where do you go on holiday?
+  - To Turkey or Egypt.
+- 3 What do you do on Sundays?
+  - I always relax.
+- 4 When do you do your homework?
+  - When I get home.
+- 5 Who do you live with?
+  - My mother and brothers.
+- 6 Why do you like your job?
+  - Because it's interesting.
+- 7 How do you travel to school?
+  - Usually by bus.
+- 8 Do you go out on Friday evenings?
+  - Yes, I do sometimes.
+
+### T3.6 In my free time
+
+- 1 Andy
+  - A I play tennis a lot. I'm no good but I like playing.
+  - B When do you play?
+  - A Oh, summer usually but sometimes in spring and autumn if it's sunny.
+- 2 Roger
+  - R My favourite sport is skiing. I go skiing with my family every year. We all love it.
+  - B When do you go?
+  - R Always in January or February, after Christmas. We go to France.
+  - B And are you a good skier?
+  - R I'm OK. My wife's good, the kids are really good - but I'm just OK.
+- 3 Linda
+  - B Do you go to the gym every day?
+  - L Yes, I do, every day, every morning before work.
+  - B And do you go swimming there?
+  - L Yes. I swim every morning too. Do you go to the gym?
+  - B Well -er no, I don't. I like my bed in the morning!
+- 4 Ben & Josh
+  - B You like a lot of sports, don't you?
+  - B&J Oh yeah, my favourite is windsurfing. Me and my brother go to surf school every summer and ... and we play golf and football of course.
+    - windsurfing /ˈwɪndsɜːrfɪŋ/ n. 帆板运动
+  - B All outdoor sports?
+  - B&f Er- no, we watch sport a lot on TV, and we play computer games after school.
+  - B Not a lot of time for homework then?
+  - B&f Well...
+- 5 Sandra & Brian
+  - S In winter we love evenings at home.
+  - B What do you do? Watch TV?
+  - S Well, yes, sometimes. We like all the cookery programmes. I love cooking.
+  - B Oh, we love those programmes too, but we often play cards on winter evenings.
+  - S We like cards too, but we only play when we're on holiday in summer. It's a 'holiday thing' in our family.
+  - B What do you play?
+  - S Well, usually we play ... 
+
+### T3.7
+
+- 1 I often watch TV.
+- 2 I sometimes watch French films.
+- 3 I always listen to music in the car.
+- 4 I don't play the piano.
+- 5 I sometimes play cards with friends.
+- 6 I go dancing a lot.
+- 7 I go shopping every Saturday.
+- 8 I get up late on Sundays.
+- 9 I often cook dinner for my friends.
+
+### T3.8 Song Extract from 20-something by Jamie Cullum
+
+### T3.9 Dr Susan Hall - The work-life balance
+
+Of course, work is important for us all, it gives us money to live, it gives structure to our everyday lives. But, for a happy, balanced life, it's also important to 'play' sometimes. It's important to find time to relax with friends and family. It's not good to think about work all the time. I know from my work as a doctor that it's sometimes difficult not to take your work problems home - but if you take your problems home you never relax, and it's difficult for your family, and bad for your health. Don't live to work, work to live! Life is more than work.
+
+### T3.10 Social expressions
+
+- 1 A Bye! Have a nice day!
+  - H Thanks. Same to you. See you later.
+- 2 H I'm sorry I'm late. The traffic's very bad this morning.
+  - Never mind. Come and sit down.
+- 3 B What's the matter, Hakan? Do you have a problem?
+  - H Yes. I don't understand this exercise.
+- 4 H Can I open the window? It's really warm in here.
+  - B Sure. Good idea. It is hot in here, isn't it?
+- 5 H Can you help me? What does bilingual mean?
+  - B It means in two languages.
+- 6 C Do you want a macchiato?
+  - macchiato /ˌmɑːkiˈɑːtoʊ/ n. 黑糖玛奇朵（意大利式浓缩咖啡加少量泡沫牛奶而成的咖啡）
+  - H Pardon? Can you say that again?
+- 7 H Excuse me! Is this seat free?
+  - D Yes, it is. Do sit down if you want.
+- 8 F Parlez-vous francais? 您讲法语吗?
+  - H I'm sorry. I don't speak French.
+- 9 A Hi, Hakan! How was your day?
+  - H Good, thanks. Really interesting. How about you?
+
+### T3.11
+
+- 1 A Bye! Have a nice day.
+  - B Thanks. Same to you. See you later.
+  - A Right. At about four o'clock?
+  - B Well, er ... school doesn't finish till four.
+  - A Oh, OK! See you about 4.30, then!
+- 2 H I'm sorry I'm late. The traffic's very bad this morning.
+  - B Never mind. Come and sit down.
+  - H Thanks.
+  - B We're on page 28.
+- 3 B What's the matter, Hakan? Do you have a problem?
+  - H Yes. I don t understand this exercise.
+  - B Don't worry. I'll help you with it.
+  - H Oh, thank you very much.
+- 4 H Can I open the window? It's really warm in here.
+  - B Sure. Good idea. It is hot in here, isn't it?
+  - H Very. Thanks a lot.
+  - B That's all right. I think we all need some fresh air.
+- 5 H Can you help me? What does bilingual mean?
+  - B It means in two languages.
+  - H Oh, right, of course. I need to buy a bilingual dictionary!
+  - C Yeah, that's a very good idea!
+- 6 D Do you want a macchiato?
+  - H Pardon? Can you say that again?
+  - D A macchiato. Do you want a macchiato?
+  - H Sorry. What is 'a macchiato ?
+  - D lt's a strong white coffee.
+  - H Er - yes, OK. Fine. I'll try one. Thank you!
+- 7 H Excuse me! Is this seat free?
+  - D Yes, it is. Do sit down if you want.
+  - H Thanks very much. That's very kind.
+  - D Not at all. Are you a new student?
+  - H Yes, I am.
+  - D Are you having a good time?
+  - H Yes. It's getting better, thanks.
+- 8 E Parlez-vous francais?
+  - H I'm sorry. I don't speak French.
+  - E Oh! It's OK. It doesn't matter.
+  - H Can I help you?
+  - E No. Don't worry. I need some help with my homework, but I can do it.
+  - H All right.
+- 9 A Hi, Hakan! How was your day?
+  - H Good, thanks. Really interesting. How about you?
+  - A Oh, not bad. lust another day at work.
+  - H Well, tomorrow's the weekend.
+  - A Yes, thank goodness!
+
+## Unit 4 Somewhere to live
+
+### T4.1
+
+- living room
+  - sofa
+  - DVD player
+  - armchair
+  - bookshelves
+  - mirror
+- kitchen
+  - cooker
+  - fridge
+  - table
+  - oven
+  - washing machine
+- street
+  - bus stop
+  - post office
+  - cafe
+  - pavement
+  - chemist's
+  - traffic lights
+
+### T4.2 A flat to rent
+
+- J=Josie E=Emily
+- J Here's a flat in Queen's Road!
+- E Is it nice?
+- J There's a big living room.
+- E Mmm!
+- J And there are two bedrooms.
+- E Great! What about the kitchen?
+- J There's a new kitchen.
+- E Wow! How many bathrooms are there?
+- J Er . .. there's just one bathroom.
+- E Is there a garden?
+- J No, there isn't a garden.
+- E It doesn't matter. It sounds great!
+
+### T4.3
+
+- Is there a shower?
+- Yes, there is.
+- Is there a fridge?
+- Yes, there is.
+- Is there a dining room?
+- No, there isn't.
+- How many bedrooms are there?
+- Two.
+- How many bathrooms are there?
+- One.
+- How many armchairs are there?
+- Two. I
+- Are there any pictures?
+- No, there aren't.
+- Are there any bookshelves?
+- Yes, there are.
+- Are there any carpets?
+- No, there aren't.
+
+### T4.4 Prepositions 介词
+
+- 1 The flat's in Queen's Road.
+- 2 It's on the first floor.
+- 3 It's above a chemist's.
+- 4 The chemist's is next to a clothes shop.
+- 5 There's a mobile phone shop opposite the clothes shop.
+- 6 There's a post office near the flat.
+- 7 The bus stop is outside the cafe.
+- 8 There's a bench under a tree.
+
+### T4.5 What's in your picture?
+
+- The flat is near the centre of town. It has four bedrooms, a lovely living room with views over the town, and two bathrooms. The kitchen is very big, and there's a dining room next to it.
+- The flat is on the second floor. In the living room there are two sofas and an armchair. There ar5 a lot of pictures on the wall. There's a carpet in front of the fire, and there's a TV and a DVD player. There is a table in front of the sofa.
+
+### T4.6 A new flat
+
+- 1 She has some plates.
+- 2 She has a lot of clothes
+- 3 She doesn't have any glasses.
+- 4 She has some pictures.
+- 5 She has a lot of CDs.
+- 6 She doesn't have any mugs.
+- 7 She has a lot of shoes.
+- 8 She doesn't have any towels.
+- 9 She has some cups.
+
+### T4.7 /this/that/these/those
+
+- J=Josie A=Shop assistant E=Emily
+- 1 J How much is this lamp, please?
+  - A It's €45.
+- 2 J I like that picture.
+  - E Yes, it's lovely!
+- 3 J How much are these glasses?
+  - A They're €15.
+- 4 J I love those towels!
+  - E They're fabulous!
+- 5 J Look at those flowers!
+  - E They're beautiful!
+- 6 E Do you like this kettle?
+  - J Yeah! It's a great colour!
+- 7 J How much are these mugs?
+  - A €5 each.
+- 8 J Look at that coat!
+  - E You don't need any more clothes!
+
+### T4.8 What's in your bag?
+
+Christina What's in my bag? Well, there's my phone, and my purse, of course. I have some pens. I always have some pens. A blue one, and a red one. And there's my diary. I need to know what appointments I have. And I have a lipstick ... . Oh, and keys. I have some keys, my house keys and my car keys. And that's all!
+
+### T4.9 Describing your home
+
+- My new flat
+- My new flat is near the centre of town, so I often walk to work. It's not very big, but it's very comfortable! There's just one bedroom, a living room, and quite a big kitchen with a table in the centre. This is good because I love cooking, and I can invite my friends to dinner. The living room has one big window. It faces south, so it's always very sunny. I have two comfortable, old armchairs, but I don't have a sofa because the room is quite small.
+- There isn't a garden, but there's a small balcony in my bedroom. I want to put a chair there so I can sit in the sun on summer evenings.
+- I love my new flat for many reasons: the big kitchen, the sunny living room, but most of all I love it because it's my first home!
+
+### T4.10
+
+It's wonderful! They're awful! She's fantastic!
+
+### T4.11
+
+- 1 A Do you know Alice has a new boyfriend?
+  - B Really? Is he OK?
+  - A Mm! He's lovely!
+  - B Ooh! What's his name?
+  - A James.
+  - B Good for Alice!
+- 2 C Ben has a new flat.
+  - D Wow! Where is it?
+  - C In the centre of town.
+  - D Is it nice?
+  - C Oh, yes. It's fantastic! The living room is fabulous!
+- 3 E What a horrible day!
+  - F Yes, it is! Rain, rain, rain. It's terrible weather at the moment.
+  - E Oh, well! Tomorrow's another day!
+- 4 G Mmm! This is an excellent meal!
+  - H Thank you! I'm pleased you like it.
+  - G And the wine is wonderful! Where's it from?
+  - H I think it's French. Yes. it is. French.
+- 5 I I love your shoes! They're great!
+  - J They're nice, aren't they? They're Italian.
+  - I The colour's amazing! Red! Wow!
+- 6 K We have a new teacher. Her name's Nancy. 
+  - L Is she nice?
+  - K No, she's awful! I hate her.
+  - L why?
+  - K I don't understand her. She talks, and talks, and talks all the time!
+
+### T4.12 Adverb + adjective
+
+- 1 A Look at Angela's car! It's a Mercedes!
+  - B Wow! They're really expensive! Is it fast?
+  - A Very fast.
+- 2 A Does Tom have a lot of money?
+  - B Well, he has a really beautiful house with a very big garden, and a swimming pool.
+  - A Mm. He's very rich, isn't he?
+- 3 C Do you like my new jeans?
+  - D Yeah! They're really nice! What make are they?
+  - C They're Prada.
+  - D How much were they?
+  - C They weren't expensive. Well, not very expensive.
+- 4 E Look! That's Peter's new girlfriend!
+  - F Mmm! She's pretty. How old is she?
+  - E Twenty-eight.
+  - F Wow! That's old!
+  - E Twenty-eight? That isn't very old!
+- 5 G Maria's very clever, isn t she?
+  - H Oh, yes. She's really intelligent. She knows everything.
+  - G Do you like her?
+  - H No, not really. She isn't very nice to talk to.
+  - G No, I don't like her either.
+
+### T4.13
+
+- 8 eight
+- 10 ten
+- 12 twelve
+- 15 fifteen
+- 20 twenty
+- 32 thirty-two
+- 45 forty-five
+- 60 sixty
+- 76 seventy-six
+- 99 ninety-nine
+- 187 a hundred and eighty seven
+- 250 two hundred and fifty
+- 300 three hundred
+- 1,000 a thousand
+- 1,000,000 a million
+
+### T4.14
+
+- one and a half
+- two and a quarter
+- six point eight
+- seventeen point five
+- oh two oh, seven four eight one, six four nine
+- oh seven eight six one, five double six seven eight
+
+### T4.15
+
+- 1 There are thirty students in my class - seventeen boys and thirteen girls.
+- 2 I live at number 62, Station Road. My mobile number is 07629 34480.
+- 3 My father works in a big hotel. There are 460 rooms on sixteen floors.
+- 4 The population of my town is 280,000.
+
+### T4.16 Numbers and prices
+
+- 1 'How much is this book?' 'Six pounds fifty.'
+- 2 'How much are these pictures?' 'Twenty-four pounds each.'
+- 3 I only earn €18,000 a year.
+- 4 'How much is this car?''€9,5001
+- 5 'just this postcard, please.' 'That's 60p, please.'
+- 5 'Can I have these jeans, please.''Sure, that's $49.'
+- 7 'How much is a return ticket from Paris to Madrid?''€150.'
+- 8 There are about 1.4 dollars to the euro.
+
+## Unit 5 Super me!
+
+### T5.1 Superman!
+
+Superman comes from the Planet Krypton. He can fly at the speed of light; he can see through walls; he can jump 250 metres; he can speak every language; he can turn back time. There's nothing Superman cant do!
+
+### T5.2 Superman is fantastic!
+
+- A = Alfie I = Ivy
+- A Superman's fantastic!
+- I Hmm! What can he do?
+- A He can do everything!
+- I No, he cant!
+- A Yes, he can. He can fly at the speed of light, he can see through buildings, and he can speak every language in the world!
+
+### T5.3
+
+- A= Alfie I = Ivy
+- A He can speak every language in the world!
+- I Really? I don't believe that.
+- A Well, he can! Can you speak any languages?
+- I Yes, I can. I can speak French and Spanish a little bit. We learn them at school.
+- A Well, I can speak French too.
+- I Oh, yeah?!
+- A I can say 'Bonjour' and 'Merci.'
+- I That's nothing! You cant speak French at all!
+- A Well, I can skateboard! You can't!
+- I I don't want to skateboard. I like other things. What about skiing? Can you ski?
+- A Yeah, I can ski a bit, but my mum and dad can ski brilliantly!
+- I I love skiing. I can ski really well.
+- A OK, OK, we can do some things, but Superman can do everything. There's nothing Superman cant do.
+- I Oh, you and Supermanl Remember he's not real, he's only a ...
+
+### T5.4
+
+- 1 'Can you speak any languages?'
+  - 'Yes, I can. I can speak French and Spanish.'
+- 2 'You can't speak French at all!'
+- 3 'I can skateboard! You can't!'
+- 4 'Can you ski?'
+  - 'I can ski a bit, but my mum and dad can ski brilliantly!'
+- 5 'Superman can do everything. There's nothing Superman can't do.'
+
+### T5.5
+
+- I can speak French. =/kən/
+- Can you speak French? =/kən/
+- Yes, I can. =/kæn/
+- No, I can't. =/kɑːnt/
+
+### T5.6 Ivy can't cook. Can you?
+
+Ivy: So what can I do? Speak a foreign language ... Hmm. Well, yes, I can speak French, and Spanish a little bit, but just holiday Spanish! Cooking? No, I cant cook at all. My mum can, she's a fantastic cook! Hmm. Sports - well, I think I'm quite good at sports - my cousin Alfie says I'm not because I can't skateboard, but skateboarding's not a sport. I can swim of course. Everyone can swim, cant they? I can swim very well, I like swimming, and I like tennis. I can play tennis quite well. But skiing is my best sport, I love it, and I can ski really well, really fast. Musical instruments? Er ... well, no, I cant play any musical instruments. My dad can play the guitar brilliantly, and my mum can play the piano a bit, but I cant play anything at all.
+
+### T5.7
+
+- 1 She can speak Spanish a little bit.
+- 2 She can't cook at all.
+- 3 She can swim very well.
+- 4 She can play tennis quite well.
+- 5 She can ski really well.
+- 6 Her dad can play the guitar brilliantly.
+- 7 Her mum can play the piano a bit.
+- 8 She can't play anything at all.
+
+### T5.8 can or can't?
+
+- 1 She can cook.
+- 2 I can't hear you.
+- 3 They cant come to the party.
+- 4 Can you see my glasses anywhere?
+- 5 You can't always get what you want.
+- 6 Can you do the homework?
+
+### T5.9 Present vs. Past
+
+- 1 What day is it today?
+  - What day was it yesterday?
+- 2 What month is it now?
+  - What month was it last month?
+- 3 Is it sunny today?
+  - Was it sunny yesterday?
+- 4 Where are you now?
+  - Where were you yesterday?
+- 5 Where are your parents now?
+  - Where were they yesterday?
+- 6 Are you in England now?
+  - Were you in England last year?
+- 7 Can you ski?
+  - Could you ski when you were five?
+- 8 Can your teacher speak a lot of languages?
+  - Could your teacher speak English when he/she was seven?
+
+### T5.10 Pronunciation
+
+- 1 It was Monday.
+- 2 We were at school.
+- 3 'Was it sunny?' 'Yes, it was.'
+- 4 'Was it cold?' 'No, it wasn't.'
+- 5 'Were you at school?' 'Yes we were.'
+- 6 'Were they at school?' 'No, they weren't.'
+
+### T5.11 Marc Yu - Pianist
+
+- 1 He was born on January 5, 1999, in California. USA.
+- 2 He can play the piano and the cello.
+- 3 He could play the piano when he was three.
+- 4 He could play the cello when he was four.
+  - cello /ˈtʃeləʊ/ n. 大提琴
+- Last year he played with Lang Lang, the famous Chinese pianist, in New York. They were a big success.
+
+### T5.12 Cleopatra Stratan - Singer
+
+Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, near Romania. She could sing beautifully when she was just two years old. When she was three, she made an album, La varsta de trei ani. Her album was a big success. 150,000 were sold round the world.
+
+### T5.13 Pablo Picasso
+
+- 25 October, 188l - 8 April, 1973
+- A Hey, look at that painting! It's a Picasso!
+- B Oh yes! Fantastic!
+- A Where was Picasso born?
+- B In Malaga.
+- A Ah! So he was Spanish?
+- B Yes, he was.
+- A Were his parents rich?
+- B Well, they weren't rich and they weren't poor. His father, Don Jose, was a painter and a professor of art. His mother, Dona Maria, was a housewife.
+- A So was Picasso good at drawing when he was young?
+- B Oh, yes. He was a child prodigy. He could draw before he could speak. His first word was lapiz, which is Spanish for pencil.
+- A Wow! What a story!
+
+### T5.14 Noun + noun
+
+- 1 A Excuse mel Is there a post office near here?
+  - B Yes. Can you see the bus stop over there?
+  - A Yes, I can.
+  - B Well, it's next to the bus stop. Near the traffic lights.
+  - A Thanks.
+- 2 A I can't find my sunglasses.
+  - B Not again! Look in your handbag!
+  - A Where's my handbag?
+  - B It's in the living room.
+  - A Oh yes! There it is, and there they are!
+- 3 A Excuse me! Is there a petrol station near here?
+  - B A petrol station? Yeah. Go past the railway station and the car park. It's just before the motorway.
+  - A That's very kind. Thank you.
+
+### T5.15 Verb + noun
+
+- 1 A You send a lot of text messages!
+  - B I know. My mobile phone is my best friend!
+- 2 A Do you earn a lot of money?
+  - B What a question! Mind your own business!
+- 3 A Do you live on the third floor?
+  - B Yes, I have a great view. I can see right over the town.
+- 4 A Do you wear a suit and tie when you go to work?
+  - B No, no. Where I work is very casual. I wear jeans and a T-shirt.
+- 5 A Can you play the guitar?
+  - B Yes, I can. And the piano. And the violin.
+- 6 A Can you ride a motorbike?
+  - B I can. Do you want to come for a ride? You can sit on the back.
+- 7 A Can you drive a car?
+  - B Of course not! I'm only l6!
+- 8 A You have a full-time iob. Who looks after your children?
+  - B They go to playschool.
+- 9 A Do you watch TV a lot?
+  - B No, not really, just in the morning, and in the evening, and sometimes in the afternoon.
+- 10 A I can't speak any foreign languages.
+  - B I can. German and Spanish.
+
+### T5.16 Prepositions
+
+- 1 A Do you like listening to music?
+  - B Yes, of course. I have it all on my iPod.
+- 2 A What sort of music do you like?
+  - B All sorts but especially jazz.
+- 3 A Where's your girlfriend from? Is she Mexican?
+  - B No, she isn't. She's from Brazil. She speaks Portuguese.
+- 4 A Is Paula married to Mike?
+  - B That's right. Do you know her?
+- 5 A Do you want to come shopping with me?
+  - B Oh, yes. Can you wait a minute? I'll get my coat.
+- 6 A Were there any good programmes on television last night?
+  - B I don't know. I was on the Internet all evening.
+- 7 A What do you want for your birthday?
+  - B Can I have an iPhone? Or is that too expensive?
+- 8 A Can I speak to Dave? Is he at work today?
+  - B Sorry, he's on holiday all this week. He's back next week.
+
+### T5.17 Polite requests
+
+- 1 A Can I have a coffee, please?
+  - B Yes, of course.
+- 2 A Can you open the door for me, please?
+  - C Sure. No problem.
+  - A Thanks.
+- 3 A Could I have the menu, please?
+  - D Certainly, madam.
+- 4 A Could you tell me the time, please?
+  - E It's 10.30.
+  - A Thanks a lot.
+
+### T5.18
+
+- Can I ...? Can I have a ...?
+- Can I have a coffee, please?
+- Could you ...? Could you tell me ...?
+- Could you tell me the time, please?
+
+### T5.19
+
+- 1 A Can I have a cheese sandwich, please?
+  - B In white or brown bread?
+- 2 A Could you post this letter for me, please?
+  - B Yes, of course. No problem.
+- 3 A Can you give me your email address?
+  - B I think you have it already.
+- 4 A Can I speak to you for a moment?
+  - B Can it wait? I'm a bit busy.
+- 5 A Could you lend me f,20 till tomorrow?
+  - B I can lend you ten but not twenty.
+- 6 A Can you give me a hand with this box?
+  - B Of course. Do you want it upstairs
 
 ## Unit 6 Life's ups and downs
 
