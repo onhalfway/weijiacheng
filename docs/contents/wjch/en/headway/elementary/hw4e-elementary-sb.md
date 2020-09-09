@@ -1269,10 +1269,10 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
   - B I think you have it already.
 - 4 A Can I speak to you for a moment?
   - B Can it wait? I'm a bit busy.
-- 5 A Could you lend me f,20 till tomorrow?
+- 5 A Could you lend me €20 till tomorrow?
   - B I can lend you ten but not twenty.
 - 6 A Can you give me a hand with this box?
-  - B Of course. Do you want it upstairs
+  - B Of course. Do you want it upstairs?
 
 ## Unit 6 Life's ups and downs
 
