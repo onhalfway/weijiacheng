@@ -74,6 +74,7 @@ shuxue shu xue 数学
 | &       | ampersand, and, reference, ref             | 和，引用                             |
 | *       | asterisk, multiply, star, pointer          | 星号，乘号，星，指针                 |
 | /       | slash, divide, oblique                     | 斜线，斜杠，除号                     |
+| Rt△    | RT是right-angled triangle                  |  直角三角形                           |
 |         |                                            |                                      |
 
 ## Concept
