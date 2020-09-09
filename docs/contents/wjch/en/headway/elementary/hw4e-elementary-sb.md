@@ -1172,13 +1172,15 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - A Hey, look at that painting! It's a Picasso!
 - B Oh yes! Fantastic!
 - A Where was Picasso born?
-- B In Malaga.
+- B In Málaga.
+  - Malaga /ˈmæləɡə/ n. 马拉加（西班牙南部省名及其首府名）；马拉加产的葡萄酒
 - A Ah! So he was Spanish?
 - B Yes, he was.
 - A Were his parents rich?
-- B Well, they weren't rich and they weren't poor. His father, Don Jose, was a painter and a professor of art. His mother, Dona Maria, was a housewife.
+- B Well, they weren't rich and they weren't poor. His father, Don José, was a painter and a professor of art. His mother, Dona Maria, was a housewife.
 - A So was Picasso good at drawing when he was young?
-- B Oh, yes. He was a child prodigy. He could draw before he could speak. His first word was lapiz, which is Spanish for pencil.
+- B Oh, yes. He was a child prodigy. He could draw before he could speak. His first word was lápiz, which is Spanish for pencil.
+  - prodigy /ˈprɑːdədʒi/ n. 奇迹，奇事；奇才；神童；奇观；预兆
 - A Wow! What a story!
 
 ### T5.14 Noun + noun
