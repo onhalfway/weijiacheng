@@ -19,7 +19,7 @@
     - [Cloze](#cloze)
     - [Reading](#reading)
   - [have和have got](#have和have-got)
-  - [](#)
+  - [sentences](#sentences)
 
 ## Personal Pronouns人称代名词
 
@@ -621,4 +621,20 @@
     - 2 The past of have and have got is had.
       - I had a boring job, so I left.
 
-## 
+## sentences
+
+I'm deeply honored by this immeasurable invitation ...
+我深感荣幸能受到这无限的邀请 ...
+but with humble apologies ...
+但是我很抱歉...
+I cannot accept it.
+I left home under cover of darkness and betrayed my family's trust.
+I made choices I knew would risk their dishonor.
+我做出了我知道会让他们蒙羞的选择。
+I have pledged an oath to be loyal, brave, and true.
+我发过誓忠诚、勇敢、真诚
+In order to fulfill this oath ...
+为了履行这个誓言 ...
+I must return home and make amends to my family.
+Devotion to family is an essential virtue.
+
