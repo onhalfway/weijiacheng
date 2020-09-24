@@ -33,7 +33,7 @@ shuxue shu xue 数学
 | ⌒       | semicircle                                 | 半圆                                 |
 | ⊙       | circle                                     | 圆                                   |
 | ∷       | equals, as (proportion)                    | 等于，成比例                         |
-| ○       | circumference                              | 圆周                                 |
+| ○       | circumference                              | 圆周。 周长用字母C表示。                             |
 | π       | pi                                         | 圆周率                               |
 | △       | triangle                                   | 三角形                               |
 | ⊥       | perpendicular to                           | 垂直于                               |
