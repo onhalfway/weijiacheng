@@ -7,6 +7,39 @@
 
 ## [Headway](../../contents/wjch/en/headway)
 
+- [Oxford University English Language Teaching](https://elt.oup.com/)
+  - 139mail:Way.1/7
+
+## Certificate in English
+
+|CEFR level:|Cambridge ESOL exams:|
+|:-------:|-------|
+|C2| Cabridge English: Proficiency (CPE)|
+|C1| Cambridge English: Advanced (CAE)|
+|B2| Cambridge English: First (FCE); Cambridge English: First (FCE) for Schools|
+|B1| Cambridge English: Preliminary (PET); Cambridge English: Preliminary (PET) for Schools|
+|A2| Cambridge English: Key (KET); Cambridge English: Key (KET) for Schools|
+
+- First Certificate in English (FCE): First for Schools
+  - https://www.cambridge.org/elt/corpus
+    - https://www.cambridge.org/cn/cambridgeenglish
+  - 剑桥FCE综合教程
+    - [FCE学生用书 Student](http://www.dogwood.com.cn/mp3/jqfces/)
+      - http://download.dogwood.com.cn/chuguo/jqfces.zip
+    - [FCE练习册 Workbook](http://www.dogwood.com.cn/mp3/jqfcew/)
+      - http://download.dogwood.com.cn/chuguo/jqfcew.zip
+  - 剑桥FCE官方模考题精讲精练
+    - [Trainer](http://www.dogwood.com.cn/mp3/fcegfmkt/)
+      - http://download.dogwood.com.cn/guonei/fcegfmkt.zip
+    - [Trainer 2](http://www.dogwood.com.cn/mp3/fcegfmkt2/)
+      - http://download.dogwood.com.cn/guonei/fcegfmkt2.zip
+  - [剑桥FCE语法与词汇精讲精练](http://www.dogwood.com.cn/mp3/fceyfych/)
+    - http://download.dogwood.com.cn/chuguo/fceyfych.zip
+  - [剑桥FCE核心词](http://www.dogwood.com.cn/mp3/fcehxc/)
+    - http://download.dogwood.com.cn/guonei/fcehxc.zip
+  - 剑桥FCE常见错误精讲精练
+- [Open World. KET, PET, FCE: coml](https://pan.baidu.com/s/1VKC77DXYjMnVoxBqsLzq9g)
+
 ## [New Concept English](../../contents/wjch/en/New-Concept-English)
 
 ## 英语日积月累
@@ -109,3 +142,7 @@
 
 - [Language Check Tool](https://languagetoolplus.com/)
 - [Grammarly tool](https://app.grammarly.com/ddocs/715078663)
+
+## resource
+
+- [两小无猜网](https://www.lxwc.com.cn/)
