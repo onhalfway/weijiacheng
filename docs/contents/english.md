@@ -4,7 +4,7 @@
 
 - [Morning With Reading](morning-with-reading)
 - [3A-B Recording](20191213-recording)
-- [reading explorer学生用书](https://pan.baidu.com/s/1Ezq7ijVVNOpBi08WMVr8sw)下载链接（有需要的同学请及时下载）jwpm
+- [reading explorer学生用书](https://pan.baidu.com/s/1Ezq7ijVVNOpBi08WMVr8sw)下载链接jwpm
 - 区分动名词和不定式[Grammar Rules](https://www.gingersoftware.com/content/grammar-rules/verbs/gerunds-and-infinitives/)
 
 ## [Headway](../../contents/wjch/en/headway)
