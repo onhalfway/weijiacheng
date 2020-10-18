@@ -7,6 +7,7 @@
   - [常见 DNS 记录的类型](#常见-dns-记录的类型)
   - [Oracle WiFi Hotspot AP Access Point](#oracle-wifi-hotspot-ap-access-point)
   - [Acronym](#acronym)
+  - [Article/Blog](#articleblog)
 
 ## 十大ISP服务商分为
 
@@ -346,3 +347,9 @@ PS C:\WINDOWS\system32>
 
 - SCIM: System for Cross-domain Identity Management
 - Application Binary Interface，ABI
+
+## Article/Blog
+
+- [GitChat · 架构 | 如何从零开始搭建高性能直播平台？](https://segmentfault.com/a/1190000010724280)
+- [Larry有关OCI 云竞争的10点主张](https://cloudwars.co/oracle/larry-ellison-ten-point-plan-for-oracle-to-beat-amazon-microsoft-google/)
+- 
