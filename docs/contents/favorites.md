@@ -372,7 +372,10 @@ Refer to Tencent Docs
 ## Github Repository
 
 - [FreeNetwork](https://github.com/xiaoming2028/FreeNetwork)
-- [SSR](https://github.com/ToyoDAdoubi/doubi)
+- [shadowsocks](https://github.com/shadowsocks)
+- [SSR](https://github.com/shadowsocksrr)
+- [ShadowsocksR topics](https://github.com/topics/shadowsocksr)
+- [SSR-ShadowsocksR](https://github.com/ToyoDAdoubi/doubi)
 - [Fast AI](https://github.com/fastai/fastbook)
 - [Fast AI - Deep Learning](https://www.usfca.edu/data-institute/certificates/deep-learning-part-one)
 
