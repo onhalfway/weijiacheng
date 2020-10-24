@@ -144,6 +144,12 @@
 
 - [Language Check Tool](https://languagetoolplus.com/)
 - [Grammarly tool](https://app.grammarly.com/ddocs/715078663)
+- [E听说中学](https://teacher.ets100.com/dist/invite-join-class.html?id=162362&share_code=9bdc7d25426f43cdee240c48ec5e4500&is_primary=0)
+  - [E听说中学电脑端](http://www.ets100.com/home/download.html)
+  - [E听说中学安卓端](https://www.ets100.com/home/hight-app-download.html)
+  - E听说中学iOS端在苹果官方应用商店app store搜索E听说中学下载安装。
+  - 下载完成后，先用用手机号注册(提示已注册过的无需再注册直接登录即可)，使用E卡升级或者延期，体验E卡账号密码已下发
+  - 加入班级英语老师ID9111559号。
 
 ## resource
 

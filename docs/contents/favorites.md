@@ -118,7 +118,8 @@ Refer to Tencent Docs
 - [Motrix A full-featured download manager](https://motrix.app/)
 - [DownThemAll-Firefox add-on/Chrome extension]()
 - [Video Downloader Professional]()
-- [PotPlayer for Windows]()
+- [PotPlayer for Windows](http://potplayer.daum.net/?lang=zh_CN)
+  - https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
 - [MXPlayer for Android]()
 - [MPlayerX for MaxOS]()
 - [kodi]()
