@@ -20,6 +20,7 @@
     - [Reading](#reading)
   - [have和have got](#have和have-got)
   - [sentences](#sentences)
+  - [little and few](#little-and-few)
 
 ## Personal Pronouns人称代名词
 
@@ -638,3 +639,9 @@ In order to fulfill this oath ...
 I must return home and make amends to my family.
 Devotion to family is an essential virtue.
 
+## little and few
+
+- little, less, least
+  - less的原型是单词little,它只能用于修饰不可数名词。具体而言，less用于抽象的、不可数的名词前
+- few, fewer, fewest
+  - fewer的原型单词是few,它只能用于修饰可数名词。具体而言，fewer用于具体的、可数的名词前

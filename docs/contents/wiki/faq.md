@@ -4,6 +4,7 @@
   - [About FAQ](#about-faq)
   - [Book introduction](#book-introduction)
   - [惠普打印机HP Printer](#惠普打印机hp-printer)
+  - [time and date](#time-and-date)
 
 ## About FAQ
 
@@ -21,4 +22,15 @@
 - [升级到Mac OS 10.15.7，HP LaserJet M1005 MFP 打印机突然无法使用了，解决方案](https://h30471.www3.hp.com/t5/da-yin-ji-yu-sao-miao-yi-de-an-zhuang-wen-ti/macOS10-15-7xia-HP-LaserJet3055-da-yin-ji-tu-ran-wu-fa-shi-yong-le/m-p/1052169)
   - 步骤一： 删除原来安装好的打印机，下载MAC支持的hp打印机驱动集合包进行安装，点击下载： https://support.apple.com/kb/DL1888?viewlocale=zh_CN&locale=zh_CN
   - 步骤二： 【对于HP LaserJet M1005 MFP，连接打印机系统自动识别并添加打印机，也无需后面的操作。】~~再添加打印机，选择《普通PostScript打印机》，不能选择其他选项，这个很重要。~~
+
+## [time and date](https://www.timeanddate.com)
+
+- [U.S. states using PST in the winter and PDT in the summer](https://www.timeanddate.com/time/zones/pt)
+  - [PST – Pacific Standard Time / Pacific Time (Standard Time)](https://www.timeanddate.com/time/zones/pst)
+    - PST will be observed in Los Angeles until 14 Mar 2021, 02:00
+    - UTC Offset: UTC -8
+    - 16 hours behind Beijing
+  - [PDT – Pacific Daylight Time / Pacific Daylight Saving Time (Daylight Saving Time)](https://www.timeanddate.com/time/zones/pdt)
+    - Pacific Daylight Time (PDT) is 7 hours behind Coordinated Universal Time (UTC). This time zone is a Daylight Saving Time time zone and is used in: North America.
+- Oracle Order Tracker Note: All dates are in Pacific Timezone.
 - 
