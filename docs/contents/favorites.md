@@ -30,21 +30,20 @@
   - [磁力链接&种子](#磁力链接种子)
   - [网盘搜索](#网盘搜索)
   - [Driver](#driver)
-  - [search](#search)
+  - [Search Engine](#search-engine)
 
 ## ebook
 
-[京版云电子教材专区](http://www.jingbanyun.com/index.php?m=Home&c=Booklist&a=booklist)
-[人教版中小学教材电子版](https://bp.pep.com.cn/jc/)
-[朝阳区初中《目标检测》电子版教材](http://jiaoyan.bjchyedu.cn/zwgk/jwtz/202003/t20200321_50120.html)
-[北京数字学校](https://cache.bdschool.cn/public/bdschool/index/static/migu/w.html?grade=7)
-[北京数字教材](http://bjedu.chineseall.net/zt/act/views/zwzxpd/web/index.html)
-[北京版](http://www.dzkbw.com/books/beijing/)
+- [京版云电子教材专区](http://www.jingbanyun.com/index.php?m=Home&c=Booklist&a=booklist)
+- [人教版中小学教材电子版](https://bp.pep.com.cn/jc/)
+- [朝阳区初中《目标检测》电子版教材](http://jiaoyan.bjchyedu.cn/zwgk/jwtz/202003/t20200321_50120.html)
+- [北京数字学校](https://cache.bdschool.cn/public/bdschool/index/static/migu/w.html?grade=7)
+- [北京数字教材](http://bjedu.chineseall.net/zt/act/views/zwzxpd/web/index.html)
+- [北京版](http://www.dzkbw.com/books/beijing/)
 
 ## 居家
 
-Refer to Tencent Docs
-
+- Refer to Tencent Docs
 - [空中课堂, 教育ID/123456](http://kzkt.bjchyedu.cn/) 
   - [空中课堂, 无需用户名密码](http://spzy.bjchyedu.cn)
 - [居家生活指南](https://www.meipian3.cn/2qn9qvf7?first_share_to=singlemessage&first_share_uid=79442535&share_depth=3&share_source=groupmessage&sharer_id=ojq1tt56rP5ab8cRi_sE85U0Df74&user_id=ohbsluBALM4gLGkdiPCHy4MDllOw)
@@ -56,7 +55,6 @@ Refer to Tencent Docs
 - [全身HIIT练习（无器械）](https://mp.weixin.qq.com/s/t1PZWyU2or3pFNjxZgQQHw)
 - [综合体能训练](https://www.meipian3.cn/2qn9qvf7?first_share_to=singlemessage&first_share_uid=79442535&share_depth=3&share_source=groupmessage&sharer_id=ojq1tt56rP5ab8cRi_sE85U0Df74&user_id=ohbsluBALM4gLGkdiPCHy4MDllOw)
 - [HIIT腿部强化训练](https://mp.weixin.qq.com/s/NAa60R8zrBkt-qG1oe1m6A)
-
 - [居家健康体能自测-本站首页或此链接](https://v.qq.com/x/page/n3065ezfkwx.html)
 
 ## 中考
@@ -197,7 +195,7 @@ Refer to Tencent Docs
 - [True Ping tool](https://sourceforge.net/projects/tping/)
   - 可能依赖先前的vc++运行库msvcr71.dll。把msvcr71.dll和tping.exe复制到%SystemRoot%目录下. http://blog.sina.com.cn/s/blog_60a4fcef01019rpd.html
   - 测试load balancer：当backend set未配置或不可达，可能返回到load balancer链接的信息。
-- 
+- []
 
 ## 文史
 
@@ -515,7 +513,10 @@ Refer to Tencent Docs
 ## Driver
 
 - [HP Laser Jet M1005 MFP](https://h30318.www3.hp.com/pub/softlib/software12/COL51478/ma-124621-1/LJM1005_Full_Solution.exe)
+- [MAC支持的hp打印机驱动集合包, refer to faq.md](https://support.apple.com/kb/DL1888?viewlocale=zh_CN&locale=zh_CN)
 
-## search
+## Search Engine
 
+- [Google](https://google.com)
+- [Bing](https://bing.com)
 - [Magi](https://magi.com/)

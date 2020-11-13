@@ -207,7 +207,7 @@ A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z
 ### T1.2 Hello!
 
 - A Hello. What's your first name?
-- B My name'sB ill.
+- B My name's Bill.
 - A And what's your surname?
 - B Frasier.
 - A How do you spell that?
