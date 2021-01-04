@@ -89,6 +89,7 @@
 
 - [ev002_Charlotte’s-Web](./english/ev002_Charlotte-s-Web.md)
 - [BBC Documentary](https://mp.weixin.qq.com/s/cw9IHp7qoQu8Z7dzXKHMug)
+- [老友记1-10](http://www.livesinabox.com/friends/scripts.shtml)
 
 ## EIM-English-In-Mind
 
