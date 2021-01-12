@@ -5,6 +5,9 @@
   - [Book introduction](#book-introduction)
   - [惠普打印机HP Printer](#惠普打印机hp-printer)
   - [time and date](#time-and-date)
+  - [SI units and IEC units](#si-units-and-iec-units)
+  - [Definition - What does User Acceptance Testing (UAT) mean?](#definition---what-does-user-acceptance-testing-uat-mean)
+  - [](#)
 
 ## About FAQ
 
@@ -33,4 +36,45 @@
   - [PDT – Pacific Daylight Time / Pacific Daylight Saving Time (Daylight Saving Time)](https://www.timeanddate.com/time/zones/pdt)
     - Pacific Daylight Time (PDT) is 7 hours behind Coordinated Universal Time (UTC). This time zone is a Daylight Saving Time time zone and is used in: North America.
 - Oracle Order Tracker Note: All dates are in Pacific Timezone.
-- 
+
+## SI units and IEC units
+
+- [File Size Calculator](https://www.dr-lex.be/info-stuff/bytecalc.html)
+  - To avoid confusion, in the year 2000 the IEC proposed a custom naming and notation scheme for the 2-based units. The new names were created by replacing the second syllable in the old name by ‘bi’ (referring to ‘two’). Therefore an old ‘kilobyte’ is now a ‘kibibyte’ and so on. The new (or rather old) units also got corresponding symbols, so ‘10 kibibyte’ is now written as ‘10 KiB’ instead of ‘10 kB’. The following table shows how the values differ for the two systems:
+- SI units
+
+| Full notation | Symbol | Value                          |
+| :------------ | :----- | :----------------------------- |
+| 1 kilobyte    | 1 kB   | 10^3 = 1000 bytes              |
+| 1 megabyte    | 1 MB   | 10^6 = 1000000 bytes           |
+| 1 gigabyte    | 1 GB   | 10^9 = 1000000000 bytes        |
+| 1 terabyte    | 1 TB   | 10^12 = 1000000000000 bytes    |
+| 1 petabyte    | 1 PB   | 10^15 = 1000000000000000 bytes |
+
+- IEC units
+
+| Full notation | Symbol | Value                          |
+| :------------ | :----- | :----------------------------- |
+| 1 kibibyte    | 1 KiB  | 2^10 = 1024 bytes              |
+| 1 mebibyte    | 1 MiB  | 2^20 = 1048576 bytes           |
+| 1 gibibyte    | 1 GiB  | 2^30 = 1073741824 bytes        |
+| 1 tebibyte    | 1 TiB  | 2^40 = 1099511627776 bytes     |
+| 1 pebibyte    | 1 PiB  | 2^50 = 1125899906842624 bytes  |
+
+- [SI - International System of Units](https://www.iec.ch/si)
+  - The International System of Units, or SI (from its French name, “Système international d'unités”), is a system of measurement units, based on the International System of Quantities (ISQ), defined in the ISO and IEC 80000 series of standards Units for electrotechnical technology
+-  IEC International Electrotechnical Commission
+-  SI (decimal / power of 10) units
+-  IEC values (binary prefixes of 2^ / power of 2) for file sizes.
+-  SI units (1000 base / 10^3) and IEC units (1024 base / 2^10) 
+
+## Definition - What does User Acceptance Testing (UAT) mean?
+
+- User acceptance testing (UAT) is the last phase of the software testing process that verifies whether a product or software is fit for the purpose it was built for in the first place—namely, that it:
+  - Fulfills business requirements
+  - Can be used by end-users
+- During UAT, people (often from the demographic the software is designed for) test the software to make sure it can handle required tasks in real-world scenarios, according to specifications.
+- UAT is one of the final and most critical software project procedures that ensures developed software is ready to be rolled out to the market.
+- UAT is also known as beta testing, application testing or end-user testing, and it’s the final testing performed after the functional, system, and regression testing stages are over. 
+
+## 
