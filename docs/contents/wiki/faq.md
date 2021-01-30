@@ -25,6 +25,9 @@
 - [升级到Mac OS 10.15.7，HP LaserJet M1005 MFP 打印机突然无法使用了，解决方案](https://h30471.www3.hp.com/t5/da-yin-ji-yu-sao-miao-yi-de-an-zhuang-wen-ti/macOS10-15-7xia-HP-LaserJet3055-da-yin-ji-tu-ran-wu-fa-shi-yong-le/m-p/1052169)
   - 步骤一： 删除原来安装好的打印机，下载MAC支持的hp打印机驱动集合包进行安装，点击下载： https://support.apple.com/kb/DL1888?viewlocale=zh_CN&locale=zh_CN
   - 步骤二： 【对于HP LaserJet M1005 MFP，连接打印机系统自动识别并添加打印机，也无需后面的操作。】~~再添加打印机，选择《普通PostScript打印机》，不能选择其他选项，这个很重要。~~
+- [惠普HP M1005激光打印机 2612A硒鼓加粉图解](https://wenku.baidu.com/view/330b54b2f8c75fbfc77db276.html)
+- HP LaserJet M1005 MFP多功能一体机硒鼓型号Q2612A/X
+- [硒鼓比价，硒鼓推荐哪个好](https://zhidao.baidu.com/question/1052150127244073299.html)
 
 ## [time and date](https://www.timeanddate.com)
 

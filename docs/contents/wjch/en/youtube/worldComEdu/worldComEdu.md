@@ -5,13 +5,19 @@
 
 - [Youtube Channel WorldCom Edu](#youtube-channel-worldcom-edu)
   - [American Textbook Reading](#american-textbook-reading)
+    - [💓 American Textbook Reading Grade 1 Science 1](#-american-textbook-reading-grade-1-science-1)
+    - [💓American Textbook Reading - Science 2 Books](#american-textbook-reading---science-2-books)
+    - [💓 American Textbook Reading Grade 1 Social Studies 1](#-american-textbook-reading-grade-1-social-studies-1)
+    - [💓 American Textbook Reading SOCIAL STUDIES 02](#-american-textbook-reading-social-studies-02)
+  - [💓 Check out other YouTube English-learning resources at WorldCom Edu](#-check-out-other-youtube-english-learning-resources-at-worldcom-edu)
 
 ## American Textbook Reading
 
+- 💓 [American Textbook Reading Science 1~2 & Social 1~2](https://www.youtube.com/user/WorldComBooks/playlists?view=50&sort=dd&shelf_id=3)
+- 💓 [美国中小学精选课程](https://www.bilibili.com/video/BV1c7411Z78e)
+
 American Textbook Reading Program for kindergarten and Grade 1 students.
 American Textbook Reading for English language learners. This series helps students develop their vocabulary and reading comprehension skills using information based on American school textbooks. Our instructors will help your children expand their knowledge of science and social studies form a diverse range of academic topics.
-
-💓 [American Textbook Reading Science 1~2 & Social 1~2](https://www.youtube.com/user/WorldComBooks/playlists?view=50&sort=dd&shelf_id=3)
 
 ### 💓 [American Textbook Reading Grade 1 Science 1](https://www.youtube.com/watch?v=cBvV5t_YRQM&list=PLORqQa0DiANGX1G2YWOBL5tfSPODkkIVB)
 
