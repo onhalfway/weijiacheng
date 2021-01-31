@@ -113,6 +113,7 @@
 - [Youtube videos download](https://youtube-dl.org/)
 - [Youtube videos download](http://ytdl-org.github.io/youtube-dl/)
 - [Youtube videos download](https://github.com/ytdl-org/youtube-dl/releases)
+- [youtube-dl INSTALLATION](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme)
 - [Motrix A full-featured download manager](https://motrix.app/)
 - [DownThemAll-Firefox add-on/Chrome extension]()
 - [Video Downloader Professional]()

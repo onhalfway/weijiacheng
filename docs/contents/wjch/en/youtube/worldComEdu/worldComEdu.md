@@ -15,6 +15,7 @@
 
 - 💓 [American Textbook Reading Science 1~2 & Social 1~2](https://www.youtube.com/user/WorldComBooks/playlists?view=50&sort=dd&shelf_id=3)
 - 💓 [美国中小学精选课程](https://www.bilibili.com/video/BV1c7411Z78e)
+- [美国中小学精选课程400集全](https://www.youtube.com/user/WorldComBooks)
 
 American Textbook Reading Program for kindergarten and Grade 1 students.
 American Textbook Reading for English language learners. This series helps students develop their vocabulary and reading comprehension skills using information based on American school textbooks. Our instructors will help your children expand their knowledge of science and social studies form a diverse range of academic topics.

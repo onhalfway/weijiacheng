@@ -4,6 +4,7 @@
   - [About FAQ](#about-faq)
   - [Book introduction](#book-introduction)
   - [惠普打印机HP Printer](#惠普打印机hp-printer)
+  - [ThinkVision Monitor](#thinkvision-monitor)
   - [time and date](#time-and-date)
   - [SI units and IEC units](#si-units-and-iec-units)
   - [Definition - What does User Acceptance Testing (UAT) mean?](#definition---what-does-user-acceptance-testing-uat-mean)
@@ -28,6 +29,16 @@
 - [惠普HP M1005激光打印机 2612A硒鼓加粉图解](https://wenku.baidu.com/view/330b54b2f8c75fbfc77db276.html)
 - HP LaserJet M1005 MFP多功能一体机硒鼓型号Q2612A/X
 - [硒鼓比价，硒鼓推荐哪个好](https://zhidao.baidu.com/question/1052150127244073299.html)
+
+## ThinkVision Monitor
+
+- [ThinkVision L2251P(2572-HD6)显示器用户手册](https://webdoc.lenovo.com.cn/lenovowsi/cskb/data/2011-12-28/44586/L2251P%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf)
+  - 尺寸 22英寸 
+  - 接口类型
+    - 15针 D-Sub(VGA)
+    - DP DisplayPort
+- [联想ThinkVision L2251p参数](https://product.pconline.com.cn/lcd/lenovo/387339_detail.html)
+  - 分辨率 1680×1050
 
 ## [time and date](https://www.timeanddate.com)
 

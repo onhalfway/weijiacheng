@@ -13,6 +13,7 @@
 - Installing Python package manager: pip
   - [pip](http://pip.readthedocs.io/en/stable/installing/)
   - [download get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+    - `curl -LO https://bootstrap.pypa.io/get-pip.py`
     - install pip: `python get-pip.py`
     - show version: `pip --version`
     - upgrade pip: `pip install --upgrade pip`

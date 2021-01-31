@@ -1,8 +1,19 @@
 # Chinese Notes
 
+- [Chinese Notes](#chinese-notes)
+  - [link](#link)
+  - [互文修辞](#互文修辞)
+  - [古诗词](#古诗词)
+
+## link
+
 - [最全中华古诗词数据库](http://shici.store/)
 - [最全中华古诗词数据库Github](https://github.com/chinese-poetry)
 - [最全中华古诗词数据库Github Repo](https://github.com/chinese-poetry/chinese-poetry)
+- [古诗文网](https://www.gushiwen.cn/)，古文岛微信小程序
+- 古诗词典App、微信小程序，快快查字典微信小程序
+- [主谓之间取消句子独立性](https://www.renrendoc.com/paper/102646568.html)
+  - 鲲之大
 
 ## 互文修辞
 
