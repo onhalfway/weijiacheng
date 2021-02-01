@@ -8,7 +8,7 @@
   - [time and date](#time-and-date)
   - [SI units and IEC units](#si-units-and-iec-units)
   - [Definition - What does User Acceptance Testing (UAT) mean?](#definition---what-does-user-acceptance-testing-uat-mean)
-  - [](#)
+  - [vanity URL](#vanity-url)
 
 ## About FAQ
 
@@ -91,4 +91,7 @@
 - UAT is one of the final and most critical software project procedures that ensures developed software is ready to be rolled out to the market.
 - UAT is also known as beta testing, application testing or end-user testing, and it’s the final testing performed after the functional, system, and regression testing stages are over. 
 
-## 
+## vanity URL
+
+A vanity URL is a descriptive, memorable and pronounceable URL usually used to redirect URLs from one location to another. In the simplest terms, a vanity URL is a long URL that has been converted into a customized short link. A vanity URL can also be known as a branded Link or a custom short URL.
+
