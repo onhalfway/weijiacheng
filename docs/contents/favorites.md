@@ -258,6 +258,7 @@
 - [可汗学院](https://open.163.com/khan/)
 - [超星尔雅](http://erya.mooc.chaoxing.com/)
 - [哔哩哔哩](https://www.bilibili.com/)
+- [bilibili video download](https://xbeibeix.com/api/)
 - [慕课网](https://www.imooc.com/)
 - [优优教程网](http://uiiiuiii.com/)
 - [design PS ...](http://www.doyoudo.com/)
