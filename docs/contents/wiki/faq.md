@@ -5,6 +5,7 @@
   - [Book introduction](#book-introduction)
   - [惠普打印机HP Printer](#惠普打印机hp-printer)
   - [ThinkVision Monitor](#thinkvision-monitor)
+  - [Dell LCD monitor D3217H](#dell-lcd-monitor-d3217h)
   - [time and date](#time-and-date)
   - [SI units and IEC units](#si-units-and-iec-units)
   - [Definition - What does User Acceptance Testing (UAT) mean?](#definition---what-does-user-acceptance-testing-uat-mean)
@@ -26,8 +27,8 @@
 - [升级到Mac OS 10.15.7，HP LaserJet M1005 MFP 打印机突然无法使用了，解决方案](https://h30471.www3.hp.com/t5/da-yin-ji-yu-sao-miao-yi-de-an-zhuang-wen-ti/macOS10-15-7xia-HP-LaserJet3055-da-yin-ji-tu-ran-wu-fa-shi-yong-le/m-p/1052169)
   - 步骤一： 删除原来安装好的打印机，下载MAC支持的hp打印机驱动集合包进行安装，点击下载： https://support.apple.com/kb/DL1888?viewlocale=zh_CN&locale=zh_CN
   - 步骤二： 【对于HP LaserJet M1005 MFP，连接打印机系统自动识别并添加打印机，也无需后面的操作。】~~再添加打印机，选择《普通PostScript打印机》，不能选择其他选项，这个很重要。~~
-- [惠普HP M1005激光打印机 2612A硒鼓加粉图解](https://wenku.baidu.com/view/330b54b2f8c75fbfc77db276.html)
-- HP LaserJet M1005 MFP多功能一体机硒鼓型号Q2612A/X
+- [惠普HP M1005激光打印机 Q2612A硒鼓加粉图解](https://wenku.baidu.com/view/330b54b2f8c75fbfc77db276.html)
+- HP LaserJet M1005 MFP多功能一体机硒鼓型号Q2612A(2000页)/X(2500页)
 - [硒鼓比价，硒鼓推荐哪个好](https://zhidao.baidu.com/question/1052150127244073299.html)
 
 ## ThinkVision Monitor
@@ -39,6 +40,22 @@
     - DP DisplayPort
 - [联想ThinkVision L2251p参数](https://product.pconline.com.cn/lcd/lenovo/387339_detail.html)
   - 分辨率 1680×1050
+
+## Dell LCD monitor D3217H
+
+- [Dell D3217H 文档](https://www.dell.com/support/home/zh-cn/product-support/product/dell-d3217h-monitor/docs)
+  - [Dell D3217H Monitor Quick Start Guide](https://downloads.dell.com/manuals/all-products/esuprt_display_projector/esuprt_display/dell-d3217h-monitor_setup%20guide_en-us.pdf)
+  - [Dell D3217H Monitor User's Guide](https://downloads.dell.com/manuals/all-products/esuprt_display_projector/esuprt_display/dell-d3217h-monitor_user%27s%20guide_en-us.pdf)
+- 尺寸：31.5英寸
+- 面板类型：IPS
+- 屏幕比例：16:9
+- 点距：0.364mm
+- 接口类型：15针 D-Sub(VGA),DVI (只有VGA和DVI接口)
+- 亮度：300cd/m2
+- 分辨率: 1920×1080
+- 壁挂尺寸: 100×100mm
+- 外观尺寸: 501.1×729.8×210mm
+- 重量: 7.5kg
 
 ## [time and date](https://www.timeanddate.com)
 
