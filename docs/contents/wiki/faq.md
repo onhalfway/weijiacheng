@@ -2,6 +2,7 @@
 
 - [FAQ - Frequent Ask Questions](#faq---frequent-ask-questions)
   - [About FAQ](#about-faq)
+  - [symbols pronunciation](#symbols-pronunciation)
   - [Book introduction](#book-introduction)
   - [惠普打印机HP Printer](#惠普打印机hp-printer)
   - [ThinkVision Monitor](#thinkvision-monitor)
@@ -13,11 +14,44 @@
 
 ## About FAQ
 
+## symbols pronunciation
+
+- [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
+- https://www.douban.com/note/255806725/
+  - [~] tilde
+  - [`] accent mark / grave accent / backquote(反引号) backtick
+  - [!] Exclamation point
+  - [@] at
+  - [#] pound sign / hash
+  - [$] dollar sign
+  - [%] percent
+  - [^] caret / hat or fang
+  - [&] ampersand (and for short)
+  - [*] star / asterisk
+  - [()] parenthesis
+  - [[]] square brackets, left bracket, right bracket
+  - [{}] brace, left brace, right brace / brace or curly brackets 大括号 花括号
+  - [_] underscore
+  - [-] hyphen / minus / dash
+  - [+] plus sign
+  - [=] equal(s) sign
+  - [|] pipe / vertical bar
+  - [\] backslash
+  - [<] side caret / less than 小于号; left angle bracket , left pointy bracket  尖括号 大于号
+  - [>] right caret / greater than, right angle bracket, right pointy bracket
+  - [,] comma
+  - [?] question mark
+  - [/] slash
+  - ["] double quote / quotation mark
+  - ['] apostrophe / single quote
+  - [:] colon
+  - [;] semi-colon
+  - [.] dot; period, “full stop” or “decimal point” if in English text
+- [数学符号](../math.md)
+
 ## Book introduction
 
 - [书籍各部分名称](http://xh.5156edu.com/page/z9059m3355j20367.html)
-- [how to pronounce symbols on keyboard? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100607151104AAtQxhc)
-- [数学符号](../math.md)
 - [书的各部分名称](https://jingyan.baidu.com/article/a65957f4babf8024e67f9bce.html)
 - [关于书的各个部分用英语怎么说](https://zhidao.baidu.com/question/91192475.html)
 - [版面各部分的英文名称](http://zhidao.baidu.com/question/38578081.html?si=6)
