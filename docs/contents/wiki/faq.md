@@ -61,9 +61,22 @@
 - [升级到Mac OS 10.15.7，HP LaserJet M1005 MFP 打印机突然无法使用了，解决方案](https://h30471.www3.hp.com/t5/da-yin-ji-yu-sao-miao-yi-de-an-zhuang-wen-ti/macOS10-15-7xia-HP-LaserJet3055-da-yin-ji-tu-ran-wu-fa-shi-yong-le/m-p/1052169)
   - 步骤一： 删除原来安装好的打印机，下载MAC支持的hp打印机驱动集合包进行安装，点击下载： https://support.apple.com/kb/DL1888?viewlocale=zh_CN&locale=zh_CN
   - 步骤二： 【对于HP LaserJet M1005 MFP，连接打印机系统自动识别并添加打印机，也无需后面的操作。】~~再添加打印机，选择《普通PostScript打印机》，不能选择其他选项，这个很重要。~~
+- [HP LaserJet M1005 多功能打印机系列](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-m1005-multifunction-printer-series/1839458)
 - [惠普HP M1005激光打印机 Q2612A硒鼓加粉图解](https://wenku.baidu.com/view/330b54b2f8c75fbfc77db276.html)
 - HP LaserJet M1005 MFP多功能一体机硒鼓型号Q2612A(2000页)/X(2500页)
 - [硒鼓比价，硒鼓推荐哪个好](https://zhidao.baidu.com/question/1052150127244073299.html)
+- [HP LaserJet M1005 MFP - 使用扫描功能](https://support.hp.com/cn-zh/document/c02965025)
+  - M1005 可使用两种方法扫描，分别为 WIA（开始菜单->Windows附件->Windows 传真和扫描）和 TWAIN（开始菜单->HP LaserJet扫描->扫描到），其中 TWAIN 只有在安装完整版驱动后才可使用。两种扫描方法功能上的唯一不同之处在于 TWAIN 可将扫描件保存为 PDF 格式。
+- [HP LaserJet M1005 MFP怎么扫描](https://zhidao.baidu.com/question/411519429.html)
+  - 1、打开我的电脑,点击控制面板按钮。
+  - 2、进入控制面板以后,点击设备和打印机按钮。
+  - 3、选中该打印机,右键点击后选择开始扫描按钮。
+  - 4、页面弹出扫描对话框,可以选择颜色格式为彩色以及设置分辨率等。
+  - 5、设置完成以后点击下方的扫描按钮。
+  - 6、页面进入到扫描进度，等待进度完成。
+  - 7、扫描完成后自动弹出导入图片和视频对话框，点击导入按钮。
+  - 8、系统自动弹出扫描后保存的文件夹，即可看到扫描的文件了。
+  - https://jingyan.baidu.com/article/00a07f38092ef082d028dc32.html
 
 ## ThinkVision Monitor
 
