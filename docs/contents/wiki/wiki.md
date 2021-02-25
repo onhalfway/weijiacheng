@@ -4,6 +4,7 @@
   - [About wiki](#about-wiki)
     - [正式书面邀请](#正式书面邀请)
     - [联合国安理会常任理事国](#联合国安理会常任理事国)
+  - [RFx Request For x](#rfx-request-for-x)
   - [](#)
 
 ## About wiki
@@ -65,5 +66,13 @@
 1971年10月25日，第26届联大以压倒多数通过了第2758号决议，恢复了中华人民共和国在联合国的合法席位，这是一个值得中国和世界纪念的日子。
 1971年，26届联大即将召开，美国看到无法阻止中国重返联合国的步伐，便伙同日本提出“双重代表权”议案，即接纳新中国的代表进入联合国，并保留台湾当局在联合国拥有的代表权。
 这种制造“两个中国”的荒谬主张，当即遭到中国政府严正拒绝和驳斥。1971年10月25号，第26届联大否决了这一提案。
+
+## RFx Request For x
+
+- [Mysterious RFx - what’s the difference between RFI, RFP, and RFQ?](https://www.procurementflow.com/blog/rfx-meaning-difference-between-rfi-rfp-rfq)
+  - the acronym RFx is used for talking about requests in general, where x can be either I (information), Q (quotation), or P (proposal). 
+  - RFQ is used when the buyer knows exactly what they need, and is only asking for the price quotation. 
+  - RFP is used when the buyer has a problem but does not know how to solve it. Then they ask suppliers to come up with different solutions (i.e., proposals) and maybe identify the accompanying cost estimation. 
+  - RFI is used in supplier market research and to initiate the supplier selection process. The supplier selection process is wrapped up by performing a product qualification and site visit.
 
 ## 
