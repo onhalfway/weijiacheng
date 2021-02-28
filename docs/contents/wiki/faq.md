@@ -11,6 +11,8 @@
   - [SI units and IEC units](#si-units-and-iec-units)
   - [Definition - What does User Acceptance Testing (UAT) mean?](#definition---what-does-user-acceptance-testing-uat-mean)
   - [vanity URL](#vanity-url)
+  - [实验报告类型](#实验报告类型)
+  - [M3U8 vs MP4](#m3u8-vs-mp4)
 
 ## About FAQ
 
@@ -159,3 +161,24 @@
 
 A vanity URL is a descriptive, memorable and pronounceable URL usually used to redirect URLs from one location to another. In the simplest terms, a vanity URL is a long URL that has been converted into a customized short link. A vanity URL can also be known as a branded Link or a custom short URL.
 
+## 实验报告类型
+
+- 探究性实验:是实验者在不知道实验结果的前提下，通过自己实验、进行探索、分析、研究得出结论，以发现新事物、新规律，从而形成科学概念的一种认知活动。主要环节节：提出问题、猜想与假设、制定计划与设计实验、进行实验、收集证据、分析与论证、交流与合作七个环节。如探究同种物质质量和体积的关系。
+- 测定性实验:是实验者针对已知的实验结果而进行的以验证实验结果、巩固和加强有关知识内容，培养实验操作能力、掌握实验原理为目的重复性实验活动。如测小石块的密度。
+
+## M3U8 vs MP4
+
+1.HTML5 直接支持m3u8协议。
+2.m3u8其实是一个协议而不是一种视频格式，m3u8里面包括的多是视频块索引。可以通过网络状态自动切换码率。MP4就没有这方面优势了。
+3.m3u8允许客户在进行播放时，从许多不同的备用源中下载视频块。
+4.m3u8是HLS(HTTP Live Streaming)协议的部分内容。是一种能够通过http报文就能够请求和访问了。
+MP4如果要实现在线播放那么就需要RTP协议来实现。两种手段有比较大的区别。
+5.更高性能上能够将部分m3u8的播放块切块之后直接加载到服务器内存中，让客户端可以更快的得到数据。
+6.m3u8 由于是采用切块技术，那么下载的播放文件 就可以少很多，只有当前播放的部分。这一点用在在线直播上有很大优势。
+
+- Stream Recorder - download HLS as MP4
+  - Offered by: https://www.hlsloader.com
+- Browser Plugin: Video DownloadHelper
+  - Offered by: www.downloadhelper.net
+  - Without license: Converted videos would hold the DownloadHelper QR code
+  - Without Premium status, an HLS download can only be performed 120 minutes after the previous one
