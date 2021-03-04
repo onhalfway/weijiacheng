@@ -5,7 +5,7 @@
     - [正式书面邀请](#正式书面邀请)
     - [联合国安理会常任理事国](#联合国安理会常任理事国)
   - [RFx Request For x](#rfx-request-for-x)
-  - [](#)
+  - [software release life cycle](#software-release-life-cycle)
 
 ## About wiki
 
@@ -75,4 +75,17 @@
   - RFP is used when the buyer has a problem but does not know how to solve it. Then they ask suppliers to come up with different solutions (i.e., proposals) and maybe identify the accompanying cost estimation. 
   - RFI is used in supplier market research and to initiate the supplier selection process. The supplier selection process is wrapped up by performing a product qualification and site visit.
 
-## 
+## software release life cycle
+
+- Software Development Life Cycle (SDLC)
+  - What does Software Development Life Cycle (SDLC) mean?
+    - A software development life cycle (SDLC) model is a conceptual framework describing all activities in a software development project from planning to maintenance. This process is associated with several models, each including a variety of tasks and activities.
+    - Software development is a cumbersome activity requiring proper identification of requirements, their implementation, and software deployment. However, the activities do not end there. After the distribution of the software, proper maintenance has to be provided in a timely manner.
+    - This term is also known as the software development process model.
+- General Availability (GA)
+  - What does General Availability (GA) mean?
+    - In the software release life cycle, general availability (GA) refers to the marketing phase when all commercialization activities pertaining to the software product have been completed and it is available for purchase. Commercialization activities encompass compliance and security tests as well as localization and worldwide availability. General availability is a part of the release phase of the software and is preceded by the release to manufacturing (RTM) phase.
+    - General availability is also known as production release.
+  - Techopedia explains General Availability (GA)
+    - General availability is the phase of the software release life cycle where the software is made available for sale. The availability though, can largely vary on the basis of the form in which it is released, language and the region as well. General availability usually happens on a specific date, which has been announced in advance to customers. Any software that has made it to this stage is assumed to have gone through all of the earlier release stages, and has also passed them successfully. This means that the software product has proven to be reliable, free of critical bugs and is suitable for usage in production systems. The general availability phase is also when the software must support all its promised features and be available to developers outside the developing firm.
+- 
