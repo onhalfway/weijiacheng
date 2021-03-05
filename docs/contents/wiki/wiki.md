@@ -6,6 +6,7 @@
     - [联合国安理会常任理事国](#联合国安理会常任理事国)
   - [RFx Request For x](#rfx-request-for-x)
   - [software release life cycle](#software-release-life-cycle)
+  - [许可声明](#许可声明)
 
 ## About wiki
 
@@ -88,4 +89,11 @@
     - General availability is also known as production release.
   - Techopedia explains General Availability (GA)
     - General availability is the phase of the software release life cycle where the software is made available for sale. The availability though, can largely vary on the basis of the form in which it is released, language and the region as well. General availability usually happens on a specific date, which has been announced in advance to customers. Any software that has made it to this stage is assumed to have gone through all of the earlier release stages, and has also passed them successfully. This means that the software product has proven to be reliable, free of critical bugs and is suitable for usage in production systems. The general availability phase is also when the software must support all its promised features and be available to developers outside the developing firm.
-- 
+
+## 许可声明
+
+- (Lenovo)要下载或安装更新，您必须表明接受以下“许可声明”中的条款。
+  - 选择某项进行下载或安装即表明您同意（1）软件代码、样本、更新及修订（代码）符合您获取代码的程序或系统中随附或包含的许可证协议的条款，并且（2）您已事先阅读并接受这些条款。您选择的某个软件可能会在下载、安装或首次使用该软件前显示许可证。您必须同意这些条款以下载或安装并使用该代码。除非更新您具有的有效权利证明的有效许可的程序或系统，否则您无权进行下载、安装或使用该代码。
+  - 除不可免除的强制性保证外，对于代码或技术支持（如果存在），LENOVO 不附有任何（无论是明示的还是暗含的）保证或条件，包括但不限于暗含的有关适销和适用于某种特定用途以及非侵权的保证或条件。
+- 您可以通过单击下面相应的按钮表明是否接受此“许可声明”中的条款。
+- [] 我同意此“许可声明”用于以后所有的程序包。请勿再显示此“许可声明”。
