@@ -93,3 +93,13 @@ Refer to USB disk and Net disk
 - New Headway Elementary 4-edition Culture & Literature Companion
 - New Headway Elementary 4-edition Vocabulary Quizzes
 - New Headway Elementary 4-edition ITutor (1.28 GB)
+
+- [New Headway Pre-Intermediate PDF+Audio CD+Video](https://superingenious.com/new-headway-pre-intermediate/)
+- https://superingenious.com/new-headway-beginner-pdf/
+- https://superingenious.com/new-headway-elementary-pdf/
+- https://superingenious.com/new-headway-pre-intermediate/
+- 
+- https://superingenious.com/new-headway-advanced-pdfaudio-and-vedio/
+
+- http://www.yunost.ru/docs/misc/Headway/
+  - http://www.yunost.ru/docs/misc/Headway/4%20-%20New%20Headway%20-%20Upper-Intermediate/CD%201/

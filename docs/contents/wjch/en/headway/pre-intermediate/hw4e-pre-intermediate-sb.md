@@ -2,13 +2,29 @@
 
 - [New Headway Pre-intermediate Fourth Edition Student Book](#new-headway-pre-intermediate-fourth-edition-student-book)
   - [Book Tapescripts (page 119)](#book-tapescripts-page-119)
+    - [T2.1 Mamy Roct, The Granny DJ](#t21-mamy-roct-the-granny-dj)
   - [Youtube Transcript](#youtube-transcript)
     - [Collated Youtube Transcript](#collated-youtube-transcript)
     - [Original Youtube Transcript](#original-youtube-transcript)
 
 ## Book Tapescripts (page 119)
 
+### T2.1 Mamy Roct, The Granny DJ
 
+Ruth Flowers is not an ordinary grandmother.
+She's in her 70s, and has silver hair and bright-red lipstick. 
+She's a DJ and works in clubs in Europe and tours festivals.
+She live alone in Bristol. 
+She says, "I've got a son and a grandson. 
+They think what I'm doing is very cool!"
+She likes rock bands such as Queen and the Rolling Stones, 
+but she also plays electro and dance music. 
+"I love being with young people," she says. 
+"They've got so much energy and enthusiasm!"
+She's planning another European tour, 
+and is currently making a new single. 
+"I'm having a lot of fun," she says. 
+"I don't want it to stop."
 
 ## Youtube Transcript
 
