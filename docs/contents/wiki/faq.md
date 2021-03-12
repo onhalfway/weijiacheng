@@ -13,6 +13,7 @@
   - [vanity URL](#vanity-url)
   - [实验报告类型](#实验报告类型)
   - [M3U8 vs MP4](#m3u8-vs-mp4)
+  - [常用螺丝规格表](#常用螺丝规格表)
 
 ## About FAQ
 
@@ -182,3 +183,8 @@ MP4如果要实现在线播放那么就需要RTP协议来实现。两种手段�
   - Offered by: www.downloadhelper.net
   - Without license: Converted videos would hold the DownloadHelper QR code
   - Without Premium status, an HLS download can only be performed 120 minutes after the previous one
+
+## 常用螺丝规格表
+
+- [(标准件)常用螺丝规格表](https://wenku.baidu.com/view/76f691a0ee06eff9aef807c2.html)
+- 
