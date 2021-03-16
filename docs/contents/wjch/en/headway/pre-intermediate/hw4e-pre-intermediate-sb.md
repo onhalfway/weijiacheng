@@ -3,6 +3,7 @@
 - [New Headway Pre-intermediate Fourth Edition Student Book](#new-headway-pre-intermediate-fourth-edition-student-book)
   - [Book Tapescripts (page 119)](#book-tapescripts-page-119)
     - [T2.1 Mamy Roct, The Granny DJ](#t21-mamy-roct-the-granny-dj)
+    - [T2.2 the SuperJam millionaire](#t22-the-superjam-millionaire)
   - [Youtube Transcript](#youtube-transcript)
     - [Collated Youtube Transcript](#collated-youtube-transcript)
     - [Original Youtube Transcript](#original-youtube-transcript)
@@ -25,6 +26,16 @@ She's planning another European tour,
 and is currently making a new single. 
 "I'm having a lot of fun," she says. 
 "I don't want it to stop."
+
+### T2.2 the SuperJam millionaire
+
+FRASER /ˈfreɪzər/ DOHERTY is an extraordinary young man. He has his own company, SuperJam, which he started when he was just 16. "I earn more money than my parents," he says. His company makes jam - 500,000 jars every year - using a secret recipe from his grandmother.
+All the major supermarkets sell his products. The business is growing fast - four flavours at the moment, but more on the way. And he has a charity that organizes huge tea parties for old people with live music and dancing.
+"At the moment I'm very busy. I'm writing a cookbook. I've got an idea for a TV programme. And we're trying to get into the American market."
+
+- FRASER /ˈfreɪzər/ n. 弗雷泽（男子名）
+- Doherty 多尔蒂
+- extraordinary /ɪkˈstrɔːrdəneri/ adj. 非凡的；特别的；离奇的；特派的
 
 ## Youtube Transcript
 
