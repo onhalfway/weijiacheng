@@ -187,4 +187,5 @@ MP4如果要实现在线播放那么就需要RTP协议来实现。两种手段�
 ## 常用螺丝规格表
 
 - [(标准件)常用螺丝规格表](https://wenku.baidu.com/view/76f691a0ee06eff9aef807c2.html)
+- 身份证大小：5.4cm x 8.56cm
 - 
