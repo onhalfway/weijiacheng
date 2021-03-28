@@ -2,6 +2,25 @@
 
 shuxue shu xue 数学
 
+- [Math](#math)
+  - [Math Apps](#math-apps)
+  - [Math Symbols](#math-symbols)
+  - [Concept](#concept)
+    - [狄利克雷原理的两个经典案例](#狄利克雷原理的两个经典案例)
+  - [books](#books)
+  - [勾股数组](#勾股数组)
+  - [命题与证明](#命题与证明)
+  - [特殊平行四边形的性质与判定](#特殊平行四边形的性质与判定)
+  - [](#)
+
+## Math Apps
+
+- [Free online math tools for graphing, geometry, 3D, and more!](https://www.geogebra.org/)
+  - Credential: weikehua@126.com/Way.1/7
+- [The Geometer's Sketchpad](https://www.keycurriculum.com/)
+  - [几何画板（The Geometer's Sketchpad）](https://www.jihehuaban.com.cn/)
+- [AxGlyph (AxMath)](http://www.amyxun.com/)
+
 ## Math Symbols
 
 | Symbols | In English                                 | In Chinese                           |
