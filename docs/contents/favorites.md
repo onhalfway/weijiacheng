@@ -353,6 +353,19 @@
 - [AI免费公开课](https://www.toutiao.com/a6749387051038147086)
 - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
 - [World-class learning](https://www.coursera.org/)
+- [加州理工学院: Learning from Data](https://work.caltech.edu/telecourse)
+- [台大: 李宏毅-机器学习，李宏毅-Deep and Structured的机器学习](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/)
+- [计算机视觉 Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [自然语言处理 Stanford CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+- 增强学习 UC Berkely [CS 294: Deep Reinforcement Learning](https://rll.berkeley.edu/deeprlcourse/)，UCL:[Reinforcement Learning](https://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- 新手入门实战类教程：[深度学习与PyTorch](https://study.163.com/course/courseMain.htm%3Fshare%3D2%26shareId%3D480000001847407%26courseId%3D1208894818%26_trace_c_p_k2_%3Da4c9092f717f43c1ae3b93af0306a01b)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- 吴恩达新书《Machine Learning Yearning》
+  - https://github.com/deeplearning-ai/machine-learning-yearning-cn
+  - https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/
+  - https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf
+  - https://github.com/deeplearning-ai/machine-learning-yearning-cn/releases/download/v0.5.0/MLY-zh-cn.pdf
+- https://www.deeplearning.ai/
 
 ## SCM
 

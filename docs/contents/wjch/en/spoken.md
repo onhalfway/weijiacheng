@@ -100,3 +100,103 @@
 98. No problem. 没问题
 99. The trip of the iceberg. 冰山一角
 100. Don't rock the boat. 不要捣乱
+
+## 英文听力练习600句
+
+- https://www.bilibili.com/video/BV1Xg4y187KB
+- We just caught the plane
+Drop me a line
+Just wait and see
+I will have to try that
+I will just play it by ear
+I walked across the park
+I could not care less
+I am afraid I can't
+Cancer is a deadly disease
+I am working on it
+Neither you nor he is wrong
+Do not look wise
+I have something to tell you
+Thanks for your flattering me
+I will keep my ears open
+You must not aime too high
+I wish I lived in New York
+What happened to you
+She hired a car by the hour
+Any messages for me
+He is been behind bars for almost 30 years
+I am not guessing, I really know
+You are the boss
+Stop making such a noise
+You have my word
+I don not much of the movie
+He knows English better than I
+Who do you think you are
+I am very glad to hear that
+I have never seen the movie
+You have got to do something
+This pen does not write well
+Please let me check the bill
+Do not count on me
+It is against the law
+Clothes make the man
+The wall has ears
+I could hardly speak
+I can do nothing but that
+You are too outspoken
+As far as I am concerned
+I am afraid that I have to go
+I have a surprise for you
+I was taking care of Sally
+She never showed up
+Show your tickets, please
+She has been collecting stamps
+Love me, love my dog
+That is all I need
+Let us watch TV with a candle on
+The sun comes up in the east 
+We have thirty minutes to kill
+Truth is the daughter of time
+I would like to try on these hats
+I gave much time to the old car
+Speak louder,please
+Lying and stealing are immoral
+For the time being
+He has a sense of humor
+Take it easy
+Do not get me wrong
+She gives me a headache
+Plenty of sleep is healthful
+I am very proud of you
+I will be more careful
+Nancy will retire next year
+How about a drink tonight
+Time is money
+This is because we feel pain
+I hope it turns out all right
+He is in his everyday clothes
+All for one, one for all
+It is none of your business
+He ofthen fails to keep his word
+We all desire happiness 
+I beg your pardon
+Tomorrow will be a holiday
+It is time to tell her the truth
+As soon as possible
+I have a sweet tooth
+Well,it depends
+Your are wasting your breath
+That can not be 
+Most games cost about that much
+What horrible weather
+I am under a lot of pressure
+You look very serious about something
+She turns me off
+He was not a bit tired
+I meet the boss himself
+All that glitters is not gold
+Great minds think alike
+He is behind the times
+It does not make any sense
+That is a good idea
+That is really something
