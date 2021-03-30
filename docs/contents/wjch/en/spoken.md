@@ -177,7 +177,7 @@ I hope it turns out all right
 He is in his everyday clothes
 All for one, one for all
 It is none of your business
-He ofthen fails to keep his word
+He often fails to keep his word
 We all desire happiness 
 I beg your pardon
 Tomorrow will be a holiday
