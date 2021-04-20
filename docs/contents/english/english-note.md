@@ -547,6 +547,8 @@
 - degree /dɪˈɡriː/ n. 程度，等级；度；学位；阶层; 复数 degrees
 - set out to 打算, 着手, 开始, 出发去
 - conclusion(结论)
+  - complimentary close
+  - Plotline / plot line
 - psychological (心理学的)
 - sense of control over their lives 对自己生活的掌控感
   - sense /sens/ n. 感觉，官能；观念；道理；理智; vt. 感觉到；检测

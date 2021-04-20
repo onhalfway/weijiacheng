@@ -34,6 +34,7 @@
   - [网盘搜索](#网盘搜索)
   - [Driver](#driver)
   - [Search Engine](#search-engine)
+  - [Device](#device)
 
 ## ebook
 
@@ -539,3 +540,10 @@
 - [Google](https://google.com)
 - [Bing](https://bing.com)
 - [Magi](https://magi.com/)
+
+## Device
+
+- 耳机 Bowers & Wilkins
+  - SN序列号: 1835-0118900
+  - MAC地址：EC:66:D1:A2:E1:DE
+  - 软件版本：1.117

@@ -19,10 +19,10 @@
 ---
 
 - [The Emperor’s New Clothes](#the-emperors-new-clothes)
-  - [声明](#%e5%a3%b0%e6%98%8e)
-  - [Plotline 情节线索](#plotline-%e6%83%85%e8%8a%82%e7%ba%bf%e7%b4%a2)
+  - [声明](#声明)
+  - [Plotline 情节线索](#plotline-情节线索)
   - [Plot](#plot)
-  - [正文 as is](#%e6%ad%a3%e6%96%87-as-is)
+  - [正文 as is](#正文-as-is)
   - [Version 2 English](#version-2-english)
   - [Version 2 Chinese](#version-2-chinese)
   - [Version 3 from Internet](#version-3-from-internet)
@@ -43,7 +43,7 @@
   - The emperor, the old minister, official, most of the people in the city don't appear that they **couldn't** see the clothes.
 - Climax
   - A little child said "but he doesn't have anything on!"
-- End
+- End (conclusion / complimentary close)
   - I learned we should be honest.
 
 ## [Plot](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes)
