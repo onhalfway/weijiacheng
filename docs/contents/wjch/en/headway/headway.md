@@ -33,6 +33,9 @@ Refer to USB disk and Net disk
 
 ## Pre-Intermediate
 
+- [Pre-Intermediate Student Book](../pre-intermediate/hw4e-pre-intermediate-sb)
+- [Pre-Intermediate Workbook](../pre-intermediate/hw4e-pre-intermediate-wb)
+
 ---
 
 ## Intermediate
