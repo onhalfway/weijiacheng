@@ -100,3 +100,12 @@
 ## [Work](work)
 
 ---
+
+## wikipedia
+
+* [biology](wiki/biology)
+* [FAQ](wiki/faq)
+* [How to](wiki/how-to)
+* [wiki](wiki/wiki)
+
+---

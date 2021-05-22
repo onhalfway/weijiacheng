@@ -96,6 +96,20 @@
 - [Dell D3217H 文档](https://www.dell.com/support/home/zh-cn/product-support/product/dell-d3217h-monitor/docs)
   - [Dell D3217H Monitor Quick Start Guide](https://downloads.dell.com/manuals/all-products/esuprt_display_projector/esuprt_display/dell-d3217h-monitor_setup%20guide_en-us.pdf)
   - [Dell D3217H Monitor User's Guide](https://downloads.dell.com/manuals/all-products/esuprt_display_projector/esuprt_display/dell-d3217h-monitor_user%27s%20guide_en-us.pdf)
+   - Technical specifications/Monitor specifications
+    - LCD Panel 80.0 cm (31.5”) TFT (with LED back light)
+    - Power Management VESA DPMS compatible
+    - Off Mode, < 0.4 W
+    - Displayable Resolution Full HD, 1920 x 1080 max.
+    - Vertical Frequency, 60Hz max.
+    - Pixel Dimension 0.36375 x 0.36375 mm
+    - LCD Display Color 16.7M
+    - Active Display Area 698.4 x 392.85mm
+    - Tilt -5°~10°(±2°)
+    - Temperature Operating: 0°C ~ + 40°C
+    - Storage: -20°C ~ + 60°C
+    - Compliance CCC, CECP, CEL
+    - Power Input Voltage AC100-240 V
 - 尺寸：31.5英寸
 - 面板类型：IPS
 - 屏幕比例：16:9
