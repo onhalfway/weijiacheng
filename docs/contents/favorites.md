@@ -114,13 +114,22 @@
 - [downloader](https://www.internetdownloadmanager.com/)
 - [downloader](https://www.bittorrent.com)
 - [downloader](https://www.bitcomet.com)
+- [Motrix A full-featured download manager](https://motrix.app/)
+- [DownThemAll-Firefox add-on/Chrome extension]()
+- [Video Downloader Professional]()
 - [Youtube videos download](https://youtube-dl.org/)
 - [Youtube videos download](http://ytdl-org.github.io/youtube-dl/)
 - [Youtube videos download](https://github.com/ytdl-org/youtube-dl/releases)
 - [youtube-dl INSTALLATION](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme)
-- [Motrix A full-featured download manager](https://motrix.app/)
-- [DownThemAll-Firefox add-on/Chrome extension]()
-- [Video Downloader Professional]()
+ - [Yale School of Management: Yale SOM In-Person Commencement 2021](https://classof2021.som.yale.edu/)
+  - May 24 | 10:20 AM (EDT) WATCH In-Person Ceremony
+  - youtube-dl https://www.youtube.com/watch?v=fpik5DizRXA
+   - youtube-dl.exe depend on 32bit msvcr100.dll and ffmpeg.exe (place them under same path)
+   - [msvcr100.dll 32bit](https://www.dll-files.com/msvcr100.dll.html)
+   - [ffmpeg.exe](https://ffmpeg.org/download.html)
+- [subtitle+converter+extract](http://arctime.cn/)
+- [Video Cutter/Joiner/Splitter](http://www.bandicam.com/bandicut-video-cutter/download/)
+- [Total Video Converter](http://www.bigasoft.com/)
 - [PotPlayer for Windows](http://potplayer.daum.net/?lang=zh_CN)
   - https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
 - [MXPlayer for Android]()
@@ -186,9 +195,6 @@
 - 判断文件内容是否发生变化
   - [Linux md5sum](http://blog.sina.com.cn/s/blog_17b6f163b0102x1cp.html)
   - Python hashlib.md5
-- [subtitle+converter+extract](http://arctime.cn/)
-- [Video Cutter/Joiner/Splitter](http://www.bandicam.com/bandicut-video-cutter/download/)
-- [Total Video Converter](http://www.bigasoft.com/)
 - [Internet Browser](Google Chrome)
   - [Chrome保存的HAR文件怎么打开？](https://blog.csdn.net/yeyiqun/article/details/99310869?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5)
 - [Internet Browser](Firefox)
