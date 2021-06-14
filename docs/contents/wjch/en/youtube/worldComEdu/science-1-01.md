@@ -17,15 +17,15 @@ People can eat the fruit. The fruit holds seeds. Oranges, apples, lemons, and ba
 
 Transcript
 [Music]
-hello students my name is Brian Stuart
-I will be your teacher for today today
+Hello students, my name is Brian Stuart.
+I will be your teacher for today. Today
 we are going over part 1 in our textbook
-life science and specifically we'll be
-talking about the parts of plants if you
-think about it plants are all around us
-aren't they we use plants for many
-things we use plants for food we use
-plants for shelter right our house is
+life science, and specifically we'll be
+talking about the parts of plants. If you
+think about it, plants are all around us,
+aren't they? We use plants for many
+things. We use plants for food, we use
+plants for shelter. right our house is
 made of parts of plants plants even make
 the air that we breathe so we can see
 plants are all around us and they are
@@ -85,6 +85,7 @@ soil so these roots are like strong legs
 right but in the ground so the plant is
 does not fall over if there's a strong
 wind it stays sturdy and strong and for
+- sturdy [ˈstɜːdi] adj. 坚定的；强健的；健全的;  n. 羊晕倒病
 a tree for example that's very heavy
 that's very important right so roots
 help the plant stay strong in the soil
@@ -381,7 +382,7 @@ that flower mmm it smells good doesn't
 it smells great well of course we can
 use flowers to make perfume to get that
 same sort of smell okay so let's
-grevioux here which is the correct plant
+review here which is the correct plant
 part for the picture we just covered how
 we use different parts of the plant for
 a different thing
@@ -401,8 +402,9 @@ easily and very simply here okay let's
 move on what is the picture of number
 two what is that that looks like perfume
 right you take the lid off and then you
-push the little nozzle and it's sprays
-perfume on you so what do we use to make
+push the little nozzle [ˈnɑːzl] n. 喷嘴；管口；鼻 and it's sprays
+perfume on you 你把盖子打开，然后推一下小喷嘴，香水就会喷到你身上
+ so what do we use to make
 perfume what part of the plant is used
 is it a the flower or B the root I hope
 you guessed a the flower right because
@@ -421,7 +423,7 @@ this right but you just put a little bit
 of toothpaste on your toothbrush when
 you brush your teeth think about this
 what part of the plant is used to make
-toothpaste is it a fruit B leaves now I
+toothpaste is it A fruit B leaves now I
 know what you're thinking you're
 thinking fruit because that would taste
 good right
@@ -458,7 +460,7 @@ if you can imagine a leaf you know the
 green part of the plant very long and
 sharp sharp you got to be careful if
 it's sharp right sharp means it's
-dangerous it can it can poke you is that
+dangerous it can it can poke [pəʊk] vi. 刺，捅；戳；you is that
 does that sound right that's not correct
 right that's false because a branch
 remember is like an arm of a tree it's
@@ -481,7 +483,7 @@ of a tree is called the stem that is
 true by the way usually we use another
 word to talk about the stem of a tree
 and that word is
-crunk TR un k trunk so for a tree we
+trunk TR un k trunk so for a tree we
 talk about trunk for all plants it's
 called the stem so yes we can say the
 stem of a tree but we also normally
@@ -600,7 +602,7 @@ there are many different parts of a
 plant so let's take a look at that
 reading and let's look at the main idea
 and details whenever you have a short
-passage is short essay or a short
+passage is short essay [ˈeseɪ] n. 散文；试图；随笔 or a short
 description about something that is
 written out you can break it down you
 can look at how it is organized there's
@@ -770,7 +772,7 @@ that is true it's probably our answer B
 the leaves turn into seeds the leaves
 turn into
 seats that's not true the fruit carries
-the seats not the leaves so B is
+the seeds not the leaves so B is
 probably is not our answer that's not
 true right remember maybe a let's look
 at si the flowers carry food and water
