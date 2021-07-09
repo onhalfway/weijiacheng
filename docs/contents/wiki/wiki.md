@@ -95,6 +95,7 @@
     - General availability is also known as production release.
   - Techopedia explains General Availability (GA)
     - General availability is the phase of the software release life cycle where the software is made available for sale. The availability though, can largely vary on the basis of the form in which it is released, language and the region as well. General availability usually happens on a specific date, which has been announced in advance to customers. Any software that has made it to this stage is assumed to have gone through all of the earlier release stages, and has also passed them successfully. This means that the software product has proven to be reliable, free of critical bugs and is suitable for usage in production systems. The general availability phase is also when the software must support all its promised features and be available to developers outside the developing firm.
+- Limited Availability (LA) 
 
 ## 许可声明
 
