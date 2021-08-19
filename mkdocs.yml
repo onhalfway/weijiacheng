@@ -17,6 +17,7 @@ nav:
 
 extra:
     search:
-        language: 'jp'
+        language: 'zh'
+        # language: 'jp'
 # theme:
 #     language: 'zh'
