@@ -132,8 +132,9 @@
 - [Total Video Converter](http://www.bigasoft.com/)
 - [PotPlayer for Windows](http://potplayer.daum.net/?lang=zh_CN)
   - https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+- [IINA for MacOS](https://github.com/iina/iina/wiki)
 - [MXPlayer for Android]()
-- [MPlayerX for MaxOS]()
+- [MPlayerX for MacOS]()
 - [kodi]()
 - [voice recorder/streaming audio recorder/system sound and microphone](https://www.apowersoft.com/free-audio-recorder-online)
 - [Cmder | Console Emulator on Windows](https://cmder.net/)

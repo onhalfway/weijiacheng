@@ -2,14 +2,224 @@
 
 - 💓 [Subscribe to WorldCom Edu](http://bit.ly/2mSnr3i​)
   - [WorldCom EDU](https://www.youtube.com/channel/UC4dCg_iioDqyBLEnUA7BvKg)
+  - [Transcript](worldComEdu-transcript.md)
 
 - [Youtube Channel WorldCom Edu](#youtube-channel-worldcom-edu)
+  - [Sight words 100 | Words Sentence Full | English Study for Kids](#sight-words-100--words-sentence-full--english-study-for-kids)
+  - [Sight words 100 Class | Full Lectures | Words and Stories for Kids](#sight-words-100-class--full-lectures--words-and-stories-for-kids)
+  - [Reading for Vocabulary | LECTURE](#reading-for-vocabulary--lecture)
+    - [English word | Reading for Vocabulary LEVEL A](#english-word--reading-for-vocabulary-level-a)
+    - [💓 Reading For Vocabulary Level A](#-reading-for-vocabulary-level-a)
+    - [💓 English word | Reading for Vocabulary LEVEL B](#-english-word--reading-for-vocabulary-level-b)
+    - [💓 English word | Reading for Vocabulary LEVEL C](#-english-word--reading-for-vocabulary-level-c)
+    - [💓 English word | Reading for Vocabulary LEVEL D](#-english-word--reading-for-vocabulary-level-d)
   - [American Textbook Reading](#american-textbook-reading)
     - [💓 American Textbook Reading Grade 1 Science 1](#-american-textbook-reading-grade-1-science-1)
     - [💓American Textbook Reading - Science 2 Books](#american-textbook-reading---science-2-books)
     - [💓 American Textbook Reading Grade 1 Social Studies 1](#-american-textbook-reading-grade-1-social-studies-1)
     - [💓 American Textbook Reading SOCIAL STUDIES 02](#-american-textbook-reading-social-studies-02)
   - [💓 Check out other YouTube English-learning resources at WorldCom Edu](#-check-out-other-youtube-english-learning-resources-at-worldcom-edu)
+
+## Sight words 100 | Words Sentence Full | English Study for Kids
+
+TODO
+
+## Sight words 100 Class | Full Lectures | Words and Stories for Kids
+
+TODO
+
+## Reading for Vocabulary | LECTURE
+
+- Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
+
+### [English word | Reading for Vocabulary LEVEL A](https://www.youtube.com/playlist?list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU)
+
+- 除了Vocabulary-Level-A.md，该列表不如列表[Reading For Vocabulary Level A]的完整。Transcripts已经归档为Vocabulary-Level-A-Deprecated.zip
+- [Lesson 01](https://www.youtube.com/watch?v=JiQs8UJqh8c&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=1)
+  - [Lesson 01](Vocabulary-Level-A-01.md)
+- [Lesson 02](https://www.youtube.com/watch?v=aRKkDckeFyo&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=2)
+  - [Lesson 02](Vocabulary-Level-A-02.md)
+- [Lesson 03](https://www.youtube.com/watch?v=aNAssEcG8Lc&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=3)
+  - [Lesson 03](Vocabulary-Level-A-03.md)
+- [Lesson 04](https://www.youtube.com/watch?v=dWuqtgtxYd8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=4)
+  - [Lesson 04](Vocabulary-Level-A-04.md)
+- [Lesson 05](https://www.youtube.com/watch?v=x5AP_owuIqw&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=5)
+  - [Lesson 05](Vocabulary-Level-A-05.md)
+- [Lesson 06](https://www.youtube.com/watch?v=2S0UO3vhhGo&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=6)
+  - [Lesson 06](Vocabulary-Level-A-06.md)
+- [Lesson 07](https://www.youtube.com/watch?v=dIkUJ9IQ4sY&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=7)
+  - [Lesson 07](Vocabulary-Level-A-07.md)
+- [Lesson 08](https://www.youtube.com/watch?v=e0j4Ctn4kPM&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=8)
+  - [Lesson 08](Vocabulary-Level-A-08.md)
+- [Lesson 09](https://www.youtube.com/watch?v=R6P1ZE6Fg-w&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=9)
+  - [Lesson 09](Vocabulary-Level-A-09.md)
+- [Lesson 10](https://www.youtube.com/watch?v=irqeriNrkEI&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=10)
+  - [Lesson 10](Vocabulary-Level-A-10.md)
+- [Lesson 11](https://www.youtube.com/watch?v=qMLlH0GfQHg&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=11)
+  - [Lesson 11](Vocabulary-Level-A-11.md)
+- [Lesson 12](https://www.youtube.com/watch?v=U80vcSunxSg&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=12)
+  - [Lesson 12](Vocabulary-Level-A-12.md)
+- [Lesson 13](https://www.youtube.com/watch?v=EckvhgPKVGs&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=13)
+  - [Lesson 13](Vocabulary-Level-A-13.md)
+- [Lesson 14](https://www.youtube.com/watch?v=bqqmb4T46u0&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=14)
+  - [Lesson 14](Vocabulary-Level-A-14.md)
+- [Reading for Vocabulary LEVEL A](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
+  - [Reading for Vocabulary LEVEL A](Vocabulary-Level-A.md)
+
+### [💓 Reading For Vocabulary Level A](https://www.youtube.com/playlist?list=PLORqQa0DiANETPVAAD045e2-WbcENxYQT)
+
+- [Reading for Vocabulary LEVEL A](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
+  - [Reading for Vocabulary LEVEL A](Vocabulary-Level-A.md)
+- 💓 Reading For Vocabulary Level A:
+  - UNIT 1 Plants
+    - Lesson 1 We Eat Flowers!: https://youtu.be/h1jwWJhiZaU
+      - [Lesson 01](Vocabulary-Level-A-01.md)
+    - Lesson 2 Not Just for Food: https://youtu.be/qVSAzggQezc
+      - [Lesson 02](Vocabulary-Level-A-02.md)
+  - UNIT 2 Animals
+    - Lesson 3 Keeping Warm: https://youtu.be/IETEAkCUc9E
+      - [Lesson 03](Vocabulary-Level-A-03.md)
+    - Lesson 4 Animals Help People: https://youtu.be/1-7BZGeDNfo
+      - [Lesson 04](Vocabulary-Level-A-04.md)
+  - UNIT 3 People
+    - Lesson 5 Your Senses: https://youtu.be/kVHI7Ag-Bv4
+      - [Lesson 05](Vocabulary-Level-A-05.md)
+    - Lesson 6 All Grown Up: https://youtu.be/cYiir5edBTU
+      - [Lesson 06](Vocabulary-Level-A-06.md)
+  - UNIT 4 Life
+    - Lesson 7 How Old is that Tree?: https://youtu.be/1BWuSxLCorU
+      - [Lesson 07](Vocabulary-Level-A-07.md)
+    - Lesson 8 Save the Forests: https://youtu.be/H9Qvf8fbNWU
+      - [Lesson 08](Vocabulary-Level-A-08.md)
+  - UNIT 5 Weather
+    - Lesson 9 The Seasons: https://youtu.be/kCvCaa7PgMo
+      - [Lesson 09](Vocabulary-Level-A-09.md)
+    - Lesson 10 Bad Weather: https://youtu.be/WUl1fp24cZo
+      - [Lesson 10](Vocabulary-Level-A-10.md)
+  - UNIT 6 Soil
+    - Lesson 11 Dirt is Good!: https://youtu.be/Ng0i-VhSYCU
+      - [Lesson 11](Vocabulary-Level-A-11.md)
+    - Lesson 12 Soil Homes: https://youtu.be/Ixqm7tG_2h4
+      - [Lesson 12](Vocabulary-Level-A-12.md)
+  - UNIT 7 Energy
+    - Lesson 13 Energy: https://youtu.be/YT-QjCNBVGo
+      - [Lesson 13](Vocabulary-Level-A-13.md)
+    - Lesson 14 Electricity: https://youtu.be/HsCjEk5stBc
+      - [Lesson 14](Vocabulary-Level-A-14.md)
+
+### [💓 English word | Reading for Vocabulary LEVEL B](https://www.youtube.com/playlist?list=PLORqQa0DiANGtQ-74MAa6nSDUzsRW0p3W)
+
+- UNIT 1 Environment
+  - Lesson 1 Sharks: <https://youtu.be/VrJ4wUiRTVg>
+    - [Lesson 01](Vocabulary-Level-B-01.md)
+  - Lesson 2 The Pacific Ocean: <https://youtu.be/AtxfsdfKfa4>
+    - [Lesson 02](Vocabulary-Level-B-02.md)
+  - Lesson 3 Pollution: <https://youtu.be/eUyXBEBYpgk>
+    - [Lesson 03](Vocabulary-Level-B-03.md)
+- UNIT 2 Rocks
+  - Lesson 4 We've struck Gold!: <https://youtu.be/tlcCWHAHChc>
+    - [Lesson 04](Vocabulary-Level-B-04.md)
+  - Lesson 5 Let's use a Rock: <https://youtu.be/V7jqAFU89Tc>
+    - [Lesson 05](Vocabulary-Level-B-05.md)
+  - Lesson 6 Mount Rushmore: <https://youtu.be/zGMVDiNr33Q>
+    - [Lesson 06](Vocabulary-Level-B-06.md)
+- UNIT 3 Space
+  - Lesson 7 Let's Ride into Space: <https://youtu.be/p9c5xnu0G1c>
+    - TODO [Lesson 07](Vocabulary-Level-B-07.md)
+  - Lesson 8 Eclipse: <https://youtu.be/TNNAHpjd_AQ>
+    - [Lesson 08](Vocabulary-Level-B-08.md)
+  - Lesson 9 How Much Do You Weigh?: <https://youtu.be/odTflrb1bMU>
+    - [Lesson 09](Vocabulary-Level-B-09.md)
+- UNIT 4 
+- UNIT 5 
+  - Lesson 10 : https://youtu.be/
+    - [Lesson 10](Vocabulary-Level-B-10.md)
+- UNIT 6 
+  - Lesson 11 : https://youtu.be/
+    - [Lesson 11](Vocabulary-Level-B-11.md)
+  - Lesson 12 : https://youtu.be/
+    - [Lesson 12](Vocabulary-Level-B-12.md)
+- UNIT 7 
+  - Lesson 13 : https://youtu.be/
+    - [Lesson 13](Vocabulary-Level-B-13.md)
+  - Lesson 14 : https://youtu.be/
+    - [Lesson 14](Vocabulary-Level-B-14.md)
+
+### [💓 English word | Reading for Vocabulary LEVEL C]()
+
+- UNIT 1 
+  - Lesson 1 Sharks: https://youtu.be/VrJ4wUiRTVg
+    - [Lesson 01](Vocabulary-Level-C-01.md)
+  - Lesson 2 : https://youtu.be/
+    - [Lesson 02](Vocabulary-Level-C-02.md)
+- UNIT 2 
+  - Lesson 3 : https://youtu.be/
+    - [Lesson 03](Vocabulary-Level-C-03.md)
+  - Lesson 4 : https://youtu.be/
+    - [Lesson 04](Vocabulary-Level-C-04.md)
+- UNIT 3 
+  - Lesson 5 : https://youtu.be/
+    - [Lesson 05](Vocabulary-Level-C-05.md)
+  - Lesson 6 : https://youtu.be/
+    - [Lesson 06](Vocabulary-Level-C-06.md)
+- UNIT 4 
+  - Lesson 7 : https://youtu.be/
+    - [Lesson 07](Vocabulary-Level-C-07.md)
+  - Lesson 8 : https://youtu.be/
+    - [Lesson 08](Vocabulary-Level-C-08.md)
+- UNIT 5 
+  - Lesson 9 : https://youtu.be/
+    - [Lesson 09](Vocabulary-Level-C-09.md)
+  - Lesson 10 : https://youtu.be/
+    - [Lesson 10](Vocabulary-Level-C-10.md)
+- UNIT 6 
+  - Lesson 11 : https://youtu.be/
+    - [Lesson 11](Vocabulary-Level-C-11.md)
+  - Lesson 12 : https://youtu.be/
+    - [Lesson 12](Vocabulary-Level-C-12.md)
+- UNIT 7 
+  - Lesson 13 : https://youtu.be/
+    - [Lesson 13](Vocabulary-Level-C-13.md)
+  - Lesson 14 : https://youtu.be/
+    - [Lesson 14](Vocabulary-Level-C-14.md)
+
+### [💓 English word | Reading for Vocabulary LEVEL D]()
+
+- UNIT 1 
+  - Lesson 1 Sharks: https://youtu.be/VrJ4wUiRTVg
+    - [Lesson 01](Vocabulary-Level-D-01.md)
+  - Lesson 2 : https://youtu.be/
+    - [Lesson 02](Vocabulary-Level-D-02.md)
+- UNIT 2 
+  - Lesson 3 : https://youtu.be/
+    - [Lesson 03](Vocabulary-Level-D-03.md)
+  - Lesson 4 : https://youtu.be/
+    - [Lesson 04](Vocabulary-Level-D-04.md)
+- UNIT 3 
+  - Lesson 5 : https://youtu.be/
+    - [Lesson 05](Vocabulary-Level-D-05.md)
+  - Lesson 6 : https://youtu.be/
+    - [Lesson 06](Vocabulary-Level-D-06.md)
+- UNIT 4 
+  - Lesson 7 : https://youtu.be/
+    - [Lesson 07](Vocabulary-Level-D-07.md)
+  - Lesson 8 : https://youtu.be/
+    - [Lesson 08](Vocabulary-Level-D-08.md)
+- UNIT 5 
+  - Lesson 9 : https://youtu.be/
+    - [Lesson 09](Vocabulary-Level-D-09.md)
+  - Lesson 10 : https://youtu.be/
+    - [Lesson 10](Vocabulary-Level-D-10.md)
+- UNIT 6 
+  - Lesson 11 : https://youtu.be/
+    - [Lesson 11](Vocabulary-Level-D-11.md)
+  - Lesson 12 : https://youtu.be/
+    - [Lesson 12](Vocabulary-Level-D-12.md)
+- UNIT 7 
+  - Lesson 13 : https://youtu.be/
+    - [Lesson 13](Vocabulary-Level-D-13.md)
+  - Lesson 14 : https://youtu.be/
+    - [Lesson 14](Vocabulary-Level-D-14.md)
 
 ## American Textbook Reading
 
@@ -36,7 +246,7 @@ American Textbook Reading for English language learners. This series helps stude
   - 08.[How Does Earth Change?: https://youtu.be/LB2N8SkmkdA​](science-1-08.md)
   - 09.[Natural Resources: https://youtu.be/lf0Hkng-Jlc​](science-1-09.md)
   - 10.[Rocks and Soil: https://youtu.be/3cCMkZXm4Ts​](science-1-10.md)
-- Part 3 Physical Science 
+- Part 3 Physical Science
   - 11.[Saving Natural Resources: https://youtu.be/PxasHbbPK1s​](science-1-11.md)
   - 12.[Matter and Senses: https://youtu.be/Z922FqIAOyU​](science-1-12.md)
   - 13.[Observing Matter: https://youtu.be/XhVWf_dp3Hw​](science-1-13.md)
