@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 6 Soil | Lesson 11 Dirt is Good!
 
-- [Transcript](#transcript)
+- <https://youtu.be/Ng0i-VhSYCU>
+- Focus on Let's think about the importance of soil.
+
+- [UNIT 6 Soil | Lesson 11 Dirt is Good!](#unit-6-soil--lesson-11-dirt-is-good)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

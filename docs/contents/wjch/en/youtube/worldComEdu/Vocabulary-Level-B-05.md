@@ -1,5 +1,6 @@
 # UNIT 2 Rocks | Lesson 5 Let's use a Rock
 
+- Focus on We use rocks in many ways.
 - <https://youtu.be/V7jqAFU89Tc>
 
 - [UNIT 2 Rocks | Lesson 5 Let's use a Rock](#unit-2-rocks--lesson-5-lets-use-a-rock)

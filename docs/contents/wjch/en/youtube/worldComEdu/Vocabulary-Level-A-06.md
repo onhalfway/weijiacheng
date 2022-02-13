@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 3 People | Lesson 6 All Grown Up
 
-- [Transcript](#transcript)
+- <https://youtu.be/cYiir5edBTU>
+- Focus on How do people grow and change?
+
+- [UNIT 3 People | Lesson 6 All Grown Up](#unit-3-people--lesson-6-all-grown-up)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

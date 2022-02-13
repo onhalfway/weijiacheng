@@ -1,6 +1,7 @@
 # Unit 1 Environment | Lesson 03 Pollution
 
-<https://youtu.be/eUyXBEBYpgk>
+- Focus on Pollution is bad for the environment.
+- <https://youtu.be/eUyXBEBYpgk>
 
 - [Unit 1 Environment | Lesson 03 Pollution](#unit-1-environment--lesson-03-pollution)
   - [un-toggle timestamps transcript](#un-toggle-timestamps-transcript)

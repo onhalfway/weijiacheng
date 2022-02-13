@@ -1,6 +1,7 @@
 # UNIT 1 Environment | Lesson 1 Sharks
 
-<https://youtu.be/VrJ4wUiRTVg>
+- Focus on Learn about the best hunter in the ocean.
+- <https://youtu.be/VrJ4wUiRTVg>
 
 - [UNIT 1 Environment | Lesson 1 Sharks](#unit-1-environment--lesson-1-sharks)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)

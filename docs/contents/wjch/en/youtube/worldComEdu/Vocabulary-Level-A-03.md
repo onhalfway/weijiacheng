@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 2 Animals | Lesson 3 Keeping Warm
 
-- [Transcript](#transcript)
+- <https://youtu.be/IETEAkCUc9E>
+- Focus on What keeps polar bears warm?
+
+- [UNIT 2 Animals | Lesson 3 Keeping Warm](#unit-2-animals--lesson-3-keeping-warm)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

@@ -1,5 +1,6 @@
 # UNIT 3 Space | Lesson 8 Eclipse
 
+- Focus on Let's talk about eclipses and what people thought about them.
 - <https://youtu.be/TNNAHpjd_AQ>
 
 - [UNIT 3 Space | Lesson 8 Eclipse](#unit-3-space--lesson-8-eclipse)

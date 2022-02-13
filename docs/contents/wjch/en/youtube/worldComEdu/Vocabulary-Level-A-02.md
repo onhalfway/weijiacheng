@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 1 Plants | Lesson 2 Not Just for Food
 
-- [Transcript](#transcript)
+- <https://youtu.be/qVSAzggQezc>
+- Focus on Think about plants we use in our lives.
+
+- [UNIT 1 Plants | Lesson 2 Not Just for Food](#unit-1-plants--lesson-2-not-just-for-food)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestaps Transcript](#toggle-timestaps-transcript)
 

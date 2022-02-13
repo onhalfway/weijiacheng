@@ -1,7 +1,10 @@
-# Transcript
+# UNIT 1 Plants | Lesson 1 We Eat Flowers!
 
-- [Transcript](#transcript)
-  - [un-toggle timestaps](#un-toggle-timestaps)
+- <https://youtu.be/h1jwWJhiZaU>
+- Focus on the plant parts we eat
+
+- [UNIT 1 Plants | Lesson 1 We Eat Flowers!](#unit-1-plants--lesson-1-we-eat-flowers)
+  - [un-toggle timestamps transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps](#toggle-timestamps)
 
 💓 Lesson 1 We Eat Flowers!
@@ -38,7 +41,7 @@ Some flowers taste good too!
 The top parts of broccoli are flowers.
 That means we eat flowers!
 
-## un-toggle timestaps
+## un-toggle timestamps transcript
 
 [Music]
 okay let's start with our first word the

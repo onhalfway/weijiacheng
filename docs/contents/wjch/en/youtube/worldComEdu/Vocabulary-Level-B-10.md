@@ -1,5 +1,6 @@
 # UNIT 4 Human Body | Lesson 10 Bones
 
+- Focus on Learn about the function of bones in our body.
 - <https://youtu.be/P8ZRp9cZSaU>
 
 - [UNIT 4 Human Body | Lesson 10 Bones](#unit-4-human-body--lesson-10-bones)

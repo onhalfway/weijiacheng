@@ -1,5 +1,6 @@
 # UNIT 2 Rocks | Lesson 6 Mount Rushmore
 
+- Focus on Let's learn about Mount Rushmore.
 - <https://youtu.be/zGMVDiNr33Q>
 
 - [UNIT 2 Rocks | Lesson 6 Mount Rushmore](#unit-2-rocks--lesson-6-mount-rushmore)

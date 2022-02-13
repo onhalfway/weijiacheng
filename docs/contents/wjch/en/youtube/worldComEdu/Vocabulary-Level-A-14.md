@@ -1,6 +1,11 @@
-# Transcript
+# UNIT 7 Energy | Lesson 14 Electricity
 
-- [Transcript](#transcript)
+- <https://youtu.be/HsCjEk5stBc>
+- Focus on
+  - Where does electricity come from?
+  - And where does it go?
+
+- [UNIT 7 Energy | Lesson 14 Electricity](#unit-7-energy--lesson-14-electricity)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

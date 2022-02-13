@@ -1,5 +1,6 @@
 # UNIT 3 Space | Lesson 9 How Much Do You Weigh?
 
+- Focus on You weigh different amounts on the other planets.
 - <https://youtu.be/odTflrb1bMU>
 
 - [UNIT 3 Space | Lesson 9 How Much Do You Weigh?](#unit-3-space--lesson-9-how-much-do-you-weigh)

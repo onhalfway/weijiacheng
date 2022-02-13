@@ -1,6 +1,9 @@
-# Transcsript
+# UNIT 2 Animals | Lesson 4 Animals Help People
 
-- [Transcsript](#transcsript)
+- <https://youtu.be/1-7BZGeDNfo>
+- Focus on How do animals help people?
+
+- [UNIT 2 Animals | Lesson 4 Animals Help People](#unit-2-animals--lesson-4-animals-help-people)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

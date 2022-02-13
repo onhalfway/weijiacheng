@@ -1,6 +1,11 @@
-# Transcript
+# UNIT 7 Energy | Lesson 13 Energy
 
-- [Transcript](#transcript)
+- <https://youtu.be/YT-QjCNBVGo>
+- Focus on
+  - 1.Think about different kinds of energy.
+  - 2.What does energy do?
+
+- [UNIT 7 Energy | Lesson 13 Energy](#unit-7-energy--lesson-13-energy)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 4 Life | Lesson 7 How Old is that Tree?
 
-- [Transcript](#transcript)
+- <https://youtu.be/1BWuSxLCorU>
+- Focus on How can we tell the age tree?
+
+- [UNIT 4 Life | Lesson 7 How Old is that Tree?](#unit-4-life--lesson-7-how-old-is-that-tree)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

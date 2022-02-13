@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 6 Soil | Lesson 12 Soil Homes
 
-- [Transcript](#transcript)
+- <https://youtu.be/Ixqm7tG_2h4>
+- Focus on Let's think about how we make brick homes.
+
+- [UNIT 6 Soil | Lesson 12 Soil Homes](#unit-6-soil--lesson-12-soil-homes)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

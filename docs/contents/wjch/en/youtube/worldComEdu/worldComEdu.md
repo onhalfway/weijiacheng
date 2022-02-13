@@ -13,6 +13,7 @@
     - [💓 English word | Reading for Vocabulary LEVEL B](#-english-word--reading-for-vocabulary-level-b)
     - [💓 English word | Reading for Vocabulary LEVEL C](#-english-word--reading-for-vocabulary-level-c)
     - [💓 English word | Reading for Vocabulary LEVEL D](#-english-word--reading-for-vocabulary-level-d)
+    - [💓 English word | Reading for Vocabulary Plus LEVEL A](#-english-word--reading-for-vocabulary-plus-level-a)
   - [American Textbook Reading](#american-textbook-reading)
     - [💓 American Textbook Reading Grade 1 Science 1](#-american-textbook-reading-grade-1-science-1)
     - [💓American Textbook Reading - Science 2 Books](#american-textbook-reading---science-2-books)
@@ -68,125 +69,231 @@ TODO
 
 ### [💓 Reading For Vocabulary Level A](https://www.youtube.com/playlist?list=PLORqQa0DiANETPVAAD045e2-WbcENxYQT)
 
-- [Reading for Vocabulary LEVEL A](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
-  - [Reading for Vocabulary LEVEL A](Vocabulary-Level-A.md)
-- 💓 Reading For Vocabulary Level A:
-  - UNIT 1 Plants
-    - Lesson 1 We Eat Flowers!: https://youtu.be/h1jwWJhiZaU
-      - [Lesson 01](Vocabulary-Level-A-01.md)
-    - Lesson 2 Not Just for Food: https://youtu.be/qVSAzggQezc
-      - [Lesson 02](Vocabulary-Level-A-02.md)
-  - UNIT 2 Animals
-    - Lesson 3 Keeping Warm: https://youtu.be/IETEAkCUc9E
-      - [Lesson 03](Vocabulary-Level-A-03.md)
-    - Lesson 4 Animals Help People: https://youtu.be/1-7BZGeDNfo
-      - [Lesson 04](Vocabulary-Level-A-04.md)
-  - UNIT 3 People
-    - Lesson 5 Your Senses: https://youtu.be/kVHI7Ag-Bv4
-      - [Lesson 05](Vocabulary-Level-A-05.md)
-    - Lesson 6 All Grown Up: https://youtu.be/cYiir5edBTU
-      - [Lesson 06](Vocabulary-Level-A-06.md)
-  - UNIT 4 Life
-    - Lesson 7 How Old is that Tree?: https://youtu.be/1BWuSxLCorU
-      - [Lesson 07](Vocabulary-Level-A-07.md)
-    - Lesson 8 Save the Forests: https://youtu.be/H9Qvf8fbNWU
-      - [Lesson 08](Vocabulary-Level-A-08.md)
-  - UNIT 5 Weather
-    - Lesson 9 The Seasons: https://youtu.be/kCvCaa7PgMo
-      - [Lesson 09](Vocabulary-Level-A-09.md)
-    - Lesson 10 Bad Weather: https://youtu.be/WUl1fp24cZo
-      - [Lesson 10](Vocabulary-Level-A-10.md)
-  - UNIT 6 Soil
-    - Lesson 11 Dirt is Good!: https://youtu.be/Ng0i-VhSYCU
-      - [Lesson 11](Vocabulary-Level-A-11.md)
-    - Lesson 12 Soil Homes: https://youtu.be/Ixqm7tG_2h4
-      - [Lesson 12](Vocabulary-Level-A-12.md)
-  - UNIT 7 Energy
-    - Lesson 13 Energy: https://youtu.be/YT-QjCNBVGo
-      - [Lesson 13](Vocabulary-Level-A-13.md)
-    - Lesson 14 Electricity: https://youtu.be/HsCjEk5stBc
-      - [Lesson 14](Vocabulary-Level-A-14.md)
+- [Reading for Vocabulary LEVEL A Lesson Full](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
+  - [Reading for Vocabulary LEVEL A Lesson Full](Vocabulary-Level-A.md)
+- UNIT 1 Plants
+  - Lesson 1 We Eat Flowers!: <https://youtu.be/h1jwWJhiZaU>
+    - Focus on the plant parts we eat
+    - [Lesson 01](Vocabulary-Level-A-01.md)
+  - Lesson 2 Not Just for Food: <https://youtu.be/qVSAzggQezc>
+    - Focus on Think about plants we use in our lives.
+    - [Lesson 02](Vocabulary-Level-A-02.md)
+- UNIT 2 Animals
+  - Lesson 3 Keeping Warm: <https://youtu.be/IETEAkCUc9E>
+    - Focus on What keeps polar bears warm?
+    - [Lesson 03](Vocabulary-Level-A-03.md)
+  - Lesson 4 Animals Help People: <https://youtu.be/1-7BZGeDNfo>
+    - Focus on How do animals help people?
+    - [Lesson 04](Vocabulary-Level-A-04.md)
+- UNIT 3 People
+  - Lesson 5 Your Senses: <https://youtu.be/kVHI7Ag-Bv4>
+    - Focus on Learn about five senses using our body parts.
+    - [Lesson 05](Vocabulary-Level-A-05.md)
+  - Lesson 6 All Grown Up: <https://youtu.be/cYiir5edBTU>
+    - Focus on How do people grow and change?
+    - [Lesson 06](Vocabulary-Level-A-06.md)
+- UNIT 4 Life
+  - Lesson 7 How Old is that Tree?: <https://youtu.be/1BWuSxLCorU>
+    - Focus on How can we tell the age tree?
+    - [Lesson 07](Vocabulary-Level-A-07.md)
+  - Lesson 8 Save the Forests: <https://youtu.be/H9Qvf8fbNWU>
+    - Focus on Think about how we use the trees and how can we save the forest.
+    - [Lesson 08](Vocabulary-Level-A-08.md)
+- UNIT 5 Weather
+  - Lesson 9 The Seasons: <https://youtu.be/kCvCaa7PgMo>
+    - Focus on What happens in each season
+    - [Lesson 09](Vocabulary-Level-A-09.md)
+  - Lesson 10 Bad Weather: <https://youtu.be/WUl1fp24cZo>
+    - Focus on Think about the different kinds of weather.
+    - [Lesson 10](Vocabulary-Level-A-10.md)
+- UNIT 6 Soil
+  - Lesson 11 Dirt is Good!: <https://youtu.be/Ng0i-VhSYCU>
+    - Focus on Let's think about the importance of soil.
+    - [Lesson 11](Vocabulary-Level-A-11.md)
+  - Lesson 12 Soil Homes: <https://youtu.be/Ixqm7tG_2h4>
+    - Focus on Let's think about how we make brick homes.
+    - [Lesson 12](Vocabulary-Level-A-12.md)
+- UNIT 7 Energy
+  - Lesson 13 Energy: <https://youtu.be/YT-QjCNBVGo>
+    - Focus on 1. Think about different kinds of energy. 2. What does energy do?
+    - [Lesson 13](Vocabulary-Level-A-13.md)
+  - Lesson 14 Electricity: <https://youtu.be/HsCjEk5stBc>
+    - Focus on Where does electricity come from? And where does it go?
+    - [Lesson 14](Vocabulary-Level-A-14.md)
 
 ### [💓 English word | Reading for Vocabulary LEVEL B](https://www.youtube.com/playlist?list=PLORqQa0DiANGtQ-74MAa6nSDUzsRW0p3W)
 
+- Reading for Vocabulary LEVEL B Lesson Full: <https://youtu.be/ZfchGc0kTZc>
+  - TODO [Reading for Vocabulary LEVEL B Lesson Full](Vocabulary-Level-B.md)
 - UNIT 1 Environment
   - Lesson 1 Sharks: <https://youtu.be/VrJ4wUiRTVg>
+    - Focus on Learn about the best hunter in the ocean.
     - [Lesson 01](Vocabulary-Level-B-01.md)
   - Lesson 2 The Pacific Ocean: <https://youtu.be/AtxfsdfKfa4>
+    - Focus on Learn about the biggest ocean in the world.
     - [Lesson 02](Vocabulary-Level-B-02.md)
   - Lesson 3 Pollution: <https://youtu.be/eUyXBEBYpgk>
+    - Focus on Pollution is bad for the environment.
     - [Lesson 03](Vocabulary-Level-B-03.md)
 - UNIT 2 Rocks
   - Lesson 4 We've struck Gold!: <https://youtu.be/tlcCWHAHChc>
+    - Focus on Some rocks are very expensive.
     - [Lesson 04](Vocabulary-Level-B-04.md)
   - Lesson 5 Let's use a Rock: <https://youtu.be/V7jqAFU89Tc>
+    - Focus on We use rocks in many ways.
     - [Lesson 05](Vocabulary-Level-B-05.md)
   - Lesson 6 Mount Rushmore: <https://youtu.be/zGMVDiNr33Q>
+    - Focus on Let's learn about Mount Rushmore.
     - [Lesson 06](Vocabulary-Level-B-06.md)
 - UNIT 3 Space
   - Lesson 7 Let's Ride into Space: <https://youtu.be/p9c5xnu0G1c>
-    - TODO [Lesson 07](Vocabulary-Level-B-07.md)
+    - Focus on Let's learn about the first American women to go into space.
+    - [Lesson 07](Vocabulary-Level-B-07.md)
   - Lesson 8 Eclipse: <https://youtu.be/TNNAHpjd_AQ>
+    - Focus on Let's talk about eclipses and what people thought about them.
     - [Lesson 08](Vocabulary-Level-B-08.md)
   - Lesson 9 How Much Do You Weigh?: <https://youtu.be/odTflrb1bMU>
+    - Focus on You weigh different amounts on the other planets.
     - [Lesson 09](Vocabulary-Level-B-09.md)
 - UNIT 4 Human Body
   - Lesson 10 Bones: <https://youtu.be/P8ZRp9cZSaU>
+    - Focus on Learn about the function of bones in our body.
     - [Lesson 10](Vocabulary-Level-B-10.md)
-- UNIT 5 
-- UNIT 6 
-  - Lesson 11 : <https://youtu.be/>
+  - Lesson 11 Wow! That's Tall!: <https://youtu.be/689x_n6eBl4>
+    - Focus on Learn about Robert Wadlow, the tallest man in history.
     - [Lesson 11](Vocabulary-Level-B-11.md)
-  - Lesson 12 : <https://youtu.be/>
+  - Lesson 12 Staying Healthy: <https://youtu.be/OOx5TKXVkj0>
+    - Focus on Think about how we can keep our body healthy.
     - [Lesson 12](Vocabulary-Level-B-12.md)
-- UNIT 7 
-  - Lesson 13 : <https://youtu.be/>
+- UNIT 5 Heroes
+  - Lesson 13 Edison the Wizard: <https://youtu.be/jkQ6GfDehLc>
+    - Focus on Thomas Edison was a great inventor.
     - [Lesson 13](Vocabulary-Level-B-13.md)
-  - Lesson 14 : <https://youtu.be/>
+  - Lesson 14 A Dream Come True: <https://youtu.be/Xq2rZd0Y4Rk>
+    - Focus on Martin Luther King, Jr. was a hero who fought for people's rights.
     - [Lesson 14](Vocabulary-Level-B-14.md)
+  - Lesson 15 Great Player, Great Heart: <https://youtu.be/a4MIlFP2eGU>
+    - Focus on Let's know about Roberto Clemente.
+    - [Lesson 15](Vocabulary-Level-B-15.md)
 
-### [💓 English word | Reading for Vocabulary LEVEL C]()
+### [💓 English word | Reading for Vocabulary LEVEL C](https://www.youtube.com/playlist?list=PLORqQa0DiANGMBjQUVIfkFrepHFG6f8jB)
 
-- UNIT 1 
-  - Lesson 1 Sharks: <https://youtu.be/>
+- Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
+- Reading for Vocabulary LEVEL C Lesson Full: <https://youtu.be/hBzuLdYbThY>
+  - [Reading for Vocabulary LEVEL C Lesson Full](Vocabulary-Level-C.md)
+- UNIT 1 Amazing Animals
+  - Lesson 1 In a Land before Time: <https://youtu.be/avOehkIBADw>
+    - Focus on We can learn about dinosaurs from their bones.
     - [Lesson 01](Vocabulary-Level-C-01.md)
-  - Lesson 2 : <https://youtu.be/>
+  - Lesson 2 Smart as a Chimp: <https://youtu.be/s696dhdxwms>
+    - Focus on Chimpanzees are very smart animals.
     - [Lesson 02](Vocabulary-Level-C-02.md)
-- UNIT 2 
-  - Lesson 3 : <https://youtu.be/>
+  - Lesson 3 What's after Seven?: <https://youtu.be/MXWh1q_cwnU>
+    - Focus on Did you know? There is an elephant that can count.
     - [Lesson 03](Vocabulary-Level-C-03.md)
-  - Lesson 4 : <https://youtu.be/>
+- UNIT 2 Dynamic Earth
+  - Lesson 4 Fire under the Earth: <https://youtu.be/64PU0BFX50Q>
+    - Focus on Let's learn about a volcano.
     - [Lesson 04](Vocabulary-Level-C-04.md)
-- UNIT 3 
-  - Lesson 5 : <https://youtu.be/>
+  - Lesson 5 Never a Warm Day: <https://youtu.be/lPMRJlFmEJM>
+    - Focus on Let's learn about the Arctic.
     - [Lesson 05](Vocabulary-Level-C-05.md)
-  - Lesson 6 : <https://youtu.be/>
+  - Lesson 6 Fossil Fuels: <https://youtu.be/skNP7kiuBa8>
+    - Focus on Let's learn about how plants from long ago can cause pollution today.
     - [Lesson 06](Vocabulary-Level-C-06.md)
-- UNIT 4 
-  - Lesson 7 : <https://youtu.be/>
+- UNIT 3 Sound
+  - Lesson 7 Do You Hear That?: <https://youtu.be/bKikiq2l5hU>
+    - Focus on Let's learn what sound is.
     - [Lesson 07](Vocabulary-Level-C-07.md)
-  - Lesson 8 : <https://youtu.be/>
+  - Lesson 8 Too Cool: <https://youtu.be/MZFusC3VOfA>
+    - Focus on Let's learn about the meaning of 'too cool' and music trends in 1990s.
     - [Lesson 08](Vocabulary-Level-C-08.md)
-- UNIT 5 
-  - Lesson 9 : <https://youtu.be/>
+  - Lesson 9 Bravo! Encore!: <https://youtu.be/sPTg82ZUfVE>
+    - Focus on Let's learn about the New York Philharmonic. Let's think about different sounds and what sounds are good and bad.
     - [Lesson 09](Vocabulary-Level-C-09.md)
-  - Lesson 10 : <https://youtu.be/>
+- UNIT 4 Robots
+  - Lesson 10 Worker of the Year: <https://youtu.be/40VQAP41YeU>
+    - Focus on Let's learn about robots. Think about different kinds of robots and different things that robots can do.
     - [Lesson 10](Vocabulary-Level-C-10.md)
-- UNIT 6 
-  - Lesson 11 : <https://youtu.be/>
+  - Lesson 11 Early Robots: <https://youtu.be/5ngqLt8HABE>
+    - Focus on Let's learn about the history of robots.
     - [Lesson 11](Vocabulary-Level-C-11.md)
-  - Lesson 12 : <https://youtu.be/>
+  - Lesson 12 Robot Actors: <https://youtu.be/Z7KvtHG8ZNc>
+    - Focus on Let's learn about some robots in movies.
     - [Lesson 12](Vocabulary-Level-C-12.md)
-- UNIT 7 
-  - Lesson 13 : <https://youtu.be/>
+- UNIT 5 Imaginary Characters
+  - Lesson 13 Computer Movies: <https://youtu.be/O8NYx6vjDuM>
+    - Focus on Let's think about movies and books you know. What kind of characters are in them?
     - [Lesson 13](Vocabulary-Level-C-13.md)
-  - Lesson 14 : <https://youtu.be/>
+  - Lesson 14 Mighty Paul Bunyan: <https://youtu.be/X4GjBfFy7P8>
+    - Focus on Let's learn about Mighty Paul Bunyan.
     - [Lesson 14](Vocabulary-Level-C-14.md)
+  - Lesson 15 Along Came a Mouse: <https://youtu.be/AcI6SavjDvo>
+    - Focus on Let's learn about the creator of Mickey Mouse.
+    - [Lesson 15](Vocabulary-Level-C-15.md)
 
-### [💓 English word | Reading for Vocabulary LEVEL D]()
+### [💓 English word | Reading for Vocabulary LEVEL D](https://www.youtube.com/playlist?list=PLORqQa0DiANFRPiYpXNrOxohrS1aTDZrC)
 
+- Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
+- Reading for Vocabulary LEVEL D Lesson Full: <https://youtu.be/2pHaZ7VjN30>
+  - [Reading for Vocabulary LEVEL D Lesson Full](Vocabulary-Level-D.md)
+- UNIT 1 Architecture
+  - Lesson 1 A Dream Job: <https://youtu.be/GHAqFuZT_eA>
+    - Focus on What do you want to do in the future? Let's think about the job, architect.
+    - [Lesson 01](Vocabulary-Level-D-01.md)
+  - Lesson 2 Amazing Architecture: <https://youtu.be/Be7O10zn5wM>
+    - Focus on Let's learn about famous architecture in the world.
+    - [Lesson 02](Vocabulary-Level-D-02.md)
+  - Lesson 3 Frank Floyd Wright: <https://youtu.be/km3BfbE7MF8>
+    - Focus on Let's learn about Frank Floyd Wright.
+    - [Lesson 03](Vocabulary-Level-D-03.md)
+- UNIT 2 Sports
+  - Lesson 4 The Human Machine: <https://youtu.be/nl_yKLa9AMo>
+    - Focus on How can someone become a great athlete?
+    - [Lesson 04](Vocabulary-Level-D-04.md)
+  - Lesson 5 The Ancient Olympic: <https://youtu.be/IrDQDvaJiTA>
+    - Focus on Let's learn about the history of the Olympics.
+    - [Lesson 05](Vocabulary-Level-D-05.md)
+  - Lesson 6 Playing Favorites: <https://youtu.be/al4wqRjU-IU>
+    - Focus on Let's think about your favorite sports teams.
+    - [Lesson 06](Vocabulary-Level-D-06.md)
+- UNIT 3 Caring for Animals
+  - Lesson 7 Your Dog the Celebrity: <https://youtu.be/Nu2nqAQRBGk>
+    - Focus on How to train your dog
+    - [Lesson 07](Vocabulary-Level-D-07.md)
+  - Lesson 8 Living with Animals: <https://youtu.be/iMuSG3RMuUA>
+    - Focus on How Humans live with animals
+    - [Lesson 08](Vocabulary-Level-D-08.md)
+  - Lesson 9 A Healthy Pet is a Happy Pet: <https://youtu.be/GdUURA0dGoo>
+    - Focus on Who helps sick or injured pets?
+    - [Lesson 09](Vocabulary-Level-D-09.md)
+- UNIT 4 World Connections
+  - Lesson 10 Going Places: <https://youtu.be/FFJvqTm6DD0>
+    - Focus on The history of transportation
+    - [Lesson 10](Vocabulary-Level-D-10.md)
+  - Lesson 11 A Quick Bite to Eat: <https://youtu.be/f_xU76VcWE>
+    - Focus on Fast food
+    - [Lesson 11](Vocabulary-Level-D-11.md)
+  - Lesson 12 Home Away from Home: <https://youtu.be/5LCxcf9eNJU>
+    - Focus on Moving to new homes
+    - [Lesson 12](Vocabulary-Level-D-12.md)
+- UNIT 5 Cycles
+  - Lesson 13 The World's Greatest Traveler: <https://youtu.be/-8dMpxqvFaQ>
+    - Focus on The cycle of water
+    - [Lesson 13](Vocabulary-Level-D-13.md)
+  - Lesson 14 What a Farmer Knows: <https://youtu.be/7lHXzgyOkqE>
+    - Focus on Smart farming methods
+    - [Lesson 14](Vocabulary-Level-D-14.md)
+  - Lesson 15 As the Earth Moves: <https://youtu.be/amCIQEre4_4>
+    - Focus on Earth's motion and weather
+    - [Lesson 15](Vocabulary-Level-D-15.md)
+
+### [💓 English word | Reading for Vocabulary Plus LEVEL A]()
+
+TODO
+- Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
 - UNIT 1 
-  - Lesson 1 Sharks: <https://youtu.be/>
+  - Lesson 1 : <https://youtu.be/>
     - [Lesson 01](Vocabulary-Level-D-01.md)
   - Lesson 2 : <https://youtu.be/>
     - [Lesson 02](Vocabulary-Level-D-02.md)

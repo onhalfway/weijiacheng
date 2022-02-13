@@ -1,5 +1,6 @@
 # UNIT 1 Environment | Lesson 2 The Pacific Ocean
 
+- Focus on Learn about the biggest ocean in the world.
 - <https://youtu.be/AtxfsdfKfa4>
 
 - [UNIT 1 Environment | Lesson 2 The Pacific Ocean](#unit-1-environment--lesson-2-the-pacific-ocean)

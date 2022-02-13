@@ -1,5 +1,6 @@
 # UNIT 2 Rocks | Lesson 4 We've struck Gold!
 
+- Focus on Some rocks are very expensive.
 - <https://youtu.be/tlcCWHAHChc>
 
 - [UNIT 2 Rocks | Lesson 4 We've struck Gold!](#unit-2-rocks--lesson-4-weve-struck-gold)

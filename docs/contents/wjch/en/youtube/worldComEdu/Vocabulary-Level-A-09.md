@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 5 Weather | Lesson 9 The Seasons
 
-- [Transcript](#transcript)
+- <https://youtu.be/kCvCaa7PgMo>
+- Focus on What happens in each season
+
+- [UNIT 5 Weather | Lesson 9 The Seasons](#unit-5-weather--lesson-9-the-seasons)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 

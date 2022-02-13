@@ -1,6 +1,9 @@
-# Transcript
+# UNIT 5 Weather | Lesson 10 Bad Weather
 
-- [Transcript](#transcript)
+- <https://youtu.be/WUl1fp24cZo>
+- Focus on Think about the different kinds of weather.
+
+- [UNIT 5 Weather | Lesson 10 Bad Weather](#unit-5-weather--lesson-10-bad-weather)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 
