@@ -69,6 +69,7 @@ TODO
 
 ### [💓 Reading For Vocabulary Level A](https://www.youtube.com/playlist?list=PLORqQa0DiANETPVAAD045e2-WbcENxYQT)
 
+- youtube-dl --skip-download --write-auto-sub https://youtu.be/1oxMcJYFOV8 https://youtu.be/h1jwWJhiZaU https://youtu.be/qVSAzggQezc https://youtu.be/IETEAkCUc9E https://youtu.be/1-7BZGeDNfo https://youtu.be/kVHI7Ag-Bv4 https://youtu.be/cYiir5edBTU https://youtu.be/1BWuSxLCorU https://youtu.be/H9Qvf8fbNWU https://youtu.be/kCvCaa7PgMo https://youtu.be/WUl1fp24cZo https://youtu.be/Ng0i-VhSYCU https://youtu.be/Ixqm7tG_2h4 https://youtu.be/YT-QjCNBVGo https://youtu.be/HsCjEk5stBc
 - [Reading for Vocabulary LEVEL A Lesson Full](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
   - [Reading for Vocabulary LEVEL A Lesson Full](Vocabulary-Level-A.md)
 - UNIT 1 Plants
@@ -123,6 +124,7 @@ TODO
 
 ### [💓 English word | Reading for Vocabulary LEVEL B](https://www.youtube.com/playlist?list=PLORqQa0DiANGtQ-74MAa6nSDUzsRW0p3W)
 
+- youtube-dl --skip-download --write-auto-sub https://youtu.be/ZfchGc0kTZc https://youtu.be/VrJ4wUiRTVg https://youtu.be/AtxfsdfKfa4 https://youtu.be/eUyXBEBYpgk https://youtu.be/tlcCWHAHChc https://youtu.be/V7jqAFU89Tc https://youtu.be/zGMVDiNr33Q https://youtu.be/p9c5xnu0G1c https://youtu.be/TNNAHpjd_AQ https://youtu.be/odTflrb1bMU https://youtu.be/P8ZRp9cZSaU https://youtu.be/689x_n6eBl4 https://youtu.be/OOx5TKXVkj0 https://youtu.be/jkQ6GfDehLc https://youtu.be/Xq2rZd0Y4Rk https://youtu.be/a4MIlFP2eGU
 - Reading for Vocabulary LEVEL B Lesson Full: <https://youtu.be/ZfchGc0kTZc>
   - TODO [Reading for Vocabulary LEVEL B Lesson Full](Vocabulary-Level-B.md)
 - UNIT 1 Environment
@@ -179,6 +181,7 @@ TODO
 ### [💓 English word | Reading for Vocabulary LEVEL C](https://www.youtube.com/playlist?list=PLORqQa0DiANGMBjQUVIfkFrepHFG6f8jB)
 
 - Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/hBzuLdYbThY https://youtu.be/avOehkIBADw https://youtu.be/s696dhdxwms https://youtu.be/MXWh1q_cwnU https://youtu.be/64PU0BFX50Q https://youtu.be/lPMRJlFmEJM https://youtu.be/skNP7kiuBa8 https://youtu.be/bKikiq2l5hU https://youtu.be/MZFusC3VOfA https://youtu.be/sPTg82ZUfVE https://youtu.be/40VQAP41YeU https://youtu.be/5ngqLt8HABE https://youtu.be/Z7KvtHG8ZNc https://youtu.be/O8NYx6vjDuM https://youtu.be/X4GjBfFy7P8 https://youtu.be/AcI6SavjDvo
 - Reading for Vocabulary LEVEL C Lesson Full: <https://youtu.be/hBzuLdYbThY>
   - [Reading for Vocabulary LEVEL C Lesson Full](Vocabulary-Level-C.md)
 - UNIT 1 Amazing Animals
@@ -235,6 +238,7 @@ TODO
 ### [💓 English word | Reading for Vocabulary LEVEL D](https://www.youtube.com/playlist?list=PLORqQa0DiANFRPiYpXNrOxohrS1aTDZrC)
 
 - Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/2pHaZ7VjN30 https://youtu.be/GHAqFuZT_eA https://youtu.be/Be7O10zn5wM https://youtu.be/km3BfbE7MF8 https://youtu.be/nl_yKLa9AMo https://youtu.be/IrDQDvaJiTA https://youtu.be/al4wqRjU-IU https://youtu.be/Nu2nqAQRBGk https://youtu.be/iMuSG3RMuUA https://youtu.be/GdUURA0dGoo https://youtu.be/FFJvqTm6DD0 https://youtu.be/f_xU76VcWE https://youtu.be/5LCxcf9eNJU https://youtu.be/-8dMpxqvFaQ https://youtu.be/7lHXzgyOkqE https://youtu.be/amCIQEre4_4
 - Reading for Vocabulary LEVEL D Lesson Full: <https://youtu.be/2pHaZ7VjN30>
   - [Reading for Vocabulary LEVEL D Lesson Full](Vocabulary-Level-D.md)
 - UNIT 1 Architecture
@@ -341,6 +345,7 @@ American Textbook Reading for English language learners. This series helps stude
 
 ### 💓 [American Textbook Reading Grade 1 Science 1](https://www.youtube.com/watch?v=cBvV5t_YRQM&list=PLORqQa0DiANGX1G2YWOBL5tfSPODkkIVB)
 
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/cBvV5t_YRQM https://youtu.be/nCktNxwt5L0 https://youtu.be/arj7CI0NUrU https://youtu.be/c-2EYsOl4rA https://youtu.be/IQbBqn4E68o https://youtu.be/47hSAqmb5vE​ https://youtu.be/BWri4Bcf6B8 https://youtu.be/LB2N8SkmkdA https://youtu.be/lf0Hkng-Jlc https://youtu.be/3cCMkZXm4Ts​ https://youtu.be/PxasHbbPK1s https://youtu.be/Z922FqIAOyU https://youtu.be/XhVWf_dp3Hw​ https://youtu.be/SPT5g9lFXGo​ https://youtu.be/bshhIUYZq0E
 - Part 1 Life Science
   - 01.[Parts of Plant: https://youtu.be/cBvV5t_YRQM​](science-1-01.md)
   - 02.[Life Cycle of a Plant: https://youtu.be/nCktNxwt5L0​](science-1-02.md)
@@ -362,6 +367,7 @@ American Textbook Reading for English language learners. This series helps stude
 
 ### 💓[American Textbook Reading - Science 2 Books](https://www.youtube.com/playlist?list=PLORqQa0DiANHa5O2rk2wLyRZXTlYTI6SD)
 
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/saVLZJQyiLc https://youtu.be/XWyTndOCzSg​ https://youtu.be/serA5khGRvM​ https://youtu.be/feTaVkZr5K4​ https://youtu.be/jikceF3EElE https://youtu.be/phSYNiOzmec​ https://youtu.be/-siA4xjtiyY​ https://youtu.be/Uwk69VA0b0M https://youtu.be/NPjYVqjGk2Y​ https://youtu.be/WKFot38PFBg​ https://youtu.be/lifu9RIpLgw​ https://youtu.be/ezMdZ4rZIjA​ https://youtu.be/F25bDrYk5KU​ https://youtu.be/d2TIFSpUSSY​ https://youtu.be/AhI2KFMRyGw​
 - Part 1 Life Science
   - 01.[What Animals Need to Grow: https://youtu.be/saVLZJQyiLc​](science-2-01.md)
   - 02.[Living Things vs Nonliving Things: https://youtu.be/XWyTndOCzSg​](science-2-02.md)
@@ -383,6 +389,7 @@ American Textbook Reading for English language learners. This series helps stude
 
 ### 💓 [American Textbook Reading Grade 1 Social Studies 1](https://www.youtube.com/playlist?list=PLORqQa0DiANFtzI0DEge060Wxm9H0oNlW)
 
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/CkcG4P-AcjA​ https://youtu.be/ID9T4EQ-9Io https://youtu.be/gfSjMMXVAiA​ https://youtu.be/mZz1aNeMSxI​ https://youtu.be/vxp-fBC8FFs​ https://youtu.be/2kx84Ykf-dA​ https://youtu.be/hkn4g2RSDDE​ https://youtu.be/I8w1CpAnT2k​ https://youtu.be/9zxwSNaTmc0​ https://youtu.be/tNCVMQPRbBg https://youtu.be/B8B07E4On5E​ https://youtu.be/d88wZfTrxWE​ https://youtu.be/KRfABAUcwK0​ https://youtu.be/z4QGzFzUn9A https://youtu.be/26186SCFtEo​
 - Part 1 Home, School, and Neighborhood
   - 01.[Family and Home: https://youtu.be/CkcG4P-AcjA​](social-1-01.md)
   - 02.[Time for School: https://youtu.be/ID9T4EQ-9Io​](social-1-02.md)
@@ -406,6 +413,7 @@ American Textbook Reading for English language learners. This series helps stude
 
 ### 💓 [American Textbook Reading SOCIAL STUDIES 02](https://www.youtube.com/playlist?list=PLORqQa0DiANFfAONFqtGfnAdNJsLMZNeB)
 
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/uRtvF4D_TXM​ https://youtu.be/Ckrp_HVD3LI https://youtu.be/Ckrp_HVD3LI​ https://youtu.be/FsXIEg6HCXw​ https://youtu.be/DeTuCKeJyJk​ https://youtu.be/pceQZ5Dohi8​ https://youtu.be/GAh8mOv1c2Y​ https://youtu.be/SEZD9f0Hz0s​ https://youtu.be/1D5Ut49FQz8 https://youtu.be/7k0jFzC3Fsk​ https://youtu.be/XxiZ36do9HY​ https://youtu.be/WtPX9V-lM6Y​ https://youtu.be/-dtAXA4jeJo https://youtu.be/0krKnxhPoUs​ https://youtu.be/2aDXs-WMpwY​
 - Part 1 Home, School, and Neighborhood
   - 01.[The First Americans: https://youtu.be/uRtvF4D_TXM​](social-2-01.md)
   - 02.[Celebration of Holidays: https://youtu.be/Ckrp_HVD3LI​](social-2-02.md)

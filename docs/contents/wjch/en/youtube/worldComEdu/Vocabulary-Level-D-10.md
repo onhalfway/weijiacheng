@@ -4,10 +4,10 @@
 - <https://youtu.be/FFJvqTm6DD0>
 
 - [UNIT 4 World Connections | Lesson 10 Going Places](#unit-4-world-connections--lesson-10-going-places)
+  - [Un-Toggle Timestamps Transcript](#un-toggle-timestamps-transcript)
   - [Toggle Timestamps Transcript](#toggle-timestamps-transcript)
-  - [Toggle Timestamps Transcript](#toggle-timestamps-transcript-1)
 
-## Toggle Timestamps Transcript
+## Un-Toggle Timestamps Transcript
 
 [Music]
 hello everybody welcome back to reading
