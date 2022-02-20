@@ -238,7 +238,7 @@ TODO
 ### [💓 English word | Reading for Vocabulary LEVEL D](https://www.youtube.com/playlist?list=PLORqQa0DiANFRPiYpXNrOxohrS1aTDZrC)
 
 - Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
-- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/2pHaZ7VjN30 https://youtu.be/GHAqFuZT_eA https://youtu.be/Be7O10zn5wM https://youtu.be/km3BfbE7MF8 https://youtu.be/nl_yKLa9AMo https://youtu.be/IrDQDvaJiTA https://youtu.be/al4wqRjU-IU https://youtu.be/Nu2nqAQRBGk https://youtu.be/iMuSG3RMuUA https://youtu.be/GdUURA0dGoo https://youtu.be/FFJvqTm6DD0 https://youtu.be/f_xU76VcWE https://youtu.be/5LCxcf9eNJU https://youtu.be/-8dMpxqvFaQ https://youtu.be/7lHXzgyOkqE https://youtu.be/amCIQEre4_4
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/2pHaZ7VjN30 https://youtu.be/GHAqFuZT_eA https://youtu.be/Be7O10zn5wM https://youtu.be/km3BfbE7MF8 https://youtu.be/nl_yKLa9AMo https://youtu.be/IrDQDvaJiTA https://youtu.be/al4wqRjU-IU https://youtu.be/Nu2nqAQRBGk https://youtu.be/iMuSG3RMuUA https://youtu.be/GdUURA0dGoo https://youtu.be/FFJvqTm6DD0 https://youtu.be/-f_xU76VcWE https://youtu.be/5LCxcf9eNJU https://youtu.be/-8dMpxqvFaQ https://youtu.be/7lHXzgyOkqE https://youtu.be/amCIQEre4_4
 - Reading for Vocabulary LEVEL D Lesson Full: <https://youtu.be/2pHaZ7VjN30>
   - [Reading for Vocabulary LEVEL D Lesson Full](Vocabulary-Level-D.md)
 - UNIT 1 Architecture
@@ -275,7 +275,7 @@ TODO
   - Lesson 10 Going Places: <https://youtu.be/FFJvqTm6DD0>
     - Focus on The history of transportation
     - [Lesson 10](Vocabulary-Level-D-10.md)
-  - Lesson 11 A Quick Bite to Eat: <https://youtu.be/f_xU76VcWE>
+  - Lesson 11 A Quick Bite to Eat: <https://youtu.be/-f_xU76VcWE>
     - Focus on Fast food
     - [Lesson 11](Vocabulary-Level-D-11.md)
   - Lesson 12 Home Away from Home: <https://youtu.be/5LCxcf9eNJU>
@@ -345,7 +345,7 @@ American Textbook Reading for English language learners. This series helps stude
 
 ### 💓 [American Textbook Reading Grade 1 Science 1](https://www.youtube.com/watch?v=cBvV5t_YRQM&list=PLORqQa0DiANGX1G2YWOBL5tfSPODkkIVB)
 
-- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/cBvV5t_YRQM https://youtu.be/nCktNxwt5L0 https://youtu.be/arj7CI0NUrU https://youtu.be/c-2EYsOl4rA https://youtu.be/IQbBqn4E68o https://youtu.be/47hSAqmb5vE​ https://youtu.be/BWri4Bcf6B8 https://youtu.be/LB2N8SkmkdA https://youtu.be/lf0Hkng-Jlc https://youtu.be/3cCMkZXm4Ts​ https://youtu.be/PxasHbbPK1s https://youtu.be/Z922FqIAOyU https://youtu.be/XhVWf_dp3Hw​ https://youtu.be/SPT5g9lFXGo​ https://youtu.be/bshhIUYZq0E
+- youtube-dl --write-auto-sub https://youtu.be/cBvV5t_YRQM https://youtu.be/nCktNxwt5L0 https://youtu.be/arj7CI0NUrU https://youtu.be/c-2EYsOl4rA https://youtu.be/IQbBqn4E68o https://youtu.be/47hSAqmb5vE​ https://youtu.be/BWri4Bcf6B8 https://youtu.be/LB2N8SkmkdA https://youtu.be/lf0Hkng-Jlc https://youtu.be/3cCMkZXm4Ts​ https://youtu.be/PxasHbbPK1s https://youtu.be/Z922FqIAOyU https://youtu.be/XhVWf_dp3Hw​ https://youtu.be/SPT5g9lFXGo​ https://youtu.be/bshhIUYZq0E
 - Part 1 Life Science
   - 01.[Parts of Plant: https://youtu.be/cBvV5t_YRQM​](science-1-01.md)
   - 02.[Life Cycle of a Plant: https://youtu.be/nCktNxwt5L0​](science-1-02.md)
