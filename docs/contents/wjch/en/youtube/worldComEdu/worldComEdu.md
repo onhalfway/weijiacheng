@@ -17,8 +17,12 @@
   - [American Textbook Reading](#american-textbook-reading)
     - [💓 American Textbook Reading Grade 1 Science 1](#-american-textbook-reading-grade-1-science-1)
     - [💓American Textbook Reading - Science 2 Books](#american-textbook-reading---science-2-books)
+    - [💓 American Textbook Reading Science 3](#-american-textbook-reading-science-3)
+    - [💓 American Textbook Reading Science 4](#-american-textbook-reading-science-4)
     - [💓 American Textbook Reading Grade 1 Social Studies 1](#-american-textbook-reading-grade-1-social-studies-1)
     - [💓 American Textbook Reading SOCIAL STUDIES 02](#-american-textbook-reading-social-studies-02)
+    - [💓 American Textbook Reading Social 3](#-american-textbook-reading-social-3)
+    - [💓 American Textbook Reading Social 4](#-american-textbook-reading-social-4)
   - [💓 Check out other YouTube English-learning resources at WorldCom Edu](#-check-out-other-youtube-english-learning-resources-at-worldcom-edu)
 
 ## Sight words 100 | Words Sentence Full | English Study for Kids
@@ -387,6 +391,83 @@ American Textbook Reading for English language learners. This series helps stude
   - 14.[Motion: https://youtu.be/d2TIFSpUSSY​](science-2-14.md)
   - 15.[Magnets: https://youtu.be/AhI2KFMRyGw​](science-2-15.md)
 
+### 💓 [American Textbook Reading Science 3](https://www.youtube.com/playlist?list=PLORqQa0DiANFuWa6_FeRyFo6dITjSUr9A)
+
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/Ho2W_yOqHso https://youtu.be/-T8y9AZhIMQ https://youtu.be/gEQxhfNLmd0 https://youtu.be/oRs6z6SW_nA https://youtu.be/xQkbQ0F0ViU 
+- Part 1 Life Science
+  - Lesson 1 Living and Nonliving Things: <https://youtu.be/Ho2W_yOqHso>
+    - [Lesson 01](science-3-01.md)
+  - Lesson 2 Plant Parts: <https://youtu.be/-T8y9AZhIMQ>
+    - [Lesson 02](science-3-02.md)
+  - Lesson 3 Growth and Change: <https://youtu.be/gEQxhfNLmd0>
+    - TODO [Lesson 03](science-3-03.md)
+  - Lesson 4 Animals with and without Backbones: <https://youtu.be/oRs6z6SW_nA>
+    - [Lesson 04](science-3-04.md)
+  - Lesson 5 Plants Adaptations: <https://youtu.be/xQkbQ0F0ViU>
+    - [Lesson 05](science-3-05.md)
+- UNIT 2 
+- UNIT 3 
+  - Lesson 6 : <https://youtu.be/>
+    - [Lesson 06](science-3-06.md)
+- UNIT 4 
+  - Lesson 7 : <https://youtu.be/>
+    - [Lesson 07](science-3-07.md)
+  - Lesson 8 : <https://youtu.be/>
+    - [Lesson 08](science-3-08.md)
+- UNIT 5 
+  - Lesson 9 : <https://youtu.be/>
+    - [Lesson 09](science-3-09.md)
+  - Lesson 10 : <https://youtu.be/>
+    - [Lesson 10](science-3-10.md)
+- UNIT 6 
+  - Lesson 11 : <https://youtu.be/>
+    - [Lesson 11](science-3-11.md)
+  - Lesson 12 : <https://youtu.be/>
+    - [Lesson 12](science-3-12.md)
+- UNIT 7 
+  - Lesson 13 : <https://youtu.be/>
+    - [Lesson 13](science-3-13.md)
+  - Lesson 14 : <https://youtu.be/>
+    - [Lesson 14](science-3-14.md)
+
+### 💓 [American Textbook Reading Science 4]()
+
+- Part 1 
+  - Lesson 1 : <https://youtu.be/>
+    - [Lesson 01](science-4-01.md)
+  - Lesson 2 : <https://youtu.be/>
+    - [Lesson 02](science-4-02.md)
+- UNIT 2 
+  - Lesson 3 : <https://youtu.be/>
+    - [Lesson 03](science-4-03.md)
+  - Lesson 4 : <https://youtu.be/>
+    - [Lesson 04](science-4-04.md)
+- UNIT 3 
+  - Lesson 5 : <https://youtu.be/>
+    - [Lesson 05](science-4-05.md)
+  - Lesson 6 : <https://youtu.be/>
+    - [Lesson 06](science-4-06.md)
+- UNIT 4 
+  - Lesson 7 : <https://youtu.be/>
+    - [Lesson 07](science-4-07.md)
+  - Lesson 8 : <https://youtu.be/>
+    - [Lesson 08](science-4-08.md)
+- UNIT 5 
+  - Lesson 9 : <https://youtu.be/>
+    - [Lesson 09](science-4-09.md)
+  - Lesson 10 : <https://youtu.be/>
+    - [Lesson 10](science-4-10.md)
+- UNIT 6 
+  - Lesson 11 : <https://youtu.be/>
+    - [Lesson 11](science-4-11.md)
+  - Lesson 12 : <https://youtu.be/>
+    - [Lesson 12](science-4-12.md)
+- UNIT 7 
+  - Lesson 13 : <https://youtu.be/>
+    - [Lesson 13](science-4-13.md)
+  - Lesson 14 : <https://youtu.be/>
+    - [Lesson 14](science-4-14.md)
+
 ### 💓 [American Textbook Reading Grade 1 Social Studies 1](https://www.youtube.com/playlist?list=PLORqQa0DiANFtzI0DEge060Wxm9H0oNlW)
 
 - youtube-dl [--skip-download] --write-auto-sub https://youtu.be/CkcG4P-AcjA​ https://youtu.be/ID9T4EQ-9Io https://youtu.be/gfSjMMXVAiA​ https://youtu.be/mZz1aNeMSxI​ https://youtu.be/vxp-fBC8FFs​ https://youtu.be/2kx84Ykf-dA​ https://youtu.be/hkn4g2RSDDE​ https://youtu.be/I8w1CpAnT2k​ https://youtu.be/9zxwSNaTmc0​ https://youtu.be/tNCVMQPRbBg https://youtu.be/B8B07E4On5E​ https://youtu.be/d88wZfTrxWE​ https://youtu.be/KRfABAUcwK0​ https://youtu.be/z4QGzFzUn9A https://youtu.be/26186SCFtEo​
@@ -413,10 +494,10 @@ American Textbook Reading for English language learners. This series helps stude
 
 ### 💓 [American Textbook Reading SOCIAL STUDIES 02](https://www.youtube.com/playlist?list=PLORqQa0DiANFfAONFqtGfnAdNJsLMZNeB)
 
-- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/uRtvF4D_TXM​ https://youtu.be/Ckrp_HVD3LI https://youtu.be/Ckrp_HVD3LI​ https://youtu.be/FsXIEg6HCXw​ https://youtu.be/DeTuCKeJyJk​ https://youtu.be/pceQZ5Dohi8​ https://youtu.be/GAh8mOv1c2Y​ https://youtu.be/SEZD9f0Hz0s​ https://youtu.be/1D5Ut49FQz8 https://youtu.be/7k0jFzC3Fsk​ https://youtu.be/XxiZ36do9HY​ https://youtu.be/WtPX9V-lM6Y​ https://youtu.be/-dtAXA4jeJo https://youtu.be/0krKnxhPoUs​ https://youtu.be/2aDXs-WMpwY​
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/uRtvF4D_TXM​ https://youtu.be/aNv-nsUGhF0 https://youtu.be/Ckrp_HVD3LI​ https://youtu.be/FsXIEg6HCXw​ https://youtu.be/DeTuCKeJyJk​ https://youtu.be/pceQZ5Dohi8​ https://youtu.be/GAh8mOv1c2Y​ https://youtu.be/SEZD9f0Hz0s​ https://youtu.be/1D5Ut49FQz8 https://youtu.be/7k0jFzC3Fsk​ https://youtu.be/XxiZ36do9HY​ https://youtu.be/WtPX9V-lM6Y​ https://youtu.be/-dtAXA4jeJo https://youtu.be/0krKnxhPoUs​ https://youtu.be/2aDXs-WMpwY​
 - Part 1 Home, School, and Neighborhood
   - 01.[The First Americans: https://youtu.be/uRtvF4D_TXM​](social-2-01.md)
-  - 02.[Celebration of Holidays: https://youtu.be/Ckrp_HVD3LI​](social-2-02.md)
+  - 02.[Celebration of Holidays: https://youtu.be/aNv-nsUGhF0​](social-2-02.md)
   - 03.[People Find New Homes: https://youtu.be/Ckrp_HVD3LI​](social-2-03.md)
 - Part 2 We Are Good Citizens
   - 04.[The United States Government: https://youtu.be/FsXIEg6HCXw​](social-2-04.md)
@@ -434,6 +515,82 @@ American Textbook Reading for English language learners. This series helps stude
   - 13.[City, Town, and Suburb: https://youtu.be/-dtAXA4jeJo​](social-2-13.md)
   - 14.[Our Resources: https://youtu.be/0krKnxhPoUs​](social-2-14.md)
   - 15.[This is Our World: https://youtu.be/2aDXs-WMpwY​](social-2-15.md)
+
+### 💓 [American Textbook Reading Social 3]()
+
+- Part 1 
+  - Lesson 1 : <https://youtu.be/>
+    - [Lesson 01](social-3-01.md)
+  - Lesson 2 : <https://youtu.be/>
+    - [Lesson 02](social-3-02.md)
+- UNIT 2 
+  - Lesson 3 : <https://youtu.be/>
+    - [Lesson 03](social-3-03.md)
+  - Lesson 4 : <https://youtu.be/>
+    - [Lesson 04](social-3-04.md)
+- UNIT 3 
+  - Lesson 5 : <https://youtu.be/>
+    - [Lesson 05](social-3-05.md)
+  - Lesson 6 : <https://youtu.be/>
+    - [Lesson 06](social-3-06.md)
+- UNIT 4 
+  - Lesson 7 : <https://youtu.be/>
+    - [Lesson 07](social-3-07.md)
+  - Lesson 8 : <https://youtu.be/>
+    - [Lesson 08](social-3-08.md)
+- UNIT 5 
+  - Lesson 9 : <https://youtu.be/>
+    - [Lesson 09](social-3-09.md)
+  - Lesson 10 : <https://youtu.be/>
+    - [Lesson 10](social-3-10.md)
+- UNIT 6 
+  - Lesson 11 : <https://youtu.be/>
+    - [Lesson 11](social-3-11.md)
+  - Lesson 12 : <https://youtu.be/>
+    - [Lesson 12](social-3-12.md)
+- UNIT 7 
+  - Lesson 13 : <https://youtu.be/>
+    - [Lesson 13](social-3-13.md)
+  - Lesson 14 : <https://youtu.be/>
+    - [Lesson 14](social-3-14.md)
+
+### 💓 [American Textbook Reading Social 4]()
+
+- Part 1 
+  - Lesson 1 : <https://youtu.be/>
+    - [Lesson 01](social-4-01.md)
+  - Lesson 2 : <https://youtu.be/>
+    - [Lesson 02](social-4-02.md)
+- UNIT 2 
+  - Lesson 3 : <https://youtu.be/>
+    - [Lesson 03](social-4-03.md)
+  - Lesson 4 : <https://youtu.be/>
+    - [Lesson 04](social-4-04.md)
+- UNIT 3 
+  - Lesson 5 : <https://youtu.be/>
+    - [Lesson 05](social-4-05.md)
+  - Lesson 6 : <https://youtu.be/>
+    - [Lesson 06](social-4-06.md)
+- UNIT 4 
+  - Lesson 7 : <https://youtu.be/>
+    - [Lesson 07](social-4-07.md)
+  - Lesson 8 : <https://youtu.be/>
+    - [Lesson 08](social-4-08.md)
+- UNIT 5 
+  - Lesson 9 : <https://youtu.be/>
+    - [Lesson 09](social-4-09.md)
+  - Lesson 10 : <https://youtu.be/>
+    - [Lesson 10](social-4-10.md)
+- UNIT 6 
+  - Lesson 11 : <https://youtu.be/>
+    - [Lesson 11](social-4-11.md)
+  - Lesson 12 : <https://youtu.be/>
+    - [Lesson 12](social-4-12.md)
+- UNIT 7 
+  - Lesson 13 : <https://youtu.be/>
+    - [Lesson 13](social-4-13.md)
+  - Lesson 14 : <https://youtu.be/>
+    - [Lesson 14](social-4-14.md)
 
 ## 💓 Check out other YouTube English-learning resources at WorldCom Edu
 
