@@ -1,5 +1,6 @@
 # Youtube Channel WorldCom Edu
 
+- Learn English with Teacher Brian Stuart
 - 💓 [Subscribe to WorldCom Edu](http://bit.ly/2mSnr3i​)
   - [WorldCom EDU](https://www.youtube.com/channel/UC4dCg_iioDqyBLEnUA7BvKg)
   - [Transcript](worldComEdu-transcript.md)
@@ -8,12 +9,12 @@
   - [Sight words 100 | Words Sentence Full | English Study for Kids](#sight-words-100--words-sentence-full--english-study-for-kids)
   - [Sight words 100 Class | Full Lectures | Words and Stories for Kids](#sight-words-100-class--full-lectures--words-and-stories-for-kids)
   - [English word | Reading for Vocabulary | LECTURE](#english-word--reading-for-vocabulary--lecture)
-    - [Reading for Vocabulary LEVEL A](#reading-for-vocabulary-level-a)
-    - [💓 Reading For Vocabulary Level A](#-reading-for-vocabulary-level-a)
-    - [💓 Reading for Vocabulary LEVEL B](#-reading-for-vocabulary-level-b)
-    - [💓 Reading for Vocabulary LEVEL C](#-reading-for-vocabulary-level-c)
-    - [💓 Reading for Vocabulary LEVEL D](#-reading-for-vocabulary-level-d)
-    - [💓 Reading for Vocabulary Plus LEVEL A](#-reading-for-vocabulary-plus-level-a)
+    - [💓 Level A](#-level-a)
+    - [💓 LEVEL B](#-level-b)
+    - [💓 LEVEL C](#-level-c)
+    - [💓 LEVEL D](#-level-d)
+    - [TODO: Plus LEVEL A](#todo-plus-level-a)
+    - [Deprecated LEVEL A](#deprecated-level-a)
   - [American Textbook Reading](#american-textbook-reading)
     - [💓 Science 01](#-science-01)
     - [💓Science 02](#science-02)
@@ -37,41 +38,7 @@ TODO
 
 - Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
 
-### [Reading for Vocabulary LEVEL A](https://www.youtube.com/playlist?list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU)
-
-- 除了Vocabulary-Level-A.md，该列表不如列表[Reading For Vocabulary Level A]的完整。Transcripts已经归档为Vocabulary-Level-A-Deprecated.zip
-- [Lesson 01](https://www.youtube.com/watch?v=JiQs8UJqh8c&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=1)
-  - [Lesson 01](Vocabulary-Level-A-01.md)
-- [Lesson 02](https://www.youtube.com/watch?v=aRKkDckeFyo&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=2)
-  - [Lesson 02](Vocabulary-Level-A-02.md)
-- [Lesson 03](https://www.youtube.com/watch?v=aNAssEcG8Lc&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=3)
-  - [Lesson 03](Vocabulary-Level-A-03.md)
-- [Lesson 04](https://www.youtube.com/watch?v=dWuqtgtxYd8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=4)
-  - [Lesson 04](Vocabulary-Level-A-04.md)
-- [Lesson 05](https://www.youtube.com/watch?v=x5AP_owuIqw&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=5)
-  - [Lesson 05](Vocabulary-Level-A-05.md)
-- [Lesson 06](https://www.youtube.com/watch?v=2S0UO3vhhGo&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=6)
-  - [Lesson 06](Vocabulary-Level-A-06.md)
-- [Lesson 07](https://www.youtube.com/watch?v=dIkUJ9IQ4sY&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=7)
-  - [Lesson 07](Vocabulary-Level-A-07.md)
-- [Lesson 08](https://www.youtube.com/watch?v=e0j4Ctn4kPM&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=8)
-  - [Lesson 08](Vocabulary-Level-A-08.md)
-- [Lesson 09](https://www.youtube.com/watch?v=R6P1ZE6Fg-w&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=9)
-  - [Lesson 09](Vocabulary-Level-A-09.md)
-- [Lesson 10](https://www.youtube.com/watch?v=irqeriNrkEI&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=10)
-  - [Lesson 10](Vocabulary-Level-A-10.md)
-- [Lesson 11](https://www.youtube.com/watch?v=qMLlH0GfQHg&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=11)
-  - [Lesson 11](Vocabulary-Level-A-11.md)
-- [Lesson 12](https://www.youtube.com/watch?v=U80vcSunxSg&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=12)
-  - [Lesson 12](Vocabulary-Level-A-12.md)
-- [Lesson 13](https://www.youtube.com/watch?v=EckvhgPKVGs&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=13)
-  - [Lesson 13](Vocabulary-Level-A-13.md)
-- [Lesson 14](https://www.youtube.com/watch?v=bqqmb4T46u0&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=14)
-  - [Lesson 14](Vocabulary-Level-A-14.md)
-- [Reading for Vocabulary LEVEL A](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
-  - [Reading for Vocabulary LEVEL A](Vocabulary-Level-A.md)
-
-### [💓 Reading For Vocabulary Level A](https://www.youtube.com/playlist?list=PLORqQa0DiANETPVAAD045e2-WbcENxYQT)
+### [💓 Level A](https://www.youtube.com/playlist?list=PLORqQa0DiANETPVAAD045e2-WbcENxYQT)
 
 - youtube-dl --skip-download --write-auto-sub https://youtu.be/1oxMcJYFOV8 https://youtu.be/h1jwWJhiZaU https://youtu.be/qVSAzggQezc https://youtu.be/IETEAkCUc9E https://youtu.be/1-7BZGeDNfo https://youtu.be/kVHI7Ag-Bv4 https://youtu.be/cYiir5edBTU https://youtu.be/1BWuSxLCorU https://youtu.be/H9Qvf8fbNWU https://youtu.be/kCvCaa7PgMo https://youtu.be/WUl1fp24cZo https://youtu.be/Ng0i-VhSYCU https://youtu.be/Ixqm7tG_2h4 https://youtu.be/YT-QjCNBVGo https://youtu.be/HsCjEk5stBc
 - [Reading for Vocabulary LEVEL A Lesson Full](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
@@ -126,7 +93,7 @@ TODO
     - Focus on Where does electricity come from? And where does it go?
     - [Lesson 14](Vocabulary-Level-A-14.md)
 
-### [💓 Reading for Vocabulary LEVEL B](https://www.youtube.com/playlist?list=PLORqQa0DiANGtQ-74MAa6nSDUzsRW0p3W)
+### [💓 LEVEL B](https://www.youtube.com/playlist?list=PLORqQa0DiANGtQ-74MAa6nSDUzsRW0p3W)
 
 - youtube-dl --skip-download --write-auto-sub https://youtu.be/ZfchGc0kTZc https://youtu.be/VrJ4wUiRTVg https://youtu.be/AtxfsdfKfa4 https://youtu.be/eUyXBEBYpgk https://youtu.be/tlcCWHAHChc https://youtu.be/V7jqAFU89Tc https://youtu.be/zGMVDiNr33Q https://youtu.be/p9c5xnu0G1c https://youtu.be/TNNAHpjd_AQ https://youtu.be/odTflrb1bMU https://youtu.be/P8ZRp9cZSaU https://youtu.be/689x_n6eBl4 https://youtu.be/OOx5TKXVkj0 https://youtu.be/jkQ6GfDehLc https://youtu.be/Xq2rZd0Y4Rk https://youtu.be/a4MIlFP2eGU
 - Reading for Vocabulary LEVEL B Lesson Full: <https://youtu.be/ZfchGc0kTZc>
@@ -182,7 +149,7 @@ TODO
     - Focus on Let's know about Roberto Clemente.
     - [Lesson 15](Vocabulary-Level-B-15.md)
 
-### [💓 Reading for Vocabulary LEVEL C](https://www.youtube.com/playlist?list=PLORqQa0DiANGMBjQUVIfkFrepHFG6f8jB)
+### [💓 LEVEL C](https://www.youtube.com/playlist?list=PLORqQa0DiANGMBjQUVIfkFrepHFG6f8jB)
 
 - Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
 - youtube-dl [--skip-download] --write-auto-sub https://youtu.be/hBzuLdYbThY https://youtu.be/avOehkIBADw https://youtu.be/s696dhdxwms https://youtu.be/MXWh1q_cwnU https://youtu.be/64PU0BFX50Q https://youtu.be/lPMRJlFmEJM https://youtu.be/skNP7kiuBa8 https://youtu.be/bKikiq2l5hU https://youtu.be/MZFusC3VOfA https://youtu.be/sPTg82ZUfVE https://youtu.be/40VQAP41YeU https://youtu.be/5ngqLt8HABE https://youtu.be/Z7KvtHG8ZNc https://youtu.be/O8NYx6vjDuM https://youtu.be/X4GjBfFy7P8 https://youtu.be/AcI6SavjDvo
@@ -239,7 +206,7 @@ TODO
     - Focus on Let's learn about the creator of Mickey Mouse.
     - [Lesson 15](Vocabulary-Level-C-15.md)
 
-### [💓 Reading for Vocabulary LEVEL D](https://www.youtube.com/playlist?list=PLORqQa0DiANFRPiYpXNrOxohrS1aTDZrC)
+### [💓 LEVEL D](https://www.youtube.com/playlist?list=PLORqQa0DiANFRPiYpXNrOxohrS1aTDZrC)
 
 - Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
 - youtube-dl [--skip-download] --write-auto-sub https://youtu.be/2pHaZ7VjN30 https://youtu.be/GHAqFuZT_eA https://youtu.be/Be7O10zn5wM https://youtu.be/km3BfbE7MF8 https://youtu.be/nl_yKLa9AMo https://youtu.be/IrDQDvaJiTA https://youtu.be/al4wqRjU-IU https://youtu.be/Nu2nqAQRBGk https://youtu.be/iMuSG3RMuUA https://youtu.be/GdUURA0dGoo https://youtu.be/FFJvqTm6DD0 https://youtu.be/-f_xU76VcWE https://youtu.be/5LCxcf9eNJU https://youtu.be/-8dMpxqvFaQ https://youtu.be/7lHXzgyOkqE https://youtu.be/amCIQEre4_4
@@ -296,7 +263,7 @@ TODO
     - Focus on Earth's motion and weather
     - [Lesson 15](Vocabulary-Level-D-15.md)
 
-### [💓 Reading for Vocabulary Plus LEVEL A]()
+### [TODO: Plus LEVEL A]()
 
 TODO
 - Reading for Vocabulary is a four-level reading series for young learners of English at ages 10 or above. The series aims to develop young learners’ vocabulary and overall language skills through exposure to a variety of topics. The series instructor Brian Stuart provides for learners a highly dynamic and entertaining lessons. So learners will be able to learn a large number of vocabulary with fun and ease.
@@ -336,6 +303,40 @@ TODO
   - Lesson 14 : <https://youtu.be/>
     - [Lesson 14](Vocabulary-Level-D-14.md)
 
+### [Deprecated LEVEL A](https://www.youtube.com/playlist?list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU)
+
+- 除了Vocabulary-Level-A.md，见完整列表[Level A]。Transcripts已经归档为Vocabulary-Level-A-Deprecated.zip
+- [Lesson 01](https://www.youtube.com/watch?v=JiQs8UJqh8c&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=1)
+  - [Lesson 01](Vocabulary-Level-A-01.md)
+- [Lesson 02](https://www.youtube.com/watch?v=aRKkDckeFyo&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=2)
+  - [Lesson 02](Vocabulary-Level-A-02.md)
+- [Lesson 03](https://www.youtube.com/watch?v=aNAssEcG8Lc&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=3)
+  - [Lesson 03](Vocabulary-Level-A-03.md)
+- [Lesson 04](https://www.youtube.com/watch?v=dWuqtgtxYd8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=4)
+  - [Lesson 04](Vocabulary-Level-A-04.md)
+- [Lesson 05](https://www.youtube.com/watch?v=x5AP_owuIqw&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=5)
+  - [Lesson 05](Vocabulary-Level-A-05.md)
+- [Lesson 06](https://www.youtube.com/watch?v=2S0UO3vhhGo&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=6)
+  - [Lesson 06](Vocabulary-Level-A-06.md)
+- [Lesson 07](https://www.youtube.com/watch?v=dIkUJ9IQ4sY&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=7)
+  - [Lesson 07](Vocabulary-Level-A-07.md)
+- [Lesson 08](https://www.youtube.com/watch?v=e0j4Ctn4kPM&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=8)
+  - [Lesson 08](Vocabulary-Level-A-08.md)
+- [Lesson 09](https://www.youtube.com/watch?v=R6P1ZE6Fg-w&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=9)
+  - [Lesson 09](Vocabulary-Level-A-09.md)
+- [Lesson 10](https://www.youtube.com/watch?v=irqeriNrkEI&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=10)
+  - [Lesson 10](Vocabulary-Level-A-10.md)
+- [Lesson 11](https://www.youtube.com/watch?v=qMLlH0GfQHg&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=11)
+  - [Lesson 11](Vocabulary-Level-A-11.md)
+- [Lesson 12](https://www.youtube.com/watch?v=U80vcSunxSg&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=12)
+  - [Lesson 12](Vocabulary-Level-A-12.md)
+- [Lesson 13](https://www.youtube.com/watch?v=EckvhgPKVGs&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=13)
+  - [Lesson 13](Vocabulary-Level-A-13.md)
+- [Lesson 14](https://www.youtube.com/watch?v=bqqmb4T46u0&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=14)
+  - [Lesson 14](Vocabulary-Level-A-14.md)
+- [Reading for Vocabulary LEVEL A](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
+  - [Reading for Vocabulary LEVEL A](Vocabulary-Level-A.md)
+
 ## American Textbook Reading
 
 - 💓 [American Textbook Reading Science 1~2 & Social 1~2](https://www.youtube.com/user/WorldComBooks/playlists?view=50&sort=dd&shelf_id=3)
@@ -373,100 +374,100 @@ American Textbook Reading for English language learners. This series helps stude
 
 - youtube-dl [--skip-download] --write-auto-sub https://youtu.be/saVLZJQyiLc https://youtu.be/XWyTndOCzSg​ https://youtu.be/serA5khGRvM​ https://youtu.be/feTaVkZr5K4​ https://youtu.be/jikceF3EElE https://youtu.be/phSYNiOzmec​ https://youtu.be/-siA4xjtiyY​ https://youtu.be/Uwk69VA0b0M https://youtu.be/NPjYVqjGk2Y​ https://youtu.be/WKFot38PFBg​ https://youtu.be/lifu9RIpLgw​ https://youtu.be/ezMdZ4rZIjA​ https://youtu.be/F25bDrYk5KU​ https://youtu.be/d2TIFSpUSSY​ https://youtu.be/AhI2KFMRyGw​
 - Part 1 Life Science
-  - 01.[What Animals Need to Grow: https://youtu.be/saVLZJQyiLc​](science-2-01.md)
-  - 02.[Living Things vs Nonliving Things: https://youtu.be/XWyTndOCzSg​](science-2-02.md)
-  - 03.[Adaptations for Survival: https://youtu.be/serA5khGRvM​](science-2-03.md)
-  - 04.[The Human Life Cycle: https://youtu.be/feTaVkZr5K4​](science-2-04.md)
+  - 01.[What Animals Need to Grow: https://youtu.be/saVLZJQyiLc​](science-02-01.md)
+  - 02.[Living Things vs Nonliving Things: https://youtu.be/XWyTndOCzSg​](science-02-02.md)
+  - 03.[Adaptations for Survival: https://youtu.be/serA5khGRvM​](science-02-03.md)
+  - 04.[The Human Life Cycle: https://youtu.be/feTaVkZr5K4​](science-02-04.md)
 - Part 2 Earth Science
-  - 05.[Weather: https://youtu.be/jikceF3EElE](science-2-05.md)​
-  - 06.[Measuring the Weather: https://youtu.be/phSYNiOzmec​](science-2-06.md)
-  - 07.[Clouds and Rain: https://youtu.be/-siA4xjtiyY​](science-2-07.md)
-  - 08.[Seasons: https://youtu.be/Uwk69VA0b0M​](science-2-08.md)
-  - 09.[The Sky: https://youtu.be/NPjYVqjGk2Y​](science-2-09.md)
+  - 05.[Weather: https://youtu.be/jikceF3EElE](science-02-05.md)​
+  - 06.[Measuring the Weather: https://youtu.be/phSYNiOzmec​](science-02-06.md)
+  - 07.[Clouds and Rain: https://youtu.be/-siA4xjtiyY​](science-02-07.md)
+  - 08.[Seasons: https://youtu.be/Uwk69VA0b0M​](science-02-08.md)
+  - 09.[The Sky: https://youtu.be/NPjYVqjGk2Y​](science-02-09.md)
 - Part 3 Physical Science
-  - 10.[Heat: https://youtu.be/WKFot38PFBg​](science-2-10.md)
-  - 11.[Light: https://youtu.be/lifu9RIpLgw​](science-2-11.md)
-  - 12.[Sound: https://youtu.be/ezMdZ4rZIjA​](science-2-12.md)
-  - 13.[Electricity: https://youtu.be/F25bDrYk5KU​](science-2-13.md)
-  - 14.[Motion: https://youtu.be/d2TIFSpUSSY​](science-2-14.md)
-  - 15.[Magnets: https://youtu.be/AhI2KFMRyGw​](science-2-15.md)
+  - 10.[Heat: https://youtu.be/WKFot38PFBg​](science-02-10.md)
+  - 11.[Light: https://youtu.be/lifu9RIpLgw​](science-02-11.md)
+  - 12.[Sound: https://youtu.be/ezMdZ4rZIjA​](science-02-12.md)
+  - 13.[Electricity: https://youtu.be/F25bDrYk5KU​](science-02-13.md)
+  - 14.[Motion: https://youtu.be/d2TIFSpUSSY​](science-02-14.md)
+  - 15.[Magnets: https://youtu.be/AhI2KFMRyGw​](science-02-15.md)
 
 ### 💓 [Science 03](https://www.youtube.com/playlist?list=PLORqQa0DiANFuWa6_FeRyFo6dITjSUr9A)
 
-- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/Ho2W_yOqHso https://youtu.be/-T8y9AZhIMQ https://youtu.be/gEQxhfNLmd0 https://youtu.be/oRs6z6SW_nA https://youtu.be/xQkbQ0F0ViU 
+- [--skip-download]
+- youtube-dl --write-auto-sub https://youtu.be/Ho2W_yOqHso https://youtu.be/-T8y9AZhIMQ https://youtu.be/gEQxhfNLmd0 https://youtu.be/oRs6z6SW_nA https://youtu.be/xQkbQ0F0ViU https://youtu.be/yN_ETr6vLTI https://youtu.be/LCMsDwaHpSo https://youtu.be/UFCS4rDebTU https://youtu.be/JCHmUbOesOU https://youtu.be/SHFlc-usZ8E https://youtu.be/oYjNmBPxIFU https://youtu.be/Qc447JQV_zM https://youtu.be/6ggdd9W8qJI https://youtu.be/DRkOve9EDnY https://youtu.be/sxYarchie64
 - Part 1 Life Science
   - Lesson 1 Living and Nonliving Things: <https://youtu.be/Ho2W_yOqHso>
-    - [Lesson 01](science-3-01.md)
+    - [Lesson 01](science-03-01.md)
   - Lesson 2 Plant Parts: <https://youtu.be/-T8y9AZhIMQ>
-    - [Lesson 02](science-3-02.md)
+    - [Lesson 02](science-03-02.md)
   - Lesson 3 Growth and Change: <https://youtu.be/gEQxhfNLmd0>
-    - TODO [Lesson 03](science-3-03.md)
+    - TODO [Lesson 03](science-03-03.md)
   - Lesson 4 Animals with and without Backbones: <https://youtu.be/oRs6z6SW_nA>
-    - [Lesson 04](science-3-04.md)
+    - [Lesson 04](science-03-04.md)
   - Lesson 5 Plants Adaptations: <https://youtu.be/xQkbQ0F0ViU>
-    - [Lesson 05](science-3-05.md)
-- UNIT 2 
-- UNIT 3 
-  - Lesson 6 : <https://youtu.be/>
-    - [Lesson 06](science-3-06.md)
-- UNIT 4 
-  - Lesson 7 : <https://youtu.be/>
-    - [Lesson 07](science-3-07.md)
-  - Lesson 8 : <https://youtu.be/>
-    - [Lesson 08](science-3-08.md)
-- UNIT 5 
-  - Lesson 9 : <https://youtu.be/>
-    - [Lesson 09](science-3-09.md)
-  - Lesson 10 : <https://youtu.be/>
-    - [Lesson 10](science-3-10.md)
-- UNIT 6 
-  - Lesson 11 : <https://youtu.be/>
-    - [Lesson 11](science-3-11.md)
-  - Lesson 12 : <https://youtu.be/>
-    - [Lesson 12](science-3-12.md)
-- UNIT 7 
-  - Lesson 13 : <https://youtu.be/>
-    - [Lesson 13](science-3-13.md)
-  - Lesson 14 : <https://youtu.be/>
-    - [Lesson 14](science-3-14.md)
+    - [Lesson 05](science-03-05.md)
+- Part 2 Earth Science
+  - Lesson 6 Soil: <https://youtu.be/yN_ETr6vLTI>
+    - [Lesson 06](science-03-06.md)
+  - TODO Lesson 7 : <https://youtu.be/>
+    - [Lesson 07](science-03-07.md)
+  - Lesson 8 Different Types of Nature Resources: <https://youtu.be/LCMsDwaHpSo>
+    - [Lesson 08](science-03-08.md)
+  - Lesson 9 Parts of Weather: <https://youtu.be/UFCS4rDebTU>
+    - [Lesson 09](science-03-09.md)
+  - Lesson 10 Day, Night, and Seasons: <https://youtu.be/JCHmUbOesOU>
+    - [Lesson 10](science-03-10.md)
+- Part 3 Physical Science
+  - Lesson 11 Describing Matter: <https://youtu.be/SHFlc-usZ8E>
+    - [Lesson 11](science-03-11.md)
+  - Lesson 12 Changing Matter: <https://youtu.be/oYjNmBPxIFU>
+    - [Lesson 12](science-03-12.md)
+  - Lesson 13 Exploring Magnets: <https://youtu.be/Qc447JQV_zM>
+    - [Lesson 13](science-03-13.md)
+  - Lesson 14 Position and Motion: <https://youtu.be/6ggdd9W8qJI>
+    - [Lesson 14](science-03-14.md)
+  - Lesson 15 Sound Waves: <https://youtu.be/DRkOve9EDnY>
+    - [Lesson 15](science-03-15.md)
+  - Lesson 16 6 Important English Vocabulary Words with pictures: <https://youtu.be/sxYarchie64>
+    - [Lesson 16](science-03-16.md)
 
-### 💓 [Science 04]()
+### 💓 [Science 04](https://www.youtube.com/playlist?list=PLORqQa0DiANE7OM1mfFQndwCiwwGetpvj)
 
-- Part 1 
-  - Lesson 1 : <https://youtu.be/>
-    - [Lesson 01](science-4-01.md)
-  - Lesson 2 : <https://youtu.be/>
-    - [Lesson 02](science-4-02.md)
-- UNIT 2 
-  - Lesson 3 : <https://youtu.be/>
-    - [Lesson 03](science-4-03.md)
-  - Lesson 4 : <https://youtu.be/>
-    - [Lesson 04](science-4-04.md)
-- UNIT 3 
-  - Lesson 5 : <https://youtu.be/>
-    - [Lesson 05](science-4-05.md)
-  - Lesson 6 : <https://youtu.be/>
-    - [Lesson 06](science-4-06.md)
-- UNIT 4 
-  - Lesson 7 : <https://youtu.be/>
-    - [Lesson 07](science-4-07.md)
-  - Lesson 8 : <https://youtu.be/>
-    - [Lesson 08](science-4-08.md)
-- UNIT 5 
-  - Lesson 9 : <https://youtu.be/>
-    - [Lesson 09](science-4-09.md)
-  - Lesson 10 : <https://youtu.be/>
-    - [Lesson 10](science-4-10.md)
-- UNIT 6 
-  - Lesson 11 : <https://youtu.be/>
-    - [Lesson 11](science-4-11.md)
-  - Lesson 12 : <https://youtu.be/>
-    - [Lesson 12](science-4-12.md)
-- UNIT 7 
-  - Lesson 13 : <https://youtu.be/>
-    - [Lesson 13](science-4-13.md)
-  - Lesson 14 : <https://youtu.be/>
-    - [Lesson 14](science-4-14.md)
+- youtube-dl --write-auto-sub https://youtu.be/UJuTMe2to2c https://youtu.be/hfz0ccagzHY https://youtu.be/fs9Pqg3qTfk https://youtu.be/t-FHESMCWiw https://youtu.be/3giEX02gPBc https://youtu.be/fAJE3V661qc https://youtu.be/5bi304tBnb4 https://youtu.be/maHce7jiNsA https://youtu.be/u1gncEi76n8 https://youtu.be/MgXRjboQ4ZY https://youtu.be/zpfb2XqspyI https://youtu.be/0hUkk28_MMY https://youtu.be/0VjOgbWJP7o https://youtu.be/D8tqqyEjmBk https://youtu.be/dtrN15aHYCs
+- Part 1 Life Science
+  - Lesson 1 Grouping Plants: <https://youtu.be/UJuTMe2to2c>
+    - [Lesson 01](science-04-01.md)
+  - Lesson 2 How Seeds Are Scattered: <https://youtu.be/hfz0ccagzHY>
+    - [Lesson 02](science-04-02.md)
+  - Lesson 3 Animal Adaptations: <https://youtu.be/fs9Pqg3qTfk>
+    - [Lesson 03](science-04-03.md)
+  - Lesson 4 Food Chain: <https://youtu.be/t-FHESMCWiw>
+    - [Lesson 04](science-04-04.md)
+  - Lesson 5 Habits: <https://youtu.be/3giEX02gPBc>
+    - [Lesson 05](science-04-05.md)
+- Part 2 Earth Science 
+  - Lesson 6 Earth's Structure: <https://youtu.be/fAJE3V661qc>
+    - [Lesson 06](science-04-06.md)
+  - Lesson 7 Changes on Earth: <https://youtu.be/5bi304tBnb4>
+    - [Lesson 07](science-04-07.md)
+  - Lesson 8 Rocks and Minerals: <https://youtu.be/maHce7jiNsA>
+    - [Lesson 08](science-04-08.md)
+  - Lesson 9 Changes in Weather: <https://youtu.be/u1gncEi76n8>
+    - [Lesson 09](science-04-09.md)
+  - Lesson 10 The Moon, Planets, and Stars: <https://youtu.be/MgXRjboQ4ZY>
+    - [Lesson 10](science-04-10.md)
+- Part 3 Physical Science
+  - Lesson 11 Exploring Electricity: <https://youtu.be/zpfb2XqspyI>
+    - [Lesson 11](science-04-11.md)
+  - Lesson 12 Forces: <https://youtu.be/0hUkk28_MMY>
+    - [Lesson 12](science-04-12.md)
+  - Lesson 13 Work: <https://youtu.be/0VjOgbWJP7o>
+    - [Lesson 13](science-04-13.md)
+  - Lesson 14 Sources of Heat: <https://youtu.be/D8tqqyEjmBk>
+    - [Lesson 14](science-04-14.md)
+  - Lesson 15 Light and Colors: <https://youtu.be/dtrN15aHYCs>
+    - [Lesson 15](science-04-15.md)
 
 ### 💓 [Social 01](https://www.youtube.com/playlist?list=PLORqQa0DiANFtzI0DEge060Wxm9H0oNlW)
 
@@ -516,81 +517,83 @@ American Textbook Reading for English language learners. This series helps stude
   - 14.[Our Resources: https://youtu.be/0krKnxhPoUs​](social-02-14.md)
   - 15.[This is Our World: https://youtu.be/2aDXs-WMpwY​](social-02-15.md)
 
-### 💓 [Social 03]()
+### 💓 [Social 03](https://www.youtube.com/playlist?list=PLORqQa0DiANFT4PyzHnoh0G3D1wAf9j2t)
 
-- Part 1 
-  - Lesson 1 : <https://youtu.be/>
+- youtube-dl --write-auto-sub https://youtu.be/BqwtjH1OV3Q https://youtu.be/ZBtA2dnEgmA https://youtu.be/U_mpHEiOJIY https://youtu.be/jJHlRWDLx9Q https://youtu.be/GvKRt5kHFAM https://youtu.be/y3SOQ4f9dyk https://youtu.be/6_F-ZLd75iU https://youtu.be/5Axhz1HqOh8 https://youtu.be/oklfSCHSO5c https://youtu.be/sQQrTgl7u6E https://youtu.be/p_D8_naPakc https://youtu.be/wvYiER39TQ https://youtu.be/Hlkqj4Aiwj0 https://youtu.be/WcjfjEfnsck https://youtu.be/WWgwsUjJW30
+- Part 1 We live together
+  - Lesson 1 Types of Groups: <https://youtu.be/BqwtjH1OV3Q>
     - [Lesson 01](social-03-01.md)
-  - Lesson 2 : <https://youtu.be/>
+  - Lesson 2 Living in a Neighborhood: <https://youtu.be/ZBtA2dnEgmA>
     - [Lesson 02](social-03-02.md)
-- UNIT 2 
-  - Lesson 3 : <https://youtu.be/>
+  - Lesson 3 Types of Communities: <https://youtu.be/U_mpHEiOJIY>
     - [Lesson 03](social-03-03.md)
-  - Lesson 4 : <https://youtu.be/>
+- Part 2 How Governments Work
+  - Lesson 4 We Are Citizens: <https://youtu.be/jJHlRWDLx9Q>
     - [Lesson 04](social-03-04.md)
-- UNIT 3 
-  - Lesson 5 : <https://youtu.be/>
+  - Lesson 5 Voting for Leaders: <https://youtu.be/GvKRt5kHFAM>
     - [Lesson 05](social-03-05.md)
-  - Lesson 6 : <https://youtu.be/>
+  - Lesson 6 Working for Justice: <https://youtu.be/y3SOQ4f9dyk>
     - [Lesson 06](social-03-06.md)
-- UNIT 4 
-  - Lesson 7 : <https://youtu.be/>
+- Part 3 America Long Ago
+  - Lesson 7 The First Americans: <https://youtu.be/6_F-ZLd75iU>
     - [Lesson 07](social-03-07.md)
-  - Lesson 8 : <https://youtu.be/>
+  - Lesson 8 Explorers and Early Americans: <https://youtu.be/5Axhz1HqOh8>
     - [Lesson 08](social-03-08.md)
-- UNIT 5 
-  - Lesson 9 : <https://youtu.be/>
+  - Lesson 9 A New Country Is Born: <https://youtu.be/oklfSCHSO5c>
     - [Lesson 09](social-03-09.md)
-  - Lesson 10 : <https://youtu.be/>
+- Part 4 The World of Work and Money
+  - Lesson 10 Producers and Consumers: <https://youtu.be/sQQrTgl7u6E>
     - [Lesson 10](social-03-10.md)
-- UNIT 6 
-  - Lesson 11 : <https://youtu.be/>
+  - Lesson 11 From Farm to You: <https://youtu.be/p_D8_naPakc>
     - [Lesson 11](social-03-11.md)
-  - Lesson 12 : <https://youtu.be/>
+  - Lesson 12 Countries and Trade Goods: <https://youtu.be/wvYiER39TQ>
     - [Lesson 12](social-03-12.md)
-- UNIT 7 
-  - Lesson 13 : <https://youtu.be/>
+- Part 5 About Our Earth
+  - Lesson 13 Weather and Climate: <https://youtu.be/Hlkqj4Aiwj0>
     - [Lesson 13](social-03-13.md)
-  - Lesson 14 : <https://youtu.be/>
+  - Lesson 14 Our Earth: <https://youtu.be/WcjfjEfnsck>
     - [Lesson 14](social-03-14.md)
+  - Lesson 15 We Change Our Environment: <https://youtu.be/WWgwsUjJW30>
+    - [Lesson 15](social-03-15.md)
 
-### 💓 [Social 04]()
+### 💓 [Social 04](https://www.youtube.com/playlist?list=PLORqQa0DiANG1LEkOY0LUpq2BStvl_y0o)
 
-- Part 1 
-  - Lesson 1 : <https://youtu.be/>
+- youtube-dl --write-auto-sub https://youtu.be/bkaLrclFTZI https://youtu.be/2Vg2C3EiLIA https://youtu.be/CZ48CoJoXc8 https://youtu.be/XXAeXYv3FyA https://youtu.be/fL0RqgJk1Qk https://youtu.be/_23j5WVX4js https://youtu.be/b5JNzInsTX4 https://youtu.be/VT_jyQZbxq8 https://youtu.be/QXR_brTs2ws https://youtu.be/s-VXs59t7Ec https://youtu.be/fZDdwAXTX7M https://youtu.be/1rhJCnYmx40 https://youtu.be/2fi9ygJYLuo https://youtu.be/rCrCsUNuSqk https://youtu.be/f2QPlrdMFzg
+- Part 1 We live together
+  - Lesson 1 Different Cultures: <https://youtu.be/bkaLrclFTZI>
     - [Lesson 01](social-04-01.md)
-  - Lesson 2 : <https://youtu.be/>
+  - Lesson 2 Various Celebrations: <https://youtu.be/2Vg2C3EiLIA>
     - [Lesson 02](social-04-02.md)
-- UNIT 2 
-  - Lesson 3 : <https://youtu.be/>
+  - Lesson 3 We are Part of the World: <https://youtu.be/CZ48CoJoXc8>
     - [Lesson 03](social-04-03.md)
-  - Lesson 4 : <https://youtu.be/>
+- Part 2 How Governments Work
+  - Lesson 4 Local Government: <https://youtu.be/XXAeXYv3FyA>
     - [Lesson 04](social-04-04.md)
-- UNIT 3 
-  - Lesson 5 : <https://youtu.be/>
+  - Lesson 5 Federal Government: <https://youtu.be/fL0RqgJk1Qk>
     - [Lesson 05](social-04-05.md)
-  - Lesson 6 : <https://youtu.be/>
+  - Lesson 6 American Heritage: <https://youtu.be/_23j5WVX4js>
     - [Lesson 06](social-04-06.md)
-- UNIT 4 
-  - Lesson 7 : <https://youtu.be/>
+- Part 3 America Long Ago
+  - Lesson 7 Go West: <https://youtu.be/b5JNzInsTX4>
     - [Lesson 07](social-04-07.md)
-  - Lesson 8 : <https://youtu.be/>
+  - Lesson 8 The End of Slavery: <https://youtu.be/VT_jyQZbxq8>
     - [Lesson 08](social-04-08.md)
-- UNIT 5 
-  - Lesson 9 : <https://youtu.be/>
+  - Lesson 9 Changes in People's Lives: <https://youtu.be/QXR_brTs2ws>
     - [Lesson 09](social-04-09.md)
-  - Lesson 10 : <https://youtu.be/>
+- Part 4 The World of Work and Money
+  - Lesson 10 Work and Income: <https://youtu.be/s-VXs59t7Ec>
     - [Lesson 10](social-04-10.md)
-- UNIT 6 
-  - Lesson 11 : <https://youtu.be/>
+  - Lesson 11 Making Money Choices: <https://youtu.be/fZDdwAXTX7M>
     - [Lesson 11](social-04-11.md)
-  - Lesson 12 : <https://youtu.be/>
+  - Lesson 12 In the Bank: <https://youtu.be/1rhJCnYmx40>
     - [Lesson 12](social-04-12.md)
-- UNIT 7 
-  - Lesson 13 : <https://youtu.be/>
+- Part 5 About Our Earth
+  - Lesson 13 Maps and Locations: <https://youtu.be/2fi9ygJYLuo>
     - [Lesson 13](social-04-13.md)
-  - Lesson 14 : <https://youtu.be/>
+  - Lesson 14 Various Landforms: <https://youtu.be/rCrCsUNuSqk>
     - [Lesson 14](social-04-14.md)
+  - Lesson 15 Earth's Resources: <https://youtu.be/f2QPlrdMFzg>
+    - [Lesson 15](social-04-15.md)
 
 ## 💓 Check out other YouTube English-learning resources at WorldCom Edu
 
