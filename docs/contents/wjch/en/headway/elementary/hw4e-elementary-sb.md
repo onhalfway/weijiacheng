@@ -195,8 +195,7 @@ The Copyright belongs to the author
 
 ## Tapescript
 
-new headway elementary fourth edition by Liz and John's sores plus CD published and copyright
-Oxford University Press 2011
+new headway elementary, fourth edition, by Liz and John  Soars, class CD, published and copyright Oxford University Press 2011
 
 ## Unit 1 You and me
 
@@ -312,7 +311,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
   - My class is very international! The students are from Mexico, Japan, Egypt, Spain, Hungary, and Switzerland. Our teacher's name is Charlotte. She's very young and she's very nice. I really like her. She's a good teacher.
 - DAY 10: I love London!!
   - POSTED ON APRIL 15TH BY ANNALISA
-  - Hello again! It's great here. I love London! It's big, but interesting. I like shopping, but it's very expensive. I go to the parks. They are really beautiful. And I go to museums and galleries. The National Gallery is free! I go by bus or by Underground- it's very easy.
+  - Hello again! It's great here. I love London! It's big, but interesting. I like shopping, but it's very expensive. I go to the parks. They are really beautiful. And I go to museums and galleries. The National Gallery is free! I go by bus or by Underground - it's very easy.
   - The weather's OK, cold but sunny. The food is OK, too! And the coffee is great! There are a lot of Italian coffee bars in London! Check out my photos!
 - Annalisa is a student in London. Read and listen to her blog. Are the sentences true (√) or false(×)? Correct the false sentences.
   - 1 Annalisa is from Italy. (√)
@@ -344,7 +343,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
   - A It's here. Charlotte.
 - 3 A Hello, Cristo. Where are you from?
   - C I'm from Mexico.
-- 4 A ticket, please.
+- 4 A A ticket, please.
   - B The National Gallery is free.
   - A Oh, good! Thank you!
 - 5 A A coffee, please.
@@ -352,7 +351,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
 
 ### T1.14
 
-- Joseph My family isn't very big. I have a sister, Andrea, she's 18, and a brother Richard, he's 25. They're not married. I'm married, erm, my wife's name is Isabel. We have two children, a daughter, Nancy, that's N-A-N-C-Y, she's 4, and a son, Tom, he's only six months old. We live near my parents. My dad's name is John, and my mum's is Odile, that's O-D-I-L-E. She's French. My grandmother lives with them, her name's Marie. She's my mum's mum.
+- Joseph: My family isn't very big. I have a sister, Andrea, she's 18, and a brother Richard, he's 25. They're not married. I'm married, erm, my wife's name is Isabel. We have two children, a daughter, Nancy, that's N-A-N-C-Y, she's 4, and a son, Tom, he's only six months old. We live near my parents. My dad's name is John, and my mum's is Odile, that's O-D-I-L-E. She's French. My grandmother lives with them, her name's Marie. She's my mum's mum.
 - Isabel /ˈɪzəbel/ n. 伊莎贝尔（人名）
 
 ### T1.15
@@ -374,9 +373,9 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
 
 - 1 A Bye, Mum! It's time for school.
   - B Goodbye darling. Have a good day!
-- A Thanks. See you later.
-  - 2 C Good morning!
-- D Good morning! Can I have a coffee, an espresso, please? /eˈspresəʊ/ n. （用汽加压煮出的）浓咖啡
+  - A Thanks. See you later.
+- 2 C Good morning!
+  - D Good morning! Can I have a coffee, an espresso, please? /eˈspresəʊ/ n. （用汽加压煮出的）浓咖啡
   - C Yes, of course! Anything else?
   - D No, thank you.
 - 3 E Good afternoon! Can I help you?
@@ -398,11 +397,12 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
 
 - ENGINEER Andrew Johnson
   - Andrew, 30, is an engineer. He comes from New Zealand, but now he lives in Scotland. He works on an oil rig 440 km from the coast of Aberdeen. He works 12 hours a day for two weeks, and then he has two weeks' holiday. He earns £200 a day. In his free time he goes to the gym and plays snooker. He isn't married.
-    - oil rig 石油钻塔,钻油平台; 
+    - oil rig 石油钻塔,钻油平台;
     - rig 钻探设备
     - snooker n. 斯诺克台球
-- ZOOLOGIST  /zuˈɑːlədʒɪst/ n. 动物学家 Claudia Luke
+- ZOOLOGIST /zuˈɑːlədʒɪst/ n. 动物学家 Claudia Luke
   - Claudia,41, is American. She's a zoologist and she teaches at a university. She lives in California and works with her husband, Jim, at the Research Centre in the Mojave Desert where she studies snakes and other animals. She likes working in the desert. In her free time she writes songs and walks her dog, Brewer. She earns about $60,000 a year.
+  - Mojave [məʊˈhɑːvi] n. 莫哈韦沙漠（在美国加利福尼亚西南）
 
 ### T2.2
 
@@ -515,7 +515,7 @@ Does he play football? Yes, he does. No, he doesn't.
 - 5 A What does your grandfather do all the time?
   - B Well, he watches TV a lot, but on Saturdays he plays golf with friends, and on Sundays he visits us.
 
-### T2.11 Improving style
+### T2.11
 
 - 1 He likes his iob.
 - 2 She loves working.
@@ -523,7 +523,7 @@ Does he play football? Yes, he does. No, he doesn't.
 - 4 Does he have three children?
 - 5 Where does he go?
 
-### T2.12
+### T2.12 Improving style
 
 - David Guetta - The superstar DJ with 70-million hits on YouTube!
   - David Guetta is French. He lives in Paris, but he works all over the world. He's a very famous DJ. He's number 3 in the "Top 100 DJs" poll. 
@@ -531,6 +531,7 @@ Does he play football? Yes, he does. No, he doesn't.
   - He sometimes writes songs for them. He really likes Lady Gaga, and he wants to work with her. His job's very exciting, and he likes it a lot. He's married to Cathy. She comes from Senegal. She's a businesswoman and an actress.
     - Senegal /ˌsenɪˈɡɔːl/ n. 塞内加尔（非洲国家）
   - They often go to Ibiza. Every year, they have parties there. People love their parties. Cathy and David have two young children, and they love to spend time with them.
+    - Ibiza [i:'bi:zə] n. 伊比沙岛（位于地中海西部）
 
 ### T2.13 An interview
 
@@ -576,7 +577,7 @@ Does he play football? Yes, he does. No, he doesn't.
   - B He's a journalist. He writes for The Times newspaper.
   - A Oh, that's a good job.
 - 2 C What does your father do?
-  - D Heb an accountant. He works for a big firm in the city.
+  - D He's an accountant. He works for a big firm in the city.
   - C And your mother? What does she do?
   - D She's a teacher. She teaches French and Spanish.
 - 3 E Does your sister work in the centre of town?
@@ -608,7 +609,7 @@ Does he play football? Yes, he does. No, he doesn't.
 - It's ten to six.
 - It's five to six.
 
-### T2.17
+### T2.17 what time is it?
 
 - 1 It's nearly three o'clock.
 - 2 It's just after five o'clock.
@@ -617,7 +618,7 @@ Does he play football? Yes, he does. No, he doesn't.
 ### T2.18
 
 - 1 A Excuse me. Can you tell me the time, please?
-  - B Yes, of course. It's just after six o'clock.
+  - B Sh/Hush! Yes, of course. It's just after six o'clock.
   - A Thank you very much.
 - 2 C Excuse me. Can you tell me the time, please?
   - D I'm sorry. I don't have a watch.
@@ -865,7 +866,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
 - J There's a new kitchen.
 - E Wow! How many bathrooms are there?
 - J Er . .. there's just one bathroom.
-- E Is there a garden?
+- E Is there a garden?bathroo
 - J No, there isn't a garden.
 - E It doesn't matter. It sounds great!
 
@@ -933,7 +934,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
   - E They're beautiful!
 - 6 E Do you like this kettle?
   - J Yeah! It's a great colour!
-- 7 J How much are these mugs?
+- 7 J How much are these mugs? [mʌɡ] n. 大杯，马克杯；
   - A €5 each.
 - 8 J Look at that coat!
   - E You don't need any more clothes!
@@ -947,11 +948,14 @@ Christina What's in my bag? Well, there's my phone, and my purse, of course. I h
 - My new flat
 - My new flat is near the centre of town, so I often walk to work. It's not very big, but it's very comfortable! There's just one bedroom, a living room, and quite a big kitchen with a table in the centre. This is good because I love cooking, and I can invite my friends to dinner. The living room has one big window. It faces south, so it's always very sunny. I have two comfortable, old armchairs, but I don't have a sofa because the room is quite small.
 - There isn't a garden, but there's a small balcony in my bedroom. I want to put a chair there so I can sit in the sun on summer evenings.
+  - balcony [ˈbælkəni] n. 露台，阳台；楼座，楼厅
 - I love my new flat for many reasons: the big kitchen, the sunny living room, but most of all I love it because it's my first home!
 
 ### T4.10
 
-It's wonderful! They're awful! She's fantastic!
+- It's wonderful!
+- They're awful!
+- She's fantastic!
 
 ### T4.11
 
@@ -1026,12 +1030,12 @@ It's wonderful! They're awful! She's fantastic!
 
 ### T4.14
 
-- one and a half
-- two and a quarter
-- six point eight
-- seventeen point five
-- oh two oh, seven four eight one, six four nine
-- oh seven eight six one, five double six seven eight
+- 1.5 one and a half
+- 2.25 two and a quarter
+- 6.8 six point eight
+- 17.5 seventeen point five
+- 020 7481 6490 oh two oh, seven four eight one, six four nine oh
+- 07861 56678 oh seven eight six one, five double six seven eight
 
 ### T4.15
 
@@ -1044,8 +1048,8 @@ It's wonderful! They're awful! She's fantastic!
 
 - 1 'How much is this book?' 'Six pounds fifty.'
 - 2 'How much are these pictures?' 'Twenty-four pounds each.'
-- 3 I only earn €18,000 a year.
-- 4 'How much is this car?''€9,5001
+- 3 I only earn £18,000 a year.
+- 4 'How much is this car?''£9,500' nine thousand five hundred pounds.
 - 5 'just this postcard, please.' 'That's 60p, please.'
 - 5 'Can I have these jeans, please.''Sure, that's $49.'
 - 7 'How much is a return ticket from Paris to Madrid?''€150.'
@@ -1055,7 +1059,8 @@ It's wonderful! They're awful! She's fantastic!
 
 ### T5.1 Superman!
 
-Superman comes from the Planet Krypton. He can fly at the speed of light; he can see through walls; he can jump 250 metres; he can speak every language; he can turn back time. There's nothing Superman cant do!
+Superman comes from the Planet Krypton. He can fly at the speed of light; he can see through walls; he can jump 250 metres; he can speak every language; he can turn back time. There's nothing Superman can't do!
+- Krypton [ˈkrɪptɑːn] n. [化学]氪（元素符号为 Kr）; 氪星; 于氪星;
 
 ### T5.2 Superman is fantastic!
 
@@ -1063,7 +1068,7 @@ Superman comes from the Planet Krypton. He can fly at the speed of light; he can
 - A Superman's fantastic!
 - I Hmm! What can he do?
 - A He can do everything!
-- I No, he cant!
+- I No, he can't!
 - A Yes, he can. He can fly at the speed of light, he can see through buildings, and he can speak every language in the world!
 
 ### T5.3
@@ -1081,8 +1086,8 @@ Superman comes from the Planet Krypton. He can fly at the speed of light; he can
 - I I don't want to skateboard. I like other things. What about skiing? Can you ski?
 - A Yeah, I can ski a bit, but my mum and dad can ski brilliantly!
 - I I love skiing. I can ski really well.
-- A OK, OK, we can do some things, but Superman can do everything. There's nothing Superman cant do.
-- I Oh, you and Supermanl Remember he's not real, he's only a ...
+- A OK, OK, we can do some things, but Superman can do everything. There's nothing Superman can't do.
+- I Oh, you and Superman Remember he's not real, he's only a ...
 
 ### T5.4
 
@@ -1094,7 +1099,7 @@ Superman comes from the Planet Krypton. He can fly at the speed of light; he can
   - 'I can ski a bit, but my mum and dad can ski brilliantly!'
 - 5 'Superman can do everything. There's nothing Superman can't do.'
 
-### T5.5
+### T5.5 Grammar and pronunciation
 
 - I can speak French. =/kən/
 - Can you speak French? =/kən/
@@ -1103,7 +1108,7 @@ Superman comes from the Planet Krypton. He can fly at the speed of light; he can
 
 ### T5.6 Ivy can't cook. Can you?
 
-Ivy: So what can I do? Speak a foreign language ... Hmm. Well, yes, I can speak French, and Spanish a little bit, but just holiday Spanish! Cooking? No, I cant cook at all. My mum can, she's a fantastic cook! Hmm. Sports - well, I think I'm quite good at sports - my cousin Alfie says I'm not because I can't skateboard, but skateboarding's not a sport. I can swim of course. Everyone can swim, cant they? I can swim very well, I like swimming, and I like tennis. I can play tennis quite well. But skiing is my best sport, I love it, and I can ski really well, really fast. Musical instruments? Er ... well, no, I cant play any musical instruments. My dad can play the guitar brilliantly, and my mum can play the piano a bit, but I cant play anything at all.
+Ivy: So what can I do? Speak a foreign language ... Hmm. Well, yes, I can speak French, and Spanish a little bit, but just holiday Spanish! Cooking? No, I can't cook at all. My mum can, she's a fantastic cook! Hmm. Sports - well, I think I'm quite good at sports - my cousin Alfie says I'm not because I can't skateboard, but skateboarding's not a sport. I can swim of course. Everyone can swim, can't they? I can swim very well, I like swimming, and I like tennis. I can play tennis quite well. But skiing is my best sport, I love it, and I can ski really well, really fast. Musical instruments? Er ... well, no, I can't play any musical instruments. My dad can play the guitar brilliantly, and my mum can play the piano a bit, but I can't play anything at all.
 
 ### T5.7
 
@@ -1120,7 +1125,7 @@ Ivy: So what can I do? Speak a foreign language ... Hmm. Well, yes, I can speak 
 
 - 1 She can cook.
 - 2 I can't hear you.
-- 3 They cant come to the party.
+- 3 They can't come to the party.
 - 4 Can you see my glasses anywhere?
 - 5 You can't always get what you want.
 - 6 Can you do the homework?
@@ -1165,10 +1170,13 @@ Ivy: So what can I do? Speak a foreign language ... Hmm. Well, yes, I can speak 
 ### T5.12 Cleopatra Stratan - Singer
 
 Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, near Romania. She could sing beautifully when she was just two years old. When she was three, she made an album, La varsta de trei ani. Her album was a big success. 150,000 were sold round the world.
+- Moldova [mɔl'dɔ:və] n. 摩尔多瓦（东欧内陆国家）
+- Romania [ruˈmeɪniə] n. 罗马尼亚（欧洲巴尔干半岛东北部国家）
 
 ### T5.13 Pablo Picasso
 
-- 25 October, 188l - 8 April, 1973
+- ['pæbləu] 帕布鲁（西班牙著名画家毕加索的姓）
+- 25 October, 1881 to 8 April, 1973
 - A Hey, look at that painting! It's a Picasso!
 - B Oh yes! Fantastic!
 - A Where was Picasso born?
@@ -1197,6 +1205,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
   - A Oh yes! There it is, and there they are!
 - 3 A Excuse me! Is there a petrol station near here?
   - B A petrol station? Yeah. Go past the railway station and the car park. It's just before the motorway.
+    - motorway [ˈməʊtəweɪ] n. 高速公路；宽平滑雪道
   - A That's very kind. Thank you.
 
 ### T5.15 Verb + noun
@@ -1215,8 +1224,8 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
   - B I can. Do you want to come for a ride? You can sit on the back.
 - 7 A Can you drive a car?
   - B Of course not! I'm only l6!
-- 8 A You have a full-time iob. Who looks after your children?
-  - B They go to playschool.
+- 8 A You have a full-time job. Who looks after your children?
+  - B They go to playschool. 幼儿园;
 - 9 A Do you watch TV a lot?
   - B No, not really, just in the morning, and in the evening, and sometimes in the afternoon.
 - 10 A I can't speak any foreign languages.
@@ -1229,7 +1238,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - 2 A What sort of music do you like?
   - B All sorts but especially jazz.
 - 3 A Where's your girlfriend from? Is she Mexican?
-  - B No, she isn't. She's from Brazil. She speaks Portuguese.
+  - B No, she isn't. She's from Brazil. She speaks Portuguese. [ˌpɔːrtʃʊˈɡiːz] adj. 葡萄牙的；葡萄牙人的；葡萄牙语的；葡萄牙文化的; n. 葡萄牙语；葡萄牙人
 - 4 A Is Paula married to Mike?
   - B That's right. Do you know her?
 - 5 A Do you want to come shopping with me?
@@ -1284,6 +1293,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - Oprah Winfrey (is) a famous American TV star. She (lives) in California but she also (has) an apartment in Chicago, where she (works). Oprah is one of the richest women in America. She (earns) millions of dollars every year. She (gives) a lot of money to charity.
   - Oprah Winfrey  奥普拉·温弗瑞（美国著名女脱口秀主持人）
   - charity /ˈtʃærəti/ n. 慈善；施舍；慈善团体；宽容；施舍物; 复数 charities
+  - opera [ˈɑːprə] n. 歌剧演出/表演；歌剧团/院；歌剧艺术/剧本
 
 ### T6.2 see p46
 
@@ -1398,13 +1408,15 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - 4 I caught the bus to school today. It took just 40 minutes.
 - 5 I had a very busy morning. I sent 30 emails before 10 o'clock.
 - 6 Our football team won the match 3-0. Your team lost again.
+  - nil [nil] n. 无；零，零分
 - 7 My brother earned a lot of money in his last job but he left because he didn't like it.
 - 8 I studied Chinese for four years, but when I went to Shanghai, I couldn't understand a word.
 
 ### T6.10 A biography
 
+- biography [baɪˈɑːɡrəfi] n. 传记，传记文学；生平
 - The multi-millionaire Ben Way
-  - Ben Way is 35 years old and he runs a company called 'Rainmakers. Ben's a computer millionaire. However, he wasn't always so successful. A s a child, he was dyslexic so he didn't do well at school. He didn't read or write until he was nine and his father gave him a computer. He wrote his first software program when he was 11. He didn't go to university because at l5 he started his own company. He first became a millionaire when he was just 17. He continued to be very successful until he was 21. He won a business award in 2000, but then in 2001 he lost it all. One year later he started 'Rainmakers' nd now he's a millionaire again.
+  - Ben Way is 35 years old and he runs a company called 'Rainmakers. Ben's a computer millionaire. However, he wasn't always so successful. As a child, he was dyslexic so he didn't do well at school. He didn't read or write until he was nine and his father gave him a computer. He wrote his first software program when he was 11. He didn't go to university because at l5 he started his own company. He first became a millionaire when he was just 17. He continued to be very successful until he was 21. He won a business award in 2000, but then in 2001 he lost it all. One year later he started 'Rainmakers' and now he's a millionaire again.
 
 ### T6.11 The businessman and the fisherman
 
@@ -1415,6 +1427,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
   - yellowfin tuna 黄鳍金枪鱼
 - 2 Close your books and listen to the conversation. Who do you think has the best life?
 - SB.page 126
+
 - T6.11 The businessman ant the fisherman
 - B = Businessman F = Fisherman
 - B Good morning. What beautiful tuna! How long did it take to catch them?
@@ -1423,6 +1436,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - F I didn't want to fish for longer. With this I have enough fish for my family.
 - B But what do you do with the rest of your day? Aren't you bored?
 - F I'm never bored. I get up late, play with my children, watch football, and take a siesta with my wife. Sometimes in the evenings, I walk to the village to see my friends, play the guitar, and sing some songs.
+  - siesta [siˈestə] n. （西）午睡；午休 vi. 午睡；午休
 - B Really? That's all you do? Look, I am a very successful businessman. I went to Harvard University and I studied business. I can help you. Fish for four hours every day and sell the extra fish you catch ...
 - F But...
 - B ... Then, you can buy a bigger boat, catch more, and earn more money.
@@ -1433,6 +1447,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - F OK, OK, but how long will all this take?
 - B Er- let me think -er probably about 15 to 20 years.
 - F 15 to 20 years! And then what, Senor?
+  - Senor [se'njɔ:] n. 先生；绅士
 - B Why, that's the exciting part! You can sell your business and become very rich, a millionaire.
 - F A millionaire? Really? But what do I do with all the money?
 - B Well, Iet me think. Erm- I know you can stop work, and -er, move to a lovely, old fishing village where you can sleep late, play with your grandchildren, watch football, take a siesta with your wife, and walk to the village in the evenings where you can play the guitar, and sing with your friends all you want.
@@ -1525,12 +1540,12 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 
 ### T6.16
 
-- 1 October the 3lst.
+- 1 October the 31st.
 - 2 the 23rd of June.
 - 3 July the 15th.
 - 4 March the 4th, 2012.
-- 5 The l8th of February, 2020.
-- 6 The l7th of September, 1960.
+- 5 The 18th of February, 2020.
+- 6 The 17th of September, 1960.
 
 ## Unit 7 Dates to remember
 
@@ -1630,7 +1645,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - A: She was a doctor. She worked in a hospital.
 - F: So, where did you go to school?
 - A: I went to a Catholic High School. I was there for ten years, then, when I was 18, I went to university.
-  - Catholic /ˈkæθlɪk/ adj. 天主教的；宽宏大量的 n. 天主教徒；罗马天主教
+  - Catholic /ˈkæθlik/ adj. 天主教的；宽宏大量的 n. 天主教徒；罗马天主教
 - F: What did you study?
 - A: I studied philosophy and education at university in Moscow. I was there for four years.
   - philosophy /fəˈlɒsəfi/ n. 哲学;
@@ -1791,6 +1806,10 @@ SB p61: WRITING Telling a story p111
   - And I love you.
   - A Wow! Do you know who it's from?
   - B No idea.
+    - Valentine [ˈvæləntaɪn] 情人节, 情人
+    - violet [ˈvaɪələt] 
+      - n. 紫罗兰，堇菜；蓝紫色，紫罗兰色
+      - adj. 紫色的，紫罗兰色的
 - 3
   - C Mummy! Daddy! Wake up! It's Christmas!
   - D Mm? What time is it?
@@ -1818,27 +1837,39 @@ SB p61: WRITING Telling a story p111
 
 ## Unit 8 Eat in or out
 
-### T8.1 see p62
+### T8.1 Starter (一餐中的）第一道菜，开胃小吃 see p62
 
-- A
-  - I tea w ice-cream
-  - p coffee k apple juice
-  - j wine h bread
-  - v cheese u milk
-  - n yoghurt o chocolate
-  - d pasta 5 broccoli
+- List A
+  - I tea
+  - p coffee
+  - j wine
+  - v cheese
+  - n yogurt
+  - d pasta
+  - w ice-cream
+  - k apple juice
+  - h bread
+  - u milk
+  - o chocolate
+  - s broccoli
 - B
-  - i bananas e onions
-  - a apples c tomatoes
-  - f strawberries q eggs
-  - t potatoes b biscuits
-  - r carrots I crisps
-  - x peas m chips
+  - i bananas
+  - a apples
+  - f strawberries
+  - t potatoes
+  - r carrots
+  - x peas
+  - e onions [ˈʌnjən]
+  - c tomatoes
+  - q eggs
+  - b biscuits
+  - I crisps
+  - m chips
 
 - pasta 英 /ˈpæstə/  美 /ˈpɑːstə/ n. 意大利面食；面团
 - broccoli /ˈbrɒkəli/ n. 花椰菜；西兰花
 - peas n. [作物] 豌豆（pea /piː/ 的复数）
-- raspberry, mulberry, strawberry
+- raspberry 树莓, mulberry n. 桑树；桑葚，桑椹；深紫红色, strawberry 草莓
 
 ### T8.2 Who's a fussy eater?
 
@@ -1918,19 +1949,19 @@ SB p61: WRITING Telling a story p111
 
 - 1
   - A Excuse me, are you ready to order?
-  - B Yes. Id like a steak, please.
+  - B Yes. I'd like a steak, please.
 - 2
   - A Would you like a sandwich?
   - B No, thanks. I'm not hungry.
 - 3
   - A Do you like Ella?
-  - B Yes.S he's very nice.
+  - B Yes. She's very nice.
 - 4
   - A Would you like a cold drink?
   - B Yes, please. Do you have any apple juice?
 - 5
   - A Can I help you?
-  - B Yes. Id like some stamps, please.
+  - B Yes. I'd like some stamps, please.
 - 6
   - A What sports do you do?
   - B Well, I like skiing very much.
@@ -1952,25 +1983,25 @@ SB p61: WRITING Telling a story p111
   - B I like French wine, especially red wine.
 - 2
   - A Would you like a cheese and ham sandwich?
-  - B Just cheese,p lease.I don't like ham.
+  - B Just cheese, please. I don't like ham.
 - 3
   - A Who's your favourite author?
   - B I like books by Patricia Cornwell.
 - 4
   - A What do you want for your birthday?
-  - B Id like a new computer.
+  - B I'd like a new computer.
 - 5
   - A Do you have any pets?
-  - B No, but IiC like a dog.
+  - B No, but I like a dog.
 - 6
   - A Do you want some ice-cream for dessert?
-  - B No, thanks.I don't like ice-cream.
+  - B No, thanks. I don't like ice-cream.
 
 ### T8.7 Eating in
 
 - N=Nick D=Duncan
 - N This recipe for Cottage Pie looks easy.
-- D But I cant cook at all.
+- D But I can't cook at all.
 - N Don't worry. I really like cooking. Now vegetables - do we have any onions? Are there any carrots or potatoes?
 - D Well, there are some onions, but there aren't any carrots, and we don't have many potatoes. How many do we need?
 - N Four big ones.
@@ -1984,7 +2015,7 @@ SB p61: WRITING Telling a story p111
 - N 500 grams. Now, is that everything?
 - D Er- I think so. Do we have oil? Oh, yeah, there's some left in the bottle.
 - N OK, first shopping, then I'll give you a cooking lesson!
-- D Id like that. I hope the girls like Cottage Pie.
+- D I'd like that. I hope the girls like Cottage Pie.
 - N Everyone likes Cottage Pie!
 
 - recipe  /ˈresəpi/ n. 食谱; 处方
@@ -2109,7 +2140,7 @@ SB p61: WRITING Telling a story p111
 
 ### T8.10 Daily needs
 
-- aspirin /ˈæsprɪn; ˈæspərɪn/ n. 阿司匹林（解热镇痛药）
+- aspirin /ˈæsprin; ˈæspərin/ n. 阿司匹林（解热镇痛药）
 - chocolate
 - notebook
 - scissors
@@ -2127,7 +2158,7 @@ SB p61: WRITING Telling a story p111
 ### T8.11 Shopping in the High Street
 
 - 1
-  - A Id like some batteries, please.
+  - A I'd like some batteries, please.
   - B What sort do you want?
   - A AA, please.
   - B Would you like a packet of four or six?
@@ -2161,17 +2192,17 @@ SB p61: WRITING Telling a story p111
 - A And what size do you want? Small, medium, or large?
 - B Large, please.
 - A Would you like anything to eat? A croissant? Some toast?
-- B Id like some toast, please.
+- B I'd like some toast, please.
 - A No problem.
 - B Can I have some honey with the toast?
-- A Sure. Take a seat, and I'll brine it over.
+- A Sure. Take a seat, and I'll bring it over.
 
 - have in  在餐馆进餐
 - take away  外带进餐
 - croissant /kwɑːˈsɑːnt,krəˈsɑːnt/ n.羊角面包
 
 
-### Unit 8 TWOE MAILS - Informal and more formal
+### Unit 8 TWO EMAILS - Informal and more formal
 
 - Page 112
 - Hi Duncan.
@@ -2278,11 +2309,13 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T9.8 Camden
 
+- Camden [ˈkæmdən] n. 卡姆登（英国城市名）
 - It's got the largest street market in the UK.
 - The market's busiest at the weekend.
 - The food is the cheapest in north London.
 - It's got the most amazing clothes.
 - The Electric Ballroom is the oldest nightclub in Camden.
+  - ballroom n. 舞厅；跳舞场; 宴会厅; 大宴会厅
 - Proud is one of the coolest clubs in Camden
 
 ### T9.9 It's the biggest
@@ -2292,11 +2325,16 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - 3 The biggest park in central London is Hyde Park. It's 142 hectares.
 - 4 The most popular tourist attraction is the London Eye. It has 10,000 visitors a day.
 - 5 The most famous building is Buckingham Palace. Everyone knows who lives there.
-- 6 The best restaurant for spotting celebrities is The lvy. They all go there.
+  - Buckingham ['bʌkɪŋəm] 白金汉宫
+- 6 The best restaurant for spotting celebrities is The ivy. They all go there.
+  - spot v. 看见，注意到；（对比赛对手）让分，让步；飘
+  - celebrity [səˈlebrəti] n. 名声，名望；名人，明星
 
 ### T9.10
 
 - A megacity is a city with more than ten million inhabitants.
+  - megacity [ˈmeɡəsɪti] n. 大城市（人口超过1000万的）
+  - inhabitant [ɪnˈhæbɪtənt] n. （某地的）居民，栖息动物
 - The largest megacity is in fact Tokyo. The next biggest is Mexico City. Third is Mumbai. Fourth is New York, with about 22 million people. And last, the smallest is Shanghai, which has about 18.4 million.
 - Some time in 2008. for the first time in the history of the world, more people on earth lived in cities than in rural areas.
 
@@ -2306,12 +2344,15 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - The first thing to say about Tokyo is that it is very safe. Women can walk everywhere anytime day or night. Little children walk to school. You can leave something on the table in a restaurant while you go out for a minute and nobody will take it.
   - Tokyo is also very clean, and it is very easy to travel around. All the trains and buses run on time.
   - Personally, my favourite time of year is spring, when it's dry and the cherry blossom is out.
+    - [ˈblɑːsəm] 
   - Tokyo is a very exciting city, because there are always new things to do, new places to go, new things to eat. It changes very quickly!
 
 - Vimahl from Mumbai
   - I have two strong impressions of Mumbai.
   - First, it is a city that is so full of activity! It is busy busy busy all day long and all night long!
+    - activity n. 活跃状况，热闹(活力)；活动；（Activity）热力活性，活度
   - It's a city that doesn't sleep much. The day begins early because it is so hot. It's a noisy place. There are cars going beep beep, auto rickshaws by the thousand, fast trains rushing past, vendors shouting and trying to get you to buy their food, their drinks, their clothes. And people, people everywhere trying to get to work.
+    - rickshaw [ˈrɪkʃɔː] n. （等于 ricksha）人力车；黄包车
   - The second thing to say is that the people are very, very enthusiastic. Life isn't easy in Mumbai for a lot of people, but we really work hard and we really want to do our best. Every new day brings new possibilities! The future is exciting for us!
 
 - Lourdes from Mexico City
@@ -2452,7 +2493,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - P Fiona, hi! It's Pete. How are you? What are you doing?
   - F Fine. We're at home. I'm just cooking some dinner.
   - P What's Tim doing?
-  - F He's watching the football. Cant you hear?
+  - F He's watching the football. Can you hear?
   - P Ah, right!
 
 ### T10.3
@@ -2775,7 +2816,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - As you and I and everyone knows,
 - Oats and beans and barley grows
 - As you and I and everyone knows,
-- A-waiting for a partner.
+- Awaiting for a partner.
 - First the farmer sows his seeds,
   - sow /səʊ/ v. 播种
 - Then he stands and takes his ease.
@@ -2783,19 +2824,19 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - stamp n. 邮票；印记；标志；跺脚; vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏; vi. **跺脚**；捣碎；毁掉
   - clap /klæp/ vi. 鼓掌，拍手；啪地关上; vt. **拍手**，鼓掌；轻轻拍打某人; n. 鼓掌；拍手声
 - And turns around to view his lands
-- A-waiting for a partner
+- Awaiting for a partner
 - Now you're married you must obey,
   - obey /əˈbeɪ/ vt. 服从，听从；按照……行动; vi. 服从，顺从；听话
 - Must be true in all you say,
 - Must be kind and must be good
 - And help your wife to chop the wood,
   - chop 英 /tʃɒp/  美 /tʃɑːp/ v. 剁碎，**砍**；降低，削减；向下猛击；削（球）；终止，取消；变化无常; n. （猪、羊等）排骨；砍；掌劈；（复数）腭，下巴；商标；动物饲料；碎浪；（非正式）应得的一份
-- A-waiting for a partner
+- Awaiting for a partner
 - Oats and beans and barley grow
 - As you and I and everyone knows,
 - Oats and beans and barley grows
 - As you and I and everyone knows,
-- A-waiting for a partner.
+- Awaiting for a partner.
 
 ### T11.9 What's the weather like?
 
@@ -2820,7 +2861,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
     - Istanbul /ˌɪstænˈbul/ n. 伊斯坦布尔（土耳其城市）
     - Mediterranean /ˌmedɪtəˈreɪniən/ n. (Mediterranean) 地中海地区；地中海沿岸国家居民; adj. (Mediterranean) 地中海的，地中海沿岸的；地中海沿岸国家居民的；（肤色）浅黑的
     - Greece /ɡriːs/ n. 希腊（欧州南部国家）
-    - Athens /ˈæθɪnz/ n. 雅典（希腊首都）
+    - Athens [ˈæθənz] n. 雅典（希腊首都）
     - Portugal /ˈpɔːtʃʊɡl/ n. 葡萄牙（欧洲西南部国家）
   - And that's your European weather for today. I'll be back at lunchtime with an update.
 - Presenter: Thank you Fiona, and now ...
@@ -2883,9 +2924,16 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - K Oh. I've been to North and South America so many times, and I've ...
 - L I'm sure you have, Kyle. Oh dear, look at the time! Mel's waiting for me. We've got so much to do. Bye Kyle, we'll send you a postcard.
 
-### T12.2 see p94
+### T12.2 Who each line about, Lara, Kyle, or Mel?
 
+see p94
 I've = I have; She's = She has
+1 Kyle: I‘ve been to Rome many times.
+2 Lara: I've never been there.
+3 Mel: She’s been to London and Paris.
+4 Mel: She hasn‘t been to Rome.
+5 Lara: I haven’t travelled much at all.
+6 Kyle: I‘ve been to North and South America.
 
 ### T12.3
 

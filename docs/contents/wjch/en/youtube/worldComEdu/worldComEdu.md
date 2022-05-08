@@ -6,8 +6,8 @@
   - [Transcript](worldComEdu-transcript.md)
 
 - [Youtube Channel WorldCom Edu](#youtube-channel-worldcom-edu)
-  - [Sight words 100 | Words Sentence Full | English Study for Kids](#sight-words-100--words-sentence-full--english-study-for-kids)
-  - [Sight words 100 Class | Full Lectures | Words and Stories for Kids](#sight-words-100-class--full-lectures--words-and-stories-for-kids)
+  - [Sight Words 100 | Words Sentence Full | English Study for Kids](#sight-words-100--words-sentence-full--english-study-for-kids)
+  - [Sight Words 100 Class | Full Lectures | Words and Stories for Kids](#sight-words-100-class--full-lectures--words-and-stories-for-kids)
   - [English word | Reading for Vocabulary | LECTURE](#english-word--reading-for-vocabulary--lecture)
     - [💓 Level A](#-level-a)
     - [💓 LEVEL B](#-level-b)
@@ -26,13 +26,25 @@
     - [💓 Social 04](#-social-04)
   - [💓 Check out other YouTube English-learning resources at WorldCom Edu](#-check-out-other-youtube-english-learning-resources-at-worldcom-edu)
 
-## Sight words 100 | Words Sentence Full | English Study for Kids
+## Sight Words 100 | Words Sentence Full | English Study for Kids
 
-TODO
+- youtube-dl --write-auto-sub https://www.youtube.com/watch?v=ugBiW7hINXA https://www.youtube.com/watch?v=xxLsSYIWhxU https://www.youtube.com/watch?v=txe2ZgHFWrM https://www.youtube.com/watch?v=8Aqp1RnMZco https://www.youtube.com/watch?v=NfYAxoyw-b8 https://www.youtube.com/watch?v=ee8OncRK0Ps
+- [Sight Words 100 Words Sentence Level 1](https://www.youtube.com/watch?v=ugBiW7hINXA&list=PLORqQa0DiANF-faJqslgmyds-osybTMsM)
+- [Sight Words 100 Words Sentence Level 2](https://www.youtube.com/watch?v=xxLsSYIWhxU&list=PLORqQa0DiANF-faJqslgmyds-osybTMsM&index=2)
+- [Sight Words 100 Words Sentence Level 3](https://www.youtube.com/watch?v=txe2ZgHFWrM&list=PLORqQa0DiANF-faJqslgmyds-osybTMsM&index=3)
+- [Sight Words 100 Words Sentence Level 4](https://www.youtube.com/watch?v=8Aqp1RnMZco&list=PLORqQa0DiANF-faJqslgmyds-osybTMsM&index=4)
+- [Sight Words 100 Words Sentence Level 5](https://www.youtube.com/watch?v=NfYAxoyw-b8&list=PLORqQa0DiANF-faJqslgmyds-osybTMsM&index=5)
+- [Sight Words 100 Words Sentence Level 6](https://www.youtube.com/watch?v=ee8OncRK0Ps&list=PLORqQa0DiANF-faJqslgmyds-osybTMsM&index=6)
 
-## Sight words 100 Class | Full Lectures | Words and Stories for Kids
+## Sight Words 100 Class | Full Lectures | Words and Stories for Kids
 
-TODO
+- youtube-dl --write-auto-sub https://www.youtube.com/watch?v=eEcSuinkI5Q https://www.youtube.com/watch?v=imzDjJcA92U https://www.youtube.com/watch?v=iktWGrkv5m8 https://www.youtube.com/watch?v=cC2H2j6Ns90 https://www.youtube.com/watch?v=95Zytp6uqHw https://www.youtube.com/watch?v=nzMSPbDLp0Y
+- [Sight Words 100 Class Level 1](https://www.youtube.com/watch?v=eEcSuinkI5Q&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=1)
+- [Sight Words 100 Class Level 2](https://www.youtube.com/watch?v=imzDjJcA92U&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=2)
+- [Sight Words 100 Class Level 3](https://www.youtube.com/watch?v=iktWGrkv5m8&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=3)
+- [Sight Words 100 Class Level 4](https://www.youtube.com/watch?v=cC2H2j6Ns90&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=4)
+- [Sight Words 100 Class Level 5](https://www.youtube.com/watch?v=95Zytp6uqHw&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=5)
+- [Sight Words 100 Class Level 6](https://www.youtube.com/watch?v=nzMSPbDLp0Y&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=6)
 
 ## English word | Reading for Vocabulary | LECTURE
 
@@ -40,7 +52,7 @@ TODO
 
 ### [💓 Level A](https://www.youtube.com/playlist?list=PLORqQa0DiANETPVAAD045e2-WbcENxYQT)
 
-- youtube-dl --skip-download --write-auto-sub https://youtu.be/1oxMcJYFOV8 https://youtu.be/h1jwWJhiZaU https://youtu.be/qVSAzggQezc https://youtu.be/IETEAkCUc9E https://youtu.be/1-7BZGeDNfo https://youtu.be/kVHI7Ag-Bv4 https://youtu.be/cYiir5edBTU https://youtu.be/1BWuSxLCorU https://youtu.be/H9Qvf8fbNWU https://youtu.be/kCvCaa7PgMo https://youtu.be/WUl1fp24cZo https://youtu.be/Ng0i-VhSYCU https://youtu.be/Ixqm7tG_2h4 https://youtu.be/YT-QjCNBVGo https://youtu.be/HsCjEk5stBc
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/1oxMcJYFOV8 https://youtu.be/h1jwWJhiZaU https://youtu.be/qVSAzggQezc https://youtu.be/IETEAkCUc9E https://youtu.be/1-7BZGeDNfo https://youtu.be/kVHI7Ag-Bv4 https://youtu.be/cYiir5edBTU https://youtu.be/1BWuSxLCorU https://youtu.be/H9Qvf8fbNWU https://youtu.be/kCvCaa7PgMo https://youtu.be/WUl1fp24cZo https://youtu.be/Ng0i-VhSYCU https://youtu.be/Ixqm7tG_2h4 https://youtu.be/YT-QjCNBVGo https://youtu.be/HsCjEk5stBc
 - [Reading for Vocabulary LEVEL A Lesson Full](https://www.youtube.com/watch?v=1oxMcJYFOV8&list=PLORqQa0DiANH1l_QpK_DZyNzcAd4h-_iU&index=15)
   - [Reading for Vocabulary LEVEL A Lesson Full](Vocabulary-Level-A.md)
 - UNIT 1 Plants
@@ -95,7 +107,7 @@ TODO
 
 ### [💓 LEVEL B](https://www.youtube.com/playlist?list=PLORqQa0DiANGtQ-74MAa6nSDUzsRW0p3W)
 
-- youtube-dl --skip-download --write-auto-sub https://youtu.be/ZfchGc0kTZc https://youtu.be/VrJ4wUiRTVg https://youtu.be/AtxfsdfKfa4 https://youtu.be/eUyXBEBYpgk https://youtu.be/tlcCWHAHChc https://youtu.be/V7jqAFU89Tc https://youtu.be/zGMVDiNr33Q https://youtu.be/p9c5xnu0G1c https://youtu.be/TNNAHpjd_AQ https://youtu.be/odTflrb1bMU https://youtu.be/P8ZRp9cZSaU https://youtu.be/689x_n6eBl4 https://youtu.be/OOx5TKXVkj0 https://youtu.be/jkQ6GfDehLc https://youtu.be/Xq2rZd0Y4Rk https://youtu.be/a4MIlFP2eGU
+- youtube-dl [--skip-download] --write-auto-sub https://youtu.be/ZfchGc0kTZc https://youtu.be/VrJ4wUiRTVg https://youtu.be/AtxfsdfKfa4 https://youtu.be/eUyXBEBYpgk https://youtu.be/tlcCWHAHChc https://youtu.be/V7jqAFU89Tc https://youtu.be/zGMVDiNr33Q https://youtu.be/p9c5xnu0G1c https://youtu.be/TNNAHpjd_AQ https://youtu.be/odTflrb1bMU https://youtu.be/P8ZRp9cZSaU https://youtu.be/689x_n6eBl4 https://youtu.be/OOx5TKXVkj0 https://youtu.be/jkQ6GfDehLc https://youtu.be/Xq2rZd0Y4Rk https://youtu.be/a4MIlFP2eGU
 - Reading for Vocabulary LEVEL B Lesson Full: <https://youtu.be/ZfchGc0kTZc>
   - TODO [Reading for Vocabulary LEVEL B Lesson Full](Vocabulary-Level-B.md)
 - UNIT 1 Environment
@@ -519,7 +531,7 @@ American Textbook Reading for English language learners. This series helps stude
 
 ### 💓 [Social 03](https://www.youtube.com/playlist?list=PLORqQa0DiANFT4PyzHnoh0G3D1wAf9j2t)
 
-- youtube-dl --write-auto-sub https://youtu.be/BqwtjH1OV3Q https://youtu.be/ZBtA2dnEgmA https://youtu.be/U_mpHEiOJIY https://youtu.be/jJHlRWDLx9Q https://youtu.be/GvKRt5kHFAM https://youtu.be/y3SOQ4f9dyk https://youtu.be/6_F-ZLd75iU https://youtu.be/5Axhz1HqOh8 https://youtu.be/oklfSCHSO5c https://youtu.be/sQQrTgl7u6E https://youtu.be/p_D8_naPakc https://youtu.be/wvYiER39TQ https://youtu.be/Hlkqj4Aiwj0 https://youtu.be/WcjfjEfnsck https://youtu.be/WWgwsUjJW30
+- youtube-dl --write-auto-sub https://youtu.be/BqwtjH1OV3Q https://youtu.be/ZBtA2dnEgmA https://youtu.be/U_mpHEiOJIY https://youtu.be/jJHlRWDLx9Q https://youtu.be/GvKRt5kHFAM https://youtu.be/y3SOQ4f9dyk https://youtu.be/6_F-ZLd75iU https://youtu.be/5Axhz1HqOh8 https://youtu.be/oklfSCHSO5c https://youtu.be/sQQrTgl7u6E https://youtu.be/p_D8_naPakc https://www.youtube.com/watch?v=-wvYiER39TQ&list=PLORqQa0DiANFT4PyzHnoh0G3D1wAf9j2t&index=12 https://youtu.be/Hlkqj4Aiwj0 https://youtu.be/WcjfjEfnsck https://youtu.be/WWgwsUjJW30
 - Part 1 We live together
   - Lesson 1 Types of Groups: <https://youtu.be/BqwtjH1OV3Q>
     - [Lesson 01](social-03-01.md)
@@ -546,7 +558,7 @@ American Textbook Reading for English language learners. This series helps stude
     - [Lesson 10](social-03-10.md)
   - Lesson 11 From Farm to You: <https://youtu.be/p_D8_naPakc>
     - [Lesson 11](social-03-11.md)
-  - Lesson 12 Countries and Trade Goods: <https://youtu.be/wvYiER39TQ>
+  - Lesson 12 Countries and Trade Goods: <https://www.youtube.com/watch?v=-wvYiER39TQ&list=PLORqQa0DiANFT4PyzHnoh0G3D1wAf9j2t&index=12>
     - [Lesson 12](social-03-12.md)
 - Part 5 About Our Earth
   - Lesson 13 Weather and Climate: <https://youtu.be/Hlkqj4Aiwj0>
