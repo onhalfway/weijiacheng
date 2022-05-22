@@ -21,8 +21,10 @@
     - well done 全熟; medium well 七分度熟; medium 五分熟; medium rare 四分熟; rare 三分熟; Blue 近生牛排; Raw 全生牛排
     - How would you like your steak cooked? 你的牛排要几版分熟？
     - I'd like a ribeye done medium rare. 我要肋眼牛排，四分熟.
-    - I'll have a well-done sirloin steak, please. 我要沙朗牛排，全熟，谢谢！
-- 美国就餐规则一般是，先上starter&appetizer /ˈæpɪtaɪzə(r)/ 开胃盘，一般多是油腻小品，本人吃个开胃盘就饱了，后上main course 正餐，特点，量大，多肉类，最后吃完后，还会有花样dessert 甜品，冰激凌，蛋糕，奶酪和巧克力最火。
+      - ribeye [ˈrɪbˌaɪ] n. 牛脊肉；肋眼
+    - I'll have a well-done sirloin steak, please. 我要西冷/沙朗牛排，全熟，谢谢！
+      - sirloin [ˈsɜːrlɔɪn] n. 牛的上部腰肉；牛里脊肉
+- 美国就餐规则一般是，先上starter&appetizer [ˈæpɪtaɪzə(r)] 开胃盘，一般多是油腻小品，本人吃个开胃盘就饱了，后上main course 正餐，特点，量大，多肉类，最后吃完后，还会有花样dessert 甜品，冰激凌，蛋糕，奶酪和巧克力最火。
 
 - Is there a table free? 有空位吗?
 - Is this seat taken? 这座位有人吗？
@@ -31,43 +33,43 @@
 
 - sandwich week作业学案.docx
 - Para 1: British Sandwich Week is a week-long celebration of the greatest food to go and quite possibly the most iconic (adj.;标志性的) British culinary invention, the Sandwich.
-  - iconic /aɪˈkɒnɪk/ adj. 图标的, 标志性的, 形象的
-  - culinary /ˈkʌlɪnəri/ adj. 烹饪的，烹饪用的；食物的
+  - iconic [aɪˈkɒnɪk] adj. 图标的, 标志性的, 形象的
+  - culinary [ˈkʌlɪnəri] adj. 烹饪的，烹饪用的；食物的
 
 - Para 2: The humble (adj; 寒酸的、简陋的、不起眼的) sandwich is celebrated in all it’s glory during British Sandwich Week and year on year the buzz (n.; 活跃的气氛) around the week seems to grow with more and more companies using the week to promote (v.; 提升、推销) their business. #BritishSandwichWeek trends across twitter during the week and newspapers, magazines, TV shows and radio programmes join in celebrating what is a staple (adj.; 主要的) British lunch.
   - 在“英国三明治周”期间，卑微的三明治备受推崇，而随着越来越多的公司利用这一周来宣传自己的业务，“三明治周”也越来越受欢迎。“英国三明治周”在推特上走红，报纸、杂志、电视节目和广播节目都加入到庆祝这一英国午餐主食的活动中来。
-  - glory ˈɡlɔːri/ n. 光荣，荣誉；赞颂 vi. 自豪，骄傲；狂喜
-  - promote /prəˈməʊt/ vt. 促进；提升；推销；发扬 vi. 成为王后或其他大于卒的子
+  - glory [ˈɡlɔːri] n. 光荣，荣誉；赞颂 vi. 自豪，骄傲；狂喜
+  - promote [prəˈməʊt] vt. 促进；提升；推销；发扬 vi. 成为王后或其他大于卒的子
 
 - Para 3: Sandwich manufacturers and retailers across the UK all have their own way of celebrating this fantastic food, many offering special promotions (n.;促销) and new ranges (n.; 系列、种类) during British Sandwich Week. Several will also be building on their charitable (adj.;慈善事业的) links by donating (v.;捐献) some of their proceeds or even having buy-one-donate-one initiatives for customers to take part in.
-  - manufacturer /ˌmænjuˈfæktʃərə(r)/ n. 制造商；[经] 厂商; 复数 manufacturers
-  - retailer /ˈriːteɪlə(r)/ n. 零售商；传播的人; 复数 retailers
-  - fantastic /fænˈtæstɪk/ adj. 奇异的；空想的；异想天开的；古怪的；极好的，极出色的；不可思议的；不切实际的; n. 古怪的人
-  - charitable /ˈtʃærətəbl/ adj. 慈善事业的；慷慨的，仁慈的；宽恕的
-  - donate 英 /dəʊˈneɪt/  美 /ˈdoʊneɪt/ vt./vi. 捐赠；捐献
-  - proceeds /ˈprəʊsiːdz/ n. 收入，收益；实收款项
-    - proceed 英 /prəˈsiːd/  美 /proʊˈsiːd/ vi. 开始；继续进行；发生；行进 n. 收入，获利
-  - initiative /ɪˈnɪʃətɪv/ n. 主动权；首创精神；新方案；倡议; adj. 主动的；自发的；起始的
+  - manufacturer [ˌmænjuˈfæktʃərə(r)] n. 制造商；[经] 厂商; 复数 manufacturers
+  - retailer [ˈriːteɪlə(r)] n. 零售商；传播的人; 复数 retailers
+  - fantastic [fænˈtæstɪk] adj. 奇异的；空想的；异想天开的；古怪的；极好的，极出色的；不可思议的；不切实际的; n. 古怪的人
+  - charitable [ˈtʃærətəbl] adj. 慈善事业的；慷慨的，仁慈的；宽恕的
+  - donate 英 [dəʊˈneɪt]  美 [ˈdoʊneɪt] vt./vi. 捐赠；捐献
+  - proceeds [ˈprəʊsiːdz] n. 收入，收益；实收款项
+    - proceed 英 [prəˈsiːd]  美 [proʊˈsiːd] vi. 开始；继续进行；发生；行进 n. 收入，获利
+  - initiative [ɪˈnɪʃətɪv] n. 主动权；首创精神；新方案；倡议; adj. 主动的；自发的；起始的
 
 - Para 4: Sandwiches are so important to our culture that there are even awards to recognise and honour the humble food. On the theme of celebrating, the sandwich industry also holds it’s annual Awards, the Sammies, where the Best New Sandwich, Sandwich Retailer of the Year and many more are crowned (v.;加冕). The Sammies 2020 will be held at the Royal Lancaster London Hotel on Thursday 7 May 2020. Hosted by Celebrity Chef Theo Randall, the evening promises to be an event packed full of excitement, achievement and recognition.
   - 由名厨泰奥·兰德尔主持的晚会将是一场充满激情、成就和认可的盛会。
-  - recognise /'rekəɡnaɪz/ vt. 认出；承认，认可；识别
-    - recognize /ˈrekəɡnaɪz/ vt. 认出，识别；承认；接受，认可；赞赏 vi. 确认，承认；具结
-  - Royal /ˈrɔɪəl/ adj. (royal) 英国的；（英国）皇家的
-  - Lancaster /ˈlæŋkəstə(r)/ n. 兰卡斯特
-  - host /həʊst/ n. [计] 主机；主人；主持人；许多 vt. 主持；当主人招待 vi. 群集；做主人
-  - celebrity /səˈlebrəti/ n. 名人；名声
-  - chef /ʃef/ n. 厨师，大师傅
-  - theo /ˈθiːoʊ/ abbr. 理论上的（theory） n. (Theo)人名；(德、荷、挪、印尼)特奥；(英)西奥
-  - Randall /'rændl/ n. 兰德尔（男子名，等于Randal）
-  - promise /ˈprɒmɪs/ n. 许诺，允诺；希望 vt. 允诺，许诺；给人以…的指望或希望 vi. 许诺；有指望，有前途
+  - recognise ['rekəɡnaɪz] vt. 认出；承认，认可；识别
+    - recognize [ˈrekəɡnaɪz] vt. 认出，识别；承认；接受，认可；赞赏 vi. 确认，承认；具结
+  - Royal [ˈrɔɪəl] adj. (royal) 英国的；（英国）皇家的
+  - Lancaster [ˈlæŋkəstə(r)] n. 兰卡斯特
+  - host [həʊst] n. [计] 主机；主人；主持人；许多 vt. 主持；当主人招待 vi. 群集；做主人
+  - celebrity [səˈlebrəti] n. 名声，名望；名人，明星
+  - chef [ʃef] n. 厨师，大师傅
+  - theo [ˈθiːoʊ] abbr. 理论上的（theory） n. (Theo)人名；(德、荷、挪、印尼)特奥；(英)西奥
+  - Randall ['rændl] n. 兰德尔（男子名，等于Randal）
+  - promise [ˈprɒmɪs] n. 许诺，允诺；希望 vt. 允诺，许诺；给人以…的指望或希望 vi. 许诺；有指望，有前途
 
 - Para 5: Every year we spend over £3.8 billion on sandwiches, equating to approximately 8.2 billion purchased sandwiches being consumed annually. In terms of fillings (n.;馅料), last year bacon topped the pool as the most popular sandwich filling. This was the first year we have seen bacon at the top, knocking (v.;击败) the ever versatile chicken having been the favourite for a number of years. Cheese and ham took joint second place last year in the popularity stakes with cheese **accounting for** 15% of the market as the second most used ingredient (n.;原料) – just after bacon!
 
   - equate to
   - approximately
   - accounting for (比例)占
-  - ingredient /ɪnˈɡriːdiənt/ n. 原料；要素；组成部分 adj. 构成组成部分的
+  - ingredient [ɪnˈɡriːdiənt] n. 原料；要素；组成部分 adj. 构成组成部分的
 
 - 1 Write down the meaning of part of speech for highlighted words in the passage.（the first example is given.）
 - 2 What is the main idea of paragraph 3?
@@ -93,30 +95,30 @@
   - county 英[ˈkaʊnti] 美[ˈkaʊnti] n.	(英国、爱尔兰的) 郡; (美国的) 县; adj.	典型英国上流社会人物的; 世家子弟的;
 - He eats two packets of biscuits a day and sometimes some toast, some crisps, and some cereal for breakfast. 'If I just think of eating other food, I feel anxious, then I feel sick.'
   - cereal 英[ˈsɪəriəl] n.	谷类植物; 谷物; (常加牛奶作早餐用的) 谷类食物; 麦片;
-  - anxious /ˈæŋkʃəs/ adj. 焦虑的；担忧的；渴望的；急切的
+  - anxious [ˈæŋkʃəs] adj. 焦虑的；担忧的；渴望的；急切的
 - Andrew trained for years to be a chef. 'I know exactly what foods go well together. When I'm in my kitchen and I make something, I think 'Mmm! This smells delicious!' I'd love to taste what I cook, but I can't,' he says. 'Other chefs tell me if it needs more salt or more sugar.'
   - 我很清楚什么食物配在一起最好吃。
 - This fear makes life difficult for Andrew and his girlfriend, Caroline Lister. 'We can't go out for meals with friends,' she says. 'And we can't go to friends' weddings either. Andrew would like to eat everything like other people, but it's not possible.'
-  - Caroline /'kærəlɪn/ n. 凯若琳（女子名）
-  - lister /'lɪstə/ n. 双臂开沟犁，双耕犁；制表人 n. (Lister) （美、英、加、澳）利斯特（人名）
+  - Caroline ['kærəlɪn] n. 凯若琳（女子名）
+  - lister ['lɪstə] n. 双臂开沟犁，双耕犁；制表人 n. (Lister) （美、英、加、澳）利斯特（人名）
 - Andrew appeared on a TV programme called Freaky Eaters. He is now getting help from a psychologist and a food expert to help him try different foods.
-  - appear /əˈpɪə(r)/ vi. 出现；显得；似乎；出庭；登场
-  - freaky /ˈfriːki/ adj. 畸形的；捉摸不定的（等于freakish）
+  - appear [əˈpɪə(r)] vi. 出现；显得；似乎；出庭；登场
+  - freaky [ˈfriːki] adj. 畸形的；捉摸不定的（等于freakish）
     - fussy eater 挑食的人
-  - psychologist /saɪˈkɒlədʒɪst/ n. 心理学家，心理学者
+  - psychologist [saɪˈkɒlədʒɪst] n. 心理学家，心理学者
 - Also on the programme was a man who only likes eating meat. Unfortunately, his girlfriend is a vegetarian. He can't kiss her unless he brushes his teeth. Other people include a man who doesn't like eating hot food, a woman who only likes eating chips, and a boy who lives on jam sandwiches.
-  - vegetarian /ˌvedʒəˈteəriən/ n. 素食主义者；食草动物 adj. 素食的；素的
-    - herbivore /ˈhɜːbɪvɔː(r)/ n. [动] 食草动物 N. an animal that feeds on plants. (注意词根herb意思)
-    - carnivore /ˈkɑːnɪvɔː(r)/ n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
-    - scavenger /ˈskævɪndʒə(r)/ n. 食腐动物；清道夫；[助剂]清除剂；拾荒者
-  - live /lɪv; laɪv/ on vi. 以...为食；靠...生活
+  - vegetarian [ˌvedʒəˈteəriən] n. 素食主义者；食草动物 adj. 素食的；素的
+    - herbivore [ˈhɜːbɪvɔː(r)] n. [动] 食草动物 N. an animal that feeds on plants. (注意词根herb意思)
+    - carnivore [ˈkɑːnɪvɔː(r)] n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
+    - scavenger [ˈskævɪndʒə(r)] n. 食腐动物；清道夫；[助剂]清除剂；拾荒者
+  - live [lɪv; laɪv] on vi. 以...为食；靠...生活
 
 ## Going to a restaurant (Chaowai)
 
 - Daniel去餐厅.mp4
 - hw4e_elem_sbu08-Daniel去餐厅.mp3
 - All right, hello everyone, today's topic, **rather** this week's topic is 'Going to a restaurant'. You can see, this is Part one. We have five parts. Now over these videos, I will give you a little of sample sentences. I hope that you will write these sentences down and learn them. All right, that is your homework, I trust you to do it. All right, so in the first part, we will talk about how to choose a restaurant. So, how to talk to a friend and decide which restaurant would you like to go to. There are three ways that we do this.
-  - rather /ˈrɑːðə(r)/ adv. 宁可，宁愿；相当；**准确地说**；或多或少地; conj. 而不是; int. 当然啦（回答问题时用）
+  - rather [ˈrɑːðə(r)] adv. 宁可，宁愿；相当；**准确地说**；或多或少地; conj. 而不是; int. 当然啦（回答问题时用）
 
 ### Part one: Choosing a restaurant
 
@@ -142,7 +144,7 @@
     - hit the spot 使人满足；正合需要；恰到好处
 
 - We need some examples. You can put almost (here list) into these gaps.
-  - Fried chicken, Omelet n. 煎蛋卷；炒鸡蛋；鸡蛋烧, Pizza, Kebab 英 /kɪˈbæb/  美 /kɪˈbɑːb/ n. （印）烤肉串；烤腌羊肉串（等于kabob）；复数 kebabs, Fish, Steak, Pasta, Rice, Soup, Broth /brɔːθ/ n. 肉汤；液体培养基；复数 brothes, Tossed salad, Dressing
+  - Fried chicken, Omelet [ˈɑːmlət] n. 煎蛋卷；炒鸡蛋；鸡蛋烧, Pizza, Kebab 英 [kɪˈbæb]  美 [kɪˈbɑːb] n. （印）烤肉串；烤腌羊肉串（等于kabob）；复数 kebabs, Fish, Steak, Pasta, Rice, Soup, Broth [brɔːθ] n. 肉汤；液体培养基；复数 brothes, Tossed salad, Dressing
 
 - Page 3
 - 2 Choosing a country/area whose food we want to eat.

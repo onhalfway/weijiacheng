@@ -38,7 +38,7 @@
 
 ## Sight Words 100 Class | Full Lectures | Words and Stories for Kids
 
-- youtube-dl --write-auto-sub https://www.youtube.com/watch?v=eEcSuinkI5Q https://www.youtube.com/watch?v=imzDjJcA92U https://www.youtube.com/watch?v=iktWGrkv5m8 https://www.youtube.com/watch?v=cC2H2j6Ns90 https://www.youtube.com/watch?v=95Zytp6uqHw https://www.youtube.com/watch?v=nzMSPbDLp0Y
+- youtube-dl --skip-download --write-auto-sub https://www.youtube.com/watch?v=eEcSuinkI5Q https://www.youtube.com/watch?v=imzDjJcA92U https://www.youtube.com/watch?v=iktWGrkv5m8 https://www.youtube.com/watch?v=cC2H2j6Ns90 https://www.youtube.com/watch?v=95Zytp6uqHw https://www.youtube.com/watch?v=nzMSPbDLp0Y
 - [Sight Words 100 Class Level 1](https://www.youtube.com/watch?v=eEcSuinkI5Q&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=1)
 - [Sight Words 100 Class Level 2](https://www.youtube.com/watch?v=imzDjJcA92U&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=2)
 - [Sight Words 100 Class Level 3](https://www.youtube.com/watch?v=iktWGrkv5m8&list=PLORqQa0DiANEisLvuq19mMGETyVNOBXAk&index=3)

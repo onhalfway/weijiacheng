@@ -3,10 +3,10 @@
 The Copyright belongs to the author
 
 - [New Headway Elementary Fourth Edition Student Book](#new-headway-elementary-fourth-edition-student-book)
-  - [Tapescript](#tapescript)
+  - [Tape script](#tape-script)
   - [Unit 1 You and me](#unit-1-you-and-me)
     - [T1.1 The alphabet](#t11-the-alphabet)
-    - [T1.2 Hello!](#t12-hello)
+    - [T1.2 Hello](#t12-hello)
     - [T1.3](#t13)
     - [T1.4](#t14)
     - [T1.5](#t15)
@@ -28,17 +28,17 @@ The Copyright belongs to the author
     - [T2.4 Questions and negatives](#t24-questions-and-negatives)
     - [T2.5](#t25)
     - [T2.6](#t26)
-    - [T2.7 Stress and intonation /ˌɪntəˈneɪʃn/ n. 声调，语调；语音的抑扬](#t27-stress-and-intonation-ˌɪntəˈneɪʃn-n-声调语调语音的抑扬)
+    - [T2.7 Stress and intonation [ˌɪntəˈneɪʃn] n. 声调，语调；语音的抑扬](#t27-stress-and-intonation-ˌɪntəˈneɪʃn-n-声调语调语音的抑扬)
     - [T2.8](#t28)
     - [T2.9 Talking about family and friends](#t29-talking-about-family-and-friends)
     - [T2.10](#t210)
-    - [T2.11 Improving style](#t211-improving-style)
-    - [T2.12](#t212)
+    - [T2.11](#t211)
+    - [T2.12 Improving style](#t212-improving-style)
     - [T2.13 An interview](#t213-an-interview)
     - [T2.14 Jobs](#t214-jobs)
     - [T2.15](#t215)
     - [T2.16 what time is it?](#t216-what-time-is-it)
-    - [T2.17](#t217)
+    - [T2.17 what time is it?](#t217-what-time-is-it)
     - [T2.18](#t218)
   - [Unit 3 Work hard, play hard!](#unit-3-work-hard-play-hard)
     - [T3.1 Lisa's two jobs!](#t31-lisas-two-jobs)
@@ -74,7 +74,7 @@ The Copyright belongs to the author
     - [T5.2 Superman is fantastic!](#t52-superman-is-fantastic)
     - [T5.3](#t53)
     - [T5.4](#t54)
-    - [T5.5](#t55)
+    - [T5.5 Grammar and pronunciation](#t55-grammar-and-pronunciation)
     - [T5.6 Ivy can't cook. Can you?](#t56-ivy-cant-cook-can-you)
     - [T5.7](#t57)
     - [T5.8 can or can't?](#t58-can-or-cant)
@@ -91,7 +91,7 @@ The Copyright belongs to the author
     - [T5.19](#t519)
   - [Unit 6 Life's ups and downs](#unit-6-lifes-ups-and-downs)
     - [T6.1 Oprah - TV Star and Billionaire](#t61-oprah---tv-star-and-billionaire)
-    - [T6.2 see p46](#t62-see-p46)
+    - [T6.2 B HER CHILDHOOD](#t62-b-her-childhood)
     - [T6.3](#t63)
     - [T6.4](#t64)
     - [T6.5](#t65)
@@ -121,7 +121,7 @@ The Copyright belongs to the author
     - [CHRISTOPHER COLUMBUS](#christopher-columbus)
     - [T7.9 Special occasions](#t79-special-occasions)
   - [Unit 8 Eat in or out](#unit-8-eat-in-or-out)
-    - [T8.1 see p62](#t81-see-p62)
+    - [T8.1 Starter (一餐中的）第一道菜，开胃小吃](#t81-starter-一餐中的第一道菜开胃小吃)
     - [T8.2 Who's a fussy eater?](#t82-whos-a-fussy-eater)
     - [T8.3 see p63](#t83-see-p63)
     - [T8.4](#t84)
@@ -133,9 +133,9 @@ The Copyright belongs to the author
     - [T8.9 What's your favourite sandwich](#t89-whats-your-favourite-sandwich)
     - [T8.10 Daily needs](#t810-daily-needs)
     - [T8.11 Shopping in the High Street](#t811-shopping-in-the-high-street)
-    - [T8.12 see p69](#t812-see-p69)
+    - [T8.12 Which sound more polite?](#t812-which-sound-more-polite)
     - [T8.13 Sounding polite](#t813-sounding-polite)
-    - [Unit 8 TWOE MAILS - Informal and more formal](#unit-8-twoe-mails---informal-and-more-formal)
+    - [Unit 8 TWO EMAILS - Informal and more formal](#unit-8-two-emails---informal-and-more-formal)
   - [Unit 9 City living](#unit-9-city-living)
     - [T9.1 City living](#t91-city-living)
     - [T9.2 see p70](#t92-see-p70)
@@ -178,7 +178,7 @@ The Copyright belongs to the author
     - [T11.13 What shall we do?](#t1113-what-shall-we-do)
   - [Unit 12 Never ever](#unit-12-never-ever)
     - [T12.1 Been there! Done that!](#t121-been-there-done-that)
-    - [T12.2 see p94](#t122-see-p94)
+    - [T12.2 Who each line about, Lara, Kyle, or Mel?](#t122-who-each-line-about-lara-kyle-or-mel)
     - [T12.3](#t123)
     - [T12.4 Getting ready to go!](#t124-getting-ready-to-go)
     - [T12.5 Tense revision](#t125-tense-revision)
@@ -193,9 +193,9 @@ The Copyright belongs to the author
     - [T12.14 see pll7](#t1214-see-pll7)
   - [Youtube Transcript](#youtube-transcript)
 
-## Tapescript
+## Tape script
 
-new headway elementary, fourth edition, by Liz and John  Soars, class CD, published and copyright Oxford University Press 2011
+New Headway elementary [Student's Book], fourth edition, by Liz and John  Soars, class CD, published and copyright Oxford University Press 2011
 
 ## Unit 1 You and me
 
@@ -203,7 +203,7 @@ new headway elementary, fourth edition, by Liz and John  Soars, class CD, publis
 
 A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z
 
-### T1.2 Hello!
+### T1.2 Hello
 
 - A Hello. What's your first name?
 - B My name's Bill.
@@ -268,7 +268,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
 
 - 1 Where are you from?
 - 2 'Are you from London?' 'Yes, I am.'
-- 3 'How old are you?' 'I m 15.'
+- 3 'How old are you?' 'I'm 15.'
 - 4 'Are your sisters married?' 'No, they aren't.'
 - 5 I like you. You're my friend.
 - 6 Hans isn't from Germany, he's from Switzerland.
@@ -288,7 +288,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
 
 - 1 My name's Vanessa. That's V-A-N-E-S-S-A.
   - Vanessa.
-- 2 My first name's Joseph. That's J-O-S-E-P-H. 英 /ˈdʒəuzif/  美 /ˈdʒozəf, -səf/ n. 约瑟夫（男子名）；约瑟（圣经中雅各的第十一子）
+- 2 My first name's Joseph. That's J-O-S-E-P-H. 英 [ˈdʒəuzif]  美 [ˈdʒozəf, -səf] n. 约瑟夫（男子名）；约瑟（圣经中雅各的第十一子）
   - My surname's Bowen. That's B-O-W-E-N.
   - Joseph Bowen.
 - 3 My name's Katie Matthews. That's Katie,
@@ -318,7 +318,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
   - 2 She's in Rome. (×) She isn't in Rome. She's in London.
   - 3 Peter and Helen have two sons. (√)
   - 4 She's in a small school. (×) She isn't in a small school. She's in a big school.
-  - 5 Her school is in the centre. (√) 
+  - 5 Her school is in the centre. (√)
   - 6 The students in her class are all from Europe. (×) They aren't all from Europe. They're from Mexico, Japan and Egypt too.
   - 7 Rosie is Annalisa's teacher. (×) She isn't Annalisa's teacher. She's Rick's sister.
   - 8 The National Gallery is expensive. (×) It isn't expensive. It's free.
@@ -375,7 +375,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
   - B Goodbye darling. Have a good day!
   - A Thanks. See you later.
 - 2 C Good morning!
-  - D Good morning! Can I have a coffee, an espresso, please? /eˈspresəʊ/ n. （用汽加压煮出的）浓咖啡
+  - D Good morning! Can I have a coffee, an espresso, please? [eˈspresəʊ] n. （用汽加压煮出的）浓咖啡
   - C Yes, of course! Anything else?
   - D No, thank you.
 - 3 E Good afternoon! Can I help you?
@@ -385,7 +385,7 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
   - H Hello, Gina. Nice to meet you.
   - I Hello, Frank. Pleased to meet you, too.
 - 5 J Thank goodness it's Friday! Bye, Ian.  /'iən/ n. 伊恩（男子名）
-  - K Bye, Derek. Have a good weekend. /ˈderɪk/ n. 德里克（男名）
+  - K Bye, Derek. Have a good weekend. [ˈderɪk] n. 德里克（男名）
   - J Thanks. Same to you.
   - K See you on Monday!
 - 6 L Good night! Sleep well.
@@ -400,15 +400,15 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
     - oil rig 石油钻塔,钻油平台;
     - rig 钻探设备
     - snooker n. 斯诺克台球
-- ZOOLOGIST /zuˈɑːlədʒɪst/ n. 动物学家 Claudia Luke
+- ZOOLOGIST [zuˈɑːlədʒɪst] n. 动物学家 Claudia Luke
   - Claudia,41, is American. She's a zoologist and she teaches at a university. She lives in California and works with her husband, Jim, at the Research Centre in the Mojave Desert where she studies snakes and other animals. She likes working in the desert. In her free time she writes songs and walks her dog, Brewer. She earns about $60,000 a year.
-  - Mojave [məʊˈhɑːvi] n. 莫哈韦沙漠（在美国加利福尼亚西南）
+  - Mojave [məʊˈhɑːvi] n. 莫哈韦沙漠(在美国加利福尼亚西南)
 
 ### T2.2
 
 /s/ likes works writes walks
 /z/ comes goes earns plays
-/tz/ teaches
+/ɪz/ teaches [ˈtiːtʃɪz]
 
 ### T2.3
 
@@ -431,7 +431,9 @@ I'm 19 years old, and I'm a student. I go to Kingston University. I have a broth
 
 ### T2.5
 
-Does he play football? Yes, he does. No, he doesn't.
+- Does he play football?
+- Yes, he does.
+- No, he doesn't.
 
 ### T2.6
 
@@ -448,7 +450,7 @@ Does he play football? Yes, he does. No, he doesn't.
 - 6 Does he have a dog?
   - No, he doesn't.
 
-### T2.7 Stress and intonation /ˌɪntəˈneɪʃn/ n. 声调，语调；语音的抑扬
+### T2.7 Stress and intonation [ˌɪntəˈneɪʃn] n. 声调，语调；语音的抑扬
 
 - 1 Darcey comes from London.
 - 2 She lives in England.
@@ -474,13 +476,13 @@ Does he play football? Yes, he does. No, he doesn't.
 - 6 A He works all over the world.
   - B Yes, that's right.
 - 7 A His wife comes from Miami.
-  - B No, she doesn't. She comes from Senegal. /ˌsenɪˈɡɔːl/ n. 塞内加尔（非洲国家）
+  - B No, she doesn't. She comes from Senegal. [ˌsenɪˈɡɔːl] n. 塞内加尔（非洲国家）
 - 8 A He writes songs in his free time.
   - B Yes, that's right.
 
 ### T2.9 Talking about family and friends
 
-- 1 A My husband comes from Belgium. /ˈbeldʒəm/ n. 比利时（西欧国家，首都布鲁塞尔Brussels）
+- 1 A My husband comes from Belgium. [ˈbeldʒəm] n. 比利时（西欧国家，首都布鲁塞尔Brussels）
   - B Where exactly in Belgium?
   - A From the capital, Brussels.
 - 2 A My grandmother lives in the next town.
@@ -526,10 +528,11 @@ Does he play football? Yes, he does. No, he doesn't.
 ### T2.12 Improving style
 
 - David Guetta - The superstar DJ with 70-million hits on YouTube!
-  - David Guetta is French. He lives in Paris, but he works all over the world. He's a very famous DJ. He's number 3 in the "Top 100 DJs" poll. 
+  - DJ [ˈdiː dʒeɪ] abbr. 流行音乐播音员，流行音乐节目主持人（Disc Jockey）;可以翻译成唱片骑师。DJ的技术叫做打碟(职业名词).
+  - David Guetta is French. He lives in Paris, but he works all over the world. He's a very famous DJ. He's number 3 in the "Top 100 DJs" poll.
   - He works with a lot of pop stars, such as Britney Spears, Celine Dion, and Madonna.
   - He sometimes writes songs for them. He really likes Lady Gaga, and he wants to work with her. His job's very exciting, and he likes it a lot. He's married to Cathy. She comes from Senegal. She's a businesswoman and an actress.
-    - Senegal /ˌsenɪˈɡɔːl/ n. 塞内加尔（非洲国家）
+    - Senegal [ˌsenɪˈɡɔːl] n. 塞内加尔（非洲国家）
   - They often go to Ibiza. Every year, they have parties there. People love their parties. Cathy and David have two young children, and they love to spend time with them.
     - Ibiza [i:'bi:zə] n. 伊比沙岛（位于地中海西部）
 
@@ -552,7 +555,7 @@ Does he play football? Yes, he does. No, he doesn't.
 - S He is very good indeed.
 - I What does he teach?
 - S He teaches English, Bengali, history, and maths.
-  - Bengali /beŋˈɡɑːli/ adj. 孟加拉的；孟加拉语的; n. 孟加拉语；孟加拉人
+  - Bengali [beŋˈɡɑːli] adj. 孟加拉的；孟加拉语的; n. 孟加拉语；孟加拉人
 - I That's a lot of subjects. Does he work hard?
 - S Oh, yes, very hard. He studies all day and he teaches us every evening. He's the best teacher in the world!
 
@@ -560,9 +563,9 @@ Does he play football? Yes, he does. No, he doesn't.
 
 - 1 She's a hairdresser. She cuts hair.
 - 2 He's a pilot. He flies from Heathrow airport.
-  - Heathrow /'hi:θrəu/ n. 希思罗机场（位于英国伦敦）
+  - Heathrow ['hi:θrəu] n. 希思罗机场（位于英国伦敦）
 - 3 She's a receptionist. She works in a hotel.
-  - receptionist /rɪˈsepʃənɪst/ n. 接待员；传达员
+  - receptionist [rɪˈsepʃənɪst] n. 接待员；传达员
 - 4 He's an architect. He designs buildings.
 - 5 She's a lawyer. She works for a family law firm.
 - 6 He's a taxi driver. He knows all the streets of London.
@@ -728,7 +731,7 @@ On weekdays I usually finish work at 6 o'clock, but sometimes I stay late, until
 - 4 Ben & Josh
   - B You like a lot of sports, don't you?
   - B&J Oh yeah, my favourite is windsurfing. Me and my brother go to surf school every summer and ... and we play golf and football of course.
-    - windsurfing /ˈwɪndsɜːrfɪŋ/ n. 帆板运动
+    - windsurfing [ˈwɪndsɜːrfɪŋ] n. 帆板运动
   - B All outdoor sports?
   - B&f Er- no, we watch sport a lot on TV, and we play computer games after school.
   - B Not a lot of time for homework then?
@@ -736,11 +739,11 @@ On weekdays I usually finish work at 6 o'clock, but sometimes I stay late, until
 - 5 Sandra & Brian
   - S In winter we love evenings at home.
   - B What do you do? Watch TV?
-  - S Well, yes, sometimes. We like all the cookery programmes. I love cooking.
+  - S Well, yes, sometimes. We like all the cookery programmes. I love cooking. cookery [ˈkʊkəri] n. 烹饪术；烹饪；烹调
   - B Oh, we love those programmes too, but we often play cards on winter evenings.
   - S We like cards too, but we only play when we're on holiday in summer. It's a 'holiday thing' in our family.
   - B What do you play?
-  - S Well, usually we play ... 
+  - S Well, usually we play ...
 
 ### T3.7
 
@@ -773,7 +776,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
 - 5 H Can you help me? What does bilingual mean?
   - B It means in two languages.
 - 6 C Do you want a macchiato?
-  - macchiato /ˌmɑːkiˈɑːtoʊ/ n. 黑糖玛奇朵（意大利式浓缩咖啡加少量泡沫牛奶而成的咖啡）
+  - macchiato [ˌmɑːkiˈɑːtoʊ] n. 黑糖玛奇朵（意大利式浓缩咖啡加少量泡沫牛奶而成的咖啡）
   - H Pardon? Can you say that again?
 - 7 H Excuse me! Is this seat free?
   - D Yes, it is. Do sit down if you want.
@@ -850,7 +853,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
   - bus stop
   - post office
   - cafe
-  - pavement
+  - pavement [ˈpeɪvmənt] n. <英>人行道；<美>（公路或街道的）硬路面；铺过的表面（地方）；（水平分布的）裸露岩面，砾石滩
   - chemist's
   - traffic lights
 
@@ -866,7 +869,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
 - J There's a new kitchen.
 - E Wow! How many bathrooms are there?
 - J Er . .. there's just one bathroom.
-- E Is there a garden?bathroo
+- E Is there a garden?
 - J No, there isn't a garden.
 - E It doesn't matter. It sounds great!
 
@@ -905,7 +908,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
 ### T4.5 What's in your picture?
 
 - The flat is near the centre of town. It has four bedrooms, a lovely living room with views over the town, and two bathrooms. The kitchen is very big, and there's a dining room next to it.
-- The flat is on the second floor. In the living room there are two sofas and an armchair. There ar5 a lot of pictures on the wall. There's a carpet in front of the fire, and there's a TV and a DVD player. There is a table in front of the sofa.
+- The flat is on the second floor. In the living room there are two sofas and an armchair. There are a lot of pictures on the wall. There's a carpet in front of the fire, and there's a TV and a DVD player. There is a table in front of the sofa.
 
 ### T4.6 A new flat
 
@@ -923,11 +926,11 @@ Of course, work is important for us all, it gives us money to live, it gives str
 
 - J=Josie A=Shop assistant E=Emily
 - 1 J How much is this lamp, please?
-  - A It's €45.
+  - A It's £45.
 - 2 J I like that picture.
   - E Yes, it's lovely!
 - 3 J How much are these glasses?
-  - A They're €15.
+  - A They're £15.
 - 4 J I love those towels!
   - E They're fabulous!
 - 5 J Look at those flowers!
@@ -935,7 +938,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
 - 6 E Do you like this kettle?
   - J Yeah! It's a great colour!
 - 7 J How much are these mugs? [mʌɡ] n. 大杯，马克杯；
-  - A €5 each.
+  - A £5 each.
 - 8 J Look at that coat!
   - E You don't need any more clothes!
 
@@ -980,7 +983,7 @@ Christina What's in my bag? Well, there's my phone, and my purse, of course. I h
 - 5 I I love your shoes! They're great!
   - J They're nice, aren't they? They're Italian.
   - I The colour's amazing! Red! Wow!
-- 6 K We have a new teacher. Her name's Nancy. 
+- 6 K We have a new teacher. Her name's Nancy.
   - L Is she nice?
   - K No, she's awful! I hate her.
   - L why?
@@ -1004,7 +1007,7 @@ Christina What's in my bag? Well, there's my phone, and my purse, of course. I h
   - E Twenty-eight.
   - F Wow! That's old!
   - E Twenty-eight? That isn't very old!
-- 5 G Maria's very clever, isn t she?
+- 5 G Maria's very clever, isn't she?
   - H Oh, yes. She's really intelligent. She knows everything.
   - G Do you like her?
   - H No, not really. She isn't very nice to talk to.
@@ -1081,7 +1084,7 @@ Superman comes from the Planet Krypton. He can fly at the speed of light; he can
 - A Well, I can speak French too.
 - I Oh, yeah?!
 - A I can say 'Bonjour' and 'Merci.'
-- I That's nothing! You cant speak French at all!
+- I That's nothing! You can't speak French at all!
 - A Well, I can skateboard! You can't!
 - I I don't want to skateboard. I like other things. What about skiing? Can you ski?
 - A Yeah, I can ski a bit, but my mum and dad can ski brilliantly!
@@ -1101,10 +1104,10 @@ Superman comes from the Planet Krypton. He can fly at the speed of light; he can
 
 ### T5.5 Grammar and pronunciation
 
-- I can speak French. =/kən/
-- Can you speak French? =/kən/
-- Yes, I can. =/kæn/
-- No, I can't. =/kɑːnt/
+- I can speak French. =[kən]
+- Can you speak French? =[kən]
+- Yes, I can. =[kæn]
+- No, I can't. =[kɑːnt]
 
 ### T5.6 Ivy can't cook. Can you?
 
@@ -1164,7 +1167,7 @@ Ivy: So what can I do? Speak a foreign language ... Hmm. Well, yes, I can speak 
 - 2 He can play the piano and the cello.
 - 3 He could play the piano when he was three.
 - 4 He could play the cello when he was four.
-  - cello /ˈtʃeləʊ/ n. 大提琴
+  - cello [ˈtʃeləʊ] n. 大提琴
 - Last year he played with Lang Lang, the famous Chinese pianist, in New York. They were a big success.
 
 ### T5.12 Cleopatra Stratan - Singer
@@ -1181,14 +1184,14 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - B Oh yes! Fantastic!
 - A Where was Picasso born?
 - B In Málaga.
-  - Malaga /ˈmæləɡə/ n. 马拉加（西班牙南部省名及其首府名）；马拉加产的葡萄酒
+  - Malaga [ˈmæləɡə] n. 马拉加（西班牙南部省名及其首府名）；马拉加产的葡萄酒
 - A Ah! So he was Spanish?
 - B Yes, he was.
 - A Were his parents rich?
 - B Well, they weren't rich and they weren't poor. His father, Don José, was a painter and a professor of art. His mother, Dona Maria, was a housewife.
 - A So was Picasso good at drawing when he was young?
 - B Oh, yes. He was a child prodigy. He could draw before he could speak. His first word was lápiz, which is Spanish for pencil.
-  - prodigy /ˈprɑːdədʒi/ n. 奇迹，奇事；奇才；神童；奇观；预兆
+  - prodigy [ˈprɑːdədʒi] n. 奇迹，奇事；奇才；神童；奇观；预兆
 - A Wow! What a story!
 
 ### T5.14 Noun + noun
@@ -1223,7 +1226,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - 6 A Can you ride a motorbike?
   - B I can. Do you want to come for a ride? You can sit on the back.
 - 7 A Can you drive a car?
-  - B Of course not! I'm only l6!
+  - B Of course not! I'm only 16!
 - 8 A You have a full-time job. Who looks after your children?
   - B They go to playschool. 幼儿园;
 - 9 A Do you watch TV a lot?
@@ -1280,7 +1283,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
   - B I think you have it already.
 - 4 A Can I speak to you for a moment?
   - B Can it wait? I'm a bit busy.
-- 5 A Could you lend me €20 till tomorrow?
+- 5 A Could you lend me £20 till tomorrow?
   - B I can lend you ten but not twenty.
 - 6 A Can you give me a hand with this box?
   - B Of course. Do you want it upstairs?
@@ -1292,19 +1295,19 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - A The woman
 - Oprah Winfrey (is) a famous American TV star. She (lives) in California but she also (has) an apartment in Chicago, where she (works). Oprah is one of the richest women in America. She (earns) millions of dollars every year. She (gives) a lot of money to charity.
   - Oprah Winfrey  奥普拉·温弗瑞（美国著名女脱口秀主持人）
-  - charity /ˈtʃærəti/ n. 慈善；施舍；慈善团体；宽容；施舍物; 复数 charities
+  - charity [ˈtʃærəti] n. 慈善；施舍；慈善团体；宽容；施舍物; 复数 charities
   - opera [ˈɑːprə] n. 歌剧演出/表演；歌剧团/院；歌剧艺术/剧本
 
-### T6.2 see p46
+### T6.2 B HER CHILDHOOD
 
-- B HER CHILDHOOD
+- see p46
 - Oprah was born on January 29, 1954, in Kosciusko, Mississippi. Her parents were very poor. Her father, Vernon, worked in a **coal mine** and her mother, Vernita, **cleaned houses**. They couldn't **look after** Oprah, so she **lived with** her grandmother, Hattie Mae. Oprah was clever. She could read before she was three. When she was 17, she received a **scholarship to** Tennessee State University, where she studied drama. She also **started reading** the news **at** the local radio station.
-  - kosciusko /kɔsiˈʌskəu/ n. 科修斯科山（位于澳大利亚东南部）
-  - Mississippi /ˌmisiˈsipi/ n. 密西西比河（美国河流，世界上最大的河流之一）；密西西比州（美国州名）
-  - Vernon /'və:nən/ n. 弗农（男子名）
-  - scholarship /ˈskɒləʃɪp/ n. 奖学金；学识，学问; 复数 scholarships
-  - tennessee /ˌtenə'siː/ n. 田纳西州（美国州名）
-  - drama /ˈdrɑːmə/ n. 戏剧，戏剧艺术；剧本；戏剧性事件
+  - kosciusko [kɔsiˈʌskəu] n. 科修斯科山（位于澳大利亚东南部）
+  - Mississippi [ˌmisiˈsipi] n. 密西西比河（美国河流，世界上最大的河流之一）；密西西比州（美国州名）
+  - Vernon [ˈvɜːrnən] n. 弗农（男子名）
+  - scholarship [ˈskɒləʃɪp] n. 奖学金；学识，学问; 复数 scholarships
+  - tennessee [ˌtenə'siː] n. 田纳西州（美国州名）
+  - drama [ˈdrɑːmə] n. 戏剧，戏剧艺术；剧本；戏剧性事件
 
 ### T6.3
 
@@ -1315,16 +1318,16 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - C Her success
   - In 1984, Oprah moved to Chicago to **work on** a TV **talk show** called A.M. Chicago. She talked to lots of interesting people about their problems. Oprah says,"People's problems are my problems." The show was very successful, so in 1985, it was renamed The Oprah Winfrey Show. 49 million people in 134 countries watched it every week. In 1993, she interviewed Michael Jackson and 100 million people watched the programme. Last year, she earned $260,000,000.
     - Oprah Winfrey 奥普拉·温弗瑞（美国著名女脱口秀主持人）
-    - programme /ˈprəʊɡræm/ n. 计划，规划；节目；程序 vi. 编程序；制作节目 vt. 规划；拟…计划
+    - programme [ˈprəʊɡræm] n. 计划，规划；节目；程序 vi. 编程序；制作节目 vt. 规划；拟…计划
 - Her **charity** work
   - In 1998, Oprah started the charity Oprah's Angel Network to help poor children all over the world. In 2007, she opened a special school in Johannesburg, The Oprah Winfrey Academy for Girls. She says,"When I was a kid, we were poor and we didn't have much money. So what did I do? I studied hard." There are 152 girls **at** the school, and Oprah calls them her daughters - the children she didn't have in real life.
-    - charity /ˈtʃærəti/ n. 慈善；施舍；慈善团体；宽容；施舍物
-    - angel /ˈeɪndʒl/ n. 天使；守护神；善人 vt. 出钱支持
-    - Johannesburg /dʒəu'hænisbə:ɡ/ n. 约翰尼斯堡（位于南非东北部）
-    - academy /əˈkædəmi/ n. 学院；研究院；学会；专科院校 复数 academies
-    - interview /ˈɪntəvjuː/ n. 接见，采访；面试，面谈 vt. 采访；接见；对…进行面谈；对某人进行面试
-      - invite /ɪnˈvaɪt/ vt. 邀请，招待；招致 n. 邀请
-      - interrupt /ˌɪntəˈrʌpt/ vt. 中断；打断；插嘴；妨碍 vi. 打断；打扰 n. 中断
+    - charity [ˈtʃærəti] n. 慈善；施舍；慈善团体；宽容；施舍物
+    - angel [ˈeɪndʒl] n. 天使；守护神；善人 vt. 出钱支持
+    - Johannesburg [dʒəu'hænisbə:ɡ] n. 约翰尼斯堡（位于南非东北部）
+    - academy [əˈkædəmi] n. 学院；研究院；学会；专科院校 复数 academies
+    - interview [ˈɪntəvjuː] n. 接见，采访；面试，面谈 vt. 采访；接见；对…进行面谈；对某人进行面试
+      - invite [ɪnˈvaɪt] vt. 邀请，招待；招致 n. 邀请
+      - interrupt [ˌɪntəˈrʌpt] vt. 中断；打断；插嘴；妨碍 vi. 打断；打扰 n. 中断
 
 ### T6.5
 
@@ -1356,15 +1359,15 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 ### T6.6 see p48
 
 - Listen to three different pronunciations of -ed.
-  - /t/ worked
-  - /d/ lived
-  - /id/ started
+  - [t] worked
+  - [d] lived
+  - [id] started
 
 ### T6.7
 
-- /t/ talked watched
-- /d/ cleaned received **studied** moved interviewed opened
-- /id/ wanted decided
+- [t] talked watched
+- [d] cleaned received **studied** moved interviewed opened
+- [id] wanted decided
 
 ### T6.8 Interview with Ben Way
 
@@ -1375,7 +1378,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - B My dad was an **accountant** and my mum was an artist.
 - I Did you go to school in Devon?
 - B Yes, I did. I went to a small village school.
-  - village /ˈvɪlɪdʒ/ n. 村庄；村民；（动物的）群落； 复数 villages
+  - village [ˈvɪlɪdʒ] n. 村庄；村民；（动物的）群落； 复数 villages
 - I Did you enjoy school?
 - B No, I didn't enjoy it at all. I had problems because I was **dyslexic** and couldn't read and write ...
 - I Ah, that's difficult ...
@@ -1392,18 +1395,18 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - B Yes, and then just a year later, when I was 21, I lost everything. **Disaster**! Dotcom businesses everywhere went down.
 - I Yeah, but now you're up again! Another company, another €1 million!
 - B I know. I work hard but I'm also very lucky!
-  - Devon /'devən/ n. 德文郡（等于Devon shire，英国郡名）；德文岛（加拿大北部）
-  - accountant /əˈkaʊntənt/ n. 会计师；会计人员; 复数 accountants
-  - dyslexic /dɪsˈleksɪk/ adj. 诵读困难的; n. 诵读困难者
-  - entrepreneur /ˌɒntrəprəˈnɜː(r)/ n. 企业家；承包人；主办者; 复数 entrepreneurs
-    - enterprise /ˈentəpraɪz/ n. 企业；事业；进取心；事业心; 复数 enterprises
-  - disaster /dɪˈzɑːstə(r)/ n. 灾难，灾祸；不幸; 复数 disasters
+  - Devon ['devən] n. 德文郡（等于Devon shire，英国郡名）；德文岛（加拿大北部）
+  - accountant [əˈkaʊntənt] n. 会计师；会计人员; 复数 accountants
+  - dyslexic [dɪsˈleksɪk] adj. 诵读困难的; n. 诵读困难者
+  - entrepreneur [ˌɒntrəprəˈnɜː(r)] n. 企业家；承包人；主办者; 复数 entrepreneurs
+    - enterprise [ˈentəpraɪz] n. 企业；事业；进取心；事业心; 复数 enterprises
+  - disaster [dɪˈzɑːstə(r)] n. 灾难，灾祸；不幸; 复数 disasters
 
 ### T6.9 Regular and irregular verbs
 
 - 1 My grandad was born in 1932. He died in 2009.
 - 2 My parents met in London in 1983. They got married in 1985.
-  - London /ˈlʌndən/ n. 伦敦
+  - London [ˈlʌndən] n. 伦敦
 - 3 I arrived late for the lesson. It began at 2 o'clock.
 - 4 I caught the bus to school today. It took just 40 minutes.
 - 5 I had a very busy morning. I sent 30 emails before 10 o'clock.
@@ -1416,7 +1419,8 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 
 - biography [baɪˈɑːɡrəfi] n. 传记，传记文学；生平
 - The multi-millionaire Ben Way
-  - Ben Way is 35 years old and he runs a company called 'Rainmakers. Ben's a computer millionaire. However, he wasn't always so successful. As a child, he was dyslexic so he didn't do well at school. He didn't read or write until he was nine and his father gave him a computer. He wrote his first software program when he was 11. He didn't go to university because at l5 he started his own company. He first became a millionaire when he was just 17. He continued to be very successful until he was 21. He won a business award in 2000, but then in 2001 he lost it all. One year later he started 'Rainmakers' and now he's a millionaire again.
+  - Ben Way is 35 years old and he runs a company called 'Rainmakers. Ben's a computer millionaire. However, he wasn't always so successful. As a child, he was dyslexic so he didn't do well at school. He didn't read or write until he was nine and his father gave him a computer. He wrote his first software program when he was 11. He didn't go to university because at 15 he started his own company. He first became a millionaire when he was just 17. He continued to be very successful until he was 21. He won a business award in 2000, but then in 2001 he lost it all. One year later he started 'Rainmakers' and now he's a millionaire again.
+  - dyslexic [dɪsˈleksɪk] adj. 诵读困难的; n. 诵读困难者
 
 ### T6.11 The businessman and the fisherman
 
@@ -1450,7 +1454,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
   - Senor [se'njɔ:] n. 先生；绅士
 - B Why, that's the exciting part! You can sell your business and become very rich, a millionaire.
 - F A millionaire? Really? But what do I do with all the money?
-- B Well, Iet me think. Erm- I know you can stop work, and -er, move to a lovely, old fishing village where you can sleep late, play with your grandchildren, watch football, take a siesta with your wife, and walk to the village in the evenings where you can play the guitar, and sing with your friends all you want.
+- B Well, let me think. Erm- I know you can stop work, and -er, move to a lovely, old fishing village where you can sleep late, play with your grandchildren, watch football, take a siesta with your wife, and walk to the village in the evenings where you can play the guitar, and sing with your friends all you want.
 - F Mmmm - well ...
 - Fisherman's children Papa, Papa, did you catch many fish?
 - F I caught enough for us today and tomorrow, and also some for this gentleman. Please, Senor, have some of my beautiful fish. Goodbye Senor. Come on children,let's go home.
@@ -1462,7 +1466,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - 'Why didn't you fish for longer and catch more?'
 - The Mexican replied, 'I (didn't) want to fish for longer. With this I (have) enough fish for my family.'
 - 'But what do you do with the rest of your day? Aren't you bored?'
-- The fisherman smiled,' I'm never bored. I get up (late), play with my children, watch football, and take a siesta with my wife. Sometimes in the evenings I walk to the village to see my friends, play the guitar, a nd sings (some) songs.'
+- The fisherman smiled,' I'm never bored. I get up (late), play with my children, watch football, and take a siesta with my wife. Sometimes in the evenings I walk to the village to see my friends, play the guitar, and sings (some) songs.'
 - The American couldn't understand, 'Look, I am a very successful businessman. I (went) to Harvard University and I (studied) business. I can help you. Fish for four hours every day and sell the extra fish you catch. Then, you can buy a bigger boat, catch more, and (earn) more money. Then buy a second boat, a third, and so on, until you have a big fleet of fishing boats. You can export the fish and leave this village and move to Mexico City, or LA, or New York City, and open a fishing business.'
 - The fisherman smiled, 'But how long will all this take?'
 - The businessman thought about it for a bit. 'Probably (about) 15 to 20 years,' he said.
@@ -1478,13 +1482,13 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 
 - 1 I went to bed late last night, so I'm very tired today.
 - 2 My football team lost again. I'm really annoyed!
-- 3 I won €20,000 in the lottery! I'm so excited!
-  - lottery /ˈlɒtəri/ n. 彩票；碰运气的事
+- 3 I won £20,000 in the lottery! I'm so excited!
+  - lottery [ˈlɒtəri] n. 彩票；碰运气的事
 - 4 I can't find my house keys. I'm really worried.
 - 5 I have nothing to do and nowhere to go. I am so bored!
 - 6 The professor gave a great lecture. I was really interested.
-  - professor /prəˈfesə(r)/ n. 教授；教师；公开表示信仰的人
-  - lecture /ˈlektʃə(r)/ n. 演讲；讲稿；教训
+  - professor [prəˈfesə(r)] n. 教授；教师；公开表示信仰的人
+  - lecture [ˈlektʃə(r)] n. 演讲；讲稿；教训
 
 ### T6.13
 
@@ -1503,7 +1507,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
   - E That was a great match! Really exciting!
   - F Only because your team won. I was bored.
   - E But it wasn't boring at all! It was a fantastic game!
-  - F Well, I didn't enjoy it, and now I'm annoyed because I paid €45 for my ticket.
+  - F Well, I didn't enjoy it, and now I'm annoyed because I paid £45 for my ticket.
 - 4
   - G When's Nina's birthday?
   - H You mean 'When was her birthday?' It was last Friday, March 24th.
@@ -1577,7 +1581,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - T Did your mum and dad give you **pocket money**?
 - B Yes, but I worked for it! I cleaned the kitchen and did the **washing-up**. We didn't have dishwashers in those days!
 - T That's terrible! How much pocket money did you get?
-- B My dad gave me sixpence a week. That's two and a half p (pence/penny) these days! He didn't give me much, did he? But we bought comics and sweets.
+- B My dad gave me six pence a week. That's two and a half p (pence/penny) these days! He didn't give me much, did he? But we bought comics and sweets.
 - T What sort of comics did you buy?
 - B Well, I bought a comic called the Eagle, and **it was full of adventure stories.** And Superman! That was really exciting!
 - T Wow! Did you have holidays?
@@ -1611,8 +1615,8 @@ watched, interviewed, studied, talked, moved, started, earned, opened
   - A friend from work.
 - 4 How did you get there?
   - By bus.
-- 5 Why dld you go?
-  - BecauseI wanted to.
+- 5 Why did you go?
+  - Because I wanted to.
 - 6 What did you buy?
   - A shirt.
 - 7 How many did you buy?
@@ -1631,11 +1635,11 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 
 ### T7.6 Alisa's life
 
-- A=Alisa /ə'lisə/ n. 艾丽莎（女子名） F=Freddy n. 弗雷迪（男子名）
+- A=Alisa [ə'lisə] n. 艾丽莎（女子名） F=Freddy n. 弗雷迪（男子名）
 - F: You aren't English, are you, Alisa? Where are you from?
 - A: No, I'm Russian. I was born in St Petersburg.
-  - Russian /ˈrʌʃn/ adj. 俄国的；俄语的 n. 俄语；俄国人
-  - St Petersburg /st'pi:təzbə:ɡ/ 圣彼得堡（俄罗斯第二大城市）
+  - Russian [ˈrʌʃn] adj. 俄国的；俄语的 n. 俄语；俄国人
+  - St Petersburg [st'pi:təzbə:ɡ] 圣彼得堡（俄罗斯第二大城市）
 - F: Is that where you grew up?
 - A: Yes, I lived with my parents and two sisters in a house near the university. My father worked at the university.
 - F: Oh, how interesting! What was his job? Was he a teacher?
@@ -1645,16 +1649,16 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - A: She was a doctor. She worked in a hospital.
 - F: So, where did you go to school?
 - A: I went to a Catholic High School. I was there for ten years, then, when I was 18, I went to university.
-  - Catholic /ˈkæθlik/ adj. 天主教的；宽宏大量的 n. 天主教徒；罗马天主教
+  - Catholic [ˈkæθlik] adj. 天主教的；宽宏大量的 n. 天主教徒；罗马天主教
 - F: What did you study?
 - A: I studied philosophy and education at university in Moscow. I was there for four years.
-  - philosophy /fəˈlɒsəfi/ n. 哲学;
-  - Moscow /'mɔskəʊ/ n. 莫斯科（俄罗斯首都）
+  - philosophy [fəˈlɒsəfi] n. 哲学;
+  - Moscow ['mɔskəʊ] n. 莫斯科（俄罗斯首都）
 - F: Wow! And did you start work after that?
 - A: No, I travelled in the States for six months. I worked in a summer camp near Yellowstone National Park. It was amazing!
 - F: It sounds great! And what's your job now?
 - A: I work in a junior high school in Paris. I teach Russian and English.
-  - Paris /'pærɪs/ n. 巴黎（法国首都）；帕里斯（特洛伊王子）
+  - Paris ['pærɪs] n. 巴黎（法国首都）；帕里斯（特洛伊王子）
 - F: Your English is really good! Well, it was very nice to meet you, Alisa!
 - A: Nice to meet you too. Bye!
 
@@ -1665,7 +1669,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
   - He took off from France at 4.30 in the morning.
   - He flew his plane at 40 miles per hour.
   - He flew at 250 feet above the sea.
-  - He won a prize of €1,000.
+  - He won a prize of £1,000.
 
 - In 1969 Neil Armstrong became the first man to walk on the moon.
   - Three astronauts flew in Apollo 11. The rocket took three days to get to the moon.
@@ -1678,117 +1682,119 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 ### ROCKETS IN SIXTY YEARS
 
 page 59 flight and the first man on the moon. In the 20th century, progress in aviation was phenomenal.
+- aviation [ˌeɪviˈeɪʃn] n. 航空，飞行（术）；航空工业，飞机工业
+- phenomenal [fəˈnɑːmɪnl] adj. 非凡的，杰出的；感觉得到的，可感知的；现象的
 
 #### The First Air Journey
 
 - 第一次空中旅行，unit07_reading_air journey.mp3
 - On July 25 1909, a Frenchman, Louis Bleriot, became the first man to complete an air journey when he flew from Calais, in the north of France, to Dover in the south of England. Bleriot's flight amazed the whole of Europe. People thought that such a journey was impossible.
   - July the twenty fifth, nineteen-oh-nine
-  - Louis Bleriot /'lu:i/ /'bleriəʊ/ 路易斯•布莱里奥特（人名，法国飞行员，成功飞越英吉利海峡）
-  - Calais /'kælei/ n. 加来（法国城市）
-  - amaze /əˈmeɪz/ vt. 使吃惊
-  - Dover /'dəuvə/ n. 多佛（英国东南部的港口）
-  - journey /ˈdʒɜːni/ n. 旅行；行程 vi. 旅行
+  - Louis Bleriot ['lu:i] ['bleriəʊ] 路易斯•布莱里奥特（人名，法国飞行员，成功飞越英吉利海峡）
+  - Calais ['kælei] n. 加来（法国城市）
+  - amaze [əˈmeɪz] vt. 使吃惊
+  - Dover ['dəuvə] n. 多佛（英国东南部的港口）
+  - journey [ˈdʒɜːni] n. 旅行；行程 vi. 旅行
 - THE FLIGHT
   - The flight wasn't easy. Mr Bleriot, a 37-year-old engineer, couldn't swim, so he didn't want to come down in the Channel. He couldn't walk very well because of an injury **to** his leg, and he didn't have a compass.
-    - injury /ˈɪndʒəri/ n. 伤害，损害；受伤处
-    - compass /ˈkʌmpəs/ n. 指南针，罗盘；圆规
+    - injury [ˈɪndʒəri] n. 伤害，损害；受伤处
+    - compass [ˈkʌmpəs] n. 指南针，罗盘；圆规
   - On the morning of the 25th, he took off at 4.30 from a field at the edge of a cliff. It took 37 minutes to complete the 22-mile journey. The plane flew at 40 miles per hour at an altitude of 250 feet.
-    - altitude /ˈæltɪtjuːd/ n. 高地；高度；海拔
+    - altitude [ˈæltɪtjuːd] n. 高地；高度；海拔
   - Everything went well until he flew into fog. 'I continued flying for ten minutes, but I couldn't see the land, only the sky and the sea. It was the most dangerous part of the flight. I **wasn't worried about** the machine. It flew **beautifully**. Finally, I saw the land,' he told reporters.
     - reporter n.	记者; 通讯员;
 - LANDING IN ENGLAND
   - When he **got to** Dover, he saw a French journalist **waving** a flag. He **cut** the engine at 60 feet and **crashed into** a field.
-    - journalist /ˈdʒɜːnəlɪst/ n. 新闻工作者；报人；记日志者
-    - crash /kræʃ/ v. 碰撞；（使）坠毁；
+    - journalist [ˈdʒɜːnəlɪst] n. 新闻工作者；报人；记日志者
+    - crash [kræʃ] v. 碰撞；（使）坠毁；
   - The news quickly **went round** the world, and Mr Bleriot's flight was celebrated in London and Paris. He won a prize of £1,000.
   - 'The crossing was the start of modern aviation,' said Louis Bleriot, the grandson of the pioneer.
-    - aviation /ˌeɪviˈeɪʃn/ n. 航空；飞行术；飞机制造业
-    - pioneer /ˌpaɪəˈnɪə(r)/ n. 先锋；拓荒者;先驱者
+    - aviation [ˌeɪviˈeɪʃn] n. 航空；飞行术；飞机制造业
+    - pioneer [ˌpaɪəˈnɪə(r)] n. 先锋；拓荒者;先驱者
 
 #### The First Man On The Moon
 
 - unit07_reading_man on the moon.mp3
 - **On** 16 July, 1969, **at** 9.30 **in** the morning, Apollo 11 **lifted off** **from** the Kennedy Space Center in Florida. There were three astronauts - Neil Armstrong, Buzz Aldrin, and Michael Collins. The enormous rocket **took** three days **to complete** the 250,000 miles **to** the moon, travelling **at** six miles **per** second (21,600m miles an hour). Then it circled the moon 30 times, **giving** time to prepare for the landing.
   - On 16 July, 1969, at 9.30: On the sixteenth of July, nineteen-sixty-nine, at nine-thirty
-  - Apollo /ə'pɒləʊ/ n. 阿波罗（太阳神）；美男子
+  - Apollo [ə'pɒləʊ] n. 阿波罗（太阳神）；美男子
   - lift off （飞机、火箭等） 起飞，升空，发射;
-  - Kennedy /'kenidi/ n. 肯尼迪（姓氏，美国第35任总统）
-  - Florida /'flɔridə/ n. 佛罗里达（美国东南部的州）
-  - astronaut /ˈæstrənɔːt/ n. 宇航员，航天员；太空旅行者
-  - Neil /ni:l/ Armstrong /'ɑːmstrɒŋ/ 尼尔·阿姆斯特朗（第一个离开地球踏上月球的人）
+  - Kennedy ['kenidi] n. 肯尼迪（姓氏，美国第35任总统）
+  - Florida ['flɔridə] n. 佛罗里达（美国东南部的州）
+  - astronaut [ˈæstrənɔːt] n. 宇航员，航天员；太空旅行者
+  - Neil [ni:l] Armstrong ['ɑːmstrɒŋ] 尼尔·阿姆斯特朗（第一个离开地球踏上月球的人）
   - Buzz Aldrin 巴兹·奥尔德林
-    - Buzz /bʌz/ n. （美、印、俄）巴兹（人名）
-    - Aldrin /'ɔːldrɪn/ n. 人名；(德、瑞典)阿尔德林；(法)阿尔德兰；(英)奥尔德林
-  - Michael /'maɪkl/ Collins /'kɔlinz/ 迈克尔·柯林斯
-  - enormous /ɪˈnɔːməs/ adj. 庞大的，巨大的；凶暴的，极恶的
+    - Buzz [bʌz] n. （美、印、俄）巴兹（人名）
+    - Aldrin ['ɔːldrɪn] n. 人名；(德、瑞典)阿尔德林；(法)阿尔德兰；(英)奥尔德林
+  - Michael ['maɪkl] Collins ['kɔlinz] 迈克尔·柯林斯
+  - enormous [ɪˈnɔːməs] adj. 庞大的，巨大的；凶暴的，极恶的
   - 250,000 miles: two-fifty-thousand miles
 - THE LUNAR LANDING
-  - The lunar module **landed on** a part of the moon **called** the Sea of Tranquillity at 8.17 in the evening on 20 July. It was time for the astronauts to rest, but they were **too excited to sleep**. At 3.00 in the morning on July 21, Neil Armstrong became the first man to walk on the moon. Six hundred million people all over the world watched on TV. As Armstrong **took** his first steps, he said the famous words, '**That's one small step for man, one giant leap for mankind.**'
+  - The lunar module **landed on** a part of the moon **called** the Sea of Tranquillity at 8.17 in the evening on 20 July. It was time for the astronauts to rest, but they were **too excited to sleep**. At 3.00 in the morning on July 21, Neil Armstrong became the first man to walk on the moon. Six hundred million people all over the world watched on TV. As Armstrong **took** his first steps, he said the famous words, '**That's one small step for man, one giant leap for mankind.**' 这是一个人的一小步，却是人类的一大步。
     - lunar module n. [航] 登月舱
     - the Sea of Tranquillity 静海（地名，指美国阿波罗11号飞船在月球着陆的地点）
-      - tranquility /træŋ'kwɪlətɪ/ n. 宁静；平静
+      - tranquility [træŋ'kwɪlətɪ] n. 宁静；平静
     - on 20 July: on twentieth of July, on July 21: on July the twenty first
     - at 8.17: at eight-seventeen, At 3.00: At three o'clock
-    - giant /ˈdʒaɪənt/ adj. 巨大的；巨人般的；伟大的
-    - leap /liːp/ n. 飞跃；跳跃，跳高；骤变；剧增；
+    - giant [ˈdʒaɪənt] adj. 巨大的；巨人般的；伟大的
+    - leap [liːp] n. 飞跃；跳跃，跳高；骤变；剧增；
 - WALKING ON THE MOON
   - Armstrong and Aldrin **spent** two and a half hours **walking** on the moon. They collected samples and **set up** scientific equipment. Finally, they **put up** a US flag. After 22 hours on the moon, the lunar module lifted off and **flew up** to join the rocket that took them **back to Earth**. They left an inscription: **HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON, JULY 1969. WE CAME IN PEACE FOR ALL MANKIND.**
     - fly up 向上飞【向北飞】; 上升;
-    - inscription /ɪnˈskrɪpʃn/ n. 题词；铭文；刻印
+    - inscription [ɪnˈskrɪpʃn] n. 题词；铭文；刻印
   - This flight was the beginning of man's exploration of space.
 
 ### T7.8 Noises in the night
 
 - It was about two o'clock in the morning, and ... suddenly I **woke up**. I heard a noise. I **got out of bed** and **went slowly downstairs**. There was **a light on** in the living room. I listened carefully. I could **hear two men speaking** very quietly. 'Burglars!' I thought. Immediately I **ran back upstairs** and phoned the police. I **was really frightened**. Fortunately the police arrived quickly. They opened the front door and **went into** the living room. Then they **came upstairs to see** me. 'It's all right now, sir,' they explained. 'We **turned the television off** for you!'
-  - burglar 英/ˈbɜːɡlə(r)/ 美/ˈbɜːrɡlər/n. 破门盗贼; 入室窃贼; 复数burglars 英/ˈbɜːgləz/ 美/ˈbɜrglərz/
+  - burglar 英[ˈbɜːɡlə(r)] 美[ˈbɜːrɡlər] n. 破门盗贼; 入室窃贼; 复数burglars 英[ˈbɜːgləz] 美[ˈbɜrglərz]
 
 ### CHRISTOPHER COLUMBUS
 
 SB p61: WRITING Telling a story p111
 
 - Christopher Columbus was a great explorer. For a long time people believed that he discovered America. However. we now know that (the Norseman, Leif Ericson, landed there 500 years before Columbus.)
-  - Christopher /'krɪstəfə(r)/ n. 克里斯多夫（男子名）
-  - Columbus /kəˈlʌmbəs/ n. 哥伦布（美国一座城市）；哥伦布（意大利航海家）
-  - explorer /ɪkˈsplɔːrə(r)/ n. 探险家；勘探者；探测器；[医]探针
-  - Norseman /'nɔ:smən/ n. 古代挪威人；古代斯堪地那维亚人 (an ancient Scandinavian, especially a Viking)
-  - Leif /li:f/ n. 列夫（挪威大众情人）
+  - Christopher ['krɪstəfə(r)] n. 克里斯多夫（男子名）
+  - Columbus [kəˈlʌmbəs] n. 哥伦布（美国一座城市）；哥伦布（意大利航海家）
+  - explorer [ɪkˈsplɔːrə(r)] n. 探险家；勘探者；探测器；[医]探针
+  - Norseman ['nɔ:smən] n. 古代挪威人；古代斯堪地那维亚人 (an ancient Scandinavian, especially a Viking)
+  - Leif [li:f] n. 列夫（挪威大众情人）
   - Ericson n. 人名；(英)埃里克森；(瑞典、芬、法)埃里克松
 - EARLY LIFE
   - Columbus was born in 1451 in Genoa, Italy. He was one of five children. He didn't go to school, (he worked with his father. who was a wool worker.) However, he always wanted to go to sea.
-    - Genoa /'dʒenəʊə; dʒe'nəʊə/ n. 热那亚（意大利西北部港市）
-    - Italy /'ɪtəlɪ/ n.	意大利（欧洲）
-    - wool /wʊl/ n. 羊毛；毛线；绒线；毛织品；毛料衣物
+    - Genoa ['dʒenəʊə; dʒe'nəʊə] n. 热那亚（意大利西北部港市）
+    - Italy ['ɪtəlɪ] n.	意大利（欧洲）
+    - wool [wʊl] n. 羊毛；毛线；绒线；毛织品；毛料衣物
 - LIFE AT SEA
   - He became a sailor. Between 1477 and 1485 he visited many countries, including Spain, Iceland, Ireland, Madeira, and West Africa. (He learned to read and write Spanish during his early travels.)
-    - Spain /speɪn/ n. 西班牙
-    - Iceland /ˈaɪslənd/ n. 冰岛（欧洲岛名，在大西洋北部，近北极圈）
-    - Ireland /'aɪələnd/ n. 爱尔兰
-    - Madeira /məˈdɪərə/ n. 马德拉群岛（大西洋的群岛名）；马得拉白葡萄酒
-    - Spanish /ˈspænɪʃ/ adj. 西班牙的；西班牙语的；西班牙人的 n. 西班牙语；西班牙人
+    - Spain [speɪn] n. 西班牙
+    - Iceland [ˈaɪslənd] n. 冰岛（欧洲岛名，在大西洋北部，近北极圈）
+    - Ireland ['aɪələnd] n. 爱尔兰
+    - Madeira [məˈdɪərə] n. 马德拉群岛（大西洋的群岛名）；马得拉白葡萄酒
+    - Spanish [ˈspænɪʃ] adj. 西班牙的；西班牙语的；西班牙人的 n. 西班牙语；西班牙人
   - Columbus wanted to be rich and famous. For eight years (he begged King Ferdinand and Queen Isabella of Spain to give him money to discover new lands.)
-    - beg /beɡ/ vt. 乞讨；恳求；回避正题 vi. 乞讨；请求
-    - Ferdinand 英/ˈfɜːd(ə)nænd/ 美/ˈfɜrdɪˌnænd/ n. 斐迪南（男子名）
-    - Isabella /izə'belə/ n. （意、英）伊莎贝拉（人名）（西班牙女王）
+    - beg [beɡ] vt. 乞讨；恳求；回避正题 vi. 乞讨；请求
+    - Ferdinand 英[ˈfɜːd(ə)nænd] 美[ˈfɜrdɪˌnænd] n. 斐迪南（男子名）
+    - Isabella [izə'belə] n. （意、英）伊莎贝拉（人名）（西班牙女王）
   - Finally they agreed and he got three ships, the Santa Maria, the Pinta, and the Nina, and enough food for a voyage of one year.
-    - Santa /'sæntə/ n. 圣诞老人（等于Santa Claus）
-    - Maria /'mærɪə/ n. （美、西、阿根廷、巴）玛利亚（人名）; maria n. 母马；母驴；月球（或火星）表面的阴暗部；
-    - Pinta /ˈpaɪntə/ n. 人名 (英、西、葡、芬、捷)平塔;
-    - Nina /'ni:nə/ n. 尼娜（女名）
-    - voyage /ˈvɔɪɪdʒ/ n. 航行；航程；旅行记 vi. 航行；航海 vt. 飞过；渡过
+    - Santa ['sæntə] n. 圣诞老人（等于Santa Claus）
+    - Maria ['mærɪə] n. （美、西、阿根廷、巴）玛利亚（人名）; maria n. 母马；母驴；月球（或火星）表面的阴暗部；
+    - Pinta [ˈpaɪntə] n. 人名 (英、西、葡、芬、捷)平塔;
+    - Nina ['ni:nə] n. 尼娜（女名）
+    - voyage [ˈvɔɪɪdʒ] n. 航行；航程；旅行记 vi. 航行；航海 vt. 飞过；渡过
   - He left Spain on 3 August, 1492 and sailed west. After three months at sea, (his sailors became tired and ill.)
   - They wanted to go home. 'Give me just three more days,' said Columbus. Two days later, they saw land. It was an island. (Columbus named it San Salvador, and its people, Indians.)
-    - San /sæn/ n. (San) （美、印度、俄）圣（人名）
-    - Salvador /'sælvədɔ:/ n. 萨尔瓦多（巴西东部港市）
+    - San [sæn] n. (San) （美、印度、俄）圣（人名）
+    - Salvador ['sælvədɔ:] n. 萨尔瓦多（巴西东部港市）
   - Next, they sailed to Cuba. Columbus thought he was in China or Japan. The world was a lot bigger than he thought.
-    - Cuba 英/ˈkjuːbə/ 美/ˈkjubə/ n. 古巴（西印度群岛中最大之岛国，首都Havana）
+    - Cuba 英[ˈkjuːbə] 美[ˈkjubə] n. 古巴（西印度群岛中最大之岛国，首都Havana）
   - Then, unfortunately, near Haiti the Santa Maria hit rocks, so Columbus returned to Spain on the Nina, leaving 40 sailors on the island to look for gold. (The Spanish people gave Columbus a hero's welcome.)
-    - Haiti /ˈheɪti/ n. 海地
+    - Haiti [ˈheɪti] n. 海地
 - FINAL YEARS
   - Between 1492 and 1504 Columbus made three more voyages across the Atlantic. He took his 13-year-old son Ferdinand with him on the last voyage. He became famous, but not very rich. In the last years of his life, (he was in great pain with arthritis and couldn't leave his bed.)
-    - Atlantic 英 /æt'læntɪk/  美 /ət'læntɪk/ n. 大西洋 adj. 大西洋的
-    - Ferdinand 英/ˈfɜːd(ə)nænd/ 美/ˈfɜrdɪˌnænd/ n. 斐迪南（男子名）
-    - arthritis /ɑːˈθraɪtɪs/ n. [外科] 关节炎
+    - Atlantic 英 [æt'læntɪk]  美 [ət'læntɪk] n. 大西洋 adj. 大西洋的
+    - Ferdinand 英[ˈfɜːd(ə)nænd] 美[ˈfɜrdɪˌnænd] n. 斐迪南（男子名）
+    - arthritis [ɑːˈθraɪtɪs] n. [外科] 关节炎
   - He died on 20 May, 1506.
 
 ### T7.9 Special occasions
@@ -1807,7 +1813,7 @@ SB p61: WRITING Telling a story p111
   - A Wow! Do you know who it's from?
   - B No idea.
     - Valentine [ˈvæləntaɪn] 情人节, 情人
-    - violet [ˈvaɪələt] 
+    - violet [ˈvaɪələt]
       - n. 紫罗兰，堇菜；蓝紫色，紫罗兰色
       - adj. 紫色的，紫罗兰色的
 - 3
@@ -1824,7 +1830,7 @@ SB p61: WRITING Telling a story p111
   - H December the 12th. You'll get an invitation!
 - 5
   - I It's midnight! Happy New Year, everyone!
-  - fKL Happy New Year!
+  - Happy New Year!
 - 6
   - C Wake up, Mummy! Happy Mother's Day!
   - D Thank you, darling. Oh, what beautiful flowers! And a cup of tea! Well, aren't I lucky!
@@ -1837,8 +1843,9 @@ SB p61: WRITING Telling a story p111
 
 ## Unit 8 Eat in or out
 
-### T8.1 Starter (一餐中的）第一道菜，开胃小吃 see p62
+### T8.1 Starter (一餐中的）第一道菜，开胃小吃
 
+- see p62
 - List A
   - I tea
   - p coffee
@@ -1852,7 +1859,7 @@ SB p61: WRITING Telling a story p111
   - u milk
   - o chocolate
   - s broccoli
-- B
+- List B
   - i bananas
   - a apples
   - f strawberries
@@ -1866,14 +1873,14 @@ SB p61: WRITING Telling a story p111
   - I crisps
   - m chips
 
-- pasta 英 /ˈpæstə/  美 /ˈpɑːstə/ n. 意大利面食；面团
-- broccoli /ˈbrɒkəli/ n. 花椰菜；西兰花
-- peas n. [作物] 豌豆（pea /piː/ 的复数）
+- pasta 英 [ˈpæstə]  美 [ˈpɑːstə] n. 意大利面食；面团
+- broccoli [ˈbrɒkəli] n. 花椰菜；西兰花
+- peas n. [作物] 豌豆（pea [piː] 的复数）
 - raspberry 树莓, mulberry n. 桑树；桑葚，桑椹；深紫红色, strawberry 草莓
 
 ### T8.2 Who's a fussy eater?
 
-- fussy /ˈfʌsi/ adj. 爱挑剔的，难取悦的；易烦恼的
+- fussy [ˈfʌsi] adj. 爱挑剔的，难取悦的；易烦恼的
 - fussy eater挑食的人
 
 - D=Duncan N=Nick
@@ -1937,12 +1944,12 @@ SB p61: WRITING Telling a story p111
 - D Just some **tap water**, thanks.
 - W No problem.
 
-- spaghetti /spəˈɡeti/ n. 意大利式细面条
-- Bolognese /,bəulə'ni:z/ n. （肉馅和西红柿做成的）波隆那肉酱
+- spaghetti [spəˈɡeti] n. 意大利式细面条
+- Bolognese [,bəulə'ni:z] n. （肉馅和西红柿做成的）波隆那肉酱
 - Spaghetti Bolognese 意大利肉酱面
-- sparkling /ˈspɑːklɪŋ/ adj. 闪闪发光的，闪烁的；**起泡沫的** v. 闪耀；发出火花；**起泡沫（sparkle的ing形式）**
-  - fizzy /ˈfɪzi/ adj. 起泡沫的；嘶嘶作响的 比较级 fizzier最高级 fizziest
-- still /stɪl/ adv. 仍然；更；静止地 adj. 静止的，不动的；寂静的，平静的；**不起泡的** n. 寂静；剧照；蒸馏室 conj. 仍然；但是；尽管如此
+- sparkling [ˈspɑːklɪŋ] adj. 闪闪发光的，闪烁的；**起泡沫的** v. 闪耀；发出火花；**起泡沫（sparkle的ing形式）**
+  - fizzy [ˈfɪzi] adj. 起泡沫的；嘶嘶作响的 比较级 fizzier最高级 fizziest
+- still [stɪl] adv. 仍然；更；静止地 adj. 静止的，不动的；寂静的，平静的；**不起泡的** n. 寂静；剧照；蒸馏室 conj. 仍然；但是；尽管如此
 - tap water 自来水；非蒸馏水
 
 ### T8.4
@@ -2018,16 +2025,16 @@ SB p61: WRITING Telling a story p111
 - D I'd like that. I hope the girls like Cottage Pie.
 - N Everyone likes Cottage Pie!
 
-- recipe  /ˈresəpi/ n. 食谱; 处方
+- recipe  [ˈresəpi] n. 食谱; 处方
 - cottage pie 上面铺一层捣碎的马铃薯的肉饼；农家肉馅派
-- mince  /mɪns/ v.  剁碎; 绞碎; 用绞肉机绞
-- thyme /taɪm/ n.（用以调味的）百里香
+- mince  [mɪns] v.  剁碎; 绞碎; 用绞肉机绞
+- thyme [taɪm] n.（用以调味的）百里香
 - g = gram 克
 - ml = milliliter n. 毫升
 - tbsp = tablespoon  n. 汤匙；一餐匙的量
 - herb n. 香草；药草
-  - herbivore /ˈhɜːbɪvɔː(r)/ n. [动] 食草动物 N. an animal that feeds on plants. (注意词根herb意思)
-  - carnivore /ˈkɑːnɪvɔː(r)/ n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
+  - herbivore [ˈhɜːbɪvɔː(r)] n. [动] 食草动物 N. an animal that feeds on plants. (注意词根herb意思)
+  - carnivore [ˈkɑːnɪvɔː(r)] n. [动] 食肉动物；食虫植物 N. an animal that feeds on flesh
 - ovenproof adj. 耐热的
 - stock cube 浓缩固体汤料
 - grated adj. 搓碎的
@@ -2042,7 +2049,7 @@ SB p61: WRITING Telling a story p111
 - 2
   - A How much yoghurt do we have left?
   - B Not a lot. Just one strawberry and one raspberry.
-    - raspberry 英 /ˈrɑːzbəri/  美 /ˈræzberi/ n. 覆盆子；木莓（树）；舌头放在唇间发出的声音；（表示轻蔑，嘲笑等的）咂舌声
+    - raspberry 英 [ˈrɑːzbəri]  美 [ˈræzberi] n. 覆盆子；木莓（树）；舌头放在唇间发出的声音；（表示轻蔑，嘲笑等的）咂舌声
 - 3
   - A How many people were at the wedding?
   - B About 150.
@@ -2068,90 +2075,91 @@ SB p61: WRITING Telling a story p111
 - 1st Century BC to the eighteenth Century
 - 1st Century BC
   - A famous rabbi, Hillel the Etder, made the first recorded sandwich. He mixed some nuts, apples, and spices with some wine, and put it between two matzohs (pieces of flat bread).
-    - rabbi /ˈræbaɪ/ n. 拉比（犹太人的学者）；法师；犹太教律法专家；先生
-    - spice /spaɪs/ n. **香料**；情趣；**调味品**；少许
-    - matzoh 英 /ˈmætsəʊ/ n. (犹太人在逾越节吃的)未发酵的面包=matzo.
+    - rabbi [ˈræbaɪ] n. 拉比（犹太人的学者）；法师；犹太教律法专家；先生
+    - spice [spaɪs] n. **香料**；情趣；**调味品**；少许
+    - matzoh 英 [ˈmætsəʊ] n. (犹太人在逾越节吃的)未发酵的面包=matzo.
 - 6th - 16th Century
   - People used bread as plates. They put meat and vegetables onto some bread and ate with their fingers. These were the first open sandwiches, and they called them 'trenchers'.
-    - trencher /ˈtrentʃə(r)/ n. 挖沟者；**木盘**；战壕兵 adj. 木制食盘的；有关膳食的
+    - trencher /[trentʃə(r)] n. 挖沟者；**木盘**；战壕兵 adj. 木制食盘的；有关膳食的
 - 18th Century
   - The name 'sandwich' first appeared. An Englishman, John Montague (1718-1792), the Fourth Earl of *Sandwich, liked to eat and gamble at London's Beef Steak Club. Sometimes he stayed 24 hours at the gaming table. He was hungry, but he didn't want to stop gambling, so the chefs from the club put some beef between two pieces of bread, and he ate while he gambled. This new meal became very fashionable **with** other men in the club, and they called it the 'sandwich' after the Earl.
-    - Montague /'mɔntəɡju:/ n. 蒙塔古（男子名）
-    - earl /ɜːl/ n. (英)伯爵
+    - Montague ['mɔntəɡju:] n. 蒙塔古（男子名）
+    - earl [ɜːl] n. (英)伯爵
     - *Sandwich is a town in the South of England.
-    - gamble /ˈɡæmbl/ v. 赌博；打赌；冒险，投机；孤注一掷；冒险假设 n. 冒险；赌博；打赌
+    - gamble [ˈɡæmbl] v. 赌博；打赌；冒险，投机；孤注一掷；冒险假设 n. 冒险；赌博；打赌
     - call/name sth after sb 以某人的名字给 (某物/某地/某人)命名
 - Nineteenth Century to the twenty-first Century
 - 19th Century
   - An American writer, Eliza Leslie, introduced sandwiches to America. In 1837, she wrote a cookbook, 'Directions for Cookery'. In it she had a recipe for ham sandwiches:'Cut some thin slices of bread and ham. Butter the bread and put the ham between two slices with some mustard. Eat for lunch or supper'. Americans loved them.
-    - Eliza /i'laizə/ n. 伊莱扎（女子名，Elizabeth的昵称）
-    - Leslie /'lɛz/ n. 莱斯利（男子名）
+    - Eliza [i'laizə] n. 伊莱扎（女子名，Elizabeth的昵称）
+    - Leslie ['lɛz] n. 莱斯利（男子名）
 - 20th - 21st Century
   - Sandwiches became very popular indeed. They were easy to make and they were a wonderful, cheap, portable meal for workers and school children.
 - Did you know...?
   - The 'Dagwood' sandwich is the sandwich to top all sandwiches. It is enormous! Name after the American cartoon character Dagwood Bumstead, it is made with a great many layers of meat, cheese, tomatoes, egg, salad, and vegetabtes.
-    - dagwood /'dægwud/ n. 多层三明治；多层夹肉面包
-    - character /ˈkærəktə(r)/ n. 性格，品质；特性；角色；[计] 字符
+    - dagwood ['dægwud] n. 多层三明治；多层夹肉面包
+    - character /[kærəktə(r)] n. 性格，品质；特性；角色；[计] 字符
 
 ### T8.9 What's your favourite sandwich
 
-- sandwich /ˈsænwɪtʃ; ˈsænwɪdʒ/ n. 三明治（状物）；夹心面包片；（奶油）夹心蛋糕；教学与实习交替培训课程 v. 夹入（或挤进）……中间；粘合；把..……做成三明治 复数 sandwiches过去式 sandwiched过去分词 sandwiched现在分词 sandwiching第三人称单数 sandwiches
+- sandwich [ˈsænwɪtʃ; ˈsænwɪdʒ] n. 三明治（状物）；夹心面包片；（奶油）夹心蛋糕；教学与实习交替培训课程 v. 夹入（或挤进）……中间；粘合；把..……做成三明治 复数 sandwiches过去式 sandwiched过去分词 sandwiched现在分词 sandwiching第三人称单数 sandwiches
 
 - Angus
   - I come from the north of England and we often call sandwiches 'butties. My favourite butty is made with thick slices of white bread and thick slices of warm ham with hot mustard. Yes, warm ham! Mmmm, delicious. Would you like to try one?
-    - Angus /'æŋgəs/ n. 安格斯（男子名）
-    - butty /ˈbʌti/ n. （英）三明治；伙伴；监工 n. (Butty)人名；(西、匈)布蒂; 复数 butties
-    - thick /θɪk/ adj. 厚的
-    - slice /slaɪs/ n. 薄片；部分；菜刀，火铲 vt. 切下；把…分成部分；将…切成薄片 vi. 切开；割破; 复数slices /'slaɪsɪz/
-    - ham /hæm/ n. 火腿；业余无线电爱好者；蹩脚演员 vi. 表演过火 vt. 演得过火 adj. 过火的；做作的
-    - hot /hɒt/ adj. 热的；辣的；热情的；激动的；紧迫的; adv. 热；紧迫地; vi. 变热; vt. 增加；给…加温
-    - mustard /ˈmʌstəd/ n. 芥末；芥菜；深黄色；强烈的兴趣
-    - delicious /dɪˈlɪʃəs/ adj. 美味的；可口的; 比较级 more delicious; 最高级 most delicious
+    - Angus ['æŋgəs] n. 安格斯（男子名）
+    - butty [ˈbʌti] n. （英）三明治；伙伴；监工 n. (Butty)人名；(西、匈)布蒂; 复数 butties
+    - thick [θɪk] adj. 厚的
+    - slice [slaɪs] n. 薄片；部分；菜刀，火铲 vt. 切下；把…分成部分；将…切成薄片 vi. 切开；割破; 复数slices /'slaɪsɪz/
+    - ham [hæm] n. 火腿；业余无线电爱好者；蹩脚演员 vi. 表演过火 vt. 演得过火 adj. 过火的；做作的
+    - hot [hɒt] adj. 热的；辣的；热情的；激动的；紧迫的; adv. 热；紧迫地; vi. 变热; vt. 增加；给…加温
+      - spicy [ˈspaɪsi] adj. 加有香料的，辛辣的；刺激的，粗俗的
+    - mustard [ˈmʌstəd] n. 芥末；芥菜；深黄色；强烈的兴趣
+    - delicious [dɪˈlɪʃəs] adj. 美味的；可口的; 比较级 more delicious; 最高级 most delicious
 - Ulla
   - I'm from Denmark, so for me it's the open sandwich - of course, and my favourite is with beef - thin slices of beef, rare beef, with some crispy fried onions on the top. I love this!
     - n. (Ulla)人名；(德、芬、丹、瑞典)乌拉；(西)乌利亚；(法、荷)于拉
-    - Denmark 英 /ˈdenmɑːk/  美 /ˈdenmɑːrk/ n. 丹麦（欧洲国家）
+    - Denmark 英 [ˈdenmɑːk]  美 [ˈdenmɑːrk] n. 丹麦（欧洲国家）
     - open sandwich 单片三明治；外馅三明治
-    - crispy /ˈkrɪspi/ adj. 酥脆的；易碎的；干净利落的；生气勃勃的
-    - fried /fraɪd/ adj. 油炸的，油煎的；喝醉了的 v. 油炸（fry的过去分词）
+    - crispy [ˈkrɪspi] adj. 酥脆的；易碎的；干净利落的；生气勃勃的
+    - fried [fraɪd] adj. 油炸的，油煎的；喝醉了的 v. 油炸（fry的过去分词）
 - Tom
   - Oh, the best sandwich in the world is definitely a bacon sandwich. Hot bacon between thin slices of white bread, and with lots of tomato ketchup. Simple, and very, very tasty. There's a cafe near where I work in London, I sometimes buy one for breakfast - mm, I'd like one right now.
-    - bacon /ˈbeɪkən/ n. 咸肉；腌肉；熏猪肉
+    - bacon [ˈbeɪkən] n. 咸肉；腌肉；熏猪肉
     - bacon sandwich 培根三明治
-    - ketchup /ˈketʃəp/ n. 番茄酱
-    - tasty /ˈteɪsti/ adj. 美味的；高雅的；有趣的; n. 可口的东西；引人入胜的东西; 复数 tasties比较级 tastier最高级 tastiest
+    - ketchup [ˈketʃəp] n. 番茄酱
+    - tasty [ˈteɪsti] adj. 美味的；高雅的；有趣的; n. 可口的东西；引人入胜的东西; 复数 tasties比较级 tastier最高级 tastiest
 - Marianne
   - I live in Italy so my best is Italian - a ciabatta with chopped tomatoes, mozzarella cheese - with black olives, and basil. Mozzarella's my favourite cheese and I like cooking with it, I make my own pizza.
-    - Marianne /ˌmεəri'æn/ n. 玛丽安（法兰西共和国或其政府的绰号，因以女性为其化身，故名）
-    - ciabatta /tʃəˈbætə; tʃəˈbɑːtə/ n. 拖鞋面包（意大利扁平长面包）；拖鞋三明治
-    - chopped /tʃɒpt/ 切碎的; chop的过去分词
-    - mozzarella /ˌmɒtsəˈrelə/ n. 马苏里拉奶酪 复数 mozzarelle
-    - basil 英 /ˈbæzl/ 美 /ˈbeɪzl/ n. 罗勒属植物（用于调味）；斜刃面; 复数 basils
-    - olive /ˈɒlɪv/ n. 橄榄；橄榄树；橄榄绿；adj. 橄榄绿的；（面色、肤色）黄棕色的
-    - pizza /ˈpiːtsə/ n. 比萨饼（一种涂有乳酪和番茄酱的意大利式有馅烘饼）
+    - Marianne [ˌmεəri'æn] n. 玛丽安（法兰西共和国或其政府的绰号，因以女性为其化身，故名）
+    - ciabatta [tʃəˈbætə; tʃəˈbɑːtə] n. 拖鞋面包（意大利扁平长面包）；拖鞋三明治
+    - chopped [tʃɒpt] 切碎的; chop的过去分词
+    - mozzarella [ˌmɒtsəˈrelə] n. 马苏里拉奶酪 复数 mozzarelle
+    - basil 英 [ˈbæzl] 美 [ˈbeɪzl] n. 罗勒属植物（用于调味）；斜刃面; 复数 basils
+    - olive [ˈɒlɪv] n. 橄榄；橄榄树；橄榄绿；adj. 橄榄绿的；（面色、肤色）黄棕色的
+    - pizza [ˈpiːtsə] n. 比萨饼（一种涂有乳酪和番茄酱的意大利式有馅烘饼）
 - John
   - I was in Turkey by the sea, and a fisherman called to me 'Come, try a 'Balik Ekmek.' I think this means 'fish in bread'. He gave me a sandwich - it was fresh mackerel grilled and in a bread roll with raw onions. Fabulous!
-    - Turkey /ˈtɜːki/ 土耳其; 火鸡; 火鸡肉
-    - mackerel /ˈmækrəl/ n. 鲭（产于北大西洋）；马鲛鱼; 复数 mackerel或mackerels
-    - grill /ɡrɪl/ n. 烤炉；烤架；烧烤的菜肴（尤指烤肉）；烧烤店；（门或窗的）护栏；金属格栅 v. （在烤架上）炙烤；（非正式）严厉盘问
+    - Turkey [ˈtɜːki] 土耳其; 火鸡; 火鸡肉
+    - mackerel [ˈmækrəl] n. 鲭（产于北大西洋）；马鲛鱼; 复数 mackerel或mackerels
+    - grill [ɡrɪl] n. 烤炉；烤架；烧烤的菜肴（尤指烤肉）；烧烤店；（门或窗的）护栏；金属格栅 v. （在烤架上）炙烤；（非正式）严厉盘问
     - roll 卷 with
-    - onion /ˈʌnjən/ n. 洋葱；洋葱头; 复数 onions
-    - fabulous /ˈfæbjələs/ adj. 难以置信的；传说的，寓言中的；极好的
+    - onion [ˈʌnjən] n. 洋葱；洋葱头; 复数 onions
+    - fabulous /[fæbjələs] adj. 难以置信的；传说的，寓言中的；极好的
 
 ### T8.10 Daily needs
 
-- aspirin /ˈæsprin; ˈæspərin/ n. 阿司匹林（解热镇痛药）
+- aspirin [ˈæsprin; ˈæspərin] n. 阿司匹林（解热镇痛药）
 - chocolate
 - notebook
 - scissors
 - adaptor
 - envelopes
-- plasters n. 膏药（plaster /ˈplɑːstə(r)/ 的复数形式）；石膏
-- sellotape /ˈseləteɪp/ n. 透明胶带，塑料胶带（商标名称）
-- toothpaste /ˈtuːθpeɪst/ n. 牙膏
-- shampoo /ʃæmˈpuː/ n. 洗发；洗发精 vt. 洗发
-- batteries /'bætəris/ n. [电] 电池（battery的复数形式）
-- screwdriver /ˈskruːdraɪvə(r)/ n. 螺丝刀
+- plasters n. 膏药（plaster [ˈplɑːstə(r)] 的复数形式）；石膏
+- sellotape [ˈseləteɪp] n. 透明胶带，塑料胶带（商标名称）
+- toothpaste [ˈtuːθpeɪst] n. 牙膏
+- shampoo [ʃæmˈpuː] n. 洗发；洗发精 vt. 洗发
+- batteries ['bætəris] n. [电] 电池（battery的复数形式）
+- screwdriver [ˈskruːdraɪvə(r)] n. 螺丝刀
 - magazine
 - newspaper
 
@@ -2173,15 +2181,25 @@ SB p61: WRITING Telling a story p111
   - C No, thanks. How much is that?
 - 3
   - E I'm looking for a nice pen.
-  - F What about this one? It's €25.
+  - F What about this one? It's £25.
   - E No, that's too much. I don't want to spend that much.
-  - F Well. this one is €12.
+  - F Well. this one is £12.
   - E That's better. And I need some pencils as well.
   - F There are ten pencils in this packet.
   - E But I only want two!
   - F I'm afraid I only have packets of ten. Sorry.
 
-### T8.12 see p69
+### T8.12 Which sound more polite?
+
+- see p69
+- I'd like a coffee, please.
+- I want a latte.
+  - [ˈlɑːteɪ] n. 热牛奶咖啡，拿铁咖啡
+- Give me some cake with that!
+- Can I have a sandwich?
+- A cup of tea.
+- Could you bring me a smoothie?
+  - [ˈsmuːði] n. 举止文雅的人，八面玲珑的的人，圆滑的人；加奶（或冰淇淋）果汁，奶昔
 
 ### T8.13 Sounding polite
 
@@ -2199,18 +2217,18 @@ SB p61: WRITING Telling a story p111
 
 - have in  在餐馆进餐
 - take away  外带进餐
-- croissant /kwɑːˈsɑːnt,krəˈsɑːnt/ n.羊角面包
+- croissant [kwɑːˈsɑːnt,krəˈsɑːnt] n.羊角面包
 
 
 ### Unit 8 TWO EMAILS - Informal and more formal
 
 - Page 112
 - Hi Duncan.
-- Thanks for last weekend. It was really great. The meal was fantastic - didn't know you could cook! Just kidding ;-) Email me the recipe. I'd like to make c ottage pie for my friends here - they're always starving hungry!
-- The journey was sooooooooooo long and boring - the coach stopped at a motorway service station where I had a disgusting cheeses andwich and a cold coffee.Yuk!
-  - motorway /ˈməʊtəweɪ/ n. 高速公路，汽车高速公路
-  - disgusting /dɪsˈɡʌstɪŋ/ adj. 令人厌恶的; 令人极不能接受的
-  - Yuk /jʌk/ n. 引起大笑的趣事；（因有趣而发出的）咯咯大笑
+- Thanks for last weekend. It was really great. The meal was fantastic - didn't know you could cook! Just kidding ;-) Email me the recipe. I'd like to make cottage pie for my friends here - they're always starving hungry!
+- The journey was sooooooooooo long and boring - the coach stopped at a motorway service station where I had a disgusting cheese sandwich and a cold coffee. Yuk!
+  - motorway [ˈməʊtəweɪ] n. 高速公路，汽车高速公路
+  - disgusting [dɪsˈɡʌstɪŋ] adj. 令人厌恶的; 令人极不能接受的
+  - Yuk [jʌk] n. 引起大笑的趣事；（因有趣而发出的）咯咯大笑
 - I slept for the rest of the journey - not surprising really - we did dance ALL night! House Rules was a brilliant club, but going to bed at 4 and getting up at 8 to go back to Edinburgh was awful! You're a star for getting up early to take me to the coach station!
 - Everyone here is worried about the exams. They start next week, like yours. It was good to forget about them for the weekend! I miss you a lot. Come and visit me soon - it's cheap on the coach.
 - Can't wait to see you again. Email me, or send a text.
@@ -2220,7 +2238,7 @@ SB p61: WRITING Telling a story p111
 - Page 113
 - Dear Mr and Mrs Owen.
 - I'd like to thank you so much for having me to stay last weekend. I had a really lovely time, and I was so pleased to meet you at last. The meal you made was delicious. Duncan told me that his mother was an excellent cook - and he was right. I also enjoyed our walk - the countryside and woods near your house are beautiful.
-- The journey back was long and I slept for most of the way. lt was very kind of you to drive me to the station so early in the morning. I was very grateful!
+- The journey back was long and I slept for most of the way. It was very kind of you to drive me to the station so early in the morning. I was very grateful!
 - It's good to be back at university. I have a lot of work at the moment before the exams start. I know Duncan has exams too, so we can't see each other until the end of June - we are just too busy!
 - I'd love to visit again in the summer holidays with Duncan.
 - Thank you again for everything.
@@ -2266,8 +2284,8 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - B No, it isn't! Seoul is (much smaller)!
 - 4
   - A Johannesburg is safer than Cape Town.
-    - Johannesburg /dʒəu'hænisbə:ɡ/ n. 约翰尼斯堡（位于南非东北部）
-    - Cape Town 开普敦（等于Capetown /'keip,taun/ ，南非西南部港市）
+    - Johannesburg [dʒəu'hænisbə:ɡ] n. 约翰尼斯堡（位于南非东北部）
+    - Cape Town 开普敦（等于Capetown ['keip,taun] ，南非西南部港市）
   - B No, it isn't! It's (much more dangerous)!
 - 5
   - A Taxi drivers in New York are better than taxi drivers in London.
@@ -2292,9 +2310,9 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - I Wow, that's good! And tell me, (have) you (got) a car here?
 - C No, I (haven't got) a car. I go everywhere on public transport. It's much easier.
 - I OK! Thank you very much! I hope you enjoy your stay here!
-  - Andre /'ændrei/ n. 安德烈（男子名，等于Andrew）
-  - Camden /ˈkæmdən/ n. 卡姆登（英国城市名）n. (Camden) 卡姆登（人名）
-  - flat /flæt/ adj. 平的；单调的；adv. 平直地；水平地；n. 平地；**公寓**；平面; vt. 使变平；vi. 逐渐变平；
+  - Andre ['ændrei] n. 安德烈（男子名，等于Andrew）
+  - Camden [ˈkæmdən] n. 卡姆登（英国城市名）n. (Camden) 卡姆登（人名）
+  - flat [flæt] adj. 平的；单调的；adv. 平直地；水平地；n. 平地；**公寓**；平面; vt. 使变平；vi. 逐渐变平；
 
 ### T9.7
 
@@ -2321,12 +2339,14 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 ### T9.9 It's the biggest
 
 - 1 The tallest building in London is Canary Wharf. It's 235 metres.
-- 2 The most expensive hotel is the Lanesborough. It costs €7,000 per night!
+- 2 The most expensive hotel is the Lanesborough. It costs £7,000 per night!
 - 3 The biggest park in central London is Hyde Park. It's 142 hectares.
+  - hectare [ˈhekter] n. 公顷（土地丈量单位，等于1万平方米或约2.5英亩）
+  - acre [ˈeɪkər] n. 英亩；
 - 4 The most popular tourist attraction is the London Eye. It has 10,000 visitors a day.
 - 5 The most famous building is Buckingham Palace. Everyone knows who lives there.
   - Buckingham ['bʌkɪŋəm] 白金汉宫
-- 6 The best restaurant for spotting celebrities is The ivy. They all go there.
+- 6 The best restaurant for spotting celebrities is The Ivy. They all go there.
   - spot v. 看见，注意到；（对比赛对手）让分，让步；飘
   - celebrity [səˈlebrəti] n. 名声，名望；名人，明星
 
@@ -2335,6 +2355,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - A megacity is a city with more than ten million inhabitants.
   - megacity [ˈmeɡəsɪti] n. 大城市（人口超过1000万的）
   - inhabitant [ɪnˈhæbɪtənt] n. （某地的）居民，栖息动物
+  - resident
 - The largest megacity is in fact Tokyo. The next biggest is Mexico City. Third is Mumbai. Fourth is New York, with about 22 million people. And last, the smallest is Shanghai, which has about 18.4 million.
 - Some time in 2008. for the first time in the history of the world, more people on earth lived in cities than in rural areas.
 
@@ -2344,7 +2365,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - The first thing to say about Tokyo is that it is very safe. Women can walk everywhere anytime day or night. Little children walk to school. You can leave something on the table in a restaurant while you go out for a minute and nobody will take it.
   - Tokyo is also very clean, and it is very easy to travel around. All the trains and buses run on time.
   - Personally, my favourite time of year is spring, when it's dry and the cherry blossom is out.
-    - [ˈblɑːsəm] 
+    - [ˈblɑːsəm]
   - Tokyo is a very exciting city, because there are always new things to do, new places to go, new things to eat. It changes very quickly!
 
 - Vimahl from Mumbai
@@ -2357,7 +2378,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 - Lourdes from Mexico City
   - There are three things I like about living in Mexico City. First, the weather. It is warm and sunny most of the year. The second is the fresh fruit and vegetables - the markets are wonderful, the colours and smells are great! And the third is that I'm never bored because there is so much to see and do! We have museums, theatres, art exhibitions, parks, restaurants, bars ... everything!
-  - My favourite time of year in Mexico City is the end of December, from the l6th to the 3lst. The city is full of lights, there are parties everywhere, and we eat and drink and give presents. Everyone's really happy! I love it!
+  - My favourite time of year in Mexico City is the end of December, from the 16th to the 3lst. The city is full of lights, there are parties everywhere, and we eat and drink and give presents. Everyone's really happy! I love it!
 
 ### City living
 
@@ -2365,103 +2386,106 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - Tokyo 英 /ˈtəʊkjəʊ/ 美 /'tokjo/ n. 东京（日本首都）
   - HIGH-SPEED
     - Tokyo has a **population** of 35 million people. It is the largest city in the world. It is also one of the most exciting. Everything moves fast here. It has one of the biggest and busiest railway systems in the world. Every day, 11 million **commuters** use it to get to and from work. People earn the highest **salaries**, and they spend the most money. They wear the latest **fashions**, and have the most up-to-date phones. It is the world's most expensive city.
-      - population 英 /ˌpɒpjuˈleɪʃn/  美 /ˌpɑːpjuˈleɪʃn/ n. 人口；[生物] 种群，[生物] 群体；全体居民；[统计学] 总体
-      - commuter /kəˈmjuːtə(r)/ n. 通勤者，经常乘公共车辆往返者；[交] 月季票乘客; 复数 commuters
-      - salary /ˈsæləri/ n. 薪水，工资; v. 给……薪金; 复数 salaries
-      - fashion /ˈfæʃn/ n. 时尚；时装；样式；方式；时髦人物; vt. 使用；改变；做成…的形状
-      - up-to-date /ˌʌp tə ˈdeɪt/ adj. 最新的，最近的；现代的，新式的
+      - population 英 [ˌpɒpjuˈleɪʃn]  美 [ˌpɑːpjuˈleɪʃn] n. 人口；[生物] 种群，[生物] 群体；全体居民；[统计学] 总体
+      - commuter [kəˈmjuːtə(r)] n. 通勤者，经常乘公共车辆往返者；[交] 月季票乘客; 复数 commuters
+      - salary [ˈsæləri] n. 薪水，工资; v. 给……薪金; 复数 salaries
+      - fashion [ˈfæʃn] n. 时尚；时装；样式；方式；时髦人物; vt. 使用；改变；做成…的形状
+      - up-to-date [ˌʌp tə ˈdeɪt] adj. 最新的，最近的；现代的，新式的
   - Old and new
     - Tokyo was originally a small fishing village called Edo. The name changed in 1868 when the Emperor moved there.
-      - originally /əˈrɪdʒənəli/ adv. 最初，起初；本来; 
+      - originally [əˈrɪdʒənəli] adv. 最初，起初；本来;
       - Edo castle 江户城堡
-      - emperor /ˈempərə(r)/ n. 皇帝，君主
+      - emperor [ˈempərə(r)] n. 皇帝，君主
     - The **architecture** is very modern. There are not many old buildings because of the 1923 earthquake and the Second World War. But traditional Japan is always near, with many **Shinto shrines** and public baths around the city.
-      - architecture /ˈɑːkɪtektʃə(r)/ n. 建筑学；建筑风格；建筑式样；架构
-      - modern 英 /ˈmɒdn/ 美 /ˈmɑːdərn/ adj. 现代的，近代的；时髦的; n. 现代人；有思想的人; 比较级 more modern; 最高级 most modern; 复数 moderns
-      - Shinto /ˈʃɪntoʊ/ n. 日本的神道教(1945年前为日本国教)
-      - shrine /ʃraɪn/ n. 圣地；神殿；神龛；圣祠; vt. 将…置于神龛内；把…奉为神圣; 过去式 shrined; 过去分词 shrined; 现在分词 shrining; 复数 shrines
-      - baths /bɑːðz/ n. 洗澡；浴缸（bath的复数形式）; v. 给…洗澡
+      - architecture [ˈɑːkɪtektʃə(r)] n. 建筑学；建筑风格；建筑式样；架构
+      - modern 英 [ˈmɒdn] 美 [ˈmɑːdərn] adj. 现代的，近代的；时髦的; n. 现代人；有思想的人; 比较级 more modern; 最高级 most modern; 复数 moderns
+      - Shinto [ˈʃɪntoʊ] n. 日本的神道教(1945年前为日本国教)
+      - shrine [ʃraɪn] n. 圣地；神殿；神龛；圣祠; vt. 将…置于神龛内；把…奉为神圣; 过去式 shrined; 过去分词 shrined; 现在分词 shrining; 复数 shrines
+      - baths [bɑːðz] n. 洗澡；浴缸（bath的复数形式）; v. 给…洗澡
   - Visiting Tokyo
     - Tokyo is on the east **coast** of Japan. The summers are hot and **humid**. The most beautiful time of year is spring, when the famous **cherry blossom** is on the trees. The city is huge, but it is one of the safest cities in the world.
-      - coast /kəʊst/ n. 海岸；滑行; v. 滑行；（交通工具）快速平稳地移动；得过且过，做事不费力；沿岸航行; 复数 coasts过去式 coasted过去分词 coasted现在分词 coasting第三人称单数 coasts
-      - humid /ˈhjuːmɪd/ adj. 潮湿的；湿润的；多湿气的;
-      - cherry /ˈtʃeri/ n. 樱桃；樱桃树；如樱桃的鲜红色；复数 cherries
-      - blossom /ˈblɒsəm/ n. 花；开花期；兴旺期；花开的状态；漂亮的人; v. 开花；兴旺；成功发展; n. (Blossom) 布洛瑟姆（人名）
+      - coast [kəʊst] n. 海岸；滑行; v. 滑行；（交通工具）快速平稳地移动；得过且过，做事不费力；沿岸航行; 复数 coasts过去式 coasted过去分词 coasted现在分词 coasting第三人称单数 coasts
+      - humid [ˈhjuːmɪd] adj. 潮湿的；湿润的；多湿气的;
+      - cherry [ˈtʃeri] n. 樱桃；樱桃树；如樱桃的鲜红色；复数 cherries
+      - blossom [ˈblɒsəm] n. 花；开花期；兴旺期；花开的状态；漂亮的人; v. 开花；兴旺；成功发展; n. (Blossom) 布洛瑟姆（人名）
     - Japan is mysterious. It is difficult for foreigners to understand.
-      - mysterious /mɪˈstɪəriəs/ adj. 神秘的；不可思议的；难解的
-      - foreigner /ˈfɒrənə(r)/ n. 外地人，外国人; 复数 foreigners
+      - mysterious [mɪˈstɪəriəs] adj. 神秘的；不可思议的；难解的
+      - foreigner [ˈfɒrənə(r)] n. 外地人，外国人; 复数 foreigners
 - MUMBAI
   - A CITY OF EXTREMES
     - Mumbai is India's largest city with a population of 22.8 million. It is also India's most important **commercial** centre. Mumbai was part of **the British Empire** until **independence** in 1947. It was called Bombay until 1995, when it was renamed Mumbai after a **goddess**, Mumba Devi.
-      - Mumbai /mʌm'bai/ n. 孟买（印度城市）
-      - extreme /ɪkˈstriːm/ adj. 极端的；极度的；偏激的；尽头的; n. 极端；末端；最大程度；极端的事物; 比较级 extremer最高级 extremest复数: n. 狂热分子，极端条件;
-      - commercial /kəˈmɜːʃl/ adj. 商业的；营利的；靠广告收入的; n. 商业广告; 复数 commercials
-      - british /ˈbrɪtɪʃ/ adj. 英国的；英国人的；大不列颠的; n. 英国人
-      - empire /ˈempaɪə(r)/ n. 帝国；帝王统治，君权; n. (Empire)人名；(法)昂皮尔; 复数 empires
-      - independence /ˌɪndɪˈpendəns/ n. 独立性，自立性；自主
-      - Bombay /bɔm'bei/ n. 孟买
-      - goddess /ˈɡɑːdəs/ n. 女神，受崇拜的女性; 复数 goddesses
-      - Devi /ˈdeɪvi/ n. 提毗（梵语中“女神”的意思）；井斜（测井曲线代号）
+      - Mumbai [mʌm'bai] n. 孟买（印度城市）
+      - extreme [ɪkˈstriːm] adj. 极端的；极度的；偏激的；尽头的; n. 极端；末端；最大程度；极端的事物; 比较级 extremer最高级 extremest复数: n. 狂热分子，极端条件;
+      - commercial [kəˈmɜːʃl] adj. 商业的；营利的；靠广告收入的; n. 商业广告; 复数 commercials
+      - british [ˈbrɪtɪʃ] adj. 英国的；英国人的；大不列颠的; n. 英国人
+      - empire [ˈempaɪə(r)] n. 帝国；帝王统治，君权; n. (Empire)人名；(法)昂皮尔; 复数 empires
+      - independence [ˌɪndɪˈpendəns] n. 独立性，自立性；自主
+      - Bombay [bɔm'bei] n. 孟买
+      - goddess [ˈɡɑːdəs] n. 女神，受崇拜的女性; 复数 goddesses
+      - Devi [ˈdeɪvi] n. 提毗（梵语中“女神”的意思）；井斜（测井曲线代号）
   - Rich and poor
-    - Mumbai is both old and modern, rich and poor. The streets are full of people doing business, selling snacks and clothes, or just living there. 
-    - Money is everywhere in modern Mumbai. India's most important businesses and banks havet heir **headquarters** there. The Bollywood film industry produces more films than Hollywood in Los Angeles.
-      - headquarter /'hedkwɔːtə/ 总部
-      - Bollywood /ˈbɑːliwʊd/ n. 宝莱坞（位于印度孟买的电影制作中心）
-      - Hollywood /ˈhɒliwʊd/ n. 好莱坞
-      - Los Angeles /lɒs ˈændʒɪˌliːz/ 洛杉矶
+    - Mumbai is both old and modern, rich and poor. The streets are full of people doing business, selling snacks and clothes, or just living there.
+    - Money is everywhere in modern Mumbai. India's most important businesses and banks have their **headquarters** there. The Bollywood film industry produces more films than Hollywood in Los Angeles.
+      - headquarter ['hedkwɔːtə] 总部
+      - Bollywood [ˈbɑːliwʊd] n. 宝莱坞（位于印度孟买的电影制作中心）
+      - Hollywood [ˈhɒliwʊd] n. 好莱坞
+      - Los Angeles [lɒsˈændʒɪˌliːz] 洛杉矶
     - Modern **skyscrapers** and new shopping malls are right next to slums. Sixty percent of the population live with no **running water**, no **electricity**, and no **sanitation**.
-      - /ˈskaɪskreɪpə(r)/ n. 摩天楼，超高层大楼；特别高的东西; 复数 skyscrapers
+      - skyscraper [ˈskaɪskreɪpə(r)] n. 摩天楼，超高层大楼；特别高的东西; 复数 skyscrapers
         - scraper n. 刮刀；铲土机；守财奴; 复数 scrapers
-      - electricity /ɪˌlekˈtrɪsəti/ n. 电力；电流；强烈的紧张情绪
-      - sanitation /ˌsænɪˈteɪʃn/ n. [医] 环境卫生；卫生设备；下水道设施
+      - electricity [ɪˌlekˈtrɪsəti] n. 电力；电流；强烈的紧张情绪
+      - sanitation [ˌsænɪˈteɪʃn] n. [医] 环境卫生；卫生设备；下水道设施
   - Visiting Mumbai
     - Mumbai is on the west coast. The wet season is from June to September. Between November and February it is a little cooler and dryer.
       - The wet season [气候] 湿季；雨季
     - The city is **best at sunrise and sunset**, when the colour of the stone buildings changes from gold to orange and pink.
     - The cheapest and easiest transport is by bus. Trains can be **crowded** and dangerous.
     - Because of its **poverty**, Mumbai can be a difficult place to live, but the experience is unique.
-      - poverty /ˈpɒvəti/ n. 贫困；困难；缺少；低劣
-      - unique /juˈniːk/ adj. 独特的，稀罕的；[数] 唯一的，独一无二的; n. 独一无二的人或物
+      - poverty [ˈpɒvəti] n. 贫困；困难；缺少；低劣
+      - unique [juˈniːk] adj. 独特的，稀罕的；[数] 唯一的，独一无二的; n. 独一无二的人或物
 - MEXICO CITY
   - MULTICULTURAL
     - Mexico City has a population of 23.4 million. It is the largest city in both North and South America. The Aztecs called it Tenochtitlan, and it was already an important city when the Spanish invaded in 1521. The country became **independent** in 1821.
       - Aztecs n. 阿芝特克人; adj. 阿芝特克人的
       - Tenochtitlan 特诺奇蒂特兰城（墨西哥古都）
-      - invade /ɪnˈveɪd/ vt. 侵略；侵袭；侵扰；涌入; vi. 侵略；侵入；侵袭；侵犯
-      - independent /ˌɪndɪˈpendənt/ adj. 独立的；单独的；无党派的；不受约束的; n. 独立自主者；无党派者
+      - invade [ɪnˈveɪd] vt. 侵略；侵袭；侵扰；涌入; vi. 侵略；侵入；侵袭；侵犯
+      - independent [ˌɪndɪˈpendənt] adj. 独立的；单独的；无党派的；不受约束的; n. 独立自主者；无党派者
   - Indian and European
     - Mexico City offers **a variety of** experiences. In the Zócalo, the main square, you can see the Spanish **cathedral**, an Aztec **temple**, and a modern skyscraper. The city has a lot of museums and theatres. European squares and **colonial** houses sit next to busy markets selling Mexican food and Indian **handicrafts**.
-      - variety /vəˈraɪəti/ n. 多样；种类；杂耍；变化，多样化; 复数 varieties
-      - cathedral /kəˈθiːdrəl/ n. 大教堂; 复数 cathedrals
-      - temple /ˈtempl/ n. 庙宇；寺院；神殿；太阳穴
-      - colonial /kəˈləʊniəl/ adj. 殖民的，殖民地的；（建筑，家具）殖民地时期式样的；（动物，植物）群体的；受英国殖民统治时期的; n. 殖民地居民；殖民地时期式样的房屋; 复数 colonials
-      - Mexican /ˈmeksɪkən/ adj. 墨西哥的，墨西哥人的; n. 墨西哥人; 复数 Mexicans
-      - handicraft /ˈhændikrɑːft/ n. 手工艺；手工艺品; 复数 handicrafts
+      - variety [vəˈraɪəti] n. 多样；种类；杂耍；变化，多样化; 复数 varieties
+      - cathedral [kəˈθiːdrəl] n. 大教堂; 复数 cathedrals
+      - temple [ˈtempl] n. 庙宇；寺院；神殿；太阳穴
+      - colonial [kəˈləʊniəl] adj. 殖民的，殖民地的；（建筑，家具）殖民地时期式样的；（动物，植物）群体的；受英国殖民统治时期的; n. 殖民地居民；殖民地时期式样的房屋; 复数 colonials
+      - Mexican [ˈmeksɪkən] adj. 墨西哥的，墨西哥人的; n. 墨西哥人; 复数 Mexicans
+      - handicraft [ˈhændikrɑːft] n. 手工艺；手工艺品; 复数 handicrafts
     - It is the richest city in Latin America. There are **elegant** shops selling high-class goods, expensive restaurants, and **supercool** bars. There are also many people who live in poor houses.
-      - elegant /ˈelɪɡənt/ adj. 高雅的，优雅的；讲究的；简炼的；简洁的
+      - elegant [ˈelɪɡənt] adj. 高雅的，优雅的；讲究的；简炼的；简洁的
       - supercool v. 使过冷，使（液体）冷却到凝固点以下而不凝固；（活生物体）体温降到零度以下仍存活; adj. **超酷的，极有魅力的**；令人印象深刻的；非常冷静的
   - Visiting Mexico City
     - Mexico City is in a **valley** in the south central area of the country. It is surrounded by mountains. The rainy season is from June to October. The warmest months are April and May. It has the largest and **cheapest** subway system in Latin America. Traffic moves so slowly that it is often faster to walk. The air **quality** is not good, and visitors need to be careful, but the city offers a rich cultural mix.
-      - valley /ˈvæli/ n. 山谷；流域；溪谷; 复数 valleys
-      - cheapest /tʃi:pɪst/ adj. 最便宜的（cheap的最高级形式）
-      - quality /ˈkwɒləti/ n. 质量，[统计] 品质；特性；才能; adj. 优质的；高品质的；<英俚>棒极了
+      - valley [ˈvæli] n. 山谷；流域；溪谷; 复数 valleys
+        - canyon [ˈkænjən] n. （两边为峭壁、谷底通常有溪流的）峡谷
+      - cheapest [tʃi:pɪst] adj. 最便宜的（cheap的最高级形式）
+      - quality [ˈkwɒləti] n. 质量，[统计] 品质；特性；才能; adj. 优质的；高品质的；<英俚>棒极了
 
 ### T9.12 Directions
 
 - **Go along** George Street, **past** the Bristol Hotel **on** your left, and **over** the bridge. **At** the **roundabout** turn left and **go up** Park Avenue. **Go round** the corner, **through** the wood, and **down** the hill. Then go under the railway bridge and you are on the A312 to Dorchester.
-  - Bristol /'brɪst(ə)l/ n. 布里斯托尔（英国西部的港口城市）
-  - roundabout /ˈraʊndəbaʊt/ n. （交通）环岛，环状交叉路口；（游乐设施）旋转平台，旋转木马（同 merry-go-round）；（公园、学校的）转椅；迂回路线; adj. （说话）迂回的；绕道的；圆形的
-  - avenue /ˈævənjuː/ n. 大街；林荫大道；[比喻](达到某物的)途径，手段，方法，渠道
-  - Dorchester /'dɔ:tʃəstə/ n. 多尔切斯特（英国英格兰南部城市）
+  - Bristol ['brɪst(ə)l] n. 布里斯托尔（英国西部的港口城市）
+  - roundabout [ˈraʊndəbaʊt] n. （交通）环岛，环状交叉路口；（游乐设施）旋转平台，旋转木马（同 merry-go-round）；（公园、学校的）转椅；迂回路线; adj. （说话）迂回的；绕道的；圆形的
+  - avenue /[ævənjuː] n. 大街；林荫大道；[比喻](达到某物的)途径，手段，方法，渠道
+  - Dorchester ['dɔ:tʃəstə] n. 多尔切斯特（英国英格兰南部城市）
 
 ### T9.13
 
 - 1 Go along George Street, past the hotel and over the River Sherwell. **Go straight over** the roundabout, and it's **in front of** you **on** the hill **to** your left.
 - 2 Go straight past the hotel and over the bridge until you get to a roundabout. At the roundabout follow signs to the town centre. **Go past** a petrol station **on** your left, over a **pedestrian crossing**, and past **a set of** traffic lights. At the roundabout turn right. You're in ... Street.
   - town centre 市中心；镇上的主要商业区
-  - petrol /ˈpetrəl/ n. （英）汽油; 复数 petrols
-  - pedestrian /pəˈdestriən/ adj. 徒步的；缺乏想像力的; n. **行人**；步行者
+  - petrol [ˈpetrəl] n. （英）汽油; 复数 petrols
+  - pedestrian [pəˈdestriən] adj. 徒步的；缺乏想像力的; n. **行人**；步行者
   - pedestrian crossing 人行横道
+    - pavement 人行道; 路面; 铺装;
+    - sidewalk
 - 3 Go over the bridge, the River Sherwell, and turn right into the town centre. **Go straight on**, past the traffic lights, and over a roundabout. When you are in the square, it's **on** the left-hand side, next to the museum, **opposite** the Town Hall.
   - on your lelf是静止的，在左边
   - to your left是动态的，向左边
@@ -2476,7 +2500,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - 2 'I'm reading the paper.'
 - 3 'I'm watching the football.'
 - 4 'I'm working on my laptop.'
-  - laptop /ˈlæptɒp/ n. 膝上型轻便电脑，笔记本电脑; 复数 laptops
+  - laptop [ˈlæptɒp] n. 膝上型轻便电脑，笔记本电脑; 复数 laptops
 
 ### T10.2 I'm sitting on the train
 
@@ -2484,7 +2508,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - T Hello?
   - N Hi, Tony! It's Nina. Where are you?
   - T We're on the train. We're going to Birmingham for the weekend.
-    - Birmingham /'bɜ:mɪŋˌhæm/ n. 伯明翰（英国一座城市; 美国阿拉巴马州一座城市）
+    - Birmingham ['bɜ:mɪŋˌhæm] n. 伯明翰（英国一座城市; 美国阿拉巴马州一座城市）
   - N Oh, great! How's the journey?
   - T Fine. I'm reading the paper, and Alice is doing something on her laptop ...
 
@@ -2537,7 +2561,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - 3 Fiona's cooking lunch.
 - 4 Tim's watching a film.
 - 5 Beth's doing her homework.
-  - Beth /beiθ; beθ/ n. 贝丝（女子名，等于Elizabeth /ɪ'lɪzəbəθ/ n. 伊丽莎白（女子名））
+  - Beth [beiθ; beθ] n. 贝丝（女子名，等于Elizabeth [ɪ'lɪzəbəθ] n. 伊丽莎白（女子名））
 - 6 Beth and Ellie are sitting in Ellie's bedroom.
 
 ### T10.6 Who's who?
@@ -2546,18 +2570,18 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - B Don't worry. They're all very nice, I'll tell you who everybody is. Can you see that man over there?
 - A The man near the window?
 - B Yes. That's Paul. He's talking to Sophie. He's a banker. Very rich. And very funny. He works in New York.
-  - Sophie /'səʊfɪ/n. 索菲（女子名）
+  - Sophie ['səʊfɪ] n. 索菲（女子名）
 - A Wow! So he's Paul. OK. And that's Sophie next to him?
 - B Yes. She's **laughing at** Paul's jokes. She's lovely. She's a professor at Bristol University. She teaches business studies.
   - laugh at 嘲笑；**因…而发笑**
-  - joke /dʒəʊk/ n. 玩笑，笑话；笑柄; vt. 开…的玩笑; vi. 开玩笑
+  - joke [dʒəʊk] n. 玩笑，笑话；笑柄; vt. 开…的玩笑; vi. 开玩笑
 - A And who's that woman on the left?
 - B That's Helena. She's drinking **champagne**. She's a writer. She writes stories for children. They're excellent. A very nice lady.
-  - Helena /hɛ'linɚ/ n. 海伦娜（女子名）
-  - champagne /ʃæmˈpeɪn/ n. 香槟酒；香槟酒色; 复数 champagnes
+  - Helena [hɛ'linɚ] n. 海伦娜（女子名）
+  - champagne [ʃæmˈpeɪn] n. 香槟酒；香槟酒色; 复数 champagnes
 - A And who's that man she's talking to?
 - B Helena's talking to Roger. Roger's eating crisps. He's an interesting man. He's an art **dealer**. He works for the British Museum.
-  - dealer /ˈdiːlə(r)/ n. 经销商；商人; n. 发牌员; n. [俚语]毒品贩子，贩毒者
+  - dealer [ˈdiːlə(r)] n. 经销商；商人; n. 发牌员; n. [俚语]毒品贩子，贩毒者
 - A Really? Wow! What a job! So that's Paul and Sophie ... Helena and Roger ... Now there are two more. Who are they?
 - B They're Sam and Penny. They're looking at a photo on Sam's phone.
 - A And what do they do?
@@ -2585,11 +2609,11 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - 3
   - E Did you go anywhere on Saturday night?
   - F No. **Nowhere**.
-    - nowhere /ˈnəʊweə(r)/ adv. 无处；任何地方都不；毫无结果; n. 无处；任何地方；无名之地; adj. 不存在的；毫无结果的；不知名的
+    - nowhere [ˈnəʊweə(r)] adv. 无处；任何地方都不；毫无结果; n. 无处；任何地方；无名之地; adj. 不存在的；毫无结果的；不知名的
   - E Why not?
   - F Everywhere was closed. There wasn't one club open.
   - E That's **incredible**!
-    - incredible /ɪnˈkredəbl/ adj. 不能相信的，难以置信的；极好的，极大的
+    - incredible [ɪnˈkredəbl] adj. 不能相信的，难以置信的；极好的，极大的
   - F So next weekend I'm going somewhere more interesting.
 
 ### T10.8 An interview with an astronaut
@@ -2597,8 +2621,8 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - I =Interviewer S =Soichi
 - I Soichi, what exactly is your job?
 - S I'm an aeronautical engineer, and I'm a JAXA astronaut.
-  - aeronautical /ˌeərəˈnɔːtɪkl/ adj. 航空的；航空学的；飞机驾驶员的（等于aeronautic）
-  - astronaut /ˈæstrənɔːt/ n. 宇航员，航天员；太空旅行者
+  - aeronautical [ˌeərəˈnɔːtɪkl] adj. 航空的；航空学的；飞机驾驶员的（等于aeronautic）
+  - astronaut [ˈæstrənɔːt] n. 宇航员，航天员；太空旅行者
 - I What is JAXA?
 - S JAXA is the Japan Aerospace Exploration Agency.
 - I What did you study at university?
@@ -2607,38 +2631,38 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - S I studied at the University of Tokyo, and I graduated in 1991.
 - I Which part of Japan are you from?
 - S I'm from Yokohama, Kanagawa, which is part of Tokyo.
-  - Yokohama /,jəukə'hɑ:mə; 'jɔ:kɔ:'hɑ:mɑ:/ n. 横滨（日本一城市名）
-  - Kanagawa /kə'nɑ:ɡəwə/ n. 神奈川（日本一个县）
+  - Yokohama [,jəukə'hɑ:mə; 'jɔ:kɔ:'hɑ:mɑ:] n. 横滨（日本一城市名）
+  - Kanagawa [kə'nɑ:ɡəwə] n. 神奈川（日本一个县）
 - I Are you married?
 - S Yes. and I have three children.
 - I What do you like doing when you're on Earth?
 - S Well, I guess my hobbies are jogging and basketball. And I like skiing and camping with my kids.
-  - jogging /ˈdʒɒɡɪŋ/ n. 慢跑; v. 慢跑（jog的ing形式）；轻推；唤起
+  - jogging [ˈdʒɒɡɪŋ] n. 慢跑; v. 慢跑（jog的ing形式）；轻推；唤起
 - I What are you doing on the space station at the moment?
 - S I'm doing quite a few space walks. I'm going out into space, and I'm checking the instruments on the outside of the space station, to make sure they're working properly.
-  - instrument /ˈɪnstrəmənt/ n. 仪器；工具；乐器；手段；器械; v. 给……装测量仪器
+  - instrument [ˈɪnstrəmənt] n. 仪器；工具；乐器；手段；器械; v. 给……装测量仪器
 - I You're part of the Russian crew. What does this mean?
-  - crew /kruː/ n. 队，组；全体人员，全体船员; vi. 一起工作; vt. 使当船员; 复数 crews;
+  - crew [kruː] n. 队，组；全体人员，全体船员; vi. 一起工作; vt. 使当船员; 复数 crews;
 - S It means that my commander is OIeg Kotov, from Roscosmos, and I'm working in his team. We're studying weather conditions in space, and we're doing experiments with plants to see how they grow in zero gravity.
   - 俄罗斯联邦航天局 Russian Federal Space Agency 简称RKA，通称Roskosmos
   - conditions n. （生活或工作等的）条件；（影响某事发生的）物质环境；（**天气、地面等的）情况**; n. 疾病；条款；先决条件;（condition 的复数）
     - weather conditions 天气状况；气象条件；气象状态
-  - experiment /ɪkˈsperɪmənt/ n. 实验，试验；尝试; v. 尝试；试验；进行实验; 复数 experiments
-  - gravity /ˈɡrævəti/ n. 重力，地心引力；严重性；庄严; 复数 gravities
+  - experiment [ɪkˈsperɪmənt] n. 实验，试验；尝试; v. 尝试；试验；进行实验; 复数 experiments
+  - gravity [ˈɡrævəti] n. 重力，地心引力；严重性；庄严; 复数 gravities
 - I What do you do when you aren't working?
 - S Well, I spend a lot of time just looking down at you on Earth! And I think how lucky I am to be here. And I wish that everyone could see the Earth from space. Maybe people would stop fighting if they could see how beautiful our planet is.
 
 ### T10.9 Who is it?
 
 - 1 She('s got) dark brown hair and she's quite pretty. She's wearing boots, and a hat, and a red scarf, and she's jumping in the air. She looks really happy!
-  - brown /braʊn/ adj. 棕色的，褐色的；太阳晒黑的; vi. 变成褐色; n. 褐色，棕色; vt. 使变成褐色
-  - scarf /skɑːf/ n. 围巾；嵌接，嵌接处；头巾领巾; vt. 披嵌接；用围巾围;  复数 scarfs或scarves;
+  - brown [braʊn] adj. 棕色的，褐色的；太阳晒黑的; vi. 变成褐色; n. 褐色，棕色; vt. 使变成褐色
+  - scarf [skɑːf] n. 围巾；嵌接，嵌接处；头巾领巾; vt. 披嵌接；用围巾围;  复数 scarfs或scarves;
 - 2 He's got short dark hair. He's wearing trainers, and a purple T-shirt, and he's carrying a ball. He isn' t very tall.
-  - trainers /'treɪnəz/ n. 运动鞋；[劳经] 训练员；练习器（trainer的复数）
+  - trainers ['treɪnəz] n. 运动鞋；[劳经] 训练员；练习器（trainer的复数）
 - 3 She's wearing a scarf. She's pretty, and she's got long, blond hair, and blue eyes. She isn't smiling. She doesn't look very friendly.
-  - blond /blɒnd/ adj. 金发的; n. 白肤碧眼金发的人
+  - blond [blɒnd] adj. 金发的; n. 白肤碧眼金发的人
 - 4 He doesn't look very happy. Perhaps he's a businessman. He's wearing a white shirt and a striped tie. He's also wearing black glasses.
-  - striped /straɪpt/ adj. 有条纹的；有斑纹的; v. 被剥去（strip的过去分词）
+  - striped [straɪpt] adj. 有条纹的；有斑纹的; v. 被剥去（strip的过去分词）
 
 ### T10.10 Social expressions
 
@@ -2647,10 +2671,10 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - A Patrick and I are getting married.
     - Patrick /'pætrɪk/ n. 帕特里克（男子名）
   - B Wow! That's fantastic! Congratulations!
-    - fantastic /fænˈtæstɪk/ adj. 奇异的；空想的；异想天开的；古怪的；**极好的，极出色的**；不可思议的；不切实际的; n. 古怪的人
-    - congratulations /kənˌgrætjʊˈleɪʃənz/ n. 祝贺；恭喜；贺词（congratulation的复数形式）
+    - fantastic [fænˈtæstɪk] adj. 奇异的；空想的；异想天开的；古怪的；**极好的，极出色的**；不可思议的；不切实际的; n. 古怪的人
+    - congratulations [kənˌgrætjʊˈleɪʃənz] n. 祝贺；恭喜；贺词（congratulation的复数形式）
   - A Thanks. We're both very excited. And a bit nervous.
-    - nervous /ˈnɜːvəs/ adj. 神经的；紧张不安的；强健有力的; 比较级 more nervous; 最高级 most nervous
+    - nervous /[nɜːvəs] adj. 神经的；紧张不安的；强健有力的; 比较级 more nervous; 最高级 most nervous
 - 2
   - C Can I help you?
   - D No, I'm just looking, thanks.
@@ -2660,7 +2684,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - E Don't forget it's a Bank Holiday on Monday.
   - F Sorry, what does that mean?
   - E It means it's a national holiday. The garage is closed - most places are closed.
-    - garage 英 /ˈɡærɑːʒ; ˈɡærɑːdʒ; ˈɡærɪdʒ/  美 /ɡəˈrɑːʒ,ɡəˈrɑːdʒ/ n. 车库；汽车修理厂；飞机库; vt. 把……送入车库；把（汽车）开进车库
+    - garage 英 [ˈɡærɑːʒ; ˈɡærɑːdʒ; ˈɡærɪdʒ]  美 [ɡəˈrɑːʒ,ɡəˈrɑːdʒ] n. 车库；汽车修理厂；飞机库; vt. 把……送入车库；把（汽车）开进车库
 - 4
   - G We're going to the cinema tonight.
   - H Oh, **lovely**! Well, I hope you enjoy the film!
@@ -2676,7 +2700,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - K Hi. Can I speak to Dave, please?
   - L I'm afraid he isn't here at the moment. Can I take a message?
   - K Yes. Could you ask him to phone Kevin?
-    - Kevin 英 /'kɛvɪn/  美 /'kevɪn/ n. 凯文（男子名）
+    - Kevin 英 ['kɛvɪn]  美 ['kevɪn] n. 凯文（男子名）
   - L Sure. I'll do that.
 - 7
   - M Thanks for the invitation to your party, but I'm afraid I can't come.
@@ -2696,15 +2720,15 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 ### T11.1 Planning my future
 
 - 1 When I get home, I'm going to **relax with** my wife.
-  - relax /rɪˈlæks/ vi. 放松，休息；松懈，松弛；变从容；休养; vt. 放松；使休息；使松弛；缓和；使松懈; relaxing第三人称单数 relaxes
-  - 
+  - relax [rɪˈlæks] vi. 放松，休息；松懈，松弛；变从容；休养; vt. 放松；使休息；使松弛；缓和；使松懈; relaxing第三人称单数 relaxes
+  -
 - 2 When I grow up, I'm going to be a racing driver.
-  - racing /ˈreɪsɪŋ/ n. 赛马；竞赛; vi. 赛马（race的ing形式）；竞赛; adj. 比赛的
+  - racing [ˈreɪsɪŋ] n. 赛马；竞赛; vi. 赛马（race的ing形式）；竞赛; adj. 比赛的
 - 3 When the kids are in bed, I'm going to sit down and have a glass of wine.
 - 4 When I get **a pay rise**, I'm going to buy my girlfriend a ring.
-  - rise /raɪz/ v. 攀升；起床；升起；休会；（数量）增加；变得更成功；（声响）提高；（风）刮起来；（情感）增强；（毛发）竖起；（土地）凸起；起源；发酵; n. （数量或水平的）增加；**加薪**；（权利等）增强；上升；小丘；（诱饵）游上水面；源头；（楼梯的）级高；晋升；出现
+  - rise [raɪz] v. 攀升；起床；升起；休会；（数量）增加；变得更成功；（声响）提高；（风）刮起来；（情感）增强；（毛发）竖起；（土地）凸起；起源；发酵; n. （数量或水平的）增加；**加薪**；（权利等）增强；上升；小丘；（诱饵）游上水面；源头；（楼梯的）级高；晋升；出现
 - 5 When I arrive on Koh Samui Island, I'm going to lie on the beach.
-  - Koh /kəʊ/ n. 鸟叫声; n. (Koh)人名；(泰)谷；(塞)科赫；(柬)戈；(朝)高
+  - Koh [kəʊ] n. 鸟叫声; n. (Koh)人名；(泰)谷；(塞)科赫；(柬)戈；(朝)高
   - Samui 泰国苏梅岛
 - 6 When I retire, I'm going to learn to play golf.
 - 7 When this lesson ends, I'm going to meet my friends for coffee.
@@ -2724,20 +2748,20 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 ### T11.4 Careful! You're going to drop it!
 
 - 1 What a pity! It's going to rain. He can't play tennis.
-  - pity /ˈpɪti/ n. 怜悯，同情；**遗憾**; vt. 对……表示怜悯；对……感到同情; 复数 pities
+  - pity [ˈpɪti] n. 怜悯，同情；**遗憾**; vt. 对……表示怜悯；对……感到同情; 复数 pities
 - 2 Look at the time. He's going to be late for his meeting.
 - 3 Come on! Come on! She's going to win. Fantastic!
 - 4 Oh no! Jack's on top of the wall! He's going to fall.
 - 5 Careful! She's going to drop the vase. Too late!
-  - vase /vɑːz/ n. 瓶；花瓶
+  - vase [vɑːz] n. 瓶；花瓶
 - 6 They're so excited. They're going to have a baby. It's **due** in July.
-  - due /djuː/ adj. 到期的；**预期的**；应付的；应得的; n. 应付款；应得之物; adv. 正（置于方位词前）
+  - due [djuː] adj. 到期的；**预期的**；应付的；应得的; n. 应付款；应得之物; adv. 正（置于方位词前）
 - 7 There's my sister and her boyfriend! Yuk! They're going to kiss.
 - 8 He's going to sneeze. 'Aaattishooo!' 'Bless you!'
-  - sneeze /sniːz/ vi. 打喷嚏; n. 喷嚏; 现在分词 sneezing
-  - atishoo /əˈtɪʃuː/ int. 阿嚏（指喷嚏声）; 复数 atishoos
+  - sneeze [sniːz] vi. 打喷嚏; n. 喷嚏; 现在分词 sneezing
+  - atishoo [əˈtɪʃuː] int. 阿嚏（指喷嚏声）; 复数 atishoos
     - int.是interjection的缩写,感叹词
-  - bless /bles/ vt. 祝福；**保佑**；赞美; n. (Bless)人名；(英、意、德、匈)布莱斯; 过去式 blessed 或blest; 过去分词 blessed 或blest; 现在分词 blessing; 第三人称单数 blesses
+  - bless [bles] vt. 祝福；**保佑**；赞美; n. (Bless)人名；(英、意、德、匈)布莱斯; 过去式 blessed 或blest; 过去分词 blessed 或blest; 现在分词 blessing; 第三人称单数 blesses
 
 ### T11.5 see p89
 
@@ -2745,43 +2769,43 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 - R=Rob F=Friend B=Becky
 - R First we're going to **Egypt**.
-  - Egypt /ˈiːdʒɪpt/ n. 埃及（非洲国家）
+  - Egypt [ˈiːdʒɪpt] n. 埃及（非洲国家）
 - F Why? To see the **pyramids**?
-  - pyramids /'pɪrəmɪdz/ n. （埃及）[建] 金字塔（pyramid的复数）；[解剖] 锥体
+  - pyramids ['pɪrəmɪdz] n. （埃及）[建] 金字塔（pyramid的复数）；[解剖] 锥体
 - B Well, yes, but also we want to take a **cruise** **down** the **Nile**.
-  -  /kruːz/ v. 乘船游览；以平稳的速度行驶；巡航，巡游，漫游；开车兜风；轻而易举赢得；猎艳（非正式）; n. **乘船游览，游船度假**；巡航，巡游
-  -  Nile /naɪl/ n. 尼罗河（位于非洲）
+  -  [kruːz] v. 乘船游览；以平稳的速度行驶；巡航，巡游，漫游；开车兜风；轻而易举赢得；猎艳（非正式）; n. **乘船游览，游船度假**；巡航，巡游
+  -  Nile [naɪl] n. 尼罗河（位于非洲）
 - F Fantastic! Where are you going after that?
 - R Well, then we're going to **Tanzania** to ...
-  - Tanzania /ˌtænzəˈni:ə/ n. 坦桑尼亚（东非国家）
+  - Tanzania [ˌtænzəˈni:ə] n. 坦桑尼亚（东非国家）
 - F Wow! You're going to climb **Kilimanjaro**.
-  - Kilimanjaro /,kilimən'dʒɑ:rəu/ n. 乞力马扎罗山（非洲最高峰）
+  - Kilimanjaro [,kilimən'dʒɑ:rəu] n. 乞力马扎罗山（非洲最高峰）
 - R Yes, and then we're flying to India.
 - F Are you going to visit the **Taj Mahal**?
-  - Taj /tɑːdʒ/ n. 印度泰姬陵；（伊斯兰托钵僧戴的）圆锥形高帽
-  - Mahal /məˈhɑːl/ n. 马哈尔（姓氏）；**宫殿**
+  - Taj [tɑːdʒ] n. 印度泰姬陵；（伊斯兰托钵僧戴的）圆锥形高帽
+  - Mahal [məˈhɑːl] n. 马哈尔（姓氏）；**宫殿**
 - B Of course, but we're also going **on** a tiger **safari**.
-  - safari /səˈfɑːri/ n. **狩猎远征，游猎**；长途旅行；旅游期间；外出期间
+  - safari [səˈfɑːri] n. **狩猎远征，游猎**；长途旅行；旅游期间；外出期间
 - F You're going to see tigers!
 - R Well, we hope so. Then we're going to **Cambodia** to visit the **temples** of **Angkor Wat** and ...
-  - Cambodia /kæmˈbəʊdiə/ n. 柬埔寨（位于亚洲）
-  - Angkor /'æŋkɔ:/ n. 吴哥（柬埔寨的古都） 
-  - Wat n. 英 /wat/  美 /wɑt/ （泰国、柬埔寨及老挝的）佛寺
+  - Cambodia [kæmˈbəʊdiə] n. 柬埔寨（位于亚洲）
+  - Angkor ['æŋkɔ:] n. 吴哥（柬埔寨的古都）
+  - Wat n. 英 [wat]  美 [wɑt] （泰国、柬埔寨及老挝的）佛寺
   - Angkor Wat 吴哥窟（位于柬埔寨）
 - B ... then to **Australia** to see **Ayers Rock**. We want to take photographs of it at sunset. Did you know it turns from pink to purple at sunset?
   - Ayers Rock 艾尔斯山（澳大利亚）
 - F Really! And are you going to **Sydney**?
-  - Sydney /ˈsɪdni/ n. 悉尼（澳大利亚港市）
+  - Sydney [ˈsɪdni] n. 悉尼（澳大利亚港市）
 - R Oh, yes we're taking a flight from Sydney to **Antarctica**.
-  - Antarctica /ænˈtɑːktɪkə/ n. 南极洲
+  - Antarctica [ænˈtɑːktɪkə] n. 南极洲
 - B Yeah, it's a day trip to see the coldest place on earth.
 - F I can't believe this. How many more places?
 - R Two. We're flying from Sydney to **Peru** to ...
-  - Peru /pəˈruː/ n. 秘鲁（拉丁美洲国家名）
+  - Peru [pəˈruː] n. 秘鲁（拉丁美洲国家名）
 - F ... to see Machu Picchu of course.
   - Machu Picchu 马丘比丘（古城，位于秘鲁中部偏南）
 - R Yes, and then from Peru to the US to Yellowstone Park to see the **supervolcano** and perhaps some **grizzly** bears.
-  - grizzly /'grɪzlɪ/ adj. 灰色的; n. 灰熊; 复数 grizzlies比较级 grizzlier最高级 grizzliest
+  - grizzly ['grɪzlɪ] adj. 灰色的; n. 灰熊; 复数 grizzlies比较级 grizzlier最高级 grizzliest
 - B Then home!
 - F Amazing! What a trip! How long is it going to take?
 - R Nine months to a year - we think.
@@ -2809,28 +2833,28 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T11.8 Song: Ed, Will, and Ginger - Oats and beans
 
-- ginger /ˈdʒɪndʒə(r)/ n. 姜；姜黄色；精力；有姜味; vt. 用姜给…调味；使某人有活力; adj. 姜黄色的
+- ginger [ˈdʒɪndʒə(r)] n. 姜；姜黄色；精力；有姜味; vt. 用姜给…调味；使某人有活力; adj. 姜黄色的
 - Oats and beans and barley grow
-  - oats /əʊts/ n. 燕麦；燕麦片（oat的复数）；燕麦粥
-  - barley /ˈbɑːli/ n. 大麦
+  - oats [əʊts] n. 燕麦；燕麦片（oat的复数）；燕麦粥
+  - barley [ˈbɑːli] n. 大麦
 - As you and I and everyone knows,
 - Oats and beans and barley grows
 - As you and I and everyone knows,
 - Awaiting for a partner.
 - First the farmer sows his seeds,
-  - sow /səʊ/ v. 播种
+  - sow [səʊ] v. 播种
 - Then he stands and takes his ease.
 - Stamps his feet and claps his hands
   - stamp n. 邮票；印记；标志；跺脚; vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏; vi. **跺脚**；捣碎；毁掉
-  - clap /klæp/ vi. 鼓掌，拍手；啪地关上; vt. **拍手**，鼓掌；轻轻拍打某人; n. 鼓掌；拍手声
+  - clap [klæp] vi. 鼓掌，拍手；啪地关上; vt. **拍手**，鼓掌；轻轻拍打某人; n. 鼓掌；拍手声
 - And turns around to view his lands
 - Awaiting for a partner
 - Now you're married you must obey,
-  - obey /əˈbeɪ/ vt. 服从，听从；按照……行动; vi. 服从，顺从；听话
+  - obey [əˈbeɪ] vt. 服从，听从；按照……行动; vi. 服从，顺从；听话
 - Must be true in all you say,
 - Must be kind and must be good
 - And help your wife to chop the wood,
-  - chop 英 /tʃɒp/  美 /tʃɑːp/ v. 剁碎，**砍**；降低，削减；向下猛击；削（球）；终止，取消；变化无常; n. （猪、羊等）排骨；砍；掌劈；（复数）腭，下巴；商标；动物饲料；碎浪；（非正式）应得的一份
+  - chop 英 [tʃɒp]  美 [tʃɑːp] v. 剁碎，**砍**；降低，削减；向下猛击；削（球）；终止，取消；变化无常; n. （猪、羊等）排骨；砍；掌劈；（复数）腭，下巴；商标；动物饲料；碎浪；（非正式）应得的一份
 - Awaiting for a partner
 - Oats and beans and barley grow
 - As you and I and everyone knows,
@@ -2843,26 +2867,27 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - Presenter: Here's Fiona with the weather for Europe for the next 24 hours.
 - Fiona:
   - **Hello there**.
-  - Here's the **forecast** for Europe today. At the moment there's some wet and windy weather **over** the UK and Scandinavia. and this is going to move south and east over **Poland** and Germany. Temperatures in **Berlin** and **Warsaw** are now about 20°C but it's cooler in London. 19°C, and cooler still in **Oslo**, l7°C. To the south it's a bit warmer, in **Budapest**, 23°C, but to the east, cool and cloudy in **Moscow** where the temperature is a welcome 15°C after all that **extreme** summer heat. Moving south it's getting warmer,24°C in **Rome**, but it's going to be cloudy and **showery** **across** much of Italy and also over northern Turkey, with heavy rain in **Istanbul** and a temperature of 2l°C. Most other **Mediterranean** countries are going to be warm and dry. **Greece** will be hot and sunny with a lot of late summer sunshine, 28°C in **Athens** and warmer still in **Portugal** and Spain with temperatures **up to** 32°C. France is going to be cool and cloudy in the north, 20°C in Paris, and hot and **stormy** in the south with a high of 29°C in Nice.
+  - Here's the **forecast** for Europe today. At the moment there's some wet and windy weather **over** the UK and Scandinavia. and this is going to move south and east over **Poland** and Germany. Temperatures in **Berlin** and **Warsaw** are now about 20°C but it's cooler in London. 19°C, and cooler still in **Oslo**, 17°C. To the south it's a bit warmer, in **Budapest**, 23°C, but to the east, cool and cloudy in **Moscow** where the temperature is a welcome 15°C after all that **extreme** summer heat. Moving south it's getting warmer,24°C in **Rome**, but it's going to be cloudy and **showery** **across** much of Italy and also over northern Turkey, with heavy rain in **Istanbul** and a temperature of 2l°C. Most other **Mediterranean** countries are going to be warm and dry. **Greece** will be hot and sunny with a lot of late summer sunshine, 28°C in **Athens** and warmer still in **Portugal** and Spain with temperatures **up to** 32°C. France is going to be cool and cloudy in the north, 20°C in Paris, and hot and **stormy** in the south with a high of 29°C in Nice.
     - forecast /ˈfɔːkɑːst/ n. （天气、财经等的）预测，预报；预想; v. 预报，预测；预示；预言；进行预报，作预测
-    - Europe /ˈjʊərəp/ n. 欧洲 
-      - european /ˌjʊərəˈpiːən/ adj. 欧洲的；欧洲人的; n. 欧洲人
-    - Scandinavia /ˌskændɪˈneɪviə/ n. 斯堪的纳维亚（半岛）
-    - Poland /ˈpəʊlənd/ n. 波兰（欧洲国家）
-    - Germany /ˈdʒɜːməni/ n. 德国
-    - Berlin /bɝ'lɪn/ n. 柏林
-    - Warsaw /'wɔ:sɔ:/ n. 华沙（波兰首都）
-    - Oslo /ˈɒzləʊ/ n. 奥斯陆（挪威首都）
-    - Budapest /'bju:dəpest/ n. 布达佩斯（匈牙利的首都）
-    - Moscow /'mɔskəʊ/ n. 莫斯科（俄罗斯首都）
-    - Rome /rəʊm/ n. 罗马（意大利首都）
-    - showery /ˈʃaʊəri/ adj. 阵雨的；多阵雨的
-    - Italy /'ɪtəlɪ/ n.	意大利（欧洲）
-    - Istanbul /ˌɪstænˈbul/ n. 伊斯坦布尔（土耳其城市）
-    - Mediterranean /ˌmedɪtəˈreɪniən/ n. (Mediterranean) 地中海地区；地中海沿岸国家居民; adj. (Mediterranean) 地中海的，地中海沿岸的；地中海沿岸国家居民的；（肤色）浅黑的
-    - Greece /ɡriːs/ n. 希腊（欧州南部国家）
+    - °C degrees Celsius [ˈselsiəs] / centigrade
+    - Europe [ˈjʊərəp] n. 欧洲
+      - european [ˌjʊərəˈpiːən] adj. 欧洲的；欧洲人的; n. 欧洲人
+    - Scandinavia [ˌskændɪˈneɪviə] n. 斯堪的纳维亚（半岛）
+    - Poland [ˈpəʊlənd] n. 波兰（欧洲国家）
+    - Germany [ˈdʒɜːməni] n. 德国
+    - Berlin [bɝ'lɪn] n. 柏林
+    - Warsaw ['wɔ:sɔ:] n. 华沙（波兰首都）
+    - Oslo [ˈɒzləʊ] n. 奥斯陆（挪威首都）
+    - Budapest ['bju:dəpest] n. 布达佩斯（匈牙利Hungary的首都）
+    - Moscow ['mɔskəʊ] n. 莫斯科（俄罗斯首都）
+    - Rome [rəʊm] n. 罗马（意大利首都）
+    - showery [ˈʃaʊəri] adj. 阵雨的；多阵雨的
+    - Italy ['ɪtəlɪ] n.	意大利（欧洲）
+    - Istanbul [ˌɪstænˈbul] n. 伊斯坦布尔（土耳其城市）
+    - Mediterranean [ˌmedɪtəˈreɪniən] n. (Mediterranean) 地中海地区；地中海沿岸国家居民; adj. (Mediterranean) 地中海的，地中海沿岸的；地中海沿岸国家居民的；（肤色）浅黑的
+    - Greece [ɡriːs] n. 希腊（欧州南部国家）
     - Athens [ˈæθənz] n. 雅典（希腊首都）
-    - Portugal /ˈpɔːtʃʊɡl/ n. 葡萄牙（欧洲西南部国家）
+    - Portugal /[pɔːtʃʊɡl] n. 葡萄牙（欧洲西南部国家）
   - And that's your European weather for today. I'll be back at lunchtime with an update.
 - Presenter: Thank you Fiona, and now ...
 
@@ -2910,10 +2935,10 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T12.1 Been there! Done that!
 
-- K=Kyle /kaɪl/ n. （苏）狭海峡，海峡；n. (Kyle)人名；(英)凯尔；(瑞典)许勒；(西)基莱 L=Lara /'lærə; 'lɑ:rə/ n. 拉腊（Laura的异体，女子名）
+- K=Kyle [kaɪl] n. （苏）狭海峡，海峡；n. (Kyle)人名；(英)凯尔；(瑞典)许勒；(西)基莱 L=Lara ['lærə; 'lɑ:rə] n. 拉腊（Laura的异体，女子名）
 - K Hi Lara! Are you and Mel ready for your trip?
 - L Yeah, **nearly**, we leave next Monday for Rome.
-  - Rome /rəʊm/ n. 罗马（意大利首都）
+  - Rome [rəʊm] n. 罗马（意大利首都）
 - K Ah, Rome, I've been to Rome many times.
 - L Well, I've never been there. It's my first time in Europe.
 - K Really? What about your friend, Mel?
@@ -2938,17 +2963,17 @@ I've = I have; She's = She has
 ### T12.3
 
 - A Have you ever been to Greece?
-  - Greece /ɡriːs/ n. 希腊（欧州南部国家）
+  - Greece [ɡriːs] n. 希腊（欧州南部国家）
 - B No, I haven't.
 - A Have you ever been to Italy?
-  - Italy /'ɪtəlɪ/ n.	意大利（欧洲）
+  - Italy ['ɪtəlɪ] n.	意大利（欧洲）
 - B Yes, I have.
 - A When did you **go**?
 - B Two years ago.
 - A Where did you go?
 - B Rome, Florence, and Venice.
-  - Florence /'flɔrəns/ n. 佛罗伦萨（意大利都市名）；弗洛伦斯（女子名）
-  - Venice /ˈvɛnɪs/ n. 威尼斯（意大利港市）
+  - Florence ['flɔrəns] n. 佛罗伦萨（意大利都市名）；弗洛伦斯（女子名）
+  - Venice [ˈvɛnɪs] n. 威尼斯（意大利港市）
 - A Fantastic! Did you have a good time?
 - B Yes, I did. It was great!
 
@@ -2957,19 +2982,19 @@ I've = I have; She's = She has
 - L=Lara M=Mel
 - L Where's the list?
 - M I've got it. OK, let's **check through**. Er- we've bought new backpacks, we did that a while ago.
-  - backpack /ˈbækpæk/ n. **双肩背包，背包；远足用的背包**; vt. 挑运；把…放入背包; vi. 背负简便行李旅行；挑运; 复数 backpacks
+  - backpack [ˈbækpæk] n. **双肩背包，背包；远足用的背包**; vt. 挑运；把…放入背包; vi. 背负简便行李旅行；挑运; 复数 backpacks
 - L They look quite big. I hope we can carry them.
 - M **No worries**. I haven't finished packing mine yet. Have you?
   - no worry 一无挂虑；无需烦恼
 - L Not yet, just one or two more things to **go in**. Oh, have you **collected** the euros **from** the bank?
-  - collect /kəˈlekt/ vt. 收集；募捐; vi. 收集；聚集；募捐; adv. 由收件人付款地; adj. 由收件人付款的 (collect call 对方付费电话); collected 领取(工资等)
-  - euros /'ju:rəus/ n. 欧元；欧洛斯风；带雨东南暴风（euro复数）
-- M Yup. I ve just collected five hundred for you and five hundred for me.
+  - collect [kəˈlekt] vt. 收集；募捐; vi. 收集；聚集；募捐; adv. 由收件人付款地; adj. 由收件人付款的 (collect call 对方付费电话); collected 领取(工资等)
+  - euros ['ju:rəus] n. 欧元；欧洛斯风；带雨东南暴风（euro复数）
+- M Yup. I've just collected five hundred for you and five hundred for me.
 - L All our **savings**. I hope it's enough!
-  - savings /'sevɪŋz/ n. 储蓄；存款；救助；节省物（saving的复数形式）
+  - savings ['sevɪŋz] n. 储蓄；存款；救助；节省物（saving的复数形式）
 - M No worries. We can stay with my aunt in London.
 - L Have you emailed her yet?
-- M Yeah,she's just emailed **back**. She's going to meet us at the airport when we **fly in** to London from Rome.
+- M Yeah, she's just emailed **back**. She's going to meet us at the airport when we **fly in** to London from Rome.
 - L Fantastic. Hey, look, I've just **found out** the weather in Rome for next week. Hot and sunny!
   - find out v. **找出，查明**；发现，揭发
 - M Yeah, it's going to be so good. We're going to leave winter here, and arrive **in the middle of summer** in Europe.
@@ -2983,18 +3008,18 @@ I've = I have; She's = She has
 
 ### T12.5 Tense revision
 
-- tense  /tens/ adj. 紧张的；拉紧的; vt. 变得紧张；使拉紧; vi. 拉紧，变得紧张; n. **时态**
-- revision /rɪˈvɪʒn/ n. [印刷] 修正；**复习**；修订本; 复数 revisions
+- tense [tens] adj. 紧张的；拉紧的; vt. 变得紧张；使拉紧; vi. 拉紧，变得紧张; n. **时态**
+- revision [rɪˈvɪʒn] n. [印刷] 修正；**复习**；修订本; 复数 revisions
 - Lara
 - I'm really excited about my trip to Europe. I haven't travelled **much** outside Australia before. Just once, two years ago, I went on holiday to Bali with my family but I've never been to Europe or the US. I often travel inside Australia. Last year I flew to Perth to visit my cousin, who lives there. It's a five-hour flight from Sydney, where I live. Australia's a big country! Also, I've been **up** to Cairns in the north three times. I **learned to** scuba dive there **on** the Great Barrier Reef.
-  - Bali /'bɑ:li/ n. (Bali) （印度尼西亚）巴厘岛
-  - Perth 英 /pɜːθ/  美 /pɜːrθ/ n. 珀斯，佩斯（澳大利亚城市）
-  - cousin /ˈkʌzn/ n. 堂兄弟姊妹；表兄弟姊妹; 复数 cousins
-  - Cairns /kernz/ n. 凯恩斯（澳大利亚港口）
-  - scuba  /'skuːbə; 'skjuːbə/ n. 水肺；水中呼吸器; 复数 scubas
+  - Bali ['bɑ:li] n. (Bali) （印度尼西亚）巴厘岛
+  - Perth 英 [pɜːθ]  美 /pɜːrθ/ n. 珀斯，佩斯（澳大利亚城市）
+  - cousin [ˈkʌzn] n. 堂兄弟姊妹；表兄弟姊妹; 复数 cousins
+  - Cairns [kernz] n. 凯恩斯（澳大利亚港口）
+  - scuba  ['skuːbə; 'skjuːbə] n. 水肺；水中呼吸器; 复数 scubas
   - scuba dive 水肺潜水，蛙潜
-  - barrier /ˈbæriə(r)/ n. 障碍物，屏障；界线; vt. 把……关入栅栏
-  - reef /riːf/ n. 暗礁；[地质] 矿脉；收帆; vt. 收帆；缩帆; vi. 缩帆；收帆
+  - barrier [ˈbæriə(r)] n. 障碍物，屏障；界线; vt. 把……关入栅栏
+  - reef [riːf] n. 暗礁；[地质] 矿脉；收帆; vt. 收帆；缩帆; vi. 缩帆；收帆
   - Great Barrier Reef 大堡礁
 - We've just finished packing, and now we're waiting for the taxi to take us to the airport. I've never flown **on** a 747 before. It's a very long flight. It takes 20 hours to **get to** Rome. I'm going to watch films **all the way**. I can't wait!
   - fly 复数 flies; 过去式 flew; 过去分词 flown; 现在分词 flying
@@ -3034,26 +3059,26 @@ I've = I have; She's = She has
 - 1 Elsa from Birmingham, England
   - OK, I've been to Glastonbury five times now. My highlights this year were: pear cider to drink, and the **American diner van** with the best sausages and chips ever. However, I was very disappointed with the music on Saturday night. DJs played House music all night. I love House but this was rubbish. I got really bored, so I went back to my tent to **finish** a bottle of pear cider with friends!
     - Glastonbury n. 格拉斯顿堡（位于英国英格兰西南）；摇滚世代（电影名）；英国格拉斯顿伯里音乐节
-    - cider /ˈsaɪdə(r)/ n. 苹果酒；苹果汁; 复数 ciders
+    - cider [ˈsaɪdə(r)] n. 苹果酒；苹果汁; 复数 ciders
     - Pear Cider 梨酒, 青梨苹果酒, 梨子酒
-    - diner /ˈdaɪnə(r)/ n. 用餐者；路边小饭店；餐车式简便餐厅
-    - van /væn/ n. 先锋；厢式货车；增值网; vt. 用车搬运; n. (Van)人名；(老、泰、柬、缅)万; 过去式 vanned过去分词 vanned现在分词 vanning复数 vans
+    - diner [ˈdaɪnə(r)] n. 用餐者；路边小饭店；餐车式简便餐厅
+    - van [væn] n. 先锋；厢式货车；增值网; vt. 用车搬运; n. (Van)人名；(老、泰、柬、缅)万; 过去式 vanned过去分词 vanned现在分词 vanning复数 vans
     - DJ abbr. 流行音乐播音员，流行音乐节目主持人（disc jockey）
     - House music 家庭音乐, 电子乐的一种, 大众化舞曲
 
 - 2 Daniel Evans from Wales
   - Last Wednesday at 2.30 in the afternoon, I decided that I wanted to go to Glastonbury. I was lucky! I found a ticket on the Glastonbury message boards. I'm so glad I went. The music was brilliant. Sometimes it took a long time to **get to** the stages. The queues were long but always **friendly**. In the busy "real world" it's difficult to have good conversations with people. At Glastonbury you can do this. It's a great festival, with a great crowd of people. **What more could you want?** 100,000 friendly people. I wish the rest of life was the same! Four days out of 365 is a good start!
-    - Daniel /'dænjəl/ n. 丹尼尔（男子名）
-    - Evans /'evənz/ n. 埃文斯（姓氏）
-    - Wales /weɪlz/ n. 威尔士（英国大不列颠岛西南部地区）
-    - queue /kjuː/ n. 队列；长队；辫子; vi. 排队；排队等候; vt. 将…梳成辫子；使…排队; 过去式 queued; 过去分词 queued; 现在分词 queuing 或 queueing; 复数 queues; 第三人称单数 queues
+    - Daniel ['dænjəl] n. 丹尼尔（男子名）
+    - Evans ['evənz] n. 埃文斯（姓氏）
+    - Wales [weɪlz] n. 威尔士（英国大不列颠岛西南部地区）
+    - queue [kjuː] n. 队列；长队；辫子; vi. 排队；排队等候; vt. 将…梳成辫子；使…排队; 过去式 queued; 过去分词 queued; 现在分词 queuing 或 queueing; 复数 queues; 第三人称单数 queues
 
 ### T12.9 Take and get
 
 - 1
   - A Ugh! It's really hot in here.
   - B Why don't you take off your jumper?
-    - jumper /ˈdʒʌmpə(r)/ n. 跳高运动员；跳跃者；工作服；**妇女穿的套头外衣**
+    - jumper [ˈdʒʌmpə(r)] n. 跳高运动员；跳跃者；工作服；**妇女穿的套头外衣**
 - 2
   - A Is your office near where you live?
   - B No, it takes a long time to **get to work**.
@@ -3062,10 +3087,10 @@ I've = I have; She's = She has
   - B Great! We all **get on really well**.
 - 4
   - A **How often** are there exhibitions in the museum?
-    - exhibition /ˌeksɪˈbɪʃn/ n. 展览，显示；展览会；展览品; 复数 exhibitions
+    - exhibition [ˌeksɪˈbɪʃn] n. 展览，显示；展览会；展览品; 复数 exhibitions
   - B They **take place** regularly, **every two months**.
     - take place 发生；举行
-    - regularly /ˈreɡjələli/ adv. 定期地；有规律地；整齐地；匀称地
+    - regularly [ˈreɡjələli] adv. 定期地；有规律地；整齐地；匀称地
 - 5
   - A Do you like learning English?
   - B It's OK, but sometimes I get really bored!
@@ -3084,18 +3109,19 @@ I've = I have; She's = She has
 ### T12.11 Travel announcements
 
 - announcements n. 公告；注意事项（announcement的复数）
-- 1 The 11.55 for Newcastle stopping at Peterborough, York and Darlington is now ready to **board** on Platform 10. There is a **buffet car** on this train. Please check that you **have** all your luggage with you.
-  - Newcastle /ˈnjuːkɑːsl/ n. 纽卡斯尔（英国港市）
-  - Peterborough 英 /ˈpiːtəbʌrə/ 美 /ˈpiːtərbəroʊ/ n. 彼得伯勒（加拿大城市名）
-  - York /jɔːk/ n. 约克郡；约克王朝
-  - Darlington /'dɑ:liŋtən/
-  - buffet n. 自助餐；小卖部；打击；猛烈冲击; vt. 与…搏斗；连续猛击; vi. 斗争；奋勇前进; adj. 自助的；自助餐的英 /ˈbʊfeɪ;ˈbʌfɪt/  美 /bəˈfe; bʌfɪt/ 
-  - luggage /ˈlʌɡɪdʒ/ n. 行李；皮箱
+- 1 The 11.55 [eleven fifty five] for Newcastle stopping at Peterborough, York and Darlington is now ready to **board** on Platform 10. There is a **buffet car** on this train. Please check that you **have** all your luggage with you.
+  - Newcastle [ˈnjuːkɑːsl] n. 纽卡斯尔（英国港市）
+  - Peterborough 英 [ˈpiːtəbʌrə] 美 [ˈpiːtərbəroʊ] n. 彼得伯勒（加拿大城市名）
+  - York [jɔːk] n. 约克郡；约克王朝
+  - Darlington ['dɑ:liŋtən]
+  - buffet 英 [ˈbʊfeɪ;ˈbʌfɪt] 美 [bəˈfe; bʌfɪt] n. 自助餐；小卖部；打击；猛烈冲击; vt. 与…搏斗；连续猛击; vi. 斗争；奋勇前进; adj. 自助的；自助餐的
+  - buffet car 餐车
+  - luggage [ˈlʌɡɪdʒ] n. 行李；皮箱
 - 2 This is the number 22 for Piccadilly Circus. Next stop Green Park. Stand back from the doors, please.
-  - Piccadilly /,pikə'dili/ n. 皮卡迪利大街（伦敦的繁华街道）
-  - circus 英 /ˈsɜːkəs/  美 /ˈsɜːrkəs/ n. 马戏；马戏团; 复数 circuses
-- 3 Flight BA1536 to New York is now ready for boarding at Gate 58. **Will passengers in rows 12 to 20 please board first. Passengers are reminded to keep their hand luggage with them at all times.**
-  - passenger /ˈpæsɪndʒə(r)/ n. 旅客；乘客；过路人；碍手碍脚的人; 复数 passengers
+  - Piccadilly [],pikə'dili] n. 皮卡迪利大街（伦敦的繁华街道）
+  - circus 英 [ˈsɜːkəs]  美 [ˈsɜːrkəs] n. 马戏；马戏团; 复数 circuses
+- 3 Flight BA1536 [one five three six] to New York is now ready for boarding at Gate 58. **Will passengers in rows 12 to 20 please board first. Passengers are reminded to keep their hand luggage with them at all times.**
+  - passenger [ˈpæsɪndʒə(r)] n. 旅客；乘客；过路人；碍手碍脚的人; 复数 passengers
 
 ### T12.12
 
@@ -3105,7 +3131,7 @@ I've = I have; She's = She has
   - A That's €12.70.
   - B Thank you. What time does the next train leave?
   - A At 9.55. The platform number has just **gone up** on the departures board.
-    - departure /dɪˈpɑːtʃə(r)/ n. 离开；出发；违背; 复数 departures
+    - departure [dɪˈpɑːtʃə(r)] n. 离开；出发；违背; 复数 departures
   - B Oh, yes. I can see. Thank you very much.
   - A Have a good journey!
 
@@ -3119,7 +3145,7 @@ I've = I have; She's = She has
 
 ### T12.13
 
-- A=Assistant  /əˈsɪstənt/  L=Lara M=Mel
+- A=Assistant  [əˈsɪstənt]  L=Lara M=Mel
 - assistant n. 助手，助理，助教; adj. 辅助的，助理的；有帮助的; 复数 assistants
 - A Have you checked in online?
 - M Yes, we have.

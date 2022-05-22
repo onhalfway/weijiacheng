@@ -2,11 +2,31 @@
 
 - [New Headway Pre-intermediate Fourth Edition Student Book](#new-headway-pre-intermediate-fourth-edition-student-book)
   - [Book Tapescripts (page 119)](#book-tapescripts-page-119)
-    - [T2.1 Mamy Roct, The Granny DJ](#t21-mamy-roct-the-granny-dj)
-    - [T2.2 the SuperJam millionaire](#t22-the-superjam-millionaire)
-  - [Youtube Transcript](#youtube-transcript)
-    - [Collated Youtube Transcript](#collated-youtube-transcript)
-    - [Youtube Transcript toggle timestamps](#youtube-transcript-toggle-timestamps)
+  - [Collated Youtube Transcript](#collated-youtube-transcript)
+    - [cd1](#cd1)
+    - [CD1 unit one Getting to know you 让大家认识你/渐渐认识你](#cd1-unit-one-getting-to-know-you-让大家认识你渐渐认识你)
+    - [cd1-01 tapescript 1.1](#cd1-01-tapescript-11)
+    - [cd1-02 tapescript 1.2 Anton Christoff from Toronto Canada](#cd1-02-tapescript-12-anton-christoff-from-toronto-canada)
+    - [cd1-03 tapescript 1.3 Rowenna Lee from Melbourne, Australia](#cd1-03-tapescript-13-rowenna-lee-from-melbourne-australia)
+    - [cd1-04 tapescript 1.4 questions about Rowenna](#cd1-04-tapescript-14-questions-about-rowenna)
+    - [cd1-05 tapescript 1.5 one point five questions to Serkan](#cd1-05-tapescript-15-one-point-five-questions-to-serkan)
+    - [cd1-06 tapescript 1.6 Whose or Who's sound the same.](#cd1-06-tapescript-16-whose-or-whos-sound-the-same)
+    - [cd1-07 tapescript 1.7 Listen to the sentences.](#cd1-07-tapescript-17-listen-to-the-sentences)
+    - [cd1-08 tapescript 1.8 one point eight questions about you](#cd1-08-tapescript-18-one-point-eight-questions-about-you)
+    - [cd1-09 tapescript 1.9 Listen and compare](#cd1-09-tapescript-19-listen-and-compare)
+    - [cd1-10 tapescript 1.10 My oldest friend.](#cd1-10-tapescript-110-my-oldest-friend)
+    - [cd1-11 tapescript 1.11 A survey - How do couples meet?](#cd1-11-tapescript-111-a-survey---how-do-couples-meet)
+    - [cd1-12 tapescript 1.12 What happened next?](#cd1-12-tapescript-112-what-happened-next)
+    - [cd1-13 tapescript 1.13 words with two meanings 两个意思的单词](#cd1-13-tapescript-113-words-with-two-meanings-两个意思的单词)
+    - [cd1-14 tapescript 1.14 listen and repeat](#cd1-14-tapescript-114-listen-and-repeat)
+    - [cd1-15 tapescript 1.15 Social expressions](#cd1-15-tapescript-115-social-expressions)
+    - [cd1-16 tapescript 1.16 Conversations](#cd1-16-tapescript-116-conversations)
+  - [Unit 2 Whatever makes you happy](#unit-2-whatever-makes-you-happy)
+    - [CD1-17 tapescript 2.1 Mamy Roct, The Granny DJ](#cd1-17-tapescript-21-mamy-roct-the-granny-dj)
+    - [CD1-18 T2.2 the SuperJam millionaire](#cd1-18-t22-the-superjam-millionaire)
+    - [CD1-19 tapescript 2.3 Ruth Flowers](#cd1-19-tapescript-23-ruth-flowers)
+    - [CD1-20 tapescript 2.4 point for an interview](#cd1-20-tapescript-24-point-for-an-interview)
+  - [Youtube Transcript toggle timestamps](#youtube-transcript-toggle-timestamps)
 
 ## Book Tapescripts (page 119)
 
@@ -17,7 +37,7 @@
 
 ### cd1
 
-new headway pre-intermediate, fourth edition, 
+new headway pre-intermediate, fourth edition,
 students book by John and Liz Soars,
 publish and copyright Oxford University Press 2012
 [Music]
@@ -51,11 +71,11 @@ Twice a week.
 
 来自加拿大多伦多的安东•克里斯托夫
 
-Hi! I'm Anton. 
+Hi! I'm Anton.
 I come from Canada, but at the moment I'm living here in New York.
 我来自加拿大，但目前我住在纽约这里。
 I'm working as a bike messenger.
-我的工作是骑自行车送信。 
+我的工作是骑自行车送信。
 I really like New York.
 It's the center of the universe and it's cosmopolitan.
 它是宇宙的中心，是世界性的。
@@ -206,7 +226,7 @@ Hey, that's lovely! You and Pete a really good friends, aren't?
 Yeah!
 Why do you think that is? 你认为这是为什么?
 It's our love **of** football! 这是我们对足球的热爱!
-Don't tell me, he supports Liverpool too! /ˈlɪvəpuːl/ n. 利物浦 
+Don't tell me, he supports Liverpool too! /ˈlɪvəpuːl/ n. 利物浦
 Of course. Best team in the world. No seriously the best thing about Pete is that maybe we don't see each other for months, even years, but when we get together immediately we're talking ...
 ... about football.
 No, about all kinds of things. Our families mainly. He's a great guy.
@@ -239,7 +259,7 @@ So, who's your oldest friend?
 You are, of course! You and me, Beth, we're the same age, 24, and you could say we met before we were born.
 I suppose you're right ...
 Yeah, our mums met when they were ...
-I know they met at the hospital when they went for check-ups before we were born. 
+I know they met at the hospital when they went for check-ups before we were born.
 check-ups n. 检查，核对；体格检查
 Yeah, and we were born on the same day.
 I know, but I'm 10 hours older than you!
@@ -340,7 +360,7 @@ He never even buys me a coffee. He's very mean. adj. 吝啬的；
 1
 Hi, Anna. How are you?
 I'm fine, thanks. How are you?
-2 
+2
 Thank you so much.
 My pleasure.
 3
@@ -377,7 +397,7 @@ Bye! See you later!
 Bye! Have a good weekend!
 Thanks! Same to you.
 9
-Sorry I'm late. 
+Sorry I'm late.
 It doesn't matter. You're here now.
 10
 Cheers!
@@ -399,7 +419,7 @@ How do you do? Pleased to meet you.
 Pleased to meet you, too.
 4
 Thank you very much indeed.
-My pleasure. Don't mention it. 
+My pleasure. Don't mention it.
 It was so kind of you.
 5
 I'm sorry. I can't come tonight.
@@ -431,18 +451,18 @@ Thanks a lot. I'm excited. But a bit nervous.
 ### CD1-17 tapescript 2.1 Mamy Roct, The Granny DJ
 
 Ruth Flowers is not an ordinary grandmother.
-She's in her 70s, and has silver hair and bright-red lipstick. 
+She's in her 70s, and has silver hair and bright-red lipstick.
 She's a DJ and works in clubs in Europe and tours festivals.
-She live alone in Bristol. 
-She says, "I've got a son and a grandson. 
+She live alone in Bristol.
+She says, "I've got a son and a grandson.
 They think what I'm doing is very cool!"
-She likes rock bands such as Queen and the Rolling Stones, 
-but she also plays electro and dance music. 
-"I love being with young people," she says. 
+She likes rock bands such as Queen and the Rolling Stones,
+but she also plays electro and dance music.
+"I love being with young people," she says.
 "They've got so much energy and enthusiasm!"
-She's planning another European tour, 
-and is currently making a new single. 
-"I'm having a lot of fun," she says. 
+She's planning another European tour,
+and is currently making a new single.
+"I'm having a lot of fun," she says.
 "I don't want it to stop."
 
 ### CD1-18 T2.2 the SuperJam millionaire
@@ -530,7 +550,7 @@ tapescript 2.6 do you have a car yes I
 do
 no I don't have you got a bike yes I
 have no I haven't I don't have a camera
-I haven't got an iPod 
+I haven't got an iPod
 
 tapescript 2.7
 and seven things I like doing play games
@@ -542,7 +562,7 @@ friends for a drink listen to music go
 out for a meal get a takeaway pizza do
 nothing read magazines chat to friends
 online go to the gym watch a football
-match live on TV 
+match live on TV
 
 tape scripts 2.8 listen
 check and practice one I like shopping
@@ -564,14 +584,14 @@ or shall we get a takeaway pizza 9 it's
 Pete's birthday tonight so we're going
 out for a meal Indian I think 10
 I like keeping fit I go to the gym three
-times a week 
+times a week
 
 tapescript 2.9 two point nine
 money the best things in life are free
 but you can keep them to the
 [Music]
 you're loved it's me such a thrill but
-your love I pay my bills I would 
+your love I pay my bills I would
 
 tapescript 2.10 to neighbors
 mrs. crumble I have the flat above that
@@ -647,7 +667,7 @@ like I am to my own grandmother
 but she's so suspicious of young people
 she thinks we're all no-good and take
 drugs it's just not true
-I worked really hard 
+I worked really hard
 
 tapescript 2.12
 making conversation one
@@ -718,7 +738,7 @@ I got them last week in the sales
 they're nice aren't they
 9 if you have a problem just ask me
 thank you very much
-that's very kind of you I will 
+that's very kind of you I will
 
 tape scripts 2.14
 point 14 keeping a conversation going
@@ -736,7 +756,7 @@ friends who live in the countryside
 around Siena Wow lucky you and did you
 have good weather well
 
-[Music] unit 3 
+[Music] unit 3
 
 tapescript 3.1 walking the
 Amazon amazing journey ends after 6,000
@@ -751,7 +771,7 @@ in merida on the atlantic coast of
 brazil he went through three countries
 Peru Colombia and Brazil the journey
 took nearly two and a half years I did
-it for the adventure says ed tip 
+it for the adventure says ed tip
 
 tapescript 3.2 questions and answers 1 how far did
 ed walk he walked 6,000 miles - when did
@@ -762,7 +782,7 @@ for which countries did he go through he
 went through Peru Colombia and Brazil 5
 how long did the journey take it took
 nearly two and a half years six why did
-he do it he did it for the adventure 
+he do it he did it for the adventure
 
 tapescript 3.3 three point three what was Cho
 doing when he met edy he was working in
@@ -808,13 +828,13 @@ I worked in a bank we laughed and
 laughed I looked at the photo
 we decided immediately I studied at
 University she wanted a cup of tea
-i mended it 
+i mended it
 
 tapescript 3.7 i was having
 dinner what was she wearing
 they were playing football why were you
 going he wasn't listening
-they weren't enjoying the party 
+they weren't enjoying the party
 
 tapescript 3.8 point-8 the news here other news
 headlines a car bomb in Moscow kills
@@ -824,7 +844,7 @@ York Museum a national strike in France
 brings the country to a stop the 71 year
 old actor James Robertson dies at his
 home in California and in the European
-Cup Arsenal beat Real Madrid 
+Cup Arsenal beat Real Madrid
 
 tapescript 3.9 three point nine a car bomb exploded in
 central Moscow yesterday morning killing
@@ -861,7 +881,7 @@ night beat rail Madrid 2-1 at half time
 the Spanish side were winning one nil
 but there
 two goals by Johansson gave the London
-team a win 
+team a win
 
 tapescript 3.10 a dictation
 last night thieves in New York broke
@@ -875,7 +895,7 @@ God who was watching the screens saw
 nothing
 . museum officials didn't discover the
 theft until the next morning
-. 
+.
 
 tapescript 3.11 point 11 adverbs one please drive
 carefully through our village - Romeo
@@ -885,7 +905,7 @@ rained heavily every day last week 5 he
 waited patiently for his girlfriend but
 she didn't turn up 6 the soldiers fought
 bravely but many of them lost their
-lives 
+lives
 
 tapescript 3.12 1 my grandma is
 nearly 75 and she still goes swimming
@@ -902,7 +922,7 @@ it's ready serve the scrambled eggs
 immediately with toast six almost all my
 friends have a mobile phone they're on
 Facebook as well even my dad's on
-Facebook 
+Facebook
 
 tapescript 3.13 the burglar
 who fell asleep last Sunday evening a
@@ -922,7 +942,7 @@ down on a big comfortable bed and
 immediately fell fast asleep
 he slept very well unfortunately when he
 woke up the next morning three policemen
-were standing round his bed 
+were standing round his bed
 
 tapescript 3.14 dates what's the date today March
 the 18th tomorrow's the 19th the day
@@ -933,7 +953,7 @@ that's next week what's your date of
 birth 12 987 sorry what was that
 the 12th of the 9th 87 what year were
 you born
-1982 oh you're the same age as me 
+1982 oh you're the same age as me
 
 tapescript 3.15 the 3rd of February February
 the 3rd the 6th of April April the 6th
@@ -942,11 +962,11 @@ July the 12th the 25th of December
 December the 25th the 1st of may May the
 1st the 16th of August August the 16th
 the 13th of January January the 13th the
-31st of October October the 31st 
+31st of October October the 31st
 
 tapescript 3.16 February 3rd April 6th July
 12th December 25th May 1st August 16th
-January 13th October 31st 
+January 13th October 31st
 
 tapescript 3.17 1 when did man first land on the
 moon on July the 20th 1969 - when's your
@@ -983,7 +1003,7 @@ in our diet but we do drink a lot of
 orange juice 7 how many calories do you
 have every day about 1,500
 that's about 1,000 fewer than most
-people 
+people
 
 tapescript 4.2 following the
 diet tell us some more about the diet
@@ -1011,7 +1031,7 @@ it's not good for you we drink a little
 mineral water sometimes you're amazing
 well I hope you live to be a hundred and
 20 but I'm sure I won't be around to see
-it 
+it
 
 tapescript 4.3 something someone
 somewhere 1 did you meet anyone nice at
@@ -1036,7 +1056,7 @@ no nothing
 I couldn't find anything I liked why not
 try shopping
 online you can buy everything online
-these days 
+these days
 
 tapescript 4.4 what's the
 missing word do you know famous the
@@ -1045,7 +1065,7 @@ lights are off there's at home
 Pete's a great bloke likes him
 we always go nice to eat I can't go to
 the party I haven't got nice to wear has
-see my keys I can't find my keys 
+see my keys I can't find my keys
 
 tapescript 4.5 four point five my grandfather's
 shop my grandfather lived until he was a
@@ -1080,10 +1100,10 @@ the best fish and chips in the area some
 people came by bus to the shop he closed
 the shop once a week he went to have
 lunch with friends he liked to have a
-little whiskey before bed 
+little whiskey before bed
 
 tapescript 4.7 unusual restaurants
-one 
+one
 Alexander we were on honeymoon and we saw some
 brochures about this restaurant it was
 my wife's birthday so I thought why not
@@ -1176,7 +1196,7 @@ everybody learnt my name they started
 singing Lucy in the Sky with Diamonds no
 diamonds but I was certainly in the sky
 I was quite sorry when we came down to
-earth again 
+earth again
 
 
 Page 34
@@ -1225,7 +1245,7 @@ a piece of paper a loaf of bread
 a bottle of beer a can of coke a kilo of
 apples a litre of petrol a packet of
 chewing gum a pair of jeans a slice of
-cake a bunch of bananas 
+cake a bunch of bananas
 
 tapescript 4.9 four
 point nine going shopping one
@@ -1314,7 +1334,7 @@ eight
 do you want some help with the
 washing-up no of course not you're our
 guest well I hope you have a dishwasher
-there's a lot 
+there's a lot
 
 tapescript 4.11 polite
 requests with can and could one can I
@@ -1338,7 +1358,7 @@ seven can you help me with my homework
 please okay but I'm not very good at
 maths eight could you give me a lift to
 the station please and of course what
-time's your train 
+time's your train
 
 tapescript 4.12 polite
 requests with would you mind would you
@@ -1402,7 +1422,7 @@ the internet for me and my wife I'm
 pretty good at using a computer
 we're going on holiday to Tuscany next
 year so I'm going to do an evening
-course in Italian 
+course in Italian
 
 tapescript 5.2 I want
 to work in Paris I'd like to work in
@@ -1419,7 +1439,7 @@ games on the way six are you good at
 learning foreign languages seven we're
 looking forward to having a few days off
 soon eight I'm fed up with doing
-housework I hate doing housework 
+housework I hate doing housework
 
 tapescript 5.3 five point three one I enjoy
 working in Paris too we're hoping to go
@@ -1434,7 +1454,7 @@ languages do you like learning foreign
 languages seven we're going to have a
 few days off soon we'd love to have a
 few days off soon eight I don't want to
-do housework 
+do housework
 
 tapescript 5.4 five point for making questions one I
 hope to go to university what do you
@@ -1455,7 +1475,7 @@ parties me too
 five we're planning our summer holidays
 where are you thinking of going we want
 to go camping this year Oh
-camping I hate sleeping in tents 
+camping I hate sleeping in tents
 
 tapescript 5.5 five point five writing for
 talking my dreams for the future
@@ -1498,7 +1518,7 @@ design beautiful gardens for beautiful
 people I'll have a beautiful house two
 beautiful children and of course a
 husband who's as successful as I am who
-knows it could even be Jasper 
+knows it could even be Jasper
 
 tapescript 5.6 five point six have you got any plans
 one Pete and Ben hi Pete what are you
@@ -1568,7 +1588,7 @@ ring I'm seeing him this evening do you
 want to come six what are we having for
 supper I'm going to make spaghetti
 bolognaise not again we had that twice
-last week 
+last week
 
 tapescript 5.8 what can you
 say one why are you looking forward to
@@ -1681,7 +1701,7 @@ with her mum too one day we're hoping to
 marry and get a place of our own but
 that probably won't be for a few years
 you can't grow up when you're still at
-home with your parents and fed up 
+home with your parents and fed up
 
 tapescript 5.12 an interview with Polina
 Jana takuna today I am talking to Polina
@@ -1747,7 +1767,7 @@ three our England gonna win the World
 Cup they might do anything's possible
 but I think it's very unlikely
 absolutely I don't think they have a
-chance 
+chance
 
 tapescript 5.15 won Kelly's job
 is really stressful isn't it absolutely
@@ -1762,7 +1782,7 @@ Aquarius 3 do you think Anita and Porter
 in love definitely they're going to get
 married next June and Hawaii Hawaii are
 you going to the wedding no chance I
-can't afford it 
+can't afford it
 
 tapescript 5.16 what's
 your opinion one did Leo Tolstoy write
@@ -1799,7 +1819,7 @@ very well three
 what's Mia like she's really nice very
 friendly for what does Mia look like
 she's tall and she's got brown eyes and
-black hair 
+black hair
 
 tapescript 6.2 what's your
 teacher like she's great she helps us a
@@ -1811,7 +1831,7 @@ four do you like pizza mmm I love it
 five what's the weather like today
 lovely warm and sunny six how are your
 parents they're okay
-busy as usual 
+busy as usual
 
 tapescript 6.3 point three what should like what
 Shanghai like it's very big and noisy
@@ -1824,7 +1844,7 @@ the weather like when I was there it was
 hot and humid what are the buildings
 like there are new buildings everywhere
 but if you look hard you can still find
-some older ones to 
+some older ones to
 
 tapescript 6.4 six point
 four Singapore Shanghai and Dubai what
@@ -1870,12 +1890,12 @@ everything
 
 tapescript 6.5 pronunciation I'm older
 than Jane but I'm not as old as John
-he's the oldest 
+he's the oldest
 
 tapescript 6.6 six point
 six Ben and me who's cleverer you or Ben
 me of course I'm much cleverer than Ben
-isn't nearly as clever as me 
+isn't nearly as clever as me
 
 tapescript 6.7 six point seven who's kinda you or Ben
 me of course I'm much kinder than Ben he
@@ -1887,7 +1907,7 @@ course I'm a lot better-looking than Ben
 he isn't nearly as good-looking as me
 who's more ambitious you or Ben me of
 course I'm much more ambitious than Ben
-he isn't nearly as ambitious as me 
+he isn't nearly as ambitious as me
 
 tapescript 6.8 six point eight me and my family
 Sally
@@ -1956,7 +1976,7 @@ how they live there it's only big enough
 for one person six are you happy with
 your new car yes I'm very pleased with
 it it goes really well and it's much
-more reliable than my old one 
+more reliable than my old one
 
 tapescript 6.10 antonyms one that man was so
 rude to me yes he wasn't very polite was
@@ -1991,7 +2011,7 @@ is it open um from 10:00 till 6:00 right
 good idea let's go
 
 [Music]
-unit seven 
+unit seven
 tapescript 7.1 John hi I'm
 John I live in London I have a flat in
 Dean Street Soho I've lived here for
@@ -2041,14 +2061,14 @@ Spain seven I haven't seen you for ages
 what have you been up to eight we
 haven't had the
 break for over an hour I really need the
-coffee 
+coffee
 
 tapescript 7.4 seven point four
 asking questions where G lives isn't in
 a flat near the town center how long
 have you lived there for three years why
 did you move there because we wanted to
-be in a nicer area 
+be in a nicer area
 
 tapescript 7.5 what
 do you do I work for an international
@@ -2100,7 +2120,7 @@ of course in all your travels have you
 ever been in any dangerous situations oh
 goodness yes I've often been in danger
 but in situations like that
-you learn so much about yourself 
+you learn so much about yourself
 
 tapescript 7.7 seven point seven one you move to
 England when you were six do you go back
@@ -2214,7 +2234,7 @@ I email sometimes to email Skype textin
 it's all really wonderful isn't it it is
 grandma it's just great talking to you
 I've got lots more questions for next
-time 
+time
 
 tapescript 7.12 question tanks
 it's really wonderful isn't it you come
@@ -2237,7 +2257,7 @@ expensive at all for the baby looks just
 like her mother doesn't she uh-huh
 same blue eyes same nose but she's got
 her father's blonde hair hasn't she yes
-she's very fair 
+she's very fair
 
 tapescript 7.14 one it
 was a great party last night wasn't it
@@ -2253,7 +2273,7 @@ five hour English has improved a lot
 hasn't it yes it has we're all much
 better now six we haven't had a break
 for ages have we no we haven't
-it's time for one right now 
+it's time for one right now
 
 tapescript 7.15 one
 it's horrible weather today isn't it
@@ -2307,7 +2327,7 @@ we deserve to lose didn't we I'm afraid
 so I don't know why I support them
 
 [Music]
-unit 8 
+unit 8
 tapescript 8.1 interview with
 Tilly Parkins Tilly I'm sure you have to
 be very fit and strong to go climbing
@@ -2397,7 +2417,7 @@ should listen to just your friends you
 should explain how you feel to your
 coach and your mother however in the end
 the decision is yours and yours alone
-you must decide your own future 
+you must decide your own future
 
 tapescript 8.5 giving advice 1 I can't sleep
 at night you must do more exercise
@@ -2434,7 +2454,7 @@ a while and turn it on again it's the
 only thing that ever works for me eight
 my cars making a funny noise it sounds
 bad you shouldn't drive it you must ring
-the garage 
+the garage
 
 tapescript 8.6 eight point six
 Jessica Ennis Britain's first world
@@ -2532,7 +2552,7 @@ get on with my stepdad he is really nice
 but I was jealous of him for years I
 just got married my wife's an only child
 - and we both definitely want to have
-lots of children 
+lots of children
 
 tapescript 8.8
 symptoms and diagnosis I can't stop
@@ -2548,7 +2568,7 @@ you've got a sore throat I keep being
 sick and I've got terrible diarrhea
 you've got food poisoning I start
 sneezing and itching when I'm near a cat
-you've got an allergy 
+you've got an allergy
 
 tapescript 8.9 eight
 point nine at the doctors what seems to
@@ -2582,7 +2602,7 @@ Press 2012
 
 [Music]
 [Music]
-cd3 unit 9 
+cd3 unit 9
 tapescript 9.1 the bear and
 the travelers one where were the
 travelers walking along a country road -
@@ -2592,7 +2612,7 @@ they see in the woods they saw a huge
 bear for what did the men do 1 hid in a
 tree the other pretended to be dead 5
 what did the bear do it bent down
-sniffed then wandered away 
+sniffed then wandered away
 
 tapescript 9.2 point to the bear and the travelers -
 travelers were walking slowly along a
@@ -2637,7 +2657,7 @@ they'd walk 20 miles to one man hid in a
 tree 3 the other pretended to be dead 4
 when the bear had gone the man came down
 5 he felt bad because he'd left his
-friend 
+friend
 
 tapescript 9.5 1
 I was nervous on the plane because I had
@@ -2652,7 +2672,7 @@ hadn't slept the night before five
 my wife was angry with me because I'd
 forgotten our anniversary six the little
 girl was crying because she'd fallen
-over and hurt herself 
+over and hurt herself
 
 tapescript 9.6 nine
 point six the boy who cried wolf once
@@ -2790,7 +2810,7 @@ any children together he traveled a lot
 to Europe and the United States he died
 very young when he was just 44 oh well
 Thank You Alice for telling us about
-Robert Louis Stevenson 
+Robert Louis Stevenson
 
 tapescript 9.10
 The Strange Case of dr. Jekyll and mr.
@@ -2902,7 +2922,7 @@ TV I get scared
 I know what you mean the world's a scary
 place 5 I get upset when people are so
 horrible yes but people can be really
-nice as well 
+nice as well
 
 tapescript 9.13 what an amazing film I was scared I
 was really scared I was so scared
@@ -2932,7 +2952,7 @@ got a penny left 8 I've had such an
 awful day I need a drink to cheer me up
 
 [Music]
-unit 10 
+unit 10
 tapescript 10.1 a phone call
 that changed the world fact file today
 mobile phones are owned by almost 6
@@ -2957,7 +2977,7 @@ diamonds it costs 6 million pounds 100
 million mobile phones are thrown away
 every year some people believe that
 before long all landline telephones will
-be replaced by mobile phones 
+be replaced by mobile phones
 
 tapescript 10.2 point 2 1 the
 first mobile phone call was made in 1973
@@ -2972,7 +2992,7 @@ over 550 diamonds seven 100 million
 mobile phones are thrown away every year
 eight some people believe that
 eventually all landline telephones will
-be replaced by mobile phones 
+be replaced by mobile phones
 
 tapescript 10.3 ten point three one paper was invented
 in 105 AD by a Chinese government
@@ -2994,7 +3014,7 @@ lászló bíró southern the Apple PC was
 invented in 1976 by two American
 computer engineers Steve Jobs and Steve
 Wozniak the name Apple was chosen
-because it was jobs favorite fruit 
+because it was jobs favorite fruit
 
 tapescript 10.4 ten point for all things online
 one over 90 trillion emails are sent
@@ -3012,7 +3032,7 @@ Facebook has been
 translated into 76 languages since it
 began 8 the online store amazon.com was
 founded by Jeff Bezos in his garage in
-1994 
+1994
 
 tapescript 10.5 questions and
 answers 1 how many emails are sent every
@@ -3036,19 +3056,19 @@ Jack Dorsey southern how many languages
 has Facebook being translated into 76
 and they'll be more 8 when was
 amazon.com founded in 1994 who was it
-founded by Jeff Bezos 
+founded by Jeff Bezos
 
 tapescript 10.6
 point-six text message businessman
 newsagent
-cell phone 
+cell phone
 
 tapescript 10.7 business
 card business deal businessman business
 news computer games computer program
 computer virus laptop phone call phone
 card phone number radio news radio
-program radio waves website 
+program radio waves website
 
 tapescript 10.8 ten point eight one she has a wonderful
 job she's very well paid to I didn't
@@ -3063,7 +3083,7 @@ so badly behaved six
 can I have my steak very well-done
 please I don't like it rare seven surely
 you've heard of Elizabeth Taylor
-she was really well-known 
+she was really well-known
 
 tapescript 10.9
 ten point nine one do you ever play
@@ -3084,7 +3104,7 @@ like it rare
 I don't like it well-done seven is your
 school well-equipped not really but I
 think we're getting interactive
-whiteboards soon 
+whiteboards soon
 
 tapescript 10.10 one
 Henry it's made for me I'm a frustrated
@@ -3130,7 +3150,7 @@ I got too frightened by the answers I
 download recipes I could go on and on I
 like the way Google has become a verb
 I'm always saying I'll just google that
-and find out 
+and find out
 
 tapescript 10.11 it drives
 me crazy
@@ -3273,7 +3293,7 @@ times five I know Maria very well how
 long have you known her since we were at
 school together six I have the new iPad
 how long have you had it I only got it
-yesterday 
+yesterday
 
 tapescript 11.3 one why are the students bored
 because the teachers been talking for
@@ -3362,7 +3382,7 @@ have to rush to catch my plane bye Mike
 it's been great seeing you again let's
 keep in touch from now on yeah it's been
 great maybe next time you can meet Raza
-and I can meet Ragnar 
+and I can meet Ragnar
 
 tapescript 11.6
 Alison's life I didn't marry until quite
@@ -3387,7 +3407,7 @@ they're great fun I'm really glad I
 married Ben he's a great dad I want it
 to be forever my mom and dad divorced
 when I was just 13 and I don't want us
-to do that 
+to do that
 
 tapescript 11.7 good news
 bad news one
@@ -3434,7 +3454,7 @@ the weather's nice we'll go for a picnic
 Oh sounds nice where to not sure we
 might go to the park or we might go to
 the country well I'm sure you'll have
-fun 
+fun
 
 tapescript 12.2 twelve point two one
 what are you doing this weekend hmm if
@@ -3471,7 +3491,7 @@ or I might buy her some makeup five when
 are you going to see your boyfriend
 again I don't know I might see him on
 Friday night or I might see him on
-Saturday afternoon 
+Saturday afternoon
 
 tapescript 12.4 Tara
 and Ben one Tara when I leave school
@@ -3500,7 +3520,7 @@ get fat three you'll fail your exams if
 you don't do your homework
 four careful if you touch that you'll
 get an electric shock five if you don't
-do what I say I'll kill ya 
+do what I say I'll kill ya
 
 tapescript 12.6 twelve point six Lily's dream I'd love a
 baby brother if I had a baby brother I
@@ -3522,7 +3542,7 @@ them but I never have any time to myself
 if I had a free weekend I'd stay in bed
 all day I'd read magazines and watch TV
 then I'd sleep all night and my children
-wouldn't wake me Oh heaven 
+wouldn't wake me Oh heaven
 
 tapescript 12.8 Tony's life well he's not much good
 at anything he hasn't had a job since he
@@ -3537,7 +3557,7 @@ doesn't get up till midday and he
 doesn't shave he doesn't even shower
 often he doesn't look good maybe that's
 why he hasn't got a girlfriend he's
-useless 
+useless
 
 tapescript 12.9 if Tony had a
 job if Tony had a job he'd have some
@@ -3549,7 +3569,7 @@ more jobs if he weren't so lazy he'd get
 up before midday if he shaved and
 showered more he'd look better if he
 looked better he might get a girlfriend
-and that would help him a lot 
+and that would help him a lot
 
 tape scripts 12.10 one Jimmy's problem Amy
 can I talk to you for a minute sure what
@@ -3619,7 +3639,7 @@ him but he might go out with another
 girl if he started going out with
 another girl then you know what sort of
 man he was if he likes you he'll wait
-but you have to talk to Sam first 
+but you have to talk to Sam first
 
 tape scripts 12.11 point 11 a year later Jimmy
 well we made a record and we went on
@@ -3688,9 +3708,9 @@ managed at a global level we need to
 make global decisions we already have a
 world language called English and there
 is now a worldwide communication system
-called the internet 
+called the internet
 
-tapescript 
+tapescript
 twelve-point 12.13
 I do have some reasons to be pessimistic
 I think people will remain fundamentally
