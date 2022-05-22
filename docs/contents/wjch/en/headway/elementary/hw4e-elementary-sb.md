@@ -3118,7 +3118,7 @@ I've = I have; She's = She has
   - buffet car 餐车
   - luggage [ˈlʌɡɪdʒ] n. 行李；皮箱
 - 2 This is the number 22 for Piccadilly Circus. Next stop Green Park. Stand back from the doors, please.
-  - Piccadilly [],pikə'dili] n. 皮卡迪利大街（伦敦的繁华街道）
+  - Piccadilly [,pikə'dili] n. 皮卡迪利大街（伦敦的繁华街道）
   - circus 英 [ˈsɜːkəs]  美 [ˈsɜːrkəs] n. 马戏；马戏团; 复数 circuses
 - 3 Flight BA1536 [one five three six] to New York is now ready for boarding at Gate 58. **Will passengers in rows 12 to 20 please board first. Passengers are reminded to keep their hand luggage with them at all times.**
   - passenger [ˈpæsɪndʒə(r)] n. 旅客；乘客；过路人；碍手碍脚的人; 复数 passengers
