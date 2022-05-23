@@ -1945,7 +1945,7 @@ SB p61: WRITING Telling a story p111
 - W No problem.
 
 - spaghetti [spəˈɡeti] n. 意大利式细面条
-- Bolognese [,bəulə'ni:z] n. （肉馅和西红柿做成的）波隆那肉酱
+- Bolognese [ˌbəulə'ni:z] n. （肉馅和西红柿做成的）波隆那肉酱
 - Spaghetti Bolognese 意大利肉酱面
 - sparkling [ˈspɑːklɪŋ] adj. 闪闪发光的，闪烁的；**起泡沫的** v. 闪耀；发出火花；**起泡沫（sparkle的ing形式）**
   - fizzy [ˈfɪzi] adj. 起泡沫的；嘶嘶作响的 比较级 fizzier最高级 fizziest
@@ -2631,7 +2631,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - S I studied at the University of Tokyo, and I graduated in 1991.
 - I Which part of Japan are you from?
 - S I'm from Yokohama, Kanagawa, which is part of Tokyo.
-  - Yokohama [,jəukə'hɑ:mə; 'jɔ:kɔ:'hɑ:mɑ:] n. 横滨（日本一城市名）
+  - Yokohama [ˌjəukə'hɑ:mə; 'jɔ:kɔ:'hɑ:mɑ:] n. 横滨（日本一城市名）
   - Kanagawa [kə'nɑ:ɡəwə] n. 神奈川（日本一个县）
 - I Are you married?
 - S Yes. and I have three children.
@@ -2779,7 +2779,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - R Well, then we're going to **Tanzania** to ...
   - Tanzania [ˌtænzəˈni:ə] n. 坦桑尼亚（东非国家）
 - F Wow! You're going to climb **Kilimanjaro**.
-  - Kilimanjaro [,kilimən'dʒɑ:rəu] n. 乞力马扎罗山（非洲最高峰）
+  - Kilimanjaro [ˌkilimən'dʒɑ:rəu] n. 乞力马扎罗山（非洲最高峰）
 - R Yes, and then we're flying to India.
 - F Are you going to visit the **Taj Mahal**?
   - Taj [tɑːdʒ] n. 印度泰姬陵；（伊斯兰托钵僧戴的）圆锥形高帽
@@ -2887,7 +2887,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
     - Mediterranean [ˌmedɪtəˈreɪniən] n. (Mediterranean) 地中海地区；地中海沿岸国家居民; adj. (Mediterranean) 地中海的，地中海沿岸的；地中海沿岸国家居民的；（肤色）浅黑的
     - Greece [ɡriːs] n. 希腊（欧州南部国家）
     - Athens [ˈæθənz] n. 雅典（希腊首都）
-    - Portugal /[pɔːtʃʊɡl] n. 葡萄牙（欧洲西南部国家）
+    - Portugal [pɔːtʃʊɡl] n. 葡萄牙（欧洲西南部国家）
   - And that's your European weather for today. I'll be back at lunchtime with an update.
 - Presenter: Thank you Fiona, and now ...
 
@@ -3118,7 +3118,7 @@ I've = I have; She's = She has
   - buffet car 餐车
   - luggage [ˈlʌɡɪdʒ] n. 行李；皮箱
 - 2 This is the number 22 for Piccadilly Circus. Next stop Green Park. Stand back from the doors, please.
-  - Piccadilly [,pikə'dili] n. 皮卡迪利大街（伦敦的繁华街道）
+  - Piccadilly [ˌpikə'dili] n. 皮卡迪利大街（伦敦的繁华街道）
   - circus 英 [ˈsɜːkəs]  美 [ˈsɜːrkəs] n. 马戏；马戏团; 复数 circuses
 - 3 Flight BA1536 [one five three six] to New York is now ready for boarding at Gate 58. **Will passengers in rows 12 to 20 please board first. Passengers are reminded to keep their hand luggage with them at all times.**
   - passenger [ˈpæsɪndʒə(r)] n. 旅客；乘客；过路人；碍手碍脚的人; 复数 passengers
