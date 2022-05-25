@@ -56,7 +56,7 @@ The Copyright belongs to the author
     - [T4.1](#t41)
     - [T4.2 A flat to rent](#t42-a-flat-to-rent)
     - [T4.3](#t43)
-    - [T4.4 Prepositions 介词](#t44-prepositions-介词)
+    - [T4.4 Prepositions [ˌprepəˈzɪʃən] 介词](#t44-prepositions-ˌprepəˈzɪʃən-介词)
     - [T4.5 What's in your picture?](#t45-whats-in-your-picture)
     - [T4.6 A new flat](#t46-a-new-flat)
     - [T4.7 /this/that/these/those](#t47-thisthatthesethose)
@@ -138,7 +138,7 @@ The Copyright belongs to the author
     - [Unit 8 TWO EMAILS - Informal and more formal](#unit-8-two-emails---informal-and-more-formal)
   - [Unit 9 City living](#unit-9-city-living)
     - [T9.1 City living](#t91-city-living)
-    - [T9.2 see p70](#t92-see-p70)
+    - [T9.2 Comparative adjective](#t92-comparative-adjective)
     - [T9.3](#t93)
     - [T9.4](#t94)
     - [T9.5 Comparing cities](#t95-comparing-cities)
@@ -164,15 +164,15 @@ The Copyright belongs to the author
     - [T10.10 Social expressions](#t1010-social-expressions)
   - [Unit 11 Going far](#unit-11-going-far)
     - [T11.1 Planning my future](#t111-planning-my-future)
-    - [T11.2 see p87](#t112-see-p87)
+    - [T11.2 Listen and repeat](#t112-listen-and-repeat)
     - [T11.3](#t113-1)
     - [T11.4 Careful! You're going to drop it!](#t114-careful-youre-going-to-drop-it)
-    - [T11.5 see p89](#t115-see-p89)
-    - [T11.6](#t116-1)
+    - [T11.5 We're off to see the world](#t115-were-off-to-see-the-world)
+    - [T11.6 We're off to see the world](#t116-were-off-to-see-the-world)
     - [T11.7 Describing a holiday](#t117-describing-a-holiday)
     - [T11.8 Song: Ed, Will, and Ginger - Oats and beans](#t118-song-ed-will-and-ginger---oats-and-beans)
     - [T11.9 What's the weather like?](#t119-whats-the-weather-like)
-    - [T11.10 see p92](#t1110-see-p92)
+    - [T11.10](#t1110)
     - [T11.11](#t1111)
     - [T11.12 Making suggestions](#t1112-making-suggestions)
     - [T11.13 What shall we do?](#t1113-what-shall-we-do)
@@ -190,11 +190,11 @@ The Copyright belongs to the author
     - [T12.11 Travel announcements](#t1211-travel-announcements)
     - [T12.12](#t1212)
     - [T12.13](#t1213)
-    - [T12.14 see pll7](#t1214-see-pll7)
+    - [T12.14 A poem](#t1214-a-poem)
 
 ## Tape script
 
-New Headway elementary [Student's Book], fourth edition, by Liz and John  Soars, class CD, published and copyright Oxford University Press 2011
+New Headway elementary [Student's Book], fourth edition, by Liz and John  Soars, class CD, published and copyright Oxford University Press 2011 [two thousand and eleven]
 
 ## Unit 1 You and me
 
@@ -760,7 +760,7 @@ On weekdays I usually finish work at 6 o'clock, but sometimes I stay late, until
 
 ### T3.9 Dr Susan Hall - The work-life balance
 
-Of course, work is important for us all, it gives us money to live, it gives structure to our everyday lives. But, for a happy, balanced life, it's also important to 'play' sometimes. It's important to find time to relax with friends and family. It's not good to think about work all the time. I know from my work as a doctor that it's sometimes difficult not to take your work problems home - but if you take your problems home you never relax, and it's difficult for your family, and bad for your health. Don't live to work, work to live! Life is more than work.
+Of course, work is important for us all, it gives us money to live, it gives structure to our everyday lives. But, for a happy, balanced life, it's also important to 'play' sometimes. It's important to find time to relax with friends and family. It's not good to think about work all the time. I know from my work as a doctor that it's sometimes difficult **not to** take your work problems home - but if you take your problems home you never relax, and it's difficult for your family, and bad for your health. **Don't live to work, work to live! Life is more than work.** 不要为了工作而生活，要为了生活而工作!生活比工作更重要。
 
 ### T3.10 Social expressions
 
@@ -811,7 +811,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
   - H Pardon? Can you say that again?
   - D A macchiato. Do you want a macchiato?
   - H Sorry. What is 'a macchiato ?
-  - D lt's a strong white coffee.
+  - D It's a strong white coffee.
   - H Er - yes, OK. Fine. I'll try one. Thank you!
 - 7 H Excuse me! Is this seat free?
   - D Yes, it is. Do sit down if you want.
@@ -828,7 +828,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
   - H All right.
 - 9 A Hi, Hakan! How was your day?
   - H Good, thanks. Really interesting. How about you?
-  - A Oh, not bad. lust another day at work.
+  - A Oh, not bad. Just another day at work.
   - H Well, tomorrow's the weekend.
   - A Yes, thank goodness!
 
@@ -846,14 +846,14 @@ Of course, work is important for us all, it gives us money to live, it gives str
   - cooker
   - fridge
   - table
-  - oven
+  - oven [ˈʌvn] n. 烤炉，烤箱；小熔炉，小窑；（纳粹集中营的）火化室
   - washing machine
 - street
   - bus stop
   - post office
   - cafe
   - pavement [ˈpeɪvmənt] n. <英>人行道；<美>（公路或街道的）硬路面；铺过的表面（地方）；（水平分布的）裸露岩面，砾石滩
-  - chemist's
+  - chemist's ['kemists] n. 药店
   - traffic lights
 
 ### T4.2 A flat to rent
@@ -885,7 +885,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
 - How many bathrooms are there?
 - One.
 - How many armchairs are there?
-- Two. I
+- Two.
 - Are there any pictures?
 - No, there aren't.
 - Are there any bookshelves?
@@ -893,7 +893,7 @@ Of course, work is important for us all, it gives us money to live, it gives str
 - Are there any carpets?
 - No, there aren't.
 
-### T4.4 Prepositions 介词
+### T4.4 Prepositions [ˌprepəˈzɪʃən] 介词
 
 - 1 The flat's in Queen's Road.
 - 2 It's on the first floor.
@@ -949,7 +949,7 @@ Christina What's in my bag? Well, there's my phone, and my purse, of course. I h
 
 - My new flat
 - My new flat is near the centre of town, so I often walk to work. It's not very big, but it's very comfortable! There's just one bedroom, a living room, and quite a big kitchen with a table in the centre. This is good because I love cooking, and I can invite my friends to dinner. The living room has one big window. It faces south, so it's always very sunny. I have two comfortable, old armchairs, but I don't have a sofa because the room is quite small.
-- There isn't a garden, but there's a small balcony in my bedroom. I want to put a chair there so I can sit in the sun on summer evenings.
+- There isn't a garden, but there's a small balcony in my bedroom. I want to put a chair there so I can sit in the sun **on summer evenings**.
   - balcony [ˈbælkəni] n. 露台，阳台；楼座，楼厅
 - I love my new flat for many reasons: the big kitchen, the sunny living room, but most of all I love it because it's my first home!
 
@@ -1054,10 +1054,12 @@ Christina What's in my bag? Well, there's my phone, and my purse, of course. I h
 - 4 'How much is this car?''£9,500' nine thousand five hundred pounds.
 - 5 'just this postcard, please.' 'That's 60p, please.'
 - 5 'Can I have these jeans, please.''Sure, that's $49.'
-- 7 'How much is a return ticket from Paris to Madrid?''€150.'
-- 8 There are about 1.4 dollars to the euro.
+- 7 'How much is a return ticket from Paris to Madrid?''€150.' **A hundred fifty euros.**
+- 8 **There are about 1.4 dollars to the euro.**
 
 ## Unit 5 Super me!
+
+New Headway elementary [Student's Book], fourth edition, by Liz and John  Soars, class CD, published and copyright Oxford University Press 2011 [two thousand and eleven]
 
 ### T5.1 Superman!
 
@@ -1179,6 +1181,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 
 - ['pæbləu] 帕布鲁（西班牙著名画家毕加索的姓）
 - 25 October, 1881 to 8 April, 1973
+  - October the twenty fifth, eighteen eight one to April the eighth, nineteen seventy three
 - A Hey, look at that painting! It's a Picasso!
 - B Oh yes! Fantastic!
 - A Where was Picasso born?
@@ -1195,7 +1198,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 
 ### T5.14 Noun + noun
 
-- 1 A Excuse mel Is there a post office near here?
+- 1 A Excuse me! Is there a post office near here?
   - B Yes. Can you see the bus stop over there?
   - A Yes, I can.
   - B Well, it's next to the bus stop. Near the traffic lights.
@@ -1215,7 +1218,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - 1 A You send a lot of text messages!
   - B I know. My mobile phone is my best friend!
 - 2 A Do you earn a lot of money?
-  - B What a question! Mind your own business!
+  - B **What a question! Mind your own business!**
 - 3 A Do you live on the third floor?
   - B Yes, I have a great view. I can see right over the town.
 - 4 A Do you wear a suit and tie when you go to work?
@@ -1262,7 +1265,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 - 3 A Could I have the menu, please?
   - D Certainly, madam.
 - 4 A Could you tell me the time, please?
-  - E It's 10.30.
+  - E It's 10.30. [ten thirty]
   - A Thanks a lot.
 
 ### T5.18
@@ -1300,7 +1303,7 @@ Cleopatra Stratan is a singer. She was born on October 7th, 2002 in Moldova, nea
 ### T6.2 B HER CHILDHOOD
 
 - see p46
-- Oprah was born on January 29, 1954, in Kosciusko, Mississippi. Her parents were very poor. Her father, Vernon, worked in a **coal mine** and her mother, Vernita, **cleaned houses**. They couldn't **look after** Oprah, so she **lived with** her grandmother, Hattie Mae. Oprah was clever. She could read before she was three. When she was 17, she received a **scholarship to** Tennessee State University, where she studied drama. She also **started reading** the news **at** the local radio station.
+- Oprah was born on January 29, 1954 [January twenty-ninth, nineteen forty-four](https://english.koolearn.com/20131121/792028.html), in Kosciusko, Mississippi. Her parents were very poor. Her father, Vernon, worked in a **coal mine** and her mother, Vernita, **cleaned houses**. They couldn't **look after** Oprah, so she **lived with** her grandmother, Hattie Mae. Oprah was clever. She could read before she was three. When she was 17, she received a **scholarship to** Tennessee State University, where she studied drama. She also **started reading** the news **at** the local radio station.
   - kosciusko [kɔsiˈʌskəu] n. 科修斯科山（位于澳大利亚东南部）
   - Mississippi [ˌmisiˈsipi] n. 密西西比河（美国河流，世界上最大的河流之一）；密西西比州（美国州名）
   - Vernon [ˈvɜːrnən] n. 弗农（男子名）
@@ -1538,7 +1541,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 5 The 29th of February 1976. (The twenty-ninth of February nineteen-seventy-six)
 6 December the nineteenth, 1983. (nineteen-eighty-three)
 7 The third of October, 1999. (nineteen-ninety-nine)
-8 May the 3lst, 2005. (May the thirty-first, two-thousand-five)
+8 May the 3lst, 2005. (May the thirty-first, two thousand and five)
 9 July 15th, 2015. (July the fifteenth, twenty-fifteen)
 
 ### T6.16
@@ -1643,7 +1646,7 @@ watched, interviewed, studied, talked, moved, started, earned, opened
 - A: Yes, I lived with my parents and two sisters in a house near the university. My father worked at the university.
 - F: Oh, how interesting! What was his job? Was he a teacher?
 - A: Yes, he was a professor of psychology.
-  - psychology /saɪˈkɒlədʒi/ n. 心理学;
+  - psychology [saɪˈkɒlədʒi] n. 心理学;
 - F: Really? And what did your mother do?
 - A: She was a doctor. She worked in a hospital.
 - F: So, where did you go to school?
@@ -2039,7 +2042,6 @@ SB p61: WRITING Telling a story p111
 - grated adj. 搓碎的
 - season v. 调味
 
-
 ### T8.8 much or many?
 
 - 1
@@ -2198,7 +2200,7 @@ SB p61: WRITING Telling a story p111
 - Can I have a sandwich?
 - A cup of tea.
 - Could you bring me a smoothie?
-  - [ˈsmuːði] n. 举止文雅的人，八面玲珑的的人，圆滑的人；加奶（或冰淇淋）果汁，奶昔
+  - [ˈsmuːði] n. 举止文雅的人，八面玲珑的的人，圆滑的人；**加奶（或冰淇淋）果汁，奶昔**
 
 ### T8.13 Sounding polite
 
@@ -2248,17 +2250,31 @@ SB p61: WRITING Telling a story p111
 
 ## Unit 9 City living
 
+New Headway elementary [Student's Book], fourth edition, by Liz and John Soars, class CD, published and copyright Oxford University Press 2011 [two thousand and eleven]
+
 ### T9.1 City living
 
 - 1 This city is in the south-east of the country. It's very big, and very old. It's about 50 kilometres from the sea and it's on a famous river, the River Thames
 - 2 This city is in the north and centre of the country. It's about 200 kilometres from the sea and it's on the River Seine. It's one of the most popular tourist destinations in the world.
 
-### T9.2 see p70
+### T9.2 Comparative adjective
+
+- Which do you prefer, London or Paris?
+- Well, I'm from Paris, so of course I love Paris.
+- London's a lot **bigger than** Paris.
+- It's true. Paris is much **smaller**, but it's **more romantic**!
+- Yes, this is what people say.
+- And the food is **better**.
+- Well, I'm not so sure about that ...
 
 ### T9.3
 
 - 1 The Eiffel Tower is taller than the Gherkin.
+  - Gherkin 英国伦敦(London,United Kingdom)的金融城地标建筑“小黄瓜”大楼(Gherkin)
+  - gherkin [ˈɡɜːrkɪn] n. （做泡菜用的）小黄瓜
 - 2 The Underground is more expensive than the Metro.
+  - London Underground - 伦敦地铁
+  - Metro 巴黎地铁
 - 3 Paris is warmer than London.
 - 4 Paris is wetter than London.
 - 5 I think the buildings in Paris are more beautiful.
@@ -2338,14 +2354,16 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 ### T9.9 It's the biggest
 
 - 1 The tallest building in London is Canary Wharf. It's 235 metres.
+  - Canary [kəˈneri] Wharf [wɔːrf] 伦敦金融区金丝雀码头;
 - 2 The most expensive hotel is the Lanesborough. It costs £7,000 per night!
 - 3 The biggest park in central London is Hyde Park. It's 142 hectares.
   - hectare [ˈhekter] n. 公顷（土地丈量单位，等于1万平方米或约2.5英亩）
   - acre [ˈeɪkər] n. 英亩；
 - 4 The most popular tourist attraction is the London Eye. It has 10,000 visitors a day.
+  - tourist attraction 旅游胜地; 旅游景区;
 - 5 The most famous building is Buckingham Palace. Everyone knows who lives there.
   - Buckingham ['bʌkɪŋəm] 白金汉宫
-- 6 The best restaurant for spotting celebrities is The Ivy. They all go there.
+- 6 The best restaurant for **spotting celebrities** is The Ivy. They all go there.
   - spot v. 看见，注意到；（对比赛对手）让分，让步；飘
   - celebrity [səˈlebrəti] n. 名声，名望；名人，明星
 
@@ -2472,7 +2490,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - **Go along** George Street, **past** the Bristol Hotel **on** your left, and **over** the bridge. **At** the **roundabout** turn left and **go up** Park Avenue. **Go round** the corner, **through** the wood, and **down** the hill. Then go under the railway bridge and you are on the A312 to Dorchester.
   - Bristol ['brɪst(ə)l] n. 布里斯托尔（英国西部的港口城市）
   - roundabout [ˈraʊndəbaʊt] n. （交通）环岛，环状交叉路口；（游乐设施）旋转平台，旋转木马（同 merry-go-round）；（公园、学校的）转椅；迂回路线; adj. （说话）迂回的；绕道的；圆形的
-  - avenue /[ævənjuː] n. 大街；林荫大道；[比喻](达到某物的)途径，手段，方法，渠道
+  - avenue [ævənjuː] n. 大街；林荫大道；[比喻](达到某物的)途径，手段，方法，渠道
   - Dorchester ['dɔ:tʃəstə] n. 多尔切斯特（英国英格兰南部城市）
 
 ### T9.13
@@ -2495,10 +2513,10 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T10.1
 
-- 1 'I'm cooking.'
-- 2 'I'm reading the paper.'
-- 3 'I'm watching the football.'
-- 4 'I'm working on my laptop.'
+- 1 I'm cooking.
+- 2 I'm reading the paper.
+- 3 I'm watching the football.
+- 4 I'm working on my laptop.
   - laptop [ˈlæptɒp] n. 膝上型轻便电脑，笔记本电脑; 复数 laptops
 
 ### T10.2 I'm sitting on the train
@@ -2556,7 +2574,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 - 1 Alice is sleeping.
 - 2 Alice and Tony are going to Manchester.
-  - Manchester /ˈmæntʃestə(r)/ n. 曼彻斯特（英格兰西北部一大城市）
+  - Manchester [ˈmæntʃestə(r)] n. 曼彻斯特（英格兰西北部一大城市）
 - 3 Fiona's cooking lunch.
 - 4 Tim's watching a film.
 - 5 Beth's doing her homework.
@@ -2565,6 +2583,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 
 ### T10.6 Who's who?
 
+- who's who 名人录;
 - A Oh, dear! I don't know anybody. Who are they all?
 - B Don't worry. They're all very nice, I'll tell you who everybody is. Can you see that man over there?
 - A The man near the window?
@@ -2624,6 +2643,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - astronaut [ˈæstrənɔːt] n. 宇航员，航天员；太空旅行者
 - I What is JAXA?
 - S JAXA is the Japan Aerospace Exploration Agency.
+  - 日本宇航探索局
 - I What did you study at university?
 - S Well, I studied engineering, of course! aeronautical engineering.
 - I Where did you study? Which university?
@@ -2673,7 +2693,7 @@ Well, I like both London and Paris. But they are very different cities. Take tra
     - fantastic [fænˈtæstɪk] adj. 奇异的；空想的；异想天开的；古怪的；**极好的，极出色的**；不可思议的；不切实际的; n. 古怪的人
     - congratulations [kənˌgrætjʊˈleɪʃənz] n. 祝贺；恭喜；贺词（congratulation的复数形式）
   - A Thanks. We're both very excited. And a bit nervous.
-    - nervous /[nɜːvəs] adj. 神经的；紧张不安的；强健有力的; 比较级 more nervous; 最高级 most nervous
+    - nervous [nɜːvəs] adj. 神经的；紧张不安的；强健有力的; 比较级 more nervous; 最高级 most nervous
 - 2
   - C Can I help you?
   - D No, I'm just looking, thanks.
@@ -2732,7 +2752,12 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - 6 When I retire, I'm going to learn to play golf.
 - 7 When this lesson ends, I'm going to meet my friends for coffee.
 
-### T11.2 see p87
+### T11.2 Listen and repeat
+
+- What's Alan going to do?
+- He's going to relax.
+- What's Jason going to do?
+- He's going to be a racing driver.
 
 ### T11.3
 
@@ -2762,9 +2787,20 @@ Well, I like both London and Paris. But they are very different cities. Take tra
     - int.是interjection的缩写,感叹词
   - bless [bles] vt. 祝福；**保佑**；赞美; n. (Bless)人名；(英、意、德、匈)布莱斯; 过去式 blessed 或blest; 过去分词 blessed 或blest; 现在分词 blessing; 第三人称单数 blesses
 
-### T11.5 see p89
+### T11.5 We're off to see the world
 
-### T11.6
+- see TB P128
+- First we're going to Egypt.
+- Why? To see the pyramids?
+- Well, yes, but also we want to take a cruise down the Nile.
+  - cruise [kruːz] n. 巡游，乘船游览; v. 乘船游览；
+  - Nile [naɪl] n. 尼罗河（位于非洲）
+- Fantastic! Where are you going after that!
+- Well, then we're going to Tanzania to ...
+  - Tanzania [ˌtænzəˈniə] n. 坦桑尼亚（东非国家）
+- Wow! You're going to climb Kilimanjaro!
+
+### T11.6 We're off to see the world
 
 - R=Rob F=Friend B=Becky
 - R First we're going to **Egypt**.
@@ -2829,6 +2865,8 @@ Well, I like both London and Paris. But they are very different cities. Take tra
 - 6
   - A What are they going to do?
   - B They're going to swim, go shopping in the markets, read and relax, and eat in good restaurants.
+  - A They're going to have a great time, aren't they?
+  - B Yes, they really are.
 
 ### T11.8 Song: Ed, Will, and Ginger - Oats and beans
 
@@ -2890,7 +2928,10 @@ Well, I like both London and Paris. But they are very different cities. Take tra
   - And that's your European weather for today. I'll be back at lunchtime with an update.
 - Presenter: Thank you Fiona, and now ...
 
-### T11.10 see p92
+### T11.10
+
+- see p92
+- What's the weather like?
 
 ### T11.11
 
@@ -3151,7 +3192,7 @@ I've = I have; She's = She has
 - A Fine. How many suitcases (have) you (got)?
 - L We haven't got suitcases, just backpacks.
 - A Oh, yes. Can you put them on the scales?
-  - scales /skeilz/ n. 天平；磅秤；鳞屑；缩放
+  - scales [skeilz] n. 天平；磅秤；鳞屑；缩放
 - M Here you are ...
 - A They're fine. And how many **pieces** of hand luggage?
   - piece n. 块；**件**；篇；硬币; vt. 修补；接合；凑合; 过去式 pieced; 过去分词 pieced; 现在分词 piecing; 复数 pieces; 第三人称单数 pieces
@@ -3161,4 +3202,34 @@ I've = I have; She's = She has
 - A To the departure gate and security check they're over there. **Have a nice flight!**
 - M Thanks very much. Goodbye.
 
-### T12.14 see pll7
+### T12.14 A poem
+
+- see P117
+- Why did you leave?
+- When did you leave?
+- I left at four in the (morning).
+- When did you leave?
+- When the house was (asleep).
+- Where have you gone?
+- To a (huge), crowded cify.
+- Where have you gone?
+- To a (place) where no one knows me.
+- What did you take?
+- Somemone money. Not my (mobile phone).
+- What did you take?
+- Not much. Just (memories).
+- How did you travel?
+- By (taxi). By (plane).
+- How did you travel?
+- I travelled alone. I have (always) travelled alone.
+- Why did you leave?
+- Because I wanted to see (the world).
+- Why did vou leave?
+- Because nobody listened. No one has ever listened to me.
+- Why don't they listen?
+- I don't know. I have never (known).
+- Why don't they listen?
+- Because I have very little to (say). 因为我没什么可说的。
+- When are you coming home? 你什么时候回家?
+- When I have become (somebody).
+- Do not wait.
