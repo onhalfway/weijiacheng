@@ -1,9 +1,9 @@
-# UNIT 4 Human Body | Lesson 10 Bones
+# UNIT 4 Human Body | Lesson 11 Wow! That's Tall!
 
 - Focus on Learn about Robert Wadlow, the tallest man in history.
 - <https://youtu.be/P8ZRp9cZSaU>
 
-- [UNIT 4 Human Body | Lesson 10 Bones](#unit-4-human-body--lesson-10-bones)
+- [UNIT 4 Human Body | Lesson 10 Bones](#unit-4-human-body--lesson-11-Wow-That's-Tall)
   - [un-toggle timestamps Transcript](#un-toggle-timestamps-transcript)
   - [toggle timestamps Transcript](#toggle-timestamps-transcript)
 
