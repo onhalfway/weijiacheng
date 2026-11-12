@@ -6,6 +6,11 @@
 
 ## Tape Script
 
+unit one 
+tapescript 1.1 
+hello I'm Paula. hello I'm Josef.
+typescript 1.2 what's
+
 ## Youtube Transcript
 
 - [New Headway Beginner Student's Book 4th :All Units -Full Lessons](https://www.youtube.com/watch?v=tjpWlO_pt0s)
