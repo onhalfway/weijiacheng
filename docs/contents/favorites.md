@@ -411,7 +411,11 @@
 - [SSH Proxy](work/SSH-Proxy.md)
 - [SSH Client Putty](https://www.putty.org/)
   - [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download)
+    - 备用直链：https://dl.bitvise.com/BvSshClient-Inst.exe
+    - 备用镜像 (Amazon S3)：https://s3.amazonaws.com/dl.bitvise.com/BvSshClient-Inst.exe
   - [Bitvise SSH Server](https://www.bitvise.com/ssh-server-download)
+    - 备用直链：https://dl.bitvise.com/BvSshServer-Inst.exe
+    - 备用镜像 (Amazon S3)：https://s3.amazonaws.com/dl.bitvise.com/BvSshServer-Inst.exe
 - [WinSCP](https://winscp.net/eng/index.php)
 - [XShell](https://www.netsarang.com/)
   - https://www.netsarang.com/en/free-for-home-school/
